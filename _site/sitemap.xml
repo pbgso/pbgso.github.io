@@ -9,19 +9,6 @@
   
     
       <url>
-        <loc>https://pbgso.github.io/studentbios/</loc>
-        
-          
-          
-          
-          <priority>1.0</priority>
-          
-        
-       </url>
-    
-  
-    
-      <url>
         <loc>https://pbgso.github.io/speakerbios/</loc>
         
           
@@ -44,6 +31,21 @@
           
         
        </url>
+    
+  
+    
+      <url>
+        <loc>https://pbgso.github.io/studentbios/</loc>
+        
+          
+          
+          
+          <priority>1.0</priority>
+          
+        
+       </url>
+    
+  
     
   
     
