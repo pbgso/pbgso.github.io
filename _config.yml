@@ -12,7 +12,7 @@ url: "https://pbgso.github.io" #or io
 #
 # NB! Without this *nothing* will work, because it's used in every path :)
 
-baseurl: /ucdpbs16
+# baseurl: /ucdpbs16
 
 # Google tracking id to track your visitors
 
