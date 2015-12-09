@@ -45,12 +45,15 @@
             {% else %}
                 <a href="{{site.baseurl}}/#{{ p[1] }}"> {{p[0]}} </a>
             {% endif %}
-            </li>
+
           {% endfor %}
         {% endif %}
-    
-      {% include social-buttons.html %}
 
+  {% for network in site.social %}
+<li>    <a href="{{ network.url }}" target="_blank"><i class="fa fa-{{ network.title }} fa-fw"></i></a> </li>
+  {% endfor %}
+
+       </li>
       </ul>
     </div>
     

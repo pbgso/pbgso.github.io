@@ -1,7 +1,7 @@
 // Variables
 
 $primary: #00cdff;
-$dark: #000;
+$dark: #002855;
 $light: #fff;
 
 $navbar-text-shadow: true;
@@ -11,6 +11,8 @@ $intro-text-color: $light;
 $navbar-color: $light;
 $navbar-lg-collapse-background-color: $header-background-color;
 $navbar-lg-background: transparent;
-$navbar-sm-background-color: $navbar-lg-collapse-background-color;
+$navbar-sm-background-color: $light;
 
 $social-buttons-color: $primary;
+
+$body-bg: #fff;

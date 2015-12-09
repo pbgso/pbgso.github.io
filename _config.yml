@@ -42,7 +42,7 @@ favicon: "/img/kw-sundna.ico"
 
 black-favicon: "/img/kw-sundna-small.ico"
 
-background-img: "../img/intro-bg.jpg"
+background-img: "../img/wiki-pm.jpg"
 
 ##############################
 # Dynamic Text on the Header #
@@ -134,9 +134,7 @@ pages_list:
 
 exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
 
-# Pagination path
 
-paginate_path: "blog/page:num/"
 
 # Enable minification SASS
 
