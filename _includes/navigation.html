@@ -23,12 +23,18 @@
     <!-- Collect the nav links, forms, and other content for toggling -->
     <div class="collapse navbar-collapse navbar-right navbar-main-collapse">
       <ul class="nav navbar-nav">
-        {% if page.section-type == "index" %}
+        {% if page.layout == "index" %}
 
           <!-- Scroll to section for each page in index -->
           {% for p in site.pages_list %}
             <li>
               <a class="page-scroll" href="#{{ p[1] }}"> {{p[0]}} </a>
+            </li>
+          {% endfor %}
+
+          {% for p in site.mpages_list %}
+            <li>
+              <a class="page-scroll" href="{{site.baseurl}}/{{p[1]}}/#{{p[1]}}"> {{p[0]}} </a>
             </li>
           {% endfor %}
 
@@ -41,12 +47,20 @@
                 <a class="page-scroll" href="#page"> {{p[0]}} </a>
               {% else %}
                 <a href="{{site.baseurl}}/blog/"> {{p[0]}} </a>
+
               {% endif %}
             {% else %}
                 <a href="{{site.baseurl}}/#{{ p[1] }}"> {{p[0]}} </a>
+                
             {% endif %}
 
           {% endfor %}
+          {% for p in site.mpages_list %}
+            <li>
+              <a class="page-scroll" href="{{site.baseurl}}/{{p[1]}}/#{{p[1]}}"> {{p[0]}} </a>
+            </li>
+          {% endfor %}
+
         {% endif %}
 
   {% for network in site.social %}

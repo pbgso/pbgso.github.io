@@ -12,30 +12,18 @@
 
     {% include header.html %}
 
-
-  {% assign pages = site.pages | sort:"order" %}
+    {% assign pages = site.pages | sort:"order" %}
 
   {% for page in pages %}
 
-    {% if page.section-type == "speakers" %}
+    {% if page.section-type == "register" %}
 
-      {% include speakers.html %}
-
-    {% elsif page.section-type == "students" %}
-
-      {% include students.html %}
-
-    {% elsif page.section-type == "program" %}
-
-      {% include program.html %}
-
-    {% elsif page.section-type == "abstracts" %}
-
-      {% include abstracts.html %}
+      {% include register.html %}
 
     {% endif %}
 
   {% endfor %}
+
   
     {% include footer.html %}
 

@@ -30,7 +30,7 @@ force-https: True
 
 lang: "en"
 author: "UC Davis Plant Breeding Graduate Student Organization"
-title: "Breeding For Stress: UCDPBS16"
+title: "2016 UC Davis Plant Breeding Symposium: Breeding For Stress Resilience"
 description: "Here goes a description"
 keywords: "uc, davis, plant, breeding"
 favicon: "/img/kw-sundna.ico"
@@ -107,9 +107,8 @@ email: "gmunjal@ucdavis.edu"
 
 social:
   - title: "facebook"
-    url: "https://facebook.com/"
-  - title: "twitter"
-    url: "https://twitter.com/"
+    url: "https://www.facebook.com/UCDavisPlantBreedingSymposium/"
+
 
 ############
 # 404 page #
@@ -127,8 +126,11 @@ pages_list:
   Speakers: 'speakers'
   Students: 'students'
   Program: 'program'
+  Call for abstracts: 'abstracts'
+  
+mpages_list:
   Register: 'register'
-
+  Other symposia: 'symposia'
   
 # Exclusion list from the generated _site
 
