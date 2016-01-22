@@ -33,7 +33,7 @@ author: "UC Davis Plant Breeding Graduate Student Organization"
 title: "2016 UC Davis Plant Breeding Symposium: Breeding For Stress Resilience"
 description: "Here goes a description"
 keywords: "uc, davis, plant, breeding"
-favicon: "/img/kw-sundna.ico"
+favicon: "/favicon.ico"
 404-img: "/img/labtocat.png"
 
 ################
@@ -124,12 +124,13 @@ social:
 
 pages_list:
   Speakers: 'speakers'
-  Students: 'students'
+  Organizers: 'organizers'
   Program: 'program'
-  Call for abstracts: 'abstracts'
+  Register: 'register'
+
   
 mpages_list:
-  Register: 'register'
+  Call for abstracts: 'abstracts'
   Other symposia: 'symposia'
   
 # Exclusion list from the generated _site
