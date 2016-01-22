@@ -181,15 +181,6 @@
     <div class="container">
       <div class="row">
           <div class="col-md-10 col-md-offset-1">
-            <h1 class="brand-heading">&nbsp;</h1>
-            <h1 class="brand-heading">&nbsp;</h1>
-            <span class="intro-text"><!--
-If you want to have a static message in your intro layout, disable the dynamic-typing in the _config.yml and write here your text
--->
-
-
-</span>
-            <h5>&nbsp;</h5>
             <a href="#speakers" class="page-scroll">
               <img class="img-me" src="/img/kw-sundna.png" alt="Watch the webinar!">
             </a>
@@ -378,8 +369,13 @@ table {
 
 
 <div class="ss-footer" style="padding-top:10%;">
-<span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>. This content is neither created nor endorsed by Google.</span>
-</div></td></tr></tbody></table></div></div></div></form></div></div>
+<span></span>
+<br />
+<span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 
+<br />
+<span>This content is neither created nor endorsed by Google.</span>
+</div>
+</td></tr></tbody></table></div></div></div></form></div></div>
 
 
     </div>
@@ -408,7 +404,7 @@ table {
 <footer>
     <div class="container text-center">
     
-      <p>Copyright &copy; UC Davis Plant Breeding Graduate Student Organization 2015</p>
+      <p>Copyright &copy; UC Davis Plant Breeding Graduate Student Organization 2016</p>
       <p>Cover image by Oliver Macdonald </p>
     </div>
 </footer>
@@ -457,56 +453,6 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
 
 
-
-
-
-  <!-- Dynamic Typing Start -->
-
-  <script type="text/javascript" src="/js/typed.js"></script>
-  <script type="text/javascript">
-
-  var myQuotes =  new Array();
-  
-    myQuotes.push("Watch the live webinar!");
-  
-    myQuotes.push("no cute cats .... =[");
-  
-
-  function shuffle(array) {
-    var currentIndex = array.length, temporaryValue, randomIndex ;
-
-    // While there remain elements to shuffle...
-    while (0 !== currentIndex) {
-
-      // Pick a remaining element...
-      randomIndex = Math.floor(Math.random() * currentIndex);
-      currentIndex -= 1;
-
-      // And swap it with the current element.
-      temporaryValue = array[currentIndex];
-      array[currentIndex] = array[randomIndex];
-      array[randomIndex] = temporaryValue;
-    }
-
-    return array;
-  }
-
-  
-    shuffle(myQuotes)
-  
-
-    $(".intro-text").typed({
-                  strings: myQuotes,
-                  typeSpeed: 15,
-                  backDelay: 4000,
-                  startDelay: 200,
-                  loop: true,
-                  loopCount: false,
-                  cursorChar: "|"
-                });
-  </script>
-
-  <!-- Dynamic Typing End  -->
 
 
 

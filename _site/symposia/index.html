@@ -181,14 +181,6 @@
     <div class="container">
       <div class="row">
           <div class="col-md-10 col-md-offset-1">
-            <h1 class="brand-heading">&nbsp;</h1>
-            <h1 class="brand-heading">&nbsp;</h1>
-            <span class="intro-text"><!--
-If you want to have a static message in your intro layout, disable the dynamic-typing in the _config.yml and write here your text
--->
-
-</span>
-            <h5>&nbsp;</h5>
             <a href="#speakers" class="page-scroll">
               <img class="img-me" src="/img/kw-sundna.png" alt="Watch the webinar!">
             </a>
@@ -307,42 +299,40 @@ table {
 
 </head>
 
-<div class="container" style="margin: 10 10; width: 50%; text-align:left;">
+<div class="container" style="margin: 10 10; width: 60%; text-align:left;">
+Our symposium forms part of a series of symposia sponsored by <b>DuPont Pioneer</b>. Below are links to some other symposia in the series.
+<br /><br />
 <table style="width:100% font-size:150%">
+
+
   <tr>
-    <th><h2>Date</h2></th>
-    <th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th> 
-    <th><h2>Venue</h2></th>
+    <td><h5>February 18, 2016</h5></td>
+    <td>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</td> 
+    <td><h5><a href="http://plantbreedingsymposium.com">Texas A &amp; M University</a></h5></td>
   </tr>
 
   <tr>
-    <td><h4>Date</h4></td>
+    <td><h5>April 8, 2016</h5></td>
     <td></td> 
-    <td><h4>A University</h4></td>
+    <td><h5><a href="http://www.plantbreedingsymposium.umn.edu/2016-symposium/">University of Minnesota</a></h5></td>
   </tr>
 
   <tr>
-    <td><h4>Date</h4></td>
+    <td><h5>Date</h5></td>
     <td></td> 
-    <td><h4>B University</h4></td>
+    <td><h5>C University</h5></td>
   </tr>
 
   <tr>
-    <td><h4>Date</h4></td>
+    <td><h5>Date</h5></td>
     <td></td> 
-    <td><h4>C University</h4></td>
+    <td><h5>D University</h5></td>
   </tr>
 
   <tr>
-    <td><h4>Date</h4></td>
+    <td><h5>Date</h5></td>
     <td></td> 
-    <td><h4>D University</h4></td>
-  </tr>
-
-  <tr>
-    <td><h4>Date</h4></td>
-    <td></td> 
-    <td><h4>E University</h4></td>
+    <td><h5>E University</h5></td>
   </tr>
 
 </table>
@@ -370,7 +360,7 @@ table {
 <footer>
     <div class="container text-center">
     
-      <p>Copyright &copy; UC Davis Plant Breeding Graduate Student Organization 2015</p>
+      <p>Copyright &copy; UC Davis Plant Breeding Graduate Student Organization 2016</p>
       <p>Cover image by Oliver Macdonald </p>
     </div>
 </footer>
@@ -419,56 +409,6 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
 
 
-
-
-
-  <!-- Dynamic Typing Start -->
-
-  <script type="text/javascript" src="/js/typed.js"></script>
-  <script type="text/javascript">
-
-  var myQuotes =  new Array();
-  
-    myQuotes.push("Watch the live webinar!");
-  
-    myQuotes.push("no cute cats .... =[");
-  
-
-  function shuffle(array) {
-    var currentIndex = array.length, temporaryValue, randomIndex ;
-
-    // While there remain elements to shuffle...
-    while (0 !== currentIndex) {
-
-      // Pick a remaining element...
-      randomIndex = Math.floor(Math.random() * currentIndex);
-      currentIndex -= 1;
-
-      // And swap it with the current element.
-      temporaryValue = array[currentIndex];
-      array[currentIndex] = array[randomIndex];
-      array[randomIndex] = temporaryValue;
-    }
-
-    return array;
-  }
-
-  
-    shuffle(myQuotes)
-  
-
-    $(".intro-text").typed({
-                  strings: myQuotes,
-                  typeSpeed: 15,
-                  backDelay: 4000,
-                  startDelay: 200,
-                  loop: true,
-                  loopCount: false,
-                  cursorChar: "|"
-                });
-  </script>
-
-  <!-- Dynamic Typing End  -->
 
 
 
