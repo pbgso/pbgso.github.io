@@ -162,6 +162,8 @@
 <li>    <a href="https://www.facebook.com/UCDavisPlantBreedingSymposium/" target="_blank"><i class="fa fa-facebook fa-fw"></i></a> </li>
   
 
+<li>    <a href="/" ><i class="fa fa-home"></i></a></li>
+
        </li>
       </ul>
     </div>
@@ -308,12 +310,20 @@ table {
 
 </head>
 
+<p align="left">
+This year's symposium will provide <b>graduate students and post-docs in plant breeding related fields</b> an opportunity to showcase their work in form of <b>posters</b> (see <a href="/#program">program</a>). Additionally, two graduate students will be competitively chosen to present their work in the form of 20 minute <b>oral presentations</b> (see <a href="/#program">program</a>); <b>post-docs are ineligible for oral presentations</b>. 
+<br /><br />
+To celebrate the 5th year of the student-organized UC Davis Plant Breeding Symposium, we will be offering <b>five $500 travel grants</b> (see <a href="">flyer</a>) to current students. All submitted abstracts will be considered for these travel grants and winners will be competitively chosen. Note: the application deadline to be considered for a travel grant is <b>February 28</b>. Applications received past this deadline (until <b>March 15</b>) will be considered for presentations but not for a travel grant. 
+<br /><br />
+Please complete the form below to submit an abstract (max 300 words). Note, you may apply for both the poster and the oral formats. In case of queries, please write to Gitanshu Munjal (gmunjal at ucdavis dot edu) indicating “UCDPBS16” in the Subject.
+</p>
+
 <div class="container" style="margin: 10 10; width: 50%;">
 <div class="ss-form" style="text-align:left;">
 
 <script type="text/javascript">var submitted=false;</script>
 <iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted)
-{window.location='https://pbgso.github.io/abstract-thanks.html';}"></iframe>
+{window.location='/abstract-thanks.html/#submission-complete';}"></iframe>
 <form action="https://docs.google.com/forms/d/1ryCxzntFWnB5bpIhWNvz2BN-vn_WDaowCaMXSPgHWEw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
 <div class="ss-required-asterisk" aria-hidden="true">* Required</div>
 
@@ -427,7 +437,7 @@ table {
     <div class="container text-center">
     
       <p>Copyright &copy; UC Davis Plant Breeding Graduate Student Organization 2016</p>
-      <p>Cover image by Oliver Macdonald </p>
+      <p>Cover image by <a href="https://commons.wikimedia.org/wiki/File:UncinulaNecatorOnGrapes.jpg">Maccheek</a> </p>
     </div>
 </footer>
 
@@ -475,6 +485,56 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
 
 
+
+
+
+  <!-- Dynamic Typing Start -->
+
+  <script type="text/javascript" src="/js/typed.js"></script>
+  <script type="text/javascript">
+
+  var myQuotes =  new Array();
+  
+    myQuotes.push("Register NOW!");
+  
+    myQuotes.push("Submit an abstract to win a travel grant!");
+  
+
+  function shuffle(array) {
+    var currentIndex = array.length, temporaryValue, randomIndex ;
+
+    // While there remain elements to shuffle...
+    while (0 !== currentIndex) {
+
+      // Pick a remaining element...
+      randomIndex = Math.floor(Math.random() * currentIndex);
+      currentIndex -= 1;
+
+      // And swap it with the current element.
+      temporaryValue = array[currentIndex];
+      array[currentIndex] = array[randomIndex];
+      array[randomIndex] = temporaryValue;
+    }
+
+    return array;
+  }
+
+  
+    shuffle(myQuotes)
+  
+
+    $(".intro-text").typed({
+                  strings: myQuotes,
+                  typeSpeed: 15,
+                  backDelay: 4000,
+                  startDelay: 200,
+                  loop: true,
+                  loopCount: false,
+                  cursorChar: "|"
+                });
+  </script>
+
+  <!-- Dynamic Typing End  -->
 
 
 

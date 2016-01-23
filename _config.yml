@@ -56,8 +56,8 @@ type-speed: 15
 start-delay: 200
 delete-delay: 4000
 lines: # You can add HTML Tags in the Text
-  - text: "Watch the live webinar!"
-  - text: "no cute cats .... =["
+  - text: "Register NOW!"
+  - text: "Submit an abstract to win a travel grant!"
 
 me-img: "/img/kw-sundna.png"
 
