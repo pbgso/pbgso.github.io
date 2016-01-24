@@ -488,56 +488,6 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
 
 
-  <!-- Dynamic Typing Start -->
-
-  <script type="text/javascript" src="/js/typed.js"></script>
-  <script type="text/javascript">
-
-  var myQuotes =  new Array();
-  
-    myQuotes.push("Register NOW!");
-  
-    myQuotes.push("Submit an abstract to win a travel grant!");
-  
-
-  function shuffle(array) {
-    var currentIndex = array.length, temporaryValue, randomIndex ;
-
-    // While there remain elements to shuffle...
-    while (0 !== currentIndex) {
-
-      // Pick a remaining element...
-      randomIndex = Math.floor(Math.random() * currentIndex);
-      currentIndex -= 1;
-
-      // And swap it with the current element.
-      temporaryValue = array[currentIndex];
-      array[currentIndex] = array[randomIndex];
-      array[randomIndex] = temporaryValue;
-    }
-
-    return array;
-  }
-
-  
-    shuffle(myQuotes)
-  
-
-    $(".intro-text").typed({
-                  strings: myQuotes,
-                  typeSpeed: 15,
-                  backDelay: 4000,
-                  startDelay: 200,
-                  loop: true,
-                  loopCount: false,
-                  cursorChar: "|"
-                });
-  </script>
-
-  <!-- Dynamic Typing End  -->
-
-
-
 <script>
 function addTohistory() {
   if (!window.location.host.startsWith("127.0.0.1")) {

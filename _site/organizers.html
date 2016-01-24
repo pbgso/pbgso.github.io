@@ -7,7 +7,7 @@
 	</a>
 
 	<a href="organizerbios/#gitanshu-munjal">
-		<img alt="Gitanshu Munjal" src="img/organizers/mengyuan-fitted.png" />
+		<img alt="Gitanshu Munjal" src="img/organizers/gitanshu-fitted.png" />
 	</a>
 
 	<a href="organizerbios/#ian-thompson">
@@ -30,15 +30,23 @@
 	</a>
 
 	<a href="organizerbios/#jeffrey-ross-ibarra">
-		<img alt="Jeffrey Ross-Ibarra" src="img/organizers/mengyuan-fitted.png" />
+		<img alt="Jeffrey Ross-Ibarra" src="img/organizers/jri-fitted.png" />
 	</a>	
 
 </div>
+
 <script>
 
+if (document.documentElement.clientWidth < 1200){
+	var rowHeight = 250	
+} else {
+	var rowHeight = 300	
+} 
+
 	$('#basicExample3').justifiedGallery({
-    rowHeight : 300,
+    rowHeight : rowHeight,
     lastRow : 'justify',
     margins : 1
 });
 </script>
+

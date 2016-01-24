@@ -17,11 +17,11 @@ title: Speakers
 	</a>
 
 	<a href="speakerbios/#speaker-3">
-		<img alt="Speaker 3" src="img/organizers/mengyuan-fitted.png" />
+		<img alt="Speaker 3" src="img/speakers/jill-farrant-fitted.png" />
 	</a>
 
 	<a href="speakerbios/#speaker-4">
-		<img alt="Speaker 4" src="img/organizers/mengyuan-fitted.png" />
+		<img alt="Speaker 4" src="img/speakers/jill-farrant-fitted.png" />
 	</a>
 
 	<a href="speakerbios/#speaker-5">
@@ -35,9 +35,19 @@ title: Speakers
 </div>
 <script>
 
+if (document.documentElement.clientWidth < 990){
+	var rowHeight = 270	
+} else if(document.documentElement.clientWidth < 645){
+	var rowHeight = 250	
+} else if(document.documentElement.clientWidth > 990){
+	var rowHeight = 350	
+} 
+
 	$('#basicExample2').justifiedGallery({
-    rowHeight : 350,
+    rowHeight : rowHeight,
     lastRow : 'justify',
-    margins : 2
+    margins : 1
 });
 </script>
+
+

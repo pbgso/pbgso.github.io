@@ -271,11 +271,11 @@
 	</a>
 
 	<a href="speakerbios/#speaker-3">
-		<img alt="Speaker 3" src="img/organizers/mengyuan-fitted.png" />
+		<img alt="Speaker 3" src="img/speakers/jill-farrant-fitted.png" />
 	</a>
 
 	<a href="speakerbios/#speaker-4">
-		<img alt="Speaker 4" src="img/organizers/mengyuan-fitted.png" />
+		<img alt="Speaker 4" src="img/speakers/jill-farrant-fitted.png" />
 	</a>
 
 	<a href="speakerbios/#speaker-5">
@@ -289,10 +289,18 @@
 </div>
 <script>
 
+if (document.documentElement.clientWidth < 990){
+	var rowHeight = 270	
+} else if(document.documentElement.clientWidth < 645){
+	var rowHeight = 250	
+} else if(document.documentElement.clientWidth > 990){
+	var rowHeight = 350	
+} 
+
 	$('#basicExample2').justifiedGallery({
-    rowHeight : 350,
+    rowHeight : rowHeight,
     lastRow : 'justify',
-    margins : 2
+    margins : 1
 });
 </script>
 
@@ -325,7 +333,7 @@
 	</a>
 
 	<a href="organizerbios/#gitanshu-munjal">
-		<img alt="Gitanshu Munjal" src="img/organizers/mengyuan-fitted.png" />
+		<img alt="Gitanshu Munjal" src="img/organizers/gitanshu-fitted.png" />
 	</a>
 
 	<a href="organizerbios/#ian-thompson">
@@ -348,14 +356,21 @@
 	</a>
 
 	<a href="organizerbios/#jeffrey-ross-ibarra">
-		<img alt="Jeffrey Ross-Ibarra" src="img/organizers/mengyuan-fitted.png" />
+		<img alt="Jeffrey Ross-Ibarra" src="img/organizers/jri-fitted.png" />
 	</a>	
 
 </div>
+
 <script>
 
+if (document.documentElement.clientWidth < 1200){
+	var rowHeight = 250	
+} else {
+	var rowHeight = 300	
+} 
+
 	$('#basicExample3').justifiedGallery({
-    rowHeight : 300,
+    rowHeight : rowHeight,
     lastRow : 'justify',
     margins : 1
 });
@@ -712,56 +727,6 @@ $(window).scroll(toggleNavCollapse);$(function(){$("a.page-scroll").bind("click"
 
 
 
-
-
-
-  <!-- Dynamic Typing Start -->
-
-  <script type="text/javascript" src="/js/typed.js"></script>
-  <script type="text/javascript">
-
-  var myQuotes =  new Array();
-  
-    myQuotes.push("Register NOW!");
-  
-    myQuotes.push("Submit an abstract to win a travel grant!");
-  
-
-  function shuffle(array) {
-    var currentIndex = array.length, temporaryValue, randomIndex ;
-
-    // While there remain elements to shuffle...
-    while (0 !== currentIndex) {
-
-      // Pick a remaining element...
-      randomIndex = Math.floor(Math.random() * currentIndex);
-      currentIndex -= 1;
-
-      // And swap it with the current element.
-      temporaryValue = array[currentIndex];
-      array[currentIndex] = array[randomIndex];
-      array[randomIndex] = temporaryValue;
-    }
-
-    return array;
-  }
-
-  
-    shuffle(myQuotes)
-  
-
-    $(".intro-text").typed({
-                  strings: myQuotes,
-                  typeSpeed: 15,
-                  backDelay: 4000,
-                  startDelay: 200,
-                  loop: true,
-                  loopCount: false,
-                  cursorChar: "|"
-                });
-  </script>
-
-  <!-- Dynamic Typing End  -->
 
 
 
