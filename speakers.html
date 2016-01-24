@@ -36,18 +36,44 @@ title: Speakers
 <script>
 
 if (document.documentElement.clientWidth < 990){
-	var rowHeight = 270	
+	var rowHeight2 = 270	
 } else if(document.documentElement.clientWidth < 645){
-	var rowHeight = 250	
+	var rowHeight2 = 250	
 } else if(document.documentElement.clientWidth > 990){
-	var rowHeight = 350	
+	var rowHeight2 = 350	
 } 
 
 	$('#basicExample2').justifiedGallery({
-    rowHeight : rowHeight,
+    rowHeight : rowHeight2,
     lastRow : 'justify',
     margins : 1
 });
 </script>
+
+<script>
+
+
+if (document.documentElement.clientWidth < 990){
+
+	if(document.documentElement.clientWidth < 645){
+		
+check		if(document.documentElement.clientWidth < 580){
+		var rowHeight2 = 170
+		
+		} else{var rowHeight2 = 250}	
+
+	} else{var rowHeight2 = 270}	
+
+} else if (document.documentElement.clientWidth > 1200){{var rowHeight2 = 350}} 
+
+	$('#basicExample2').justifiedGallery({
+    rowHeight : rowHeight2,
+    lastRow : 'justify',
+    margins : 1
+});
+</script>
+
+
+
 
 
