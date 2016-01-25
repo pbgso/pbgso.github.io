@@ -32,7 +32,7 @@
   <title>2016 UC Davis Plant Breeding Symposium: Breeding For Stress Resilience </title>
 
   <!-- Bootstrap Core CSS -->
-  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
 
   <!-- Custom CSS -->
   <link href="/css/grayscale.css" rel="stylesheet">
@@ -311,8 +311,8 @@ if (document.documentElement.clientWidth < 990){
 
 	if(document.documentElement.clientWidth < 645){
 		
-check		if(document.documentElement.clientWidth < 580){
-		var rowHeight2 = 170
+		if(document.documentElement.clientWidth < 580){
+		var rowHeight2 = 195
 		
 		} else{var rowHeight2 = 250}	
 
@@ -391,10 +391,19 @@ if (document.documentElement.clientWidth < 1200){
 
 	if(document.documentElement.clientWidth < 720){
 		
-		if(document.documentElement.clientWidth < 580){
-		var rowHeight1 = 170
-		
-		} else{var rowHeight1 = 210}	
+		if(document.documentElement.clientWidth < 569){
+			
+			if(document.documentElement.clientWidth < 415){
+
+					if(document.documentElement.clientWidth < 376){
+								
+						var rowHeight1 = 190		
+	
+					} else{var rowHeight1 = 200}
+	
+			} else{var rowHeight1 = 170}
+			
+		} else{var rowHeight1 = 200}	
 
 	} else{var rowHeight1 = 250}	
 
@@ -429,6 +438,17 @@ if (document.documentElement.clientWidth < 1200){
     <div class="col-md-10 col-md-offset-1">
 
       <h2 id="program">Program</h2>
+<style>
+
+@media(max-width:415px) {
+
+#program{
+margin-left: 2.5%;
+}
+
+}
+
+</style>
 
 <div>
 	<ul style="list-style-type:none;">
@@ -438,7 +458,7 @@ if (document.documentElement.clientWidth < 1200){
 
 
 
-<div class="container" style="margin: 5 5; width: 50%; text-align:left;">
+<div id="program" class="container" style="width: 50%; text-align:left;">
 
 <table style="width:100% font-size:150% ">
 

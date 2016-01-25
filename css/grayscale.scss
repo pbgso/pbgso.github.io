@@ -40,7 +40,7 @@ p {
     margin: 0 0 25px;
     font-size: 18px;
     line-height: 1.5;
-    @media(min-width:768px) {
+    @media(min-width:800px) {
         margin: 0 0 35px;
         font-size: 20px;
         line-height: 1.6;
@@ -128,7 +128,7 @@ a {
             }
         }
     }
-    @media(min-width:768px) {
+    @media(min-width:800px) {
         padding: 20px 0;
         border-bottom: none;
         letter-spacing: 1px;
@@ -139,11 +139,11 @@ a {
         &.top-nav-collapse {
             padding: 0;
             background: $navbar-lg-collapse-background-color;
-            border-bottom: 1px solid rgba($light, 0.3);
+            border-bottom: 0px solid rgba($light, 0.3);
         }
     }
 
-    @media(max-width:1020px) {
+    @media(max-width:1024px) {
     .navbar-brand{
 					  position: fixed;
 					  left: 5%; /* or right 50% */
@@ -151,15 +151,16 @@ a {
 
     			 }
 
-    .navbar-collapse{font-size: 67%; 
-					 margin-top:7%; 
-
-
+    .navbar-collapse{font-size: 90%; 
+					 margin-top:5%;
+				     font-weight: 400; 
     			 }
-    
+    			 
     }
+
+@media(max-height:768px) {.navbar-collapse{font-size: 67%; margin-top:7%;}}			     
     
-    @media(max-width:768px) {
+    @media(max-width:800px) {
     .navbar-brand{font-size: 0; 
 					  position: fixed;
 					  left: 5%; /* or right 50% */
@@ -201,7 +202,7 @@ a {
             }
         }
     }
-    @media(min-width:768px) {
+    @media(min-width:800px) {
         height: 100%;
         padding: 0;
         .intro-body {
@@ -252,7 +253,7 @@ a {
 .content-section {
     margin-top: 100px;
     padding-top: 100px;
-    @media(min-width:767px) {
+    @media(min-width:800px) {
         margin-top: 125px;
         padding-top: 125px;
     }
@@ -424,7 +425,7 @@ body {
       > div {
          background-color: rgba(20, 20, 20, 0.6);
          padding: 10px;
-         @media(min-width:768px) {
+         @media(min-width:800px) {
            padding: 20px 0;
          }
          #hand-swipe {
