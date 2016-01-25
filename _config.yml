@@ -31,8 +31,8 @@ force-https: True
 lang: "en"
 author: "UC Davis Plant Breeding Graduate Student Organization"
 title: "2016 UC Davis Plant Breeding Symposium: Breeding For Stress Resilience"
-description: "Here goes a description"
-keywords: "uc, davis, plant, breeding"
+description: "Register NOW!"
+keywords: "uc, davis, plant, breeding, symposium"
 favicon: "/favicon.ico"
 404-img: "/img/labtocat.png"
 
@@ -79,21 +79,6 @@ icon-192p: "/img/web-app/icon-192p.png"
 
 syntax-highlight: True
 
-############
-# Timeline #
-############
-
-events:
-  - image: "/img/timeline/spidertocat.png"
-    date: "9am"
-    description: "Coffee"
-  - image: "/img/timeline/baracktocat.jpg"
-    date: "10am"
-    description: "Speaker 1"
-
-# First image of the Timeline
-
-timeline-img: "/img/timeline/default.png"
 
 ###########
 # Contact #
