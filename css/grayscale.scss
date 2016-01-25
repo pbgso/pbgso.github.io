@@ -34,11 +34,11 @@ h2:before {
 .img-me {
     z-index: 100;
     left: 0;
-    width: 100px;
-    height: 100px;
+    width: 100%;
+    height: 100%;
     margin-left: 0;
     border: 7px solid #f1f1f1;
-    border-radius: 100%;
+    border-radius: 10%;
     text-align: center;
     color: #fff;
     background-color: #f1f1f1;
