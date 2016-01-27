@@ -112,7 +112,6 @@ pages_list:
   Organizers: 'organizers'
   Program: 'program'
   Register: 'register'
-
   
 mpages_list:
   Call for abstracts: 'abstracts'
