@@ -114,7 +114,7 @@ pages_list:
   Register: 'register'
   
 mpages_list:
-  Call for abstracts: 'abstracts'
+  Poster abstracts: 'abstracts'
   Other symposia: 'symposia'
   
 # Exclusion list from the generated _site
