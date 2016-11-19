@@ -38,6 +38,6 @@
       "density": 4.0
     }
   ],
-  "start_url": "https://pbgso.github.io",
+  "start_url": "http://localhost:4000",
   "display": "standalone"
 }
