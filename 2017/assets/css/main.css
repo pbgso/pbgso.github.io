@@ -2893,7 +2893,7 @@
 			-webkit-flex-direction: row;
 			-ms-flex-direction: row;
 			flex-direction: row;
-			background-color: #2e3450;
+			background-color: #002855;
 		}
 
 			.spotlights > section > .image {
@@ -2912,7 +2912,7 @@
 				}
 
 				.spotlights > section > .image:before {
-					background: rgba(36, 41, 67, 0.9);
+					background: #C99700;
 					content: '';
 					display: block;
 					height: 100%;
@@ -2921,6 +2921,7 @@
 					position: absolute;
 					top: 0;
 					width: 100%;
+					color: #002855;
 				}
 
 			.spotlights > section > .content {
@@ -2955,7 +2956,8 @@
 				-webkit-flex-direction: row-reverse;
 				-ms-flex-direction: row-reverse;
 				flex-direction: row-reverse;
-				background-color: #333856;
+				background-color: #C99700;
+								color: #000000;
 			}
 
 				.spotlights > section:nth-child(2n) > .content {
