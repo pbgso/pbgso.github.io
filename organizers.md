@@ -1,7 +1,7 @@
 ---
 layout: landing
 title: Organizers
-image: assets/images/backgrounds/organizers.jpg
+image: assets/images/backgrounds/organizers.png
 nav-menu: yes
 weight: 2
 ---
