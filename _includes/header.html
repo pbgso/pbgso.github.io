@@ -1,32 +1,43 @@
+<!-- Wrapper -->
+<div id="wrapper">
 
-<!-- Intro Start -->
-
-<header class="intro">
-  <div class="intro-body">
-    <div class="container">
-      <div class="row">
-          <div class="col-md-10 col-md-offset-1">
-        		{% if page.layout != "index" %}
-	        <a class="page-scroll" href="http://plantbreeding2016.ucdavis.edu/pictures/#event-pictures">
-    		    {% else %}
-	        <a class="page-scroll" href="http://plantbreeding2016.ucdavis.edu/pictures/#event-pictures">
-      			{% endif %}
-              <img class="img-me" src="{{site.baseurl}}{{ site.me-img }}" alt="Register NOW!" style="z-index: 100;
-    left: 0;
-    width: 30%;
-    height: 30%;
-    margin-left: 0;
-    border: 3px solid #000000;
-    border-radius: 150%;
-    text-align: center;
-    color: #000;
-    background-color: #f1f1f1;
-">
-            </a>
-          </div>
-        </div>
-    </div>
-  </div>
+<!-- Header -->
+<header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
+	<a href="{{ site.url }}{{ site.baseurl }}" class="logo"><strong>{{ site.title-bold }}</strong> <span>{{ site.title-normal }}</span></a>
+	<nav>
+		<a href="#menu">Menu</a>
+	</nav>
 </header>
 
-<!-- Intro End -->
+<!-- Menu -->
+<nav id="menu">
+	<ul class="links">
+	{% assign pages = site.pages | sort:"weight"  %}
+		{% for page in pages %}
+		    {% if page.layout != "home" %}
+		    {% if page.title  != "Register" %}		    
+		        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
+		    {% endif %}
+		    {% endif %}
+		{% endfor %}
+
+		{% for page in pages %}
+		    {% if page.title == "Register" %}
+			<ul class="actions vertical">
+			<li><a href="/register.html" class="button special fit">Register</a></li>
+			</ul>
+		    {% endif %}
+		{% endfor %}		
+
+			<ul class="actions vertical">
+			<li><a href="https://www.facebook.com/UCDavisPlantBreedingSymposium" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
+			</ul>
+
+        {% for page in pages %}
+		    {% if page.layout == "home" %}
+		        <li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
+	    	{% endif %}
+		{% endfor %}
+
+	</ul>
+</nav>

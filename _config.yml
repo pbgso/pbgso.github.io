@@ -1,133 +1,51 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole blog, values
+# which you are expected to set up once and rarely need to edit after that.
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-
-# NB! Set your site's url, otherwise stuff will break :)
-
-url: "https://pbgso.github.io" #or io
-
-# If you're hosting your site at a Project repository on GitHub pages
-# (https://yourusername.github.io/repository-name)
-# and NOT your user repository (https://yourusername.github.io)
-# then add in the baseurl here, like this: "/repository-name"
-#
-# NB! Without this *nothing* will work, because it's used in every path :)
-
-# baseurl: /ucdpbs16
-
-# Google tracking id to track your visitors
-
-google-tracking-id: ""
-
-# Forces https everywhere in your website, except when you serve it locally
-# If you are not hosted on Github Pages, and your host doesn't support https
-# then you should disable it
+title-bold: "#UCDPSS17"
+title-normal: 
+email: gmunjal@ucdavis.edu
+description: ""
+baseurl: "" # the subpath of your site, e.g. /blog
+url: "http://pbgso.github.io" # the base hostname & protocol for your site
+author: Gitanshu Munjal
+street_address: UC Davis Conference Center
+city: Davis
+state: CA
+zip_code: 95616
+country: United States of America
+phone: 
 
 force-https: True
 
-#############
-# HTML Head #
-#############
-
-lang: "en"
-author: "UC Davis Plant Breeding Graduate Student Organization"
-title: "2016 UC Davis Plant Breeding Symposium: Breeding For Stress Resilience"
-description: "Register NOW!"
-keywords: "uc, davis, plant, breeding, symposium"
-favicon: "/favicon.ico"
-404-img: "/img/labtocat.png"
-
-################
-# Header layout #
-################
-
-black-favicon: "/img/kw-sundna-small.ico"
-
-background-img: "../img/wiki-pm.jpg"
-
-##############################
-# Dynamic Text on the Header #
-##############################
-
-dynamic-typing: False
-shuffle: True # Shuffle the lines.
-loop: True
-loop-count: False # Set False for infinite loop, or set any number for finite loop.
-type-speed: 15
-start-delay: 200
-delete-delay: 4000
-lines: # You can add HTML Tags in the Text
-  - text: "Register NOW!"
-  - text: "Submit an abstract to win a travel grant!"
-
-me-img: "/img/kw-sundna.png"
-
-################
-# Web app mode #
-################
-
-web-app-mode: True
-
-# Icons for Web App mode
-
-icon-36p: "/img/web-app/icon-36p.png"
-icon-48p: "/img/web-app/icon-48p.png"
-icon-72p: "/img/web-app/icon-72p.png"
-icon-96p: "/img/web-app/icon-96p.png"
-icon-144p: "/img/web-app/icon-144p.png"
-icon-192p: "/img/web-app/icon-192p.png"
-
-
-syntax-highlight: True
-
-
-###########
-# Contact #
-###########
-
-email: "gmunjal@ucdavis.edu"
-
-##################
-# Social Buttons #
-##################
-
-social:
-  - title: "facebook"
-    url: "https://www.facebook.com/UCDavisPlantBreedingSymposium/"
-
-
-############
-# 404 page #
-############
-
-404-img: "/img/labtocat.png"
-
-################################################################################
-
-# NB! Tread carefully if you want to change the variables below this point!
-
-# Sections shown in the index page
-
-pages_list:
-  Speakers: 'speakers'
-  Organizers: 'organizers'
-  Program: 'program'
-  Register: 'register'
-  
-mpages_list:
-  Poster abstracts: 'abstracts'
-  Other symposia: 'symposia'
-  
-# Exclusion list from the generated _site
-
-exclude: ["LICENSE", "README.md", "CONTRIBUTING", "CONTRIBUTORS", "scripts"]
-
-
-
-# Enable minification SASS
-
-sass:
-  style: compressed
-
+# Plugins
 gems:
-  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
   - jemoji
+
+# Homepage tiles
+tiles-source: pages # accepts "posts" or "pages" 
+tiles-count: 6
+
+# Social settings
+500px_url: 
+facebook_url: 
+
+# Build settings
+markdown: kramdown
+
+# Plugin: jekyll-seo-tag
+twitter:
+  username:
+# Add one or more of the following
+facebook:
+  app_id: 
+  publisher: 
+  admins: 
+logo:
+google_site_verification: 
