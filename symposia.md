@@ -33,33 +33,60 @@ image: assets/images/backgrounds/symposia.jpg
 <th>&nbsp;</th>
 </tr>
 </thead>
+
 <tbody>
+
 <tr>
-<td>Item1</td>
-<td>Ante turpis integer aliquet porttitor.</td>
+<td><a href="http://mupioneersymposium.org/">University of Missouri</a></td><td>February 2</td>
 </tr>
+
 <tr>
-<td>Item2</td>
-<td>Vis ac commodo adipiscing arcu aliquet.</td>
+<td><a href="http://plantbreedingsymposium.com/">Texas A&amp;M University</a></td><td>February 16</td>
 </tr>
+
 <tr>
-<td>Item3</td>
-<td> Morbi faucibus arcu accumsan lorem.</td>
+<td>University of Minnesota Production Agriculture Symposium</a></td><td>February 24</td>
 </tr>
+
 <tr>
-<td>Item4</td>
-<td>Vitae integer tempus condimentum.</td>
+<td><a href="http://www.plantbreeding.iastate.edu/Current_Symposium/Symposium_Main.html">Iowa State University</a></td><td>March 3</td>
 </tr>
+
 <tr>
-<td>Item5</td>
-<td>Ante turpis integer aliquet porttitor.</td>
+<td>Cornell University</a></td><td>March 10</td>
 </tr>
+
+<tr>
+<td>University of Nebraska -&nbsp;Lincoln</a></td><td>March 14</td>
+</tr>
+
+<tr>
+<td><a href="http://cahnrs.wsu.edu/pioneeringideas2017/">Washington State University</a></td><td>March 17</td>
+</tr>
+
+<tr>
+<td><a href="http://plantsciencesymposium.umn.edu/">University of Minnesota</a></td><td>March 23-24</td>
+</tr>
+
+<tr>
+<td><a href="http://www.ufplants.org">University of Florida</a></td><td>April 13</td>
+</tr>
+
+<tr>
+<td>University of Georgia</a></td><td>May 9</td>
+</tr>
+
+<tr>
+<td>University of California - Berkeley</a></td><td>May 30&nbsp;</td>
+</tr>
+
+<tr>
+<td>University of Paris -&nbsp;Moulon</a></td><td>June 15</td>
+</tr>
+
 </tbody>
 </table>
+
 </div>
 </h6>
-
-
-
-</section>
 </div>

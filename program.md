@@ -19,8 +19,9 @@ image: assets/images/backgrounds/program.jpg
 
 <!-- Content -->
 <!-- Table -->
-<center><h6>Monday, April 24th 2017</center>
+<center><h6> Monday, April 24th 2017 </h6></center>
 
+<h6>
 <center>
 <a style="color:#c99700;" href="https://cru.ucdavis.edu/content/339-location-amp-contact.htm">UC Davis Conference Center</a>
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
@@ -62,7 +63,7 @@ image: assets/images/backgrounds/program.jpg
 
 
 <p style="text-align: left;"><i> - Lunch and memorabilia provided to first 200 registrants</i></p>
+</h6>
 
-
-</section>
+</div>
 </div>

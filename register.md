@@ -54,8 +54,8 @@ weight: 4
 
 		<div class="6u 12u$(xsmall)" style="width:30%;">
 			<input type="text" name="entry.1356326921"  id="entry_1356326921"  dir="auto" value="" placeholder="Affiliation" aria-required="true" required=""/>
-			 <div class="error-message" id="1017698193_errorMessage"></div>		
-
+			 <div class="error-message" id="1017698193_errorMessage">
+			 </div>		
 		</div>
 		
 		<br>	
@@ -71,13 +71,13 @@ weight: 4
 		</div>
 		
 		
-<input type="hidden" name="draftResponse" value="[,,&quot;-8581119601586225311&quot;]" style="color:#000" />
-<input type="hidden" name="pageHistory" value="0" />
+			<input type="hidden" name="draftResponse" value="[,,&quot;-8581119601586225311&quot;]" style="color:#000" />
+			<input type="hidden" name="pageHistory" value="0" />
 
-<input type="hidden" name="fvv" value="0" /> 		
+			<input type="hidden" name="fvv" value="0" /> 		
  		
-<input type="hidden" name="fbzx" value="-8581119601586225311" /> 			
- </div>	
+			<input type="hidden" name="fbzx" value="-8581119601586225311" /> 			
+	 </div>	
  	
   <br>
  <span>* Lunch provided with in-person registration </span>
@@ -101,5 +101,3 @@ weight: 4
 
 </div>
 </section>
-
-</div>
