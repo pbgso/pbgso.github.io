@@ -45,7 +45,7 @@ image: assets/images/backgrounds/symposia.jpg
 </tr>
 
 <tr>
-<td>University of Minnesota Production Agriculture Symposium</a></td><td>February 24</td>
+<td>University of Minnesota Production Agriculture Symposium</td><td>February 24</td>
 </tr>
 
 <tr>
@@ -53,11 +53,11 @@ image: assets/images/backgrounds/symposia.jpg
 </tr>
 
 <tr>
-<td>Cornell University</a></td><td>March 10</td>
+<td>Cornell University</td><td>March 10</td>
 </tr>
 
 <tr>
-<td>University of Nebraska -&nbsp;Lincoln</a></td><td>March 14</td>
+<td>University of Nebraska -&nbsp;Lincoln</td><td>March 14</td>
 </tr>
 
 <tr>
@@ -73,15 +73,15 @@ image: assets/images/backgrounds/symposia.jpg
 </tr>
 
 <tr>
-<td>University of Georgia</a></td><td>May 9</td>
+<td>University of Georgia</td><td>May 9</td>
 </tr>
 
 <tr>
-<td>University of California - Berkeley</a></td><td>May 30&nbsp;</td>
+<td>University of California - Berkeley</td><td>May 30&nbsp;</td>
 </tr>
 
 <tr>
-<td>University of Paris -&nbsp;Moulon</a></td><td>June 15</td>
+<td>University of Paris -&nbsp;Moulon</td><td>June 15</td>
 </tr>
 
 </tbody>
