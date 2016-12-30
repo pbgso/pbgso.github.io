@@ -14,7 +14,7 @@
 	<ul class="links">
 	{% assign pages = site.pages | sort:"weight"  %}
 		{% for page in pages %}
-		    {% if page.layout != "home" %}
+		    {% if page.layout == "page" %}
 		    {% if page.title  != "Register" %}		    
 		        <li><a href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a></li>
 		    {% endif %}
