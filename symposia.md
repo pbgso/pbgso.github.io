@@ -2,6 +2,7 @@
 layout: page
 title: Symposia Series
 weight: 5
+nav-menu: yes
 image: assets/images/backgrounds/symposia.jpg
 ---
 

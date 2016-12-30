@@ -2,6 +2,7 @@
 layout: page
 title: Program
 weight: 2
+nav-menu: yes
 image: assets/images/backgrounds/program.jpg
 ---
 

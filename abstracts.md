@@ -2,6 +2,7 @@
 layout: page
 title: Call for abstracts
 image: assets/images/backgrounds/abstracts.jpg
+nav-menu: yes
 weight: 4
 ---
 

@@ -3,7 +3,7 @@ layout: home
 title: Home
 landing-title: "2017 UC Davis Plant Science Symposium"
 description:
-weight: 5 
+weight: 6 
 image: assets/images/banner.jpeg
 author: 
 nav-menu: 

@@ -2,6 +2,7 @@
 layout: page
 title: Register
 image: assets/images/backgrounds/register.jpg
+nav-menu: yes
 weight: 3
 ---
 
