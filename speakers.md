@@ -48,111 +48,16 @@ weight: 2
 	</section>
 
 	<section>
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/speakers/mh.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rhoncus magna</h3>
+					<h3>Maureen Hanson</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Dr. Maureen Hanson is Liberty Hyde Bailey Professor in the Department of Molecular Biology and Genetics at Cornell University, which she joined after an assistant professorship at the University of Virginia, Charlottesville. She has a diverse research program that includes the mechanism of RNA editing in plant organelles, the formation and function of chloroplast stromules, and improving photosynthesis through Rubisco engineering and synthetic biology. Earlier her lab was the first to identify both a single mitochondrial gene causing cytoplasmic male sterility and a single dominant nuclear gene encoding fertility restoration in the same species. Her recognitions include the Lawrence Bogorad Award from the American Society of Plant Biologists, the SUNY Chancellor’s Award for Faculty Service, the Cornell College of Agricultural and Life Sciences Award for Outstanding Accomplishments in Basic Research, and she is a Fellow of the American Association for the Advancement of Science. She has previously served as the Director of the NSF/DOE/USDA Cornell Plant Science Center and Training Group in Plant Molecular Biology. She was one of the founders of the International Society for Plant Molecular Biology and is currently Chair of the 2019 Gordon Conference on Chloroplast Biotechnology.</p>
 			</div>
 		</div>
 	</section>
 
-	<section>
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-
-	<section>
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-	
-		<section>
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-
-	<section>
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-	
-		<section>
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-
-	<section>
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-	
-		<section>
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Orci maecenas</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
-
-	<section>
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Rhoncus magna</h3>
-				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
-			</div>
-		</div>
-	</section>
 </section>
 </div>

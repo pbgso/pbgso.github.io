@@ -29,7 +29,7 @@ weight: 4
  
  <iframe name="hidden_iframe" id="hidden_iframe"		
  style="display:none;" onload="if(submitted)		
- {window.location='/thanks/#thanks';}">
+ {window.location='/thanks/';}">
  </iframe>	
  	
  <form action="https://docs.google.com/forms/d/1OZCAsOzpcwbW8-6Wuez7CV3g0Zw49Qcrj2Dw-XjElWA/formResponse" method="post"		
@@ -86,18 +86,10 @@ weight: 4
  <div class="ss-item ss-navigate">
 	<span class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">		
 	<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">	
-</div>
+    </div>
 	
 
 <br><br>	
 <span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
 <br>
 <span>This content is neither created nor endorsed by Google.</span>		
-
-
-</form>
-
-
-
-</div>
-</section>

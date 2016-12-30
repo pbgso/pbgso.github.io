@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Symposia Series
-weight: 3
+weight: 6
 image: assets/images/backgrounds/symposia.jpg
 ---
 

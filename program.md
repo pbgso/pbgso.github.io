@@ -37,26 +37,87 @@ image: assets/images/backgrounds/program.jpg
 			</tr>
 		</thead>
 		<tbody>
-			<tr>
-				<td>Item1</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-			</tr>
-			<tr>
-				<td>Item2</td>
-				<td>Vis ac commodo adipiscing arcu aliquet.</td>
-			</tr>
-			<tr>
-				<td>Item3</td>
-				<td> Morbi faucibus arcu accumsan lorem.</td>
-			</tr>
-			<tr>
-				<td>Item4</td>
-				<td>Vitae integer tempus condimentum.</td>
-			</tr>
-			<tr>
-				<td>Item5</td>
-				<td>Ante turpis integer aliquet porttitor.</td>
-			</tr>
+
+<tr>
+<td>08:10</td>
+<td>Registration</td>
+</tr>
+
+<tr>
+<td>08:40</td>
+<td>Tabare Abadie</td>
+</tr>
+
+<tr>
+<td>09:00</td>
+<td> Speaker 1</td>
+</tr>
+
+<tr>
+<td>09:40</td>
+<td>Speaker 2</td>
+</tr>
+
+<tr>
+<td>10:20</td>
+<td>Poster Access</td>
+</tr>
+
+<tr>
+<td>10:50</td>
+<td>Speaker 3</td>
+</tr>
+
+<tr>
+<td>11:30</td>
+<td>Student Speaker</td>
+</tr>
+
+<tr>
+<td>11:50</td>
+<td>Student Speaker</td>
+</tr>
+
+<tr>
+<td>12:10</td>
+<td>Lunch</td>
+</tr>
+
+<tr>
+<td>13:00</td>
+<td>Speaker 4</td>
+</tr>
+
+<tr>
+<td>13:40</td>
+<td>Lightning Talks</td>
+</tr>
+
+<tr>
+<td>14:20</td>
+<td>Speaker 5</td>
+</tr>
+
+<tr>
+<td>15:00</td>
+<td>Poster Access</td>
+</tr>
+
+<tr>
+<td>15:30</td>
+<td>Student 3</td>
+</tr>
+
+<tr>
+<td>15:50</td>
+<td>Student 4</td>
+</tr>
+
+<tr>
+<td>16:10</td>
+<td>Speaker 6</td>
+</tr>
+
 		</tbody>
 	</table>
 </div>
