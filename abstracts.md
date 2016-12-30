@@ -2,7 +2,7 @@
 layout: page
 title: Call for abstracts
 image: assets/images/backgrounds/abstracts.jpg
-weight: 5
+weight: 4
 ---
 
 <!-- Main -->

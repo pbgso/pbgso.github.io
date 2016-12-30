@@ -2,7 +2,7 @@
 layout: page
 title: Register
 image: assets/images/backgrounds/register.jpg
-weight: 4
+weight: 3
 ---
 
 <!-- Main -->

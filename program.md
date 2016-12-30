@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Program
-weight: 3
+weight: 2
 image: assets/images/backgrounds/program.jpg
 ---
 

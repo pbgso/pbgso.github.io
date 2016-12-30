@@ -1,9 +1,9 @@
 ---
-layout: landing
+layout: page
 title: Organizers
 image: assets/images/backgrounds/organizers.jpg
 nav-menu: yes
-weight: 2
+weight: 1
 ---
 
 <!-- Banner -->
@@ -133,7 +133,7 @@ I obtained my PhD in molecular biology at the University of Angers (France). I w
 	</section>
 
 	<section>
-			<img src="assets/images/students/scott.jpg" alt="" data-position="top center" />
+			<img src="assets/images/students/scott.JPG" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
