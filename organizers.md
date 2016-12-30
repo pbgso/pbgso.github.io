@@ -3,7 +3,7 @@ layout: landing
 title: Organizers
 image: assets/images/backgrounds/organizers.jpg
 nav-menu: yes
-weight: 1
+weight: 2
 ---
 
 <!-- Banner -->

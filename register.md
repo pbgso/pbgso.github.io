@@ -86,7 +86,7 @@ weight: 4
  <div class="ss-item ss-navigate">
 	<span class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">		
 	<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">	
-    </div>
+</div>
 	
 
 <br><br>	
