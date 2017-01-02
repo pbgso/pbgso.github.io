@@ -78,7 +78,6 @@ weight: 3
 			<input type="hidden" name="fvv" value="0" /> 		
  		
 			<input type="hidden" name="fbzx" value="-8581119601586225311" /> 			
-
  	
   <br>
  <span>* Lunch provided with in-person registration </span>
@@ -87,10 +86,20 @@ weight: 3
  <div class="ss-item ss-navigate">
 	<span class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">		
 	<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">	
-</div>
+ 
 	
 
 <br><br>	
 <span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
 <br>
 <span>This content is neither created nor endorsed by Google.</span>	
+</div>
+</div>
+</form>
+
+
+
+</div>
+</section>
+
+</div>
