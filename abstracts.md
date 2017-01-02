@@ -30,7 +30,7 @@ Please complete the form below to submit an abstract (max 300 words). Note, you 
 <!-- Form -->
 
 <script type="text/javascript">var submitted=false;</script>
-<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted){window.location='/abstract-thanks/';}"></iframe>
+<iframe name="hidden_iframe" id="hidden_iframe" style="display:none;" onload="if(submitted){window.location='/abstract-thanks.html';}"></iframe>
 <form action="https://docs.google.com/forms/d/1ryCxzntFWnB5bpIhWNvz2BN-vn_WDaowCaMXSPgHWEw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">
 
 	<div class="row uniform">

@@ -3,7 +3,7 @@ layout: page
 title: Speakers
 image: assets/images/backgrounds/speakers.jpg
 nav-menu: yes
-weight: 0
+weight: 1
 ---
 
 <!-- Banner -->

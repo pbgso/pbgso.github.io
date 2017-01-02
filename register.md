@@ -30,7 +30,7 @@ weight: 3
  
  <iframe name="hidden_iframe" id="hidden_iframe"		
  style="display:none;" onload="if(submitted)		
- {window.location='/thanks/';}">
+ {window.location='/thanks.html';}">
  </iframe>	
  	
  <form action="https://docs.google.com/forms/d/1OZCAsOzpcwbW8-6Wuez7CV3g0Zw49Qcrj2Dw-XjElWA/formResponse" method="post"		
@@ -71,14 +71,14 @@ weight: 3
 			</div>
 		</div>
 		
-		
+	
 			<input type="hidden" name="draftResponse" value="[,,&quot;-8581119601586225311&quot;]" style="color:#000" />
 			<input type="hidden" name="pageHistory" value="0" />
 
 			<input type="hidden" name="fvv" value="0" /> 		
  		
 			<input type="hidden" name="fbzx" value="-8581119601586225311" /> 			
-	 </div>	
+
  	
   <br>
  <span>* Lunch provided with in-person registration </span>
@@ -93,4 +93,4 @@ weight: 3
 <br><br>	
 <span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
 <br>
-<span>This content is neither created nor endorsed by Google.</span>		
+<span>This content is neither created nor endorsed by Google.</span>	
