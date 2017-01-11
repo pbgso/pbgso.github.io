@@ -82,6 +82,18 @@ nav-menu:
 
 <article>
 <span class="image">
+<img src="assets/images/backgrounds/abstracts.jpg" alt="" />
+</span>
+<header class="major">
+<h3><a href="/abstracts.html" class="link">Call for abstracts</a></h3>
+<p></p>
+</header>
+</article>
+
+
+
+<article>
+<span class="image">
 <img src="assets/images/backgrounds/symposia.jpg" alt="" />
 </span>
 <header class="major">
@@ -92,15 +104,6 @@ nav-menu:
 
 
 
-<article>
-<span class="image">
-<img src="assets/images/backgrounds/abstracts.jpg" alt="" />
-</span>
-<header class="major">
-<h3><a href="/abstracts.html" class="link">Call for abstracts</a></h3>
-<p></p>
-</header>
-</article>
 
 
 </section>

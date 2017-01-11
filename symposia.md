@@ -3,7 +3,7 @@ layout: page
 title: Symposia Series
 image: assets/images/backgrounds/symposia.jpg
 nav-menu: yes
-weight: 4
+weight: 5
 ---
 
 <!-- Main -->

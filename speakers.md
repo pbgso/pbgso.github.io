@@ -36,7 +36,7 @@ weight: 1
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-			<img src="assets/images/speakers/rb.jpg" alt="" data-position="center center" />
+<img src="assets/images/speakers/rb.jpg"  style="width:30%;" alt="" data-position="center center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -48,7 +48,7 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/mh.jpg" alt="" data-position="top center" />
+			<img src="assets/images/speakers/mh.jpg"  style="width:30%;" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
