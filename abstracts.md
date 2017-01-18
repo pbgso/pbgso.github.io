@@ -20,9 +20,9 @@ weight: 4
 		</center>
 
 <!-- Content -->
-<p style="color:#002285;">This year's symposium will provide <b>graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in form of <b>posters</b> (see <a href="/program.html">program</a>). Additionally, four graduate students will be competitively chosen to present their work in the form of 20 minute <b>oral presentations</b> (see <a href="/program.html">program</a>); <b>post-docs are ineligible for oral presentations</b>. 
+<p style="color:#002285;">This year's symposium will provide <b>graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in form of <b>posters</b> (see <a href="/program.html">program</a>). Additionally, four presenters will be competitively chosen to present their work in the form of 20 minute <b>oral presentations</b> (see <a href="/program.html">program</a>). 
 <br><br>
-We will be offering <b>five $500 travel grants</b> to current students. All submitted abstracts will be considered for these travel grants and winners will be competitively chosen. Note: the application deadline to be considered for a travel grant is <b>February 28</b>. Applications received past this deadline (until <b>March 15</b>) will be considered for presentations but not for a travel grant. 
+We will be offering <b>four $500 travel grants</b> to current students. All submitted abstracts will be considered for these travel grants and winners will be competitively chosen. Note: the application deadline to be considered for a travel grant is <b>February 28</b>. Applications received past this deadline (until <b>March 15</b>) will be considered for presentations but not for a travel grant. 
 <br><br>
 Please complete the form below to submit an abstract (max 300 words). Note, you may apply for both the poster and the oral formats. In case of queries, please write to Gitanshu Munjal (gmunjal (at) ucdavis (dot) edu) indicating “UCDPSS17” in the Subject.
 
