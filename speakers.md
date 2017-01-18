@@ -63,13 +63,14 @@ weight: 1
 	</section>
 
     <section>
-            <img src="assets/images/speakers/ct.jpeg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/ct.jpg" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
                     <h3>Christopher Topp</h3>
                 </header>
-                <p></p>
+                <p>Christopher Topp is an Assistant Investigator at the Donald Danforth Plant Science Center (since 2013), a non-profit plant science research institute. For the past fifteen years, Dr. Topp has studied fundamental processes, both small and large, that drive the growth and productivity of crop plants. Originally trained as a centromere biologist at the University of Georgia (PhD; 2003-2009), he studied the biochemistry and evolution of cell division machinery in maize and oats. As a USDA-NIFA postdoctoral scholar (2011-2013) at Duke University (2009-2013), he led a team of engineers, computer scientists, and biologists in the development of a 3D root imaging and analysis pipeline, which was used to map regions of the rice genome controlling root growth. His current research focuses on subterranean phenotyping in multiple crop species, as well as identifying the environmental and genetic factors that condition their growth. By integrating these efforts with natural variation and modern genomics, he aims to contribute to the development of new crop varieties with root systems capable of drought tolerance and efficient nutrient uptake. His team at the Danforth Center continues to develop technologies and infrastructure that enable the analysis of the ‘hidden half’ of plants.
+                </p>
             </div>
         </div>
     </section>
@@ -100,12 +101,64 @@ weight: 1
 </section>
 
 <!-- Three -->
-<section id="one">
-<div class="inner">
-<header class="major">
-<h1 style="color:#ffffff;"> UC-Davis Faculty Spotlight</h1>
-</header>
-</div>
+<section id="three">
+    <div class="inner">
+        <header class="major">
+            <h1 style="color:#ffffff;"> UC-Davis Faculty Spotlight</h1>
+        </header>
+    </div>
 </section>
+
+<!-- Four -->
+
+<section id="four" class="spotlights">
+
+    <section>
+        <img src="assets/images/speakers/dr.jpg" alt="" data-position="center center"/>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                    <h3>Daniel Runcie</h3>
+                    </header>
+                    <p></p>
+                </div>
+            </div>
+    </section>
+
+    <section>
+        <img src="assets/images/speakers/fz.jpg" alt="" data-position="center center"/>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                    <h3>Florence Zakharov</h3>
+                    </header>
+                    <p></p>
+                </div>
+            </div>
+    </section>
+
+    <section>
+        <img src="assets/images/speakers/sb.jpg" alt="" data-position="center center"/>
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                    <h3>Siobhan Brady</h3>
+                    </header>
+                    <p>Siobhan Brady received her PhD at the University of Toronto in 2005, and was a Natural Sciences and Engineering Research Council of Canada Postdoctoral Fellow at Duke University from 2005 – 2008. In 2009 she began an Assistant Professor Position and became an Associate Professor in 2015 at the University of California, Davis in the Department of Plant Biology and in the Genome Center. In 2016 she was named as a Howard Hughes Medical Institute Faculty Research Scholar. Research in the Brady lab focuses on the global regulation of gene expression and its contribution to root morphology and development in Arabidopsis thaliana, Solanum species, Sorghum bicolor and maize.</p>
+                </div>
+            </div>
+    </section>
+
+    <section>
+        <img src="assets/images/speakers/ar.jpg" alt="" data-position="top center" />
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                    <h3>Alan Rose</h3>
+                    </header>
+                    <p></p>
+                </div>
+            </div>
+    </section>
 
 </div>
