@@ -83,6 +83,8 @@ weight: 1
                 <header class="major">
                     <h3>Sean Myles</h3>
                 </header>
+                    <p>Sean Myles is an Assistant Professor at Dalhousie University. His group is dedicated to preserving biodiversity in agriculture.  They maintain over 1000 apple varieties in our Apple Biodiversity Collection, which includes not only well-known dessert and cider apples, but also long lost heirloom varieties and even wild apples from the forests of Central Asia.  They study the tremendous natural diversity of apples and are figuring out ways to breed new apple varieties that are tasty and require less chemical input to grow.
+                    </p>
             </div>
         </div>
     </section>
@@ -93,18 +95,34 @@ weight: 1
             <div class="inner">
                 <header class="major">
                     <h3>Sarah Hearne</h3>
-                </header>
+                    </header>
+                    <p> Sarah Hearne manages the maize research portfolio for the Seeds of Discovery (SeeD) initiative at CIMMYT. Her work comprises development of new analytical approaches to explore and understand maize genetic diversity through the application of next generation sequencing, assessment of the genetic diversity of the entire CIMMYT genebank collection of maize and other publically accessible maize genetic resources including ex PVP temperate materials, GWAS for high priority traits across the world’s most diverse maize panel, genomic selection for abiotic stress characters from maize landraces including; model training, population formation, selection techniques and breeding methods for GS advancement to optimise landrace based pre-breeding approaches for oligo and polygenic traits, selection footprint evaluation for key abiotic, biotic and anthropogenic characteristics of maize landraces, and curation and GIS enrichment of maize genebank passport data.
+                    </p>
             </div>
         </div>
+    </section>
+
+
+    <section>
+        <img src="assets/images/speakers/jf.jpg" alt="" data-position="top center" />
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                    <h3>Jillian Foerster</h3>
+                    </header>
+                    <p> 
+                    </p>
+                </div>
+            </div>
     </section>
 
 </section>
 
 <!-- Three -->
-<section id="three">
+<section id="three" style="background-color:#002855;">
     <div class="inner">
         <header class="major">
-            <h1 style="color:#ffffff;"> UC-Davis Faculty Spotlight</h1>
+        <h1 style="color:#ffffff;"> UC-Davis Faculty Spotlight</h1>
         </header>
     </div>
 </section>
@@ -113,50 +131,50 @@ weight: 1
 
 <section id="four" class="spotlights">
 
-    <section>
+<section style="background-color:#c99700;">
         <img src="assets/images/speakers/dr.jpg" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major">
                     <h3>Daniel Runcie</h3>
                     </header>
-                    <p></p>
+                    <p style="color:#002855;"></p>
                 </div>
             </div>
     </section>
 
-    <section>
+    <section style="background-color:#002855;">
         <img src="assets/images/speakers/fz.jpg" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major">
                     <h3>Florence Zakharov</h3>
                     </header>
-                    <p></p>
+                    <p style="color:#c99700;"></p>
                 </div>
             </div>
     </section>
 
-    <section>
+    <section style="background-color:#c99700;">
         <img src="assets/images/speakers/sb.jpg" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major">
                     <h3>Siobhan Brady</h3>
                     </header>
-                    <p>Siobhan Brady received her PhD at the University of Toronto in 2005, and was a Natural Sciences and Engineering Research Council of Canada Postdoctoral Fellow at Duke University from 2005 – 2008. In 2009 she began an Assistant Professor Position and became an Associate Professor in 2015 at the University of California, Davis in the Department of Plant Biology and in the Genome Center. In 2016 she was named as a Howard Hughes Medical Institute Faculty Research Scholar. Research in the Brady lab focuses on the global regulation of gene expression and its contribution to root morphology and development in Arabidopsis thaliana, Solanum species, Sorghum bicolor and maize.</p>
+                    <p style="color:#002855;">Siobhan Brady received her PhD at the University of Toronto in 2005, and was a Natural Sciences and Engineering Research Council of Canada Postdoctoral Fellow at Duke University from 2005 – 2008. In 2009 she began an Assistant Professor Position and became an Associate Professor in 2015 at the University of California, Davis in the Department of Plant Biology and in the Genome Center. In 2016 she was named as a Howard Hughes Medical Institute Faculty Research Scholar. Research in the Brady lab focuses on the global regulation of gene expression and its contribution to root morphology and development in Arabidopsis thaliana, Solanum species, Sorghum bicolor and maize.</p>
                 </div>
             </div>
     </section>
 
-    <section>
+    <section style="background-color:#002855;">
         <img src="assets/images/speakers/ar.jpg" alt="" data-position="top center" />
             <div class="content">
                 <div class="inner">
                     <header class="major">
                     <h3>Alan Rose</h3>
                     </header>
-                    <p></p>
+                    <p style="color:#c99700;"></p>
                 </div>
             </div>
     </section>

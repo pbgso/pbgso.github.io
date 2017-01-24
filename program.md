@@ -124,7 +124,7 @@ image: assets/images/backgrounds/program.jpg
 </div>
 
 
-<p style="text-align: left;"><i> - Lunch and memorabilia provided to first 200 registrants</i></p>
+<p style="text-align: left;"><i> - Lunch and memorabilia guaranteed to first 200 in-person registrants</i></p>
 </h6>
 
 </div>
