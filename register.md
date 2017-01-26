@@ -71,6 +71,19 @@ target="hidden_iframe" onsubmit="submitted=true;">
 </div>
 </div>
 
+<br>	
+
+<div class="12u$">
+<div class="select-wrapper">
+<select name="entry.1607165357" id="entry_1607165357">
+<option value="">- shirt size -</option>
+<option value="small">small</option>
+<option value="medium">medium</option>
+<option value="large">large</option>
+<option value="xl">xl</option>
+</select>
+</div>
+</div>
 
 <input type="hidden" name="draftResponse" value="[,,&quot;-8581119601586225311&quot;]" style="color:#000" />
 <input type="hidden" name="pageHistory" value="0" />

@@ -136,7 +136,7 @@ weight: 1
 
 <section id="four" class="spotlights">
 
-<section style="background-color:#c99700;">
+    <section style="background-color:#c99700;">
         <img src="assets/images/speakers/dr.jpg" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
@@ -193,4 +193,5 @@ weight: 1
             </div>
     </section>
 
+</section>
 </div>
