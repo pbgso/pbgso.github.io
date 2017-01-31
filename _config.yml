@@ -11,7 +11,7 @@ title-normal: 2017 UC Davis Plant Science Symposium
 email: 
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://pbgso.github.io" # the base hostname & protocol for your site
+url: "http://plantsciencesymposium.ucdavis.edu" # the base hostname & protocol for your site
 author: Gitanshu Munjal
 street_address: UC Davis Conference Center
 city: Davis
