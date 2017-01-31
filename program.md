@@ -46,7 +46,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td>08:40</td>
-<td>Tabare Abadie</td>
+<td>Opening Remarks</td>
 </tr>
 
 <tr>
