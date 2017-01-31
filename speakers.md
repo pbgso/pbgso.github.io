@@ -100,8 +100,9 @@ weight: 1
             <div class="inner">
                 <header class="major">
                     <h3>Sarah Hearne</h3>
+                    <a href="https://www.linkedin.com/in/sarah-hearne-769b1283" class="icon fa-linkedin"></a>
                     </header>
-                    <p> Sarah Hearne manages the maize research portfolio for the Seeds of Discovery (SeeD) initiative at CIMMYT. Her work comprises development of new analytical approaches to explore and understand maize genetic diversity through the application of next generation sequencing, assessment of the genetic diversity of the entire CIMMYT genebank collection of maize and other publically accessible maize genetic resources including ex PVP temperate materials, GWAS for high priority traits across the world’s most diverse maize panel, genomic selection for abiotic stress characters from maize landraces including; model training, population formation, selection techniques and breeding methods for GS advancement to optimise landrace based pre-breeding approaches for oligo and polygenic traits, selection footprint evaluation for key abiotic, biotic and anthropogenic characteristics of maize landraces, and curation and GIS enrichment of maize genebank passport data.
+                    <p>Sarah Hearne is a Principal Scientist at the International Maize and Wheat Improvement Centre (CIMMYT), headquartered in Mexico. Her work focuses on the interface between genetic resources and plant breeding and in the adaptation/development and use of tools to enhance the identification and transfer of useful native genetic variation from exotic germplasm to breeding germplasm. She leads the maize and informatics work of the Seeds of Discovery (SeeD) initiative at CIMMYT. The work conducted under this initiative extends from; genotypic characterization and assessment of molecular diversity of the entire maize collection housed in the International CIMMYT germplasm bank, GWAS for high priority traits across the world’s most diverse maize panel, genomic selection for high value traits across maize landraces, selection sweep evaluation for key adaptive and anthropogenic characteristics, optimization of selection techniques and breeding approaches for GS application in the landrace context, development of semi-inbred bridging breeding germplasm for dissemination to breeders worldwide, development of informatics tools to better facilitate data capture, curation, interpretation and dissemination within genetic resource and breeding research applications.
                     </p>
             </div>
         </div>
@@ -115,7 +116,7 @@ weight: 1
                     <header class="major">
                     <h3>Jillian Foerster</h3>
                     </header>
-                    <p> 
+                    <p> Jillian Foerster received her PhD at the University of Wisconsin-Madison. She is currently a Research Scientist at DuPont Pioneer.
                     </p>
                 </div>
             </div>

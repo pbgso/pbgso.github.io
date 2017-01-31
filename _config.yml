@@ -7,9 +7,9 @@
 
 # Site settings
 title-bold: "#UCDPSS17"
-title-normal: 
-email: gmunjal@ucdavis.edu
-description: ""
+title-normal: 2017 UC Davis Plant Science Symposium
+email: 
+description: "6th Annual UC Davis Plant Science Symposium. Register NOW!"
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://pbgso.github.io" # the base hostname & protocol for your site
 author: Gitanshu Munjal
