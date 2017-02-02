@@ -38,7 +38,7 @@ weight: 0
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #C99700;">Cassandra Bullock</h3> 
+					<h3 style="color: #C99700;">Cassandra Bullock-Bent</h3> 
                     <a href="https://twitter.com/CassietheBent" class="icon fa-twitter"></a>
                      &nbsp; &nbsp;|&nbsp;&nbsp;cmbullock [at] ucdavis [dot] edu
 				</header>

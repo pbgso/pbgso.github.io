@@ -116,7 +116,7 @@ weight: 1
                     <header class="major">
                     <h3>Jillian Foerster</h3>
                     </header>
-                    <p> Jillian Foerster received her PhD at the University of Wisconsin-Madison. She is currently a Research Scientist at DuPont Pioneer.
+                    <p>Jillian Foerster received her B.S. degree in 2009 from Grand Valley State University in Cell and Molecular Biology. She continued her education at the University of Wisconsin-Madison, where she earned her Ph.D. in 2013 in Plant Breeding and Plant Genetics on the genetic structure and agronomic importance of vegetative phase change in maize. Jillian is currently a research scientist at DuPont Pioneer in Des Moines, Iowa within the Plant Breeding Product Development and Breeding Technologies departments. In this role she helps develop and optimize field and molecular breeding strategies for soybean product development.
                     </p>
                 </div>
             </div>
