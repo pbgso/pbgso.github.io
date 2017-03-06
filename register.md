@@ -10,23 +10,13 @@ weight: 3
 <div id="main" class="alt">
 
 <!-- One -->
-
-	<div class="inner">
-	<center>
-	
-			<h1>Register</h1>
-	
-	</center>
-
-<!-- Content -->
-<!-- Table -->
-<center><h6> Monday, April 24th 2017 </h6></center>
-
-<h6>
+<section id="one">
+<div class="inner">
 <center>
-<a style="color:#c99700;" href="https://cru.ucdavis.edu/content/339-location-amp-contact.htm">UC Davis Conference Center</a>
-&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a>
+<header class="major">
+
+<h1>Register</h1>
+</header>
 </center>
 
 <!-- Content -->

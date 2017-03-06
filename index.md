@@ -18,7 +18,7 @@ nav-menu:
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><h2>April 24th, 2017</h2></li><<br>
+				<li><h2>April 24th, 2017</h2></li><br>
 				<li><a href="/register.html" class="button next scrolly">Register NOW!</a></li>
 			</ul>
 		</div>
