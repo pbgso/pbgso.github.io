@@ -86,7 +86,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">12:50</td>
-<td> <b style="font-size:120%;">Jillian Foerster</b> | DuPont Pioneer<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Jillian Foerster</b> | DuPont Pioneer<br>  <i>An integrated approach to deliver a durable asian soybean rust resistant product</i></td>
 </tr>
 
 <tr>
@@ -94,7 +94,7 @@ image: assets/images/backgrounds/program.jpg
 <td>UC-Davis Faculty Spotlight<br>
 <b style="font-size:120%;">Daniel Runcie</b><br>  <i>TBA</i><br>
 <b style="font-size:120%;">Florence Zakharov</b><br>  <i>TBA</i><br>
-<b style="font-size:120%;">Alan Rose</b><br>  <i>TBA</i><br>
+<b style="font-size:120%;">Alan Rose</b><br>  <i>Introns as regulators of gene expression</i><br>
 <b style="font-size:120%;">Siobhan Brady</b><br>  <i>TBA</i><br>
 </td>
 </tr>
