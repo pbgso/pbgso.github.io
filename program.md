@@ -111,7 +111,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">15:40</td>
-<td><b style="font-size:120%;">Jeffrey Neyhart</b> | University of Minnesota<br>  <i>Evaluating Methods of Updating Training Data in Long-Term Genomewide Selection</i></td>
+<td><b style="font-size:120%;">Jeffrey Neyhart</b> | Graduate Student, University of Minnesota<br>  <i>Evaluating Methods of Updating Training Data in Long-Term Genomewide Selection</i></td>
 </tr>
 
 <tr>
@@ -121,7 +121,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">16:20</td>
-<td> <b style="font-size:120%;">Rex Bernardo</b> | Graduate Student, University of Minnesota<br>  <i>A CRISPR breeding method for quantitative traits in plants</i></td>
+<td> <b style="font-size:120%;">Rex Bernardo</b> | University of Minnesota<br>  <i>A CRISPR breeding method for quantitative traits in plants</i></td>
 </tr>
 
 <tr>
