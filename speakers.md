@@ -223,7 +223,7 @@ weight: 1
     </section>
 
     <section style="background-color:#c99700;">
-        <img src="assets/images/speakers/cmar.jpg" alt="" data-position="center center"/>
+        <img src="assets/images/speakers/cmar.JPG" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#c99700;">
@@ -248,7 +248,7 @@ weight: 1
     </section>
 
     <section style="background-color:#c99700;">
-        <img src="assets/images/speakers/jedw.jpg" alt="" data-position="top center" />
+        <img src="assets/images/speakers/jedw.JPG" alt="" data-position="top center" />
             <div class="content">
                 <div class="inner">
                     <header class="major">
