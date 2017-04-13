@@ -71,7 +71,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">11:20</td>
-<td><b style="font-size:120%;">Sunil Kumar</b> | Graduate Student, University of Nebraska-Lincoln<br>  <i>An epigenetic breeding system in soybean for increased yield and stability</i></td>
+<td><b style="font-size:120%;">Sunil Kumar Kenchanmane Raju</b> | Graduate Student, University of Nebraska-Lincoln<br>  <i>Breeding for epigenetic variation in soybean and Arabidopsis for yield and stress adaptability</i></td>
 </tr>
 
 <tr>
