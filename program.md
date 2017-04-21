@@ -92,10 +92,10 @@ image: assets/images/backgrounds/program.jpg
 <tr>
 <td style="font-size:120%;">13:30</td>
 <td>UC-Davis Faculty Spotlight<br>
-<b style="font-size:120%;">Daniel Runcie</b><br>  <i>TBA</i><br>
+<b style="font-size:120%;">Daniel Runcie</b><br>  <i>Quantitative Genetics with “Big” Traits: Opportunities for Breeding</i><br>
 <b style="font-size:120%;">Florence Zakharov</b><br>  <i>Flavor research: toward improving fruit quality</i><br>
 <b style="font-size:120%;">Alan Rose</b><br>  <i>Introns as regulators of gene expression</i><br>
-<b style="font-size:120%;">Siobhan Brady</b><br>  <i>TBA</i><br>
+<b style="font-size:120%;">Siobhan Brady</b><br>  <i>Regulation of Plant Root Development in a Changing Environment</i><br>
 </td>
 </tr>
 
