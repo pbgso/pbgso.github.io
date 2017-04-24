@@ -19,7 +19,7 @@ nav-menu:
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
 				<li><h2>April 24th, 2017</h2></li><br>
-				<li><a href="/register.html" class="button next scrolly">Register NOW!</a></li>
+				<li><a href="https://www.youtube.com/watch?v=G-JwYijIo2A" class="button next scrolly">Click HERE to watch the live stream!</a></li>
 			</ul>
 		</div>
 	</div>
