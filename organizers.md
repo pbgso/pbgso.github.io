@@ -105,7 +105,7 @@ weight: 0
 	</section>
 
 	<section>
-			<img src="assets/images/students/laila.jpg" alt="" data-position="top center" />
+			<img src="assets/images/students/laila.png" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
