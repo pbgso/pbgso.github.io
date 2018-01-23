@@ -18,7 +18,7 @@ nav-menu:
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><h2>April 24th, 2017</h2></li><br>
+				<li><h2>April 16th, 2018</h2></li><br>
 				<li><a href="https://www.youtube.com/watch?v=G-JwYijIo2A" class="button next scrolly">Click HERE to watch the live stream!</a></li>
 			</ul>
 		</div>
