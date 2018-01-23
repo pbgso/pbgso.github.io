@@ -126,7 +126,7 @@ weight: 0
 					<h3 style="color: #C99700;">Stephanie Smolenski Zullo</h3>
                     sszulo [at] ucdavis [dot] edu
 				</header>
-				<p>Stephanie Zullo is a Ph.D. student in the Horticulture & Agronomy Graduate Group studying plant breeding and genetics in Paul Gepts lab.  She received her B.S. in Biological Sciences from Cornell University and her M.S. in Crop Sciences with a concentration in Plant Breeding from the University of Illinois.  Stephanie has previously worked on commercial plant breeding projects in maize, sunflower and tomato.  Her graduate research is focused on identifying the underlying biochemical mechanisms and genetics of biotic stress resistance in lima bean.
+				<p>Stephanie Smolenski Zullo is a Ph.D. student in the Horticulture & Agronomy Graduate Group studying plant breeding and genetics in Paul Gepts lab.  She received her B.S. in Biological Sciences from Cornell University and her M.S. in Crop Sciences with a concentration in Plant Breeding from the University of Illinois.  Stephanie has previously worked on commercial plant breeding projects in maize, sunflower and tomato.  Her graduate research is focused on identifying the underlying biochemical mechanisms and genetics of biotic stress resistance in lima bean.
 				</p>
 			</div>
 		</div>
