@@ -126,11 +126,6 @@ image: assets/images/backgrounds/program.jpg
 </tr>
 
 <tr>
-<td style="font-size:120%;">14:30</td>
-<td> <b style="font-size:120%;">Sarah Hearne</b> | CIMMYT<br>  <i>From collection to cultivation: exploring and expanding the use of native maize diversity in breeding</i></td>
-</tr>
-
-<tr>
 <td style="font-size:120%;">15:50</td>
 <td> <b style="font-size:120%;">Speaker 7</b> | TBA<br>  <i>TBA</i></td>
 </tr>
