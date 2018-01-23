@@ -140,19 +140,17 @@ weight: 1
 </section>
 
 <!-- Three -->
-<section id="three" style="background-color:#002855;">
-    <div class="inner">
-        <header class="major">
-        <h1 style="color:#ffffff;"> UC-Davis Faculty Spotlight</h1>
-        </header>
-    </div>
+<section id="three" style="background-color:#c99700;>
+	<div class="inner">
+		<header class="major">
+        <h1 style="color:#ffffff;"> UC Davis Spotlight</h1>
+		</header>
+	</div>
 </section>
 
 <!-- Four -->
 
 <section id="four" class="spotlights">
-
-    <section id="two" class="spotlights">
 
 	<section>
             <img src="assets/images/speakers/10_blanco.jpg" alt="" data-position="center center"/>
