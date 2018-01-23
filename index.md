@@ -1,7 +1,7 @@
 ---
 layout: home
 title: "Home"
-landing-title: "2017 UC Davis Plant Science Symposium"
+landing-title: "2018 UC Davis Plant Science Symposium"
 description:
 weight: 6 
 image: assets/images/banner.jpeg

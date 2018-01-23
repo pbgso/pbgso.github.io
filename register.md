@@ -93,7 +93,7 @@ target="hidden_iframe" onsubmit="submitted=true;">
 <input type="hidden" name="fbzx" value="-8581119601586225311" /> 			
 </div>
 <br>
-<span>* Lunch and memorabilia guaranteed for first 200 in-person registrants </span>
+<span>* Lunch and memorabilia provided. </span>
 <br><br>
 
 <div class="ss-item ss-navigate">

@@ -39,41 +39,42 @@ weight: 1
 <section id="two" class="spotlights">
 
 	<section>
-            <img src="assets/images/speakers/rb.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/1_whiteman.JPG" alt="" data-position="center center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Rex Bernardo</h3>
-                    <a href="http://bernardo-group.org" class="icon fa-home"></a>
+					<h3>Noah Whiteman</h3>
+                    <a href="http://www.noahwhiteman.org" class="icon fa-home"></a>
 				</header>
-				<p>Rex Bernardo is Professor and Endowed Chair in Corn Breeding and Genetics at the University of Minnesota. He conducts research on breeding methodology for quantitative traits and he teaches graduate courses in plant breeding. Dr. Bernardo obtained his B.S. degree in the Philippines in 1984, and his Ph.D. degree at the University of Illinois at Urbana-Champaign in 1988. Prior to coming to Minnesota in 2000, Dr. Bernardo was a research scientist at Limagrain Genetics and then a faculty member at Purdue University. He is a Fellow of the Crop Science Society of America and of the American Society of Agronomy, and a recipient of the Young Crop Scientist Award from the Crop Science Society of America and the Plant Breeding Impact Award from the National Association of Plant Breeders. Dr. Bernardo is the author of two textbooks: <i>Breeding for Quantitative Traits in Plants</i>, and <i>Essentials of Plant Breeding</i>.</p>
+				<p>Dr. Noah Whiteman is an evolutionary biologist and is currently an associate professor at the University of California, Berkeley in the Department of Integrative Biology. He studied for an M.S. degree in systematic entomology at the University of Missouri-Columbia where he was trained as a classical entomologist. Noah stayed on in Missouri for his Ph.D. In 2006 Noah left Missouri for Harvard University where he completed an NIH postdoctoral fellowship on genomics of plant-insect-microbe interactions. He continued in this field of work as an assistant and then associate professor in the Department of Ecology and Evolutionary Biology at the University of Arizona.
+				</p>
 			</div>
 		</div>
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/mh.jpg" alt="" data-position="top center" />
+			<img src="assets/images/speakers/6_kellogg.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Maureen Hanson</h3>
-                    <a href="http://hansonlab.org" class="icon fa-home"></a>
+					<h3>Elizabeth "Toby" Kellogg</h3>
+                    <a href="http://kellogglab.weebly.com" class="icon fa-home"></a>
 				</header>
-				<p>Dr. Maureen Hanson is Liberty Hyde Bailey Professor in the Department of Molecular Biology and Genetics at Cornell University, which she joined after an assistant professorship at the University of Virginia, Charlottesville. She has a diverse research program that includes the mechanism of RNA editing in plant organelles, the formation and function of chloroplast stromules, and improving photosynthesis through Rubisco engineering and synthetic biology. Earlier her lab was the first to identify both a single mitochondrial gene causing cytoplasmic male sterility and a single dominant nuclear gene encoding fertility restoration in the same species. Her recognitions include the Lawrence Bogorad Award from the American Society of Plant Biologists, the SUNY Chancellor’s Award for Faculty Service, the Cornell College of Agricultural and Life Sciences Award for Outstanding Accomplishments in Basic Research, and she is a Fellow of the American Association for the Advancement of Science. She has previously served as the Director of the NSF/DOE/USDA Cornell Plant Science Center and Training Group in Plant Molecular Biology. She was one of the founders of the International Society for Plant Molecular Biology and is currently Chair of the 2019 Gordon Conference on Chloroplast Biotechnology.</p>
+				<p>Dr. Elizabeth (Toby) Kellogg is the Robert E. King Distinguished Investigator at the Donald Danforth Plant Science Center in St. Louis, Missouri. Her lab studies cereal crops and their wild relatives in the grass family, using both natural diversity to unlock the genetic potential of the crops, and also the genetic tools of the crops to understand natural diversity. She has discovered genes that affect seed production in crops and in the wild, and has studied grass evolution and genomics. She has published well over 150 papers, is co-author of two textbooks, and is sole author of a book on the evolution and classification of the grass family.  In addition to her Ph.D. degree from Harvard University, she has been awarded an honorary doctorate from the University of Córdoba in Argentina.  She has received a Guggenheim Fellowship and the Chancellor's Award for Research and Creativity at the University of Missouri-St. Louis, where she held an endowed chair for 15 years before moving to the Danforth Center.  She has been elected a Fellow of the American Academy for the Advancement of Science (AAAS), a Fellow of the Academia Nacional de Ciencias, Argentina, and has served as President of the American Society of Plant Taxonomists, the Society for Systematic Biology, the Botanical Society of America, and the Biological Sciences section of the AAAS.
+				</p>
 			</div>
 		</div>
 	</section>
 
     <section>
-            <img src="assets/images/speakers/ct.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/3_chitwood.jpg" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Christopher Topp</h3>
-                    <a href="https://twitter.com/RootDevo" class="icon fa-twitter"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="http://www.danforthcenter.org/scientists-research/principal-investigators/chris-topp" class="icon fa-home"></a>
+                    <h3>Daniel Chitwood</h3>
+                    <a href="https://www.morphologylab.org" class="icon fa-home"></a>
                 </header>
-                <p>Christopher Topp is an Assistant Investigator at the Donald Danforth Plant Science Center (since 2013), a non-profit plant science research institute. For the past fifteen years, Dr. Topp has studied fundamental processes, both small and large, that drive the growth and productivity of crop plants. Originally trained as a centromere biologist at the University of Georgia (PhD; 2003-2009), he studied the biochemistry and evolution of cell division machinery in maize and oats. As a USDA-NIFA postdoctoral scholar (2011-2013) at Duke University (2009-2013), he led a team of engineers, computer scientists, and biologists in the development of a 3D root imaging and analysis pipeline, which was used to map regions of the rice genome controlling root growth. His current research focuses on subterranean phenotyping in multiple crop species, as well as identifying the environmental and genetic factors that condition their growth. By integrating these efforts with natural variation and modern genomics, he aims to contribute to the development of new crop varieties with root systems capable of drought tolerance and efficient nutrient uptake. His team at the Danforth Center continues to develop technologies and infrastructure that enable the analysis of the ‘hidden half’ of plants.
+                <p>Dr. Dan Chitwood's research focuses on developing methods to measure and quantify plant morphology. His interest in plant morphology began with studying leaf development and the contribution of small RNA movement to adaxial-abaxial ("dorsal-ventral") patterning with Dr. Marja Timmermans at Cold Spring Harbor Laboratory. He then studied natural variation in leaf shape among tomato and its wild relatives with Dr. Neelima Sinha at U.C. Davis. It was during this time that Dr. Chitwood realized a need to develop statistics to quantify subtle differences in shape between tomato near-isogenic introgression lines. Currently, Dr. Chitwood is at Michigan State University in the Departments of Horticulture and Computational Mathematics, Science and Engineering. He will be using X-ray Computed Tomography to create 3D and 4D models of plant architecture and working with mathematicians to develop topological models of morphology.
                 </p>
             </div>
         </div>
@@ -81,28 +82,28 @@ weight: 1
 
 
     <section>
-            <img src="assets/images/speakers/sm.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/5_harmer.jpg" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Sean Myles</h3>
-                    <a href="http://www.cultivatingdiversity.org" class="icon fa-home"></a>
+                    <h3>Stacey Harmer</h3>
+                    <a href="https://openwetware.org/wiki/Harmer_Lab" class="icon fa-home"></a>
                 </header>
-                    <p>Dr Sean Myles is an Associate Professor in the Faculty of Agriculture at Dalhousie University in Nova Scotia, Canada.  He obtained an MSc in Human Biology from Oxford University and a PhD in Genetics from the Max Planck Institute for Evolutionary Anthropology in Leipzig, Germany.  He switched his focus to plants when he joined Ed Buckler's lab at Cornell University to complete a postdoc in grape genomics.  He also completed a postdoc at Stanford in Carlos Bustamante's lab before beginning as a faculty member at Dalhousie University in 2011.  He has published genomics studies focussed on humans, apples, grape and cannabis.  He primarily focusses now on apples.  To this end, he established the Apple Biodiversity Collection in Nova Scotia - an orchard with over 1000 varieties of apples planted in duplicate. The aim of his work is to establish genotype-phenotype associations that can be leveraged by apple breeders to develop novel varieties that taste great and require less chemical input to grow.
+                    <p>Dr. Stacey Harmer is a Professor in the Department of Plant Biology at UC Davis.  She earned a PhD in Biochemistry at UC San Francisco and then moved to a postdoctoral scholar position at the Scripps Research Institute.  Her lab studies plant adaptations to the abiotic environment.  Specifically, her research focuses on the plant circadian clock, addressing both the molecular nature of the oscillator that generates daily rhythms and aspects of plant physiology affected by the circadian system.  She is particularly interested in exploring relationships between clock, light, and growth signaling pathways. Her recognitions have included a Howard Hughes Predoctoral Fellowship, an NIH National Research Service Award, an American Society for Photobiology New Investigator Award, and the UC Davis Chancellor's Fellowship.
                     </p>
             </div>
         </div>
     </section>
 
     <section>
-            <img src="assets/images/speakers/sh.jpg" alt="" data-position="top center" />
+            <img src="assets/images/speakers/4_edger.jpg" alt="" data-position="top center" />
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Sarah Hearne</h3>
-                    <a href="https://www.linkedin.com/in/sarah-hearne-769b1283" class="icon fa-linkedin"></a>
+                    <h3>Patrick Edger</h3>
+                    <a href="http://tinyurl.com/patedger" class="icon fa-google"></a>
                     </header>
-                    <p>Sarah Hearne is a Principal Scientist at the International Maize and Wheat Improvement Centre (CIMMYT), headquartered in Mexico. Her work focuses on the interface between genetic resources and plant breeding and in the adaptation/development and use of tools to enhance the identification and transfer of useful native genetic variation from exotic germplasm to breeding germplasm. She leads the maize and informatics work of the Seeds of Discovery (SeeD) initiative at CIMMYT. The work conducted under this initiative extends from; genotypic characterization and assessment of molecular diversity of the entire maize collection housed in the International CIMMYT germplasm bank, GWAS for high priority traits across the world’s most diverse maize panel, genomic selection for high value traits across maize landraces, selection sweep evaluation for key adaptive and anthropogenic characteristics, optimization of selection techniques and breeding approaches for GS application in the landrace context, development of semi-inbred bridging breeding germplasm for dissemination to breeders worldwide, development of informatics tools to better facilitate data capture, curation, interpretation and dissemination within genetic resource and breeding research applications.
+                    <p>Dr. Patrick Edger is an Assistant Professor in the Department of Horticulture at Michigan State University. Patrick received his PhD degree from the University of Missouri in 2012, and was a NSF National Plant Genome Initiative Postdoctoral Fellow at UC-Berkeley and University of Arizona from 2012-2015. He joined the Michigan State University faculty in Fall 2015. His lab leverages a diverse array of tools and a strong multidisciplinary approach, including comparative genomics, transcriptomics, and systems biology, to investigate gene family dynamics and the evolution of gene-gene interactions following gene and genome duplications. His current research focuses on uncovering the mechanistic basis of subgenome dominance in polyploid crops, largely to guide breeding efforts in blueberry and strawberry.</i>.</p>
                     </p>
             </div>
         </div>
@@ -110,18 +111,32 @@ weight: 1
 
 
     <section>
-        <img src="assets/images/speakers/jf.jpg" alt="" data-position="top center" />
+        <img src="assets/images/speakers/7_lucia.jpg" alt="" data-position="top center" />
             <div class="content">
                 <div class="inner">
                     <header class="major">
-                    <h3>Jillian Foerster</h3>
+                    <h3>Lucia Gutierrez</h3>
+                    <a href="http://agronomy.wisc.edu/lucia-gutierrez/" class="icon fa-home"></a>
                     </header>
-                    <p>Jillian Foerster received her B.S. degree in 2009 from Grand Valley State University in Cell and Molecular Biology. She continued her education at the University of Wisconsin-Madison, where she earned her Ph.D. in 2013 in Plant Breeding and Plant Genetics on the genetic structure and agronomic importance of vegetative phase change in maize. Jillian is currently a research scientist at DuPont Pioneer in Des Moines, Iowa within the Plant Breeding Product Development and Breeding Technologies departments. In this role she helps develop and optimize field and molecular breeding strategies for soybean product development.
+                    <p>Dr. Dr. Lucia Gutierrez focuses on breeding cereals, such as oats, wheat, and barley, for more sustainable agricultural systems through the study of complex quantitative traits and the development, comparison, and deployment of new methodologies for quantitative genetics data analysis for plant breeding. Her program uses genomic data to unveil new genetic diversity to deploy in breeding programs in three areas: 1) population genetics and diversity; 2) quantitative genetics applied to plant breeding; and 3) experimental designs and multi-environment studies for large genetic data.
                     </p>
                 </div>
             </div>
     </section>
 
+    <section>
+        <img src="assets/images/speakers/2_sethi.png" alt="" data-position="top center" />
+            <div class="content">
+                <div class="inner">
+                    <header class="major">
+                    <h3>Amit Sethi</h3>
+                    <a href="https://www.linkedin.com/in/amit-sethi-097a6323/" class="icon fa-linkedin"></a>
+                    </header>
+                    <p>Dr. Dr. Amit Sethi, Senior Research Manager, leads the Durability and Resistance Management group at DowDuPont, focusing on delivering Insect Resistance Management (IRM) knowledge and strategy related to all crops to internal and external customers globally that aid in product characterization, development and deployment. His team activities involve developing resistant insect colonies against pre- and post-commercial traits, conducting ecological and genomic studies related to cross-resistance, trait efficacy and compatibility, insect survivorship, refuge deployment, resistance monitoring and characterization, and trait durability modeling. Amit holds a B.S. degree in Agriculture (Hons. In Plant Protection) and a M.S. degree in Entomology from Punjab Agricultural University, an M.B.A. in Operations Management from the Indira Gandhi National Open University, a Ph.D. in Entomology from the University of Florida, and Post-Doctoral experience from Louisiana State University and Purdue University. 
+                    </p>
+                </div>
+            </div>
+    </section>
 </section>
 
 <!-- Three -->
@@ -138,57 +153,55 @@ weight: 1
 <section id="four" class="spotlights">
 
     <section style="background-color:#c99700;">
-        <img src="assets/images/speakers/dr.jpg" alt="" data-position="center center"/>
+        <img src="assets/images/speakers/8_josephs.jpg" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#000000;">
-                    <h3>Daniel Runcie</h3>
-                    <a href="https://twitter.com/druncie" class="icon fa-twitter"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="http://runcielab.ucdavis.edu/" class="icon fa-home"></a>
+                    <h3>Emily Josephs</h3>
+                    <a href="http://emjosephs.github.io" class="icon fa-github"></a>
                     </header>
-                    <p style="color:#000000;">Daniel Runcie is an assistant professor in the Department of Plant Sciences. He completed his Ph.D. at Duke University and was a postdoctoral scholar in the UC Davis Department of Evolution and Ecology before joining the faculty in 2015. Research in his lab focuses on why certain plant traits are more advantageous in some environments than others, and how the growth or development of these traits is molded by evolution and artificial selection. His research group uses statistics, models, and lab experiments, to look at how plants respond to changing environments. 
+                    <p style="color:#000000;">Emily Josephs is a evolutionary geneticist who uses population genomics and quantitative genetics to understand how selection shapes genetic variation in wild and domesticated plants. She received her PhD from the University of Toronto in 2016 and is currently an NSF Postdoctoral Fellow at the University of California, Davis. In January 2019, Emily will start a position as an assistant professor in the Plant Biology department at Michigan State University.
                     </p>
                 </div>
             </div>
     </section>
 
     <section style="background-color:#002855;">
-        <img src="assets/images/speakers/fz.jpg" alt="" data-position="center center"/>
+        <img src="assets/images/speakers/9_brown.png" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#c99700;">
-                    <h3>Florence Zakharov</h3>
-                    <a href="http://www.plantsciences.ucdavis.edu/faculty/zakharov/" class="icon fa-home"></a>
+                    <h3>Patrick Brown</h3>
                     </header>
-                    <p style="color:#c99700;">Dr. Zakharov's research focuses on understanding plant volatile metabolism in the context of 1) aroma development in fruits and vegetables, and 2) plant defense mechanisms against pests. Although much progress has been made in achieving and maintaining good appearance quality of fruits and vegetables, there is a general consensus that flavor quality is "the last frontier". Flavor, defined as the combined sensation derived from taste and aroma, is a complex trait that is still poorly understood at analytical, biochemical and molecular levels. The Zakharov lab investigates how volatile compounds (which confer the aroma of fruits and vegetables) are formed during fruit development and ripening, and how postharvest storage conditions affect their production.
+                    <p style="color:#c99700;">Dr. Patrick Brown is a plant breeder and geneticist focused on the integration of genomic and high-throughput phenotyping technology into applied plant breeding programs. From 2010-2017 he was a faculty member at the University of Illinois working on genetic improvement and abiotic stress resistance of sorghum, maize, and wheat. In July 2017, Brown moved into a position in tree breeding at UC Davis focused on walnut and pistachio.
                     </p>
                 </div>
             </div>
     </section>
 
     <section style="background-color:#c99700;">
-        <img src="assets/images/speakers/sb.jpg" alt="" data-position="center center"/>
+        <img src="assets/images/speakers/10_blanco.jpg" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#000000;">
-                    <h3>Siobhan Brady</h3>
-                    <a href="https://twitter.com/bradylabs" class="icon fa-twitter"></a> &nbsp;&nbsp;&nbsp;&nbsp; 
-                    <a href="http://www.linkedin.com/pub/siobhan-brady/33/b42/71a/" class="icon fa-linkedin"></a> &nbsp;&nbsp;&nbsp;&nbsp;
-                    <a href="http://www-plb.ucdavis.edu/labs/brady/" class="icon fa-home"></a>
+                    <h3>Barbara Blanco-Ulate/h3>
+                    <a href="http://www.caes.ucdavis.edu/about/directory/fsd/barbara-blanco-ulate" class="icon fa-home"></a>
                     </header>
-                    <p style="color:#000000;">Siobhan Brady received her PhD at the University of Toronto in 2005, and was a Natural Sciences and Engineering Research Council of Canada Postdoctoral Fellow at Duke University from 2005 – 2008. In 2009 she began an Assistant Professor Position and became an Associate Professor in 2015 at the University of California, Davis in the Department of Plant Biology and in the Genome Center. In 2016 she was named as a Howard Hughes Medical Institute Faculty Research Scholar. Research in the Brady lab focuses on the global regulation of gene expression and its contribution to root morphology and development in Arabidopsis thaliana, Solanum species, Sorghum bicolor and maize.</p>
+                    <p style="color:#000000;"> =Bio Coming Soon!
+                    </p>
                 </div>
             </div>
     </section>
 
     <section style="background-color:#002855;">
-        <img src="assets/images/speakers/ar.jpg" alt="" data-position="top center" />
+        <img src="assets/images/speakers/11_melotto.jpg" alt="" data-position="top center" />
             <div class="content">
                 <div class="inner">
                     <header class="major">
-                    <h3>Alan Rose</h3>
+                    <h3>Maeli Melotto</h3>
+                    < href="http://www.caes.ucdavis.edu/about/directory/fsd/maeli-melotto" class="icon fa-home"></a>
                     </header>
-                    <p style="color:#c99700;">Dr. Alan Rose's group studies the effect of introns on gene expression. Introns are often dismissed as junk DNA, but they can have huge effects on gene expression through mechanisms that are not yet understood. His group is investigating this interesting phenomenon in plants using molecular genetics, and by testing bioinformatic insights generated by Dr. Ian Korf and his group.
+                    <p style="color:#c99700;">Bio Coming Soon!
                     </p>
                 </div>
             </div>
@@ -210,51 +223,52 @@ weight: 1
 <section id="six" class="spotlights">
 
     <section style="background-color:#002855;">
-        <img src="assets/images/speakers/jney.jpeg" alt="" data-position="center center"/>
+        <img src="assets/images/speakers/fbpost.png" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#000000;">
-                    <h3>Jeffrey Neyhart</h3>
+                    <h3>TBD</h3>
                     </header>
-                    <p style="color:#c99700;">Jeff Neyhart is a Ph.D. student in the Applied Plant Sciences graduate program at the University of Minnesota. A native of New Jersey, he was raised in a family of horticulture educators, an environment he credits for his decision to pursue a career in agricultural. Jeff received his B.S. in Plant Science from Cornell University and has been a Ph.D. student at the University of Minnesota since 2014. His research, under the guidance of Dr. Kevin Smith, focuses on genomics and quantitative genetics in a new two-row barley breeding program. Jeff is also interested in teaching, particularly on the use computational tools such as R to assist plant breeders. He intends to pursue an academic career where he can combine his interest in quantitative genetics research with his passion for teaching.
+                    <p style="color:#c99700;"> Bio Coming Soon!
                     </p>
                 </div>
             </div>
     </section>
 
-    <section style="background-color:#c99700;">
-        <img src="assets/images/speakers/cmar.JPG" alt="" data-position="center center"/>
+    <section style="background-color:#002855;">
+        <img src="assets/images/speakers/fbpost.png" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
-                    <header class="major" style="color:#c99700;">
-                        <h3>Carine Marshall</h3>
-                        </header>
-                        <p style="color:#000000;">Carine Marshall is completing her PhD in Plant Molecular Biology at UC Berkeley in Frank Harmon’s lab at the USDA’s Plant Gene Expression Center. Her research focuses on the molecular pathways by which the plant circadian clock responds to temperature. In the true spirit of a plant biologist, Carine also runs an organic farm with her husband in the beautiful Capay Valley. Between undergraduate and graduate school, Carine worked for an algal biofuels startup company as their head biologist, and later managed field research trials for a company that breeds ornamental flowering bulbs. Carine received her undergraduate degree from UC Berkeley in Genetics and Plant Biology.
-                        </p>
+                    <header class="major" style="color:#000000;">
+                    <h3>TBD</h3>
+                    </header>
+                    <p style="color:#c99700;"> Bio Coming Soon!
+                    </p>
                 </div>
             </div>
     </section>
 
     <section style="background-color:#002855;">
-        <img src="assets/images/speakers/skum.jpg" alt="" data-position="center center"/>
+        <img src="assets/images/speakers/fbpost.png" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#000000;">
-                    <h3>Sunil Kumar Kenchanmane Raju</h3>
+                    <h3>TBD</h3>
                     </header>
-                    <p style="color:#c99700;">Sunil Kumar Kenchanmane Raju, is a graduate student specializing in plant breeding and genetics. He is advised by Sally Mackenzie, Ralph and Alice Raikes Professor of Agronomy and Horticulture at the University of Nebraska Lincoln. Sunil’s current research involves utilizing induced epigenetic variation in plant breeding. His work on soybean is providing valuable insights into understanding the potential of using MSH1-derived epigenome changes in developing lines with enhanced yield and yield stability. His work on <i>Arabidopsis</i>, a model plant, is helping to understand the role of abiotic stress in enhancing epigenomic plasticity that can be used in breeding for agronomically important traits. Sunil received the distinguished Henry M. Beachell Fellowship in 2016 recognizing his academic excellence and research potential in the agronomic and horticultural sciences. He served as the chair of the organizing committee for the UNL-Plant Breeding Symposium in 2016 and 2017.</p>
+                    <p style="color:#c99700;"> Bio Coming Soon!
+                    </p>
                 </div>
             </div>
     </section>
-
-    <section style="background-color:#c99700;">
-        <img src="assets/images/speakers/jedw.JPG" alt="" data-position="top center" />
+    
+    <section style="background-color:#002855;">
+        <img src="assets/images/speakers/fbpost.png" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
-                    <header class="major">
-                    <h3>Joseph Edwards</h3>
+                    <header class="major" style="color:#000000;">
+                    <h3>TBD</h3>
                     </header>
-                    <p style="color:#000000;"> Joseph Edwards received his BS at Virginia Tech in General Biology. As an undergraduate, he studied how environmental factors coordinate with genetic pathways to influence axial branching in forest trees. He received his PhD in Dec. 2016 from UC Davis in Venkatesan Sundaresan's lab studying rice root microbiome assembly.
+                    <p style="color:#c99700;"> Bio Coming Soon!
                     </p>
                 </div>
             </div>
