@@ -39,7 +39,7 @@ weight: 1
 <section id="two" class="spotlights">
 
 	<section>
-            <img src="assets/images/speakers/1_whiteman.JPG" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/1_whiteman.jpg" alt="" data-position="center center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -82,7 +82,7 @@ weight: 1
 
 
     <section>
-            <img src="assets/images/speakers/5_harmer.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/5_harmer.jpg" alt="" data-position="top center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -96,14 +96,14 @@ weight: 1
     </section>
 
     <section>
-            <img src="assets/images/speakers/4_edger.jpg" alt="" data-position="top center" />
+            <img src="assets/images/speakers/4_edger.jpg" alt="" data-position="center center" />
         <div class="content">
             <div class="inner">
                 <header class="major">
                     <h3>Patrick Edger</h3>
                     <a href="http://tinyurl.com/patedger" class="icon fa-google"></a>
                     </header>
-                    <p>Dr. Patrick Edger is an Assistant Professor in the Department of Horticulture at Michigan State University. Patrick received his PhD degree from the University of Missouri in 2012, and was a NSF National Plant Genome Initiative Postdoctoral Fellow at UC-Berkeley and University of Arizona from 2012-2015. He joined the Michigan State University faculty in Fall 2015. His lab leverages a diverse array of tools and a strong multidisciplinary approach, including comparative genomics, transcriptomics, and systems biology, to investigate gene family dynamics and the evolution of gene-gene interactions following gene and genome duplications. His current research focuses on uncovering the mechanistic basis of subgenome dominance in polyploid crops, largely to guide breeding efforts in blueberry and strawberry.</i>.</p>
+                    <p>Dr. Patrick Edger is an Assistant Professor in the Department of Horticulture at Michigan State University. Patrick received his PhD degree from the University of Missouri in 2012, and was a NSF National Plant Genome Initiative Postdoctoral Fellow at UC-Berkeley and University of Arizona from 2012-2015. He joined the Michigan State University faculty in Fall 2015. His lab leverages a diverse array of tools and a strong multidisciplinary approach, including comparative genomics, transcriptomics, and systems biology, to investigate gene family dynamics and the evolution of gene-gene interactions following gene and genome duplications. His current research focuses on uncovering the mechanistic basis of subgenome dominance in polyploid crops, largely to guide breeding efforts in blueberry and strawberry.
                     </p>
             </div>
         </div>
@@ -125,7 +125,7 @@ weight: 1
     </section>
 
     <section>
-        <img src="assets/images/speakers/2_sethi.png" alt="" data-position="top center" />
+        <img src="assets/images/speakers/2_sethi.png" alt="" data-position="center center" />
             <div class="content">
                 <div class="inner">
                     <header class="major">
@@ -167,7 +167,7 @@ weight: 1
     </section>
 
     <section style="background-color:#002855;">
-        <img src="assets/images/speakers/9_brown.png" alt="" data-position="center center"/>
+        <img src="assets/images/speakers/9_brown.png" alt="" data-position="top center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#c99700;">
