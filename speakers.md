@@ -152,61 +152,64 @@ weight: 1
 
 <section id="four" class="spotlights">
 
-    <section style="background-color:#c99700;">
-        <img src="assets/images/speakers/8_josephs.jpg" alt="" data-position="center center"/>
-            <div class="content">
-                <div class="inner">
-                    <header class="major" style="color:#000000;">
-                    <h3>Emily Josephs</h3>
-                    <a href="http://emjosephs.github.io" class="icon fa-github"></a>
-                    </header>
-                    <p style="color:#000000;">Emily Josephs is a evolutionary geneticist who uses population genomics and quantitative genetics to understand how selection shapes genetic variation in wild and domesticated plants. She received her PhD from the University of Toronto in 2016 and is currently an NSF Postdoctoral Fellow at the University of California, Davis. In January 2019, Emily will start a position as an assistant professor in the Plant Biology department at Michigan State University.
-                    </p>
-                </div>
-            </div>
-    </section>
+    <section id="two" class="spotlights">
 
-    <section style="background-color:#002855;">
-        <img src="assets/images/speakers/9_brown.png" alt="" data-position="top center"/>
-            <div class="content">
-                <div class="inner">
-                    <header class="major" style="color:#c99700;">
-                    <h3>Patrick Brown</h3>
-                    </header>
-                    <p style="color:#c99700;">Dr. Patrick Brown is a plant breeder and geneticist focused on the integration of genomic and high-throughput phenotyping technology into applied plant breeding programs. From 2010-2017 he was a faculty member at the University of Illinois working on genetic improvement and abiotic stress resistance of sorghum, maize, and wheat. In July 2017, Brown moved into a position in tree breeding at UC Davis focused on walnut and pistachio.
-                    </p>
-                </div>
-            </div>
-    </section>
+	<section>
+            <img src="assets/images/speakers/10_blanco.jpg" alt="" data-position="center center"/>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Barbara Blanco-Ulate</h3>
+                    <a href="http://blancolab.ucdavis.edu" class="icon fa-home"></a>
+				</header>
+				<p>Dr. Blanco-Ulate's Bio Coming Soon!
+				</p>
+			</div>
+		</div>
+	</section>
 
-    <section style="background-color:#c99700;">
-        <img src="assets/images/speakers/10_blanco.jpg" alt="" data-position="center center"/>
-            <div class="content">
-                <div class="inner">
-                    <header class="major" style="color:#000000;">
-                    <h3>Barbara Blanco-Ulate/h3>
-                    <a href="http://www.caes.ucdavis.edu/about/directory/fsd/barbara-blanco-ulate" class="icon fa-home"></a>
-                    </header>
-                    <p style="color:#000000;"> =Bio Coming Soon!
-                    </p>
-                </div>
-            </div>
-    </section>
+	<section>
+			<img src="assets/images/speakers/8_josephs.jpg" alt="" data-position="top center" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Emily Josephs</h3>
+                    <a href="http://emjosephs.github.io" class="icon fa-home"></a>
+				</header>
+				<p> Dr. Emily Josephs is a evolutionary geneticist who uses population genomics and quantitative genetics to understand how selection shapes genetic variation in wild and domesticated plants. She received her PhD from the University of Toronto in 2016 and is currently an NSF Postdoctoral Fellow at the University of California, Davis. In January 2019, Emily will start a position as an assistant professor in the Plant Biology department at Michigan State University.
+				</p>
+			</div>
+		</div>
+	</section>
 
-    <section style="background-color:#002855;">
-        <img src="assets/images/speakers/11_melotto.jpg" alt="" data-position="top center" />
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
+    <section>
+            <img src="assets/images/speakers/11_melotto.jpg" alt="" data-position="center center"/>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
                     <h3>Maeli Melotto</h3>
-                    < href="http://www.caes.ucdavis.edu/about/directory/fsd/maeli-melotto" class="icon fa-home"></a>
-                    </header>
-                    <p style="color:#c99700;">Bio Coming Soon!
-                    </p>
-                </div>
+                    <a href="http://melotto.ucdavis.edu/people.htm" class="icon fa-home"></a>
+                </header>
+                <p>Dr. Melotto's Bio Coming Soon!
+                </p>
             </div>
+        </div>
     </section>
 
+
+    <section>
+            <img src="assets/images/speakers/9_brown.png" alt="" data-position="top center"/>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Patrick Brown</h3>
+                    <a href="https://cropsciences.illinois.edu/people/profile/pjb34" class="icon fa-home"></a>
+                </header>
+                    <p>Dr. Patrick Brown is a plant breeder and geneticist focused on the integration of genomic and high-throughput phenotyping technology into applied plant breeding programs. From 2010-2017 he was a faculty member at the University of Illinois working on genetic improvement and abiotic stress resistance of sorghum, maize, and wheat. In July 2017, Brown moved into a position in tree breeding at UC Davis focused on walnut and pistachio.
+                    </p>
+            </div>
+        </div>
+    </section>
 </section>
 
 
