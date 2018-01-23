@@ -1,0 +1,113 @@
+---
+layout: page
+title: Call for abstracts
+image: assets/images/backgrounds/abstracts.jpg
+nav-menu: yes
+weight: 4
+---
+
+<!-- Main -->
+<div id="main" class="alt">
+
+<!-- One -->
+<section id="one">
+	<div class="inner">
+		<center>
+		<header class="major">
+
+			<h1>Call for abstracts</h1>
+		</header>
+		</center>
+
+<!-- Content -->
+<b style="color:#002285;">This year's symposium will provide <b>graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in form of <b>posters</b> (see <a href="/program.html">program</a>). Additionally, four presenters will be competitively chosen to present their work in the form of 20 minute <b>oral presentations</b> (see <a href="/program.html">program</a>). 
+<br><br>
+We will be offering <b>four $500 travel grants</b>. All submitted abstracts will be considered for these travel grants and winners will be competitively chosen. Note: the application deadline to be considered for a travel grant has been extended to <b>March 15</b>. Applications received past this deadline (until <b>March 31</b>) will be considered for presentations but not for a travel grant. 
+<br><br>
+The application form is now <b>closed</b>.
+
+
+<center>
+<h1>Accepted Abstracts</h1>
+</center>
+
+<h4><i>** indicates travel grant winner</i></h4>
+<ol>
+<li><b>Sunil Kumar Kenchanmane Raju**<b style="color:#002285;"> | Graduate Student, University of Nebraska Lincoln  <br> <i>
+An Epigenetic Breeding System in Soybean for Increased Yield and Stability</i></b>  <br><br>
+
+<li><b>Carine Marshall<b style="color:#002285;"> | Graduate Student, University of California, Berkeley  <br> <i>
+Control of Alternative Splicing by SICKLE is Required for Adaptation of the Plant Circadian Clock to Cool
+Temperatures</i></b>  <br><br>
+
+<li><b>Kirk Amundson<b style="color:#002285;"> | Graduate Student, University of California, Davis  <br> <i>
+Elucidating Haploid Induction Mechanism in Solanum tuberosum Using Whole-Genome Resequencing</i></b>  <br><br>
+
+<li><b>Jeff Neyhart**<b style="color:#002285;"> | Graduate Student, University of Minnesota  <br> <i>
+Evaluating Methods of Updating Training Data in Long-Term Genomewide Selection</i></b>  <br><br>
+
+<li><b>Katherine Scheibel<b style="color:#002285;"> | Graduate Student, University of California, Berkeley  <br> <i>
+Characterization of Powdery Mildew Effector Candidates</i></b>  <br><br>
+
+<li><b>Sabin Aslam<b style="color:#002285;"> | Graduate Student, University of California, Davis  <br> <i>
+CRISPR/Cas9 Based Virus Resistance in Cotton</i></b>  <br><br>
+
+<li><b>Gina M. Sideli<b style="color:#002285;"> | Graduate Student, University of California, Davis  <br> <i>
+Moving Towards Molecular Breeding in Walnut</i></b>  <br><br>
+
+<li><b>Destiny Davis<b style="color:#002285;"> | Graduate Student, University of California, Davis  <br> <i>
+Dissecting De Novo Cell Wall Biosynthesis with Endosidin 7</i></b>  <br><br>
+
+<li><b>Stephanie Sjoberg**<b style="color:#002285;"> | Graduate Student, Washington State University  <br> <i>
+The Low Falling Number Problem of Wheat: Applying Knowledge About Seed Biology to a
+Real World Problem</i></b>  <br><br>
+
+<li><b> Min-Yao Jhu<b style="color:#002285;"> | Graduate Student, University of California, Davis  <br> <i>
+Developing a Parasite-Resistant System in Tomato to Control Infestations of Cuscuta pentagona</i></b>  <br><br>
+
+<li><b> Amanda McRae<b style="color:#002285;"> | Graduate Student, University of California, Berkeley  <br> <i>
+Powdery Mildew Conidiophore Initiation but Not Spore Fitness is Correlated with Host Plant Lipid
+Precursor Availability</i></b>  <br><br>
+
+<li><b> Tassadduq Rasool<b style="color:#002285;"> | Graduate Student, University of Agriculture Faisalabad, Pakistan  <br> <i>
+Soil N Dynamics, Chlorophyll Content, and Leaf Nitrate Reductase Activity Influenced by Seed Priming,
+Mulching, and Nitrogen Application in Grain Barley</i></b>  <br><br>
+
+<li><b> Kelsey Wood<b style="color:#002285;"> | Graduate Student, University of California, Davis  <br> <i>
+Effector-Driven Identification of Downy Mildew Resistance Genes in Lettuce</i></b>  <br><br>
+
+<li><b> Feras Almasri<b style="color:#002285;"> | Graduate Student, University of California, Davis  <br> <i>
+Differential Response of Parasitic Nematodes, Soil Pathogens, and Weeds to Allyl Isothiocynate</i></b>  <br><br>
+
+<li><b> Michael Rawls<b style="color:#002285;"> | Graduate Student, University of California, Davis  <br> <i>
+Lysimeter – Whole Tree ET Response to Mild and Moderate Water Stress</i></b>  <br><br>
+
+<li><b> Joseph Edwards<b style="color:#002285;"> | Post-doctoral Scholar, University of California, Davis  <br> <i>
+The Plant Root-Associated Microbiome Viewed Across Diverse Plant Species and Developmental Stages</i></b>  <br><br>
+
+<li><b> Zhaobin Dong<b style="color:#002285;"> | Post-doctoral Scholar, University of California, Berkeley  <br> <i>
+Tassels Replace Upper ears1 Encodes a BTB/POZ Ankyrin Repeat Gene That is Directly Targeted by
+Teosinte branched1</i></b>  <br><br>
+
+<li><b> David B. Lyons<b style="color:#002285;"> | Post-doctoral Scholar, University of California, Berkeley  <br> <i>
+DDM1/Lsh Remodelers Allow Methylation of DNA Wrapped in Nucleosomes</i></b>  <br><br>
+
+<li><b> Sean Gordon<b style="color:#002285;"> | Post-doctoral Scholar, University of California, Berkeley  <br> <i>
+Snapshots of Genome Evolution and Population Dynamics in the Allopolyploid Grass
+Brachypodium hybridum</i></b>  <br><br>
+
+<li><b> Elvira de Lange<b style="color:#002285;"> | Post-doctoral Scholar, University of California, Davis  <br> <i>
+Airborne Remote Sensing to Manage Almond Nutrient Status and Resilience to Biotic Stresses</i></b>  <br><br>
+
+<li><b> Keshav Dev Singh<b style="color:#002285;"> | Post-doctoral Scholar, University of California, Davis  <br> <i>
+Qualitative Analysis of Walnut Trees Rootstock using Airborne Remote Sensing</i></b>  <br><br>
+
+<li><b> Ismail Khan<b style="color:#002285;"> | Graduate Student, Mississippi State University  <br> <i>
+Biological and chemical assessment of Glycine max modified with Gm-XTH52 gene resistant to attack of nematode Heterodera glycine</i></b>  <br><br>
+
+<li><b> Khadijeh Alekasir<b style="color:#002285;"> | Graduate Student, Tarbiat Modares University of Tehran (Iran)  <br> <i>
+The first report of ornithogalum mosaic virus in some Ornithogalum accessions of Iran</i></b>  <br><br>
+
+<li><b> Bhavya Priyadarshani Mishra<b style="color:#002285;"> | Graduate Student, Washington State University  <br> <i>
+Structural, functional and evolutionary conservation and divergence of Starch Synthase III gene among monocots and dicots</i></b>  <br><br>
+
