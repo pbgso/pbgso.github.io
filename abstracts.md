@@ -14,12 +14,12 @@ weight: 4
 <div class="inner">
 <center>
 
-<h1>Other Symposia</h1>
+<h1>Call for ABSTRACTS/h1>
 
 </center>
 
 <!-- Content -->
-<b style="color:#002285;">This year's symposium will provide <b>graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in form of <b>posters</b> (see <a href="/program.html">program</a>). Additionally, four presenters will be competitively chosen to present their work in the form of 20 minute <b>oral presentations</b> (see <a href="/program.html">program</a>). 
+<b style="color:#002285;">This year's symposium will provide <b>graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in form of <b>posters</b> (see <a href="/program.html">program</a>). Additionally, four presenters will be competitively chosen to present their work in the form of 5 minute <b>oral presentations</b> (see <a href="/program.html">program</a>). 
 <br><br>
 We will be offering <b>four $500 travel grants</b>. All submitted abstracts will be considered for these travel grants and winners will be competitively chosen. Note: the application deadline to be considered for a travel grant is <b>March 10</b>. Applications received past this deadline (until <b>March 31</b>) will be considered for presentations but not for a travel grant. 
 <br><br>
@@ -32,6 +32,3 @@ We will be offering <b>four $500 travel grants</b>. All submitted abstracts will
 <span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
 <br>
 <span>This content is neither created nor endorsed by Google.</span>
-
-</div>
-</div>
