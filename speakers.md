@@ -230,7 +230,7 @@ weight: 1
                     <header class="major" style="color:#000000;">
                     <h3>TBD</h3>
                     </header>
-                    <p style="color:#c99700;"> Bio Coming Soon!
+                    <p style="color:#002855;"> Bio Coming Soon!
                     </p>
                 </div>
             </div>
@@ -256,7 +256,7 @@ weight: 1
                     <header class="major" style="color:#000000;">
                     <h3>TBD</h3>
                     </header>
-                    <p style="color:#c99700;"> Bio Coming Soon!
+                    <p style="color:#002855;"> Bio Coming Soon!
                     </p>
                 </div>
             </div>

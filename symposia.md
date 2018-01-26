@@ -42,7 +42,7 @@ weight: 5
 </tr>
 
 <tr>
-<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeyvCbqVNS11vsOkG7QRqPNGtY06ofpLDrH7bQdmLF1zgN-3w/viewform">Cornell University</td><td>January 31</td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeyvCbqVNS11vsOkG7QRqPNGtY06ofpLDrH7bQdmLF1zgN-3w/viewform">Cornell University</a></td><td>January 31</td>
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@ weight: 5
 </tr>
 
 <tr>
-<td><a href="http://www.plantbreeding.iastate.edu/Current_Symposium/Symposium_Travel_Grant.html">University of Nebraska -&nbsp;Lincoln</td><td>March 1-2 </td>
+<td><a href="http://www.plantbreeding.iastate.edu/Current_Symposium/Symposium_Travel_Grant.html">University of Nebraska -&nbsp;Lincoln</a></td><td>March 1-2 </td>
 </tr>
 
 <tr>
