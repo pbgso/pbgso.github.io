@@ -19,7 +19,7 @@ nav-menu:
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
 				<li><h2>April 16th, 2018</h2></li><br>
-				<li><a href="http://plantsciencesymposium.ucdavis.edu/register.html" class="button next scrolly">Click HERE to REGISTER for #UCDPSS18!</a></li>
+				<li><a href="/register.html" class="button next scrolly">Click HERE to REGISTER for #UCDPSS18!</a></li>
 			</ul>
 		</div>
 	</div>
