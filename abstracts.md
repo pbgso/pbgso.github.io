@@ -14,7 +14,7 @@ weight: 4
 <div class="inner">
 <center>
 
-<h1>Call for ABSTRACTS/h1>
+<h1>Call for ABSTRACTS</h1>
 
 </center>
 
