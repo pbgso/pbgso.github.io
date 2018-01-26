@@ -38,51 +38,39 @@ weight: 5
 <tbody>
 
 <tr>
-<td><a href="http://mupioneersymposium.org/">University of Missouri</a></td><td>February 2</td>
+<td><a href="http://www.ufplants.org">University of Florida</a></td><td>Jan 26</td>
 </tr>
 
 <tr>
-<td><a href="http://plantbreedingsymposium.com/">Texas A&amp;M University</a></td><td>February 16</td>
+<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeyvCbqVNS11vsOkG7QRqPNGtY06ofpLDrH7bQdmLF1zgN-3w/viewform">Cornell University</td><td>January 31</td>
 </tr>
 
 <tr>
-<td>University of Minnesota Production Agriculture Symposium</td><td>February 24</td>
+<td><a href="http://mupioneersymposium.org/">University of Missouri</a></td><td>February 8</td>
 </tr>
 
 <tr>
-<td><a href="http://www.plantbreeding.iastate.edu/Current_Symposium/Symposium_Main.html">Iowa State University</a></td><td>March 3</td>
+<td><a href="http://plantbreedingsymposium.com/">Texas A&amp;M University</a></td><td>February 22</td>
 </tr>
 
 <tr>
-<td>Cornell University</td><td>March 10</td>
+<td><a href="http://www.plantbreeding.iastate.edu/Current_Symposium/Symposium_Main.html">Iowa State University</a></td><td>March 2</td>
 </tr>
 
 <tr>
-<td>University of Nebraska -&nbsp;Lincoln</td><td>March 14</td>
+<td><a href="http://www.plantbreeding.iastate.edu/Current_Symposium/Symposium_Travel_Grant.html">University of Nebraska -&nbsp;Lincoln</td><td>March 1-2 </td>
 </tr>
 
 <tr>
-<td><a href="http://cahnrs.wsu.edu/pioneeringideas2017/">Washington State University</a></td><td>March 17</td>
+<td><a href="http://plantsciencesymposium.wsu.edu">Washington State University</a></td><td>March 30</td>
 </tr>
 
 <tr>
-<td><a href="http://plantsciencesymposium.umn.edu/">University of Minnesota</a></td><td>March 23-24</td>
+<td><a href="http://plantsciencesymposium.umn.edu/">University of Minnesota</a></td><td>March 22-23</td>
 </tr>
 
 <tr>
-<td><a href="http://www.ufplants.org">University of Florida</a></td><td>April 13</td>
-</tr>
-
-<tr>
-<td>University of Georgia</td><td>May 9</td>
-</tr>
-
-<tr>
-<td>University of California - Berkeley</td><td>May 30&nbsp;</td>
-</tr>
-
-<tr>
-<td>University of Paris -&nbsp;Moulon</td><td>June 15</td>
+<td>University of California - Berkeley</td><td>May 15</td>
 </tr>
 
 </tbody>

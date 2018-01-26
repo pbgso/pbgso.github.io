@@ -212,7 +212,7 @@ weight: 1
 
 
 <!-- Five -->
-<section id="five" style="background-color:#c99700;">
+<section id="five" style="background-color:#002855;">
     <div class="inner">
         <header class="major">
         <h1 style="color:#ffffff;"> Student and Post-Doctoral Speakers</h1>
@@ -223,8 +223,8 @@ weight: 1
 <!-- Six -->
 <section id="six" class="spotlights">
 
-    <section style="background-color:#002855;">
-        <img src="assets/images/speakers/fbpost.png" alt="" data-position="center center"/>
+    <section style="background-color:#c99700;">
+        <img src="assets/images/fbpost2.png" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#000000;">
@@ -237,7 +237,7 @@ weight: 1
     </section>
 
     <section style="background-color:#002855;">
-        <img src="assets/images/speakers/fbpost.png" alt="" data-position="center center"/>
+        <img src="assets/images/fbpost2.png" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#000000;">
@@ -249,8 +249,8 @@ weight: 1
             </div>
     </section>
 
-    <section style="background-color:#002855;">
-        <img src="assets/images/speakers/fbpost.png" alt="" data-position="center center"/>
+    <section style="background-color:#c99700;">
+        <img src="assets/images/fbpost2.png" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#000000;">
@@ -263,7 +263,7 @@ weight: 1
     </section>
     
     <section style="background-color:#002855;">
-        <img src="assets/images/speakers/fbpost.png" alt="" data-position="center center"/>
+        <img src="assets/images/fbpost2.png" alt="" data-position="center center"/>
             <div class="content">
                 <div class="inner">
                     <header class="major" style="color:#000000;">
