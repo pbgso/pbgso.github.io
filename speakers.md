@@ -53,7 +53,7 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/6_kellogg.jpg" alt="" data-position="top center" />
+			<img src="assets/images/speakers/6_kellogg.png" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
