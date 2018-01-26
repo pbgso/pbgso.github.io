@@ -60,7 +60,7 @@ weight: 1
 					<h3>Elizabeth "Toby" Kellogg</h3>
                     <a href="http://kellogglab.weebly.com" class="icon fa-home"></a>
 				</header>
-				<p>Elizabeth "Toby" Kellogg is the Robert E. King Distinguished Investigator at the Donald Danforth Plant Science Center in St. Louis, Missouri. Her lab studies cereal crops and their wild relatives in the grass family, using both natural diversity to unlock the genetic potential of the crops, and also the genetic tools of the crops to understand natural diversity. She has discovered genes that affect seed production in crops and in the wild, and has studied grass evolution and genomics. She has published well over 150 papers, two co-authored textbooks, and a book on the evolution and classification of the grass family.  She received her Ph.D. degree from Harvard University, and was awarded an honorary doctorate from the University of Córdoba in Argentina.  She has received a Guggenheim Fellowship and the Chancellor's Award for Research and Creativity at the University of Missouri-St. Louis, where she held an endowed chair for 15 years before moving to the Danforth Center.  She is a Fellow of the American Academy for the Advancement of Science (AAAS), a Fellow of the Academia Nacional de Ciencias, Argentina, and has served as President of the American Society of Plant Taxonomists, the Society for Systematic Biology, and the Botanical Society of America. 
+				<p>Dr. Elizabeth "Toby" Kellogg is the Robert E. King Distinguished Investigator at the Donald Danforth Plant Science Center in St. Louis, Missouri. Her lab studies cereal crops and their wild relatives in the grass family, using both natural diversity to unlock the genetic potential of the crops, and also the genetic tools of the crops to understand natural diversity. She has discovered genes that affect seed production in crops and in the wild, and has studied grass evolution and genomics. She has published well over 150 papers, two co-authored textbooks, and a book on the evolution and classification of the grass family.  She received her Ph.D. degree from Harvard University, and was awarded an honorary doctorate from the University of Córdoba in Argentina.  She has received a Guggenheim Fellowship and the Chancellor's Award for Research and Creativity at the University of Missouri-St. Louis, where she held an endowed chair for 15 years before moving to the Danforth Center.  She is a Fellow of the American Academy for the Advancement of Science (AAAS), a Fellow of the Academia Nacional de Ciencias, Argentina, and has served as President of the American Society of Plant Taxonomists, the Society for Systematic Biology, and the Botanical Society of America. 
 				</p>
 			</div>
 		</div>
@@ -118,7 +118,7 @@ weight: 1
                     <h3>Lucia Gutierrez</h3>
                     <a href="http://agronomy.wisc.edu/lucia-gutierrez/" class="icon fa-home"></a>
                     </header>
-                    <p>Dr. Dr. Lucia Gutierrez focuses on breeding cereals, such as oats, wheat, and barley, for more sustainable agricultural systems through the study of complex quantitative traits and the development, comparison, and deployment of new methodologies for quantitative genetics data analysis for plant breeding. Her program uses genomic data to unveil new genetic diversity to deploy in breeding programs in three areas: 1) population genetics and diversity; 2) quantitative genetics applied to plant breeding; and 3) experimental designs and multi-environment studies for large genetic data.
+                    <p>Dr. Lucia Gutierrez focuses on breeding cereals, such as oats, wheat, and barley, for more sustainable agricultural systems through the study of complex quantitative traits and the development, comparison, and deployment of new methodologies for quantitative genetics data analysis for plant breeding. Her program uses genomic data to unveil new genetic diversity to deploy in breeding programs in three areas: 1) population genetics and diversity; 2) quantitative genetics applied to plant breeding; and 3) experimental designs and multi-environment studies for large genetic data.
                     </p>
                 </div>
             </div>
@@ -132,7 +132,7 @@ weight: 1
                     <h3>Amit Sethi</h3>
                     <a href="https://www.linkedin.com/in/amit-sethi-097a6323/" class="icon fa-linkedin"></a>
                     </header>
-                    <p>Dr. Dr. Amit Sethi, Senior Research Manager, leads the Durability and Resistance Management group at DowDuPont, focusing on delivering Insect Resistance Management (IRM) knowledge and strategy related to all crops to internal and external customers globally that aid in product characterization, development and deployment. His team activities involve developing resistant insect colonies against pre- and post-commercial traits, conducting ecological and genomic studies related to cross-resistance, trait efficacy and compatibility, insect survivorship, refuge deployment, resistance monitoring and characterization, and trait durability modeling. Amit holds a B.S. degree in Agriculture (Hons. In Plant Protection) and a M.S. degree in Entomology from Punjab Agricultural University, an M.B.A. in Operations Management from the Indira Gandhi National Open University, a Ph.D. in Entomology from the University of Florida, and Post-Doctoral experience from Louisiana State University and Purdue University. 
+                    <p>Dr. Amit Sethi, Senior Research Manager, leads the Durability and Resistance Management group at DowDuPont, focusing on delivering Insect Resistance Management (IRM) knowledge and strategy related to all crops to internal and external customers globally that aid in product characterization, development and deployment. His team activities involve developing resistant insect colonies against pre- and post-commercial traits, conducting ecological and genomic studies related to cross-resistance, trait efficacy and compatibility, insect survivorship, refuge deployment, resistance monitoring and characterization, and trait durability modeling. Amit holds a B.S. degree in Agriculture (Hons. In Plant Protection) and a M.S. degree in Entomology from Punjab Agricultural University, an M.B.A. in Operations Management from the Indira Gandhi National Open University, a Ph.D. in Entomology from the University of Florida, and Post-Doctoral experience from Louisiana State University and Purdue University. 
                     </p>
                 </div>
             </div>
@@ -188,7 +188,7 @@ weight: 1
                     <h3>Maeli Melotto</h3>
                     <a href="http://melotto.ucdavis.edu/people.htm" class="icon fa-home"></a>
                 </header>
-                <p>Dr. Melotto's Bio Coming Soon!
+                <p>Dr. Maeli Melotto is an assistant professor in the Department of Plant Sciences at UC Davis. Dr. Melotto completed her Ph.D. in plant breeding and genetics at Michigan State University before joining the UC Davis faculty in 2014 from the University of Texas. Her research is focused on understanding the close interaction between plants and pathogens at the molecular level. Her work aims to determine the physiological changes that happen in both the plant and the pathogen when they come into contact. Specifically to understand how the plant immune system works to fight against pathogen infection and how pathogens employ virulence strategies to overcome plant defenses. This line of research is critical for the development of environmentally sound methods to minimize the impact of diseases and economic losses in agriculture worldwide, and to reduce food contamination with human pathogens in crops such as leafy vegetables.
                 </p>
             </div>
         </div>
@@ -215,7 +215,7 @@ weight: 1
 <section id="five" style="background-color:#002855;">
     <div class="inner">
         <header class="major">
-        <h1 style="color:#ffffff;"> Student and Post-Doctoral Speakers</h1>
+        <h1 style="color:#ffffff;"> Flash Talks</h1>
         </header>
     </div>
 </section>
