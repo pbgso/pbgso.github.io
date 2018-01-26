@@ -19,7 +19,7 @@ nav-menu:
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
 				<li><h2>April 16th, 2018</h2></li><br>
-				<li><a href="/register.html" class="button next scrolly">Click HERE to REGISTER for #UCDPSS18!</a></li>
+				<li><a href="/register.html" class="button next scrolly">Click HERE to REGISTER <br> for #UCDPSS18!</a></li>
 			</ul>
 		</div>
 	</div>
@@ -31,7 +31,15 @@ nav-menu:
 <!-- One -->
 <section id="one" class="tiles">
 
-
+<article>
+<span class="image">
+<img src="assets/images/backgrounds/speakers.jpg" alt="" />
+</span>
+<header class="major">
+<h3><a href="/speakers.html" class="link">Speakers</a></h3>
+<p></p>
+</header>
+</article>
 
 <article>
 <span class="image">
@@ -43,20 +51,6 @@ nav-menu:
 </header>
 </article>
 
-
-
-<article>
-<span class="image">
-<img src="assets/images/backgrounds/speakers.jpg" alt="" />
-</span>
-<header class="major">
-<h3><a href="/speakers.html" class="link">Speakers</a></h3>
-<p></p>
-</header>
-</article>
-
-
-
 <article>
 <span class="image">
 <img src="assets/images/backgrounds/program.jpg" alt="" />
@@ -67,8 +61,6 @@ nav-menu:
 </header>
 </article>
 
-
-
 <article>
 <span class="image">
 <img src="assets/images/backgrounds/register.jpg" alt="" />
@@ -78,7 +70,6 @@ nav-menu:
 <p></p>
 </header>
 </article>
-
 
 
 <article>
