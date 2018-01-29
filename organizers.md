@@ -56,7 +56,7 @@ weight: 0
                     <h3 style="color: #002855;">Dominique Pincot</h3>
                      ddpincot [at] ucdavis [dot] edu 
 				</header>
-				<p>Dominique Pincot is a first-year PhD student in Horticulture and Agronomy studying plant breeding and genetics. She received a BS in Biology from Tufts University in Medford, Massachusetts, and a MS degree in Horticulture and Agronomy from the University of California, Davis. Her research with Dr. Steven Knapp's lab focuses on characterizing resistance to Fusarium wilt and Verticillium wilt in cultivated strawberry (Fragaria x ananassa.)
+				<p>Dominique Pincot is a first-year PhD student in Horticulture and Agronomy studying plant breeding and genetics. She received a BS in Biology from Tufts University in Medford, Massachusetts, and a MS degree in Horticulture and Agronomy from the University of California, Davis. Her research with Dr. Steven Knapp's lab focuses on characterizing resistance to Fusarium wilt and Verticillium wilt in cultivated strawberry (<i>Fragaria</i> x <i>ananassa.</i>)
 			</p>
 			</div>
 		</div>
