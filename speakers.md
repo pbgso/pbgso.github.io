@@ -39,7 +39,7 @@ weight: 1
 <section id="two" class="spotlights">
 
 	<section>
-            <img src="assets/images/speakers/1_whiteman.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/whiteman.jpg" alt="" data-position="center center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -53,7 +53,7 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/6_kellogg.jpg" alt="" data-position="top center" />
+			<img src="assets/images/speakers/kellogg.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -67,7 +67,7 @@ weight: 1
 	</section>
 
     <section>
-            <img src="assets/images/speakers/3_chitwood.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/chitwood.jpg" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -82,7 +82,7 @@ weight: 1
 
 
     <section>
-            <img src="assets/images/speakers/5_harmer.jpg" alt="" data-position="top center"/>
+            <img src="assets/images/speakers/harmer.jpg" alt="" data-position="top center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -96,7 +96,7 @@ weight: 1
     </section>
 
     <section>
-            <img src="assets/images/speakers/4_edger.jpg" alt="" data-position="center center" />
+            <img src="assets/images/speakers/edger.jpg" alt="" data-position="center center" />
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -111,7 +111,7 @@ weight: 1
 
 
     <section>
-        <img src="assets/images/speakers/7_lucia.jpg" alt="" data-position="top center" />
+        <img src="assets/images/speakers/lucia.jpg" alt="" data-position="top center" />
             <div class="content">
                 <div class="inner">
                     <header class="major">
@@ -125,7 +125,7 @@ weight: 1
     </section>
 
     <section>
-        <img src="assets/images/speakers/2_sethi.png" alt="" data-position="center center" />
+        <img src="assets/images/speakers/sethi.jpg" alt="" data-position="center center" />
             <div class="content">
                 <div class="inner">
                     <header class="major">
@@ -153,7 +153,7 @@ weight: 1
 <section id="four" class="spotlights">
 
 	<section>
-            <img src="assets/images/speakers/10_blanco.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/blanco.jpg" alt="" data-position="center center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -167,7 +167,7 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/8_josephs.jpg" alt="" data-position="top center" />
+			<img src="assets/images/speakers/josephs.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -181,7 +181,7 @@ weight: 1
 	</section>
 
     <section>
-            <img src="assets/images/speakers/11_melotto.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/melotto.jpg" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -196,7 +196,7 @@ weight: 1
 
 
     <section>
-            <img src="assets/images/speakers/9_brown.png" alt="" data-position="top center"/>
+            <img src="assets/images/speakers/brown.png" alt="" data-position="top center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
