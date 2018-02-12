@@ -60,7 +60,7 @@ weight: 1
 					<h3>Elizabeth "Toby" Kellogg</h3>
                     <a href="http://kellogglab.weebly.com" class="icon fa-home"></a>
 				</header>
-				<p>Dr. Elizabeth "Toby" Kellogg is the Robert E. King Distinguished Investigator at the Donald Danforth Plant Science Center in St. Louis, Missouri. Her lab studies cereal crops and their wild relatives in the grass family, using both natural diversity to unlock the genetic potential of the crops, and also the genetic tools of the crops to understand natural diversity. She has discovered genes that affect seed production in crops and in the wild, and has studied grass evolution and genomics. She has published well over 150 papers, two co-authored textbooks, and a book on the evolution and classification of the grass family.  She received her Ph.D. degree from Harvard University, and was awarded an honorary doctorate from the University of Córdoba in Argentina.  She has received a Guggenheim Fellowship and the Chancellor's Award for Research and Creativity at the University of Missouri-St. Louis, where she held an endowed chair for 15 years before moving to the Danforth Center.  She is a Fellow of the American Academy for the Advancement of Science (AAAS), a Fellow of the Academia Nacional de Ciencias, Argentina, and has served as President of the American Society of Plant Taxonomists, the Society for Systematic Biology, and the Botanical Society of America. 
+				<p>Dr. Elizabeth "Toby" Kellogg is the Robert E. King Distinguished Investigator at the Donald Danforth Plant Science Center in St. Louis. Her lab studies cereal crops and their wild relatives using both natural diversity as well as the genetic tools of the crops. She has discovered genes that affect seed production and has studied grass evolution and genomics. She has published well over 150 papers, two co-authored textbooks, and a book on the evolution and classification of the grass family. She received her Ph.D. degree from Harvard University and an  honorary doctorate from the University of Córdoba in Argentina. She has received a Guggenheim Fellowship and the Chancellor's Award for Research and Creativity at the University of Missouri, where she held an endowed chair for 15 years. She is a Fellow of the American Academy for the Advancement of Science (AAAS), a Fellow of the Academia Nacional de Ciencias, Argentina, and has served as President of the American Society of Plant Taxonomists, the Society for Systematic Biology, and the Botanical Society of America.
 				</p>
 			</div>
 		</div>
@@ -160,7 +160,7 @@ weight: 1
 					<h3>Barbara Blanco-Ulate</h3>
                     <a href="http://blancolab.ucdavis.edu" class="icon fa-home"></a>
 				</header>
-				<p>Dr. Blanco-Ulate's Bio Coming Soon!
+				<p>Dr. Blanco-Ulate, an Assistant Professor in the Department of Plant Sciences, focuses on fruit biology. She obtained a Ph.D. in Plant Biology from UC Davis. Her research interests include the control of fruit ripening, postharvest fruit quality, and fruit-pathogen interactions. Her team integrates systems biology approaches with biochemical and physiological analyses to study fruit development and quality traits, and to establish a novel framework for the early detection and efficient management of fruit diseases.
 				</p>
 			</div>
 		</div>
