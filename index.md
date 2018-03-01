@@ -86,8 +86,6 @@ nav-menu:
 </header>
 </article>
 
-
-
 <article>
 <span class="image">
 <img src="assets/images/backgrounds/symposia.jpg" alt="" />
@@ -98,7 +96,15 @@ nav-menu:
 </header>
 </article>
 
-
+<article>
+<span class="image">
+<img src="assets/images/backgrounds/banner.png" alt="" />
+</span>
+<header class="major">
+<h3><a href="/sponsors.html" class="link">Sponsors & Opportunities</a></h3>
+<p></p>
+</header>
+</article>
 
 
 
