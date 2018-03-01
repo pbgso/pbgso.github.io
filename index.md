@@ -23,7 +23,8 @@ nav-menu:
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
 				<li><h2>April 16th, 2018</h2></li><br>
-				<li><a href="/register.html" class="button next scrolly">Click HERE to REGISTER</a></li>
+				<li><a href="/register.html" class="button next scrolly">Registration</a></li>
+				<li><a href="/abstracts.html" class="button next scrolly">Abstract Submission</a></li>
 			</ul>
 		</div>
 	</div>
@@ -98,7 +99,7 @@ nav-menu:
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/banner.png" alt="" />
+<img src="assets/images/backgrounds/program.jpg" alt="" />
 </span>
 <header class="major">
 <h3><a href="/sponsors.html" class="link">Sponsors & Opportunities</a></h3>
