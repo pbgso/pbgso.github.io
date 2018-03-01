@@ -55,7 +55,7 @@ weight: 5
 <tbody>
 
 <tr>
-<td><b>Sponsor</b<</td><td><b>Level</b></td>
+<td><b>Sponsor</b></td><td><b>Level</b></td>
 </tr>
 
 <tr>
