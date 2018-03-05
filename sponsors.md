@@ -63,6 +63,10 @@ weight: 5
 </tr>
 
 <tr>
+<td>UC Davis Plant Breeding Center</td><td>Diamond</td>
+</tr>
+
+<tr>
 <td>Enza Zaden</td><td>Gold</td>
 </tr>
 
