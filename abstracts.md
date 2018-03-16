@@ -10,25 +10,22 @@ weight: 4
 <div id="main" class="alt">
 
 <!-- One -->
+<section id="one">
+	<div class="inner">
+		<center>
+		<header class="major">
 
-<div class="inner">
-<center>
-
-<h1>Call for ABSTRACTS</h1>
-
-</center>
+			<h1>Call for abstracts</h1>
+		</header>
+		</center>
 
 <!-- Content -->
 <b style="color:#002285;">This year's symposium will provide <b>graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in form of <b>posters</b> (see <a href="/program.html">program</a>). Additionally, four presenters will be competitively chosen to present their work in the form of 5 minute <b>oral presentations</b> (see <a href="/program.html">program</a>). 
 <br><br>
-We will be offering <b>four $500 travel grants</b>. All submitted abstracts will be considered for these travel grants and winners will be competitively chosen. Note: the application deadline to be considered for a travel grant is <b>March 10</b>. Applications received past this deadline (until <b>March 31</b>) will be considered for presentations but not for a travel grant. 
+We will be offering <b>four $500 travel grants</b>. All abstracts submitted prior to the March 10, 2018 deadline will be considered for these travel awards and winners will be competitively chosen. Applications received between <b>March 10-31</b> will be accepted first come first served, while space lasts, but will not be considered for travel awards or oral presentation.
 <br><br>
+Please send late abstract submissions to Mitchell Feldmann at mjfeldmann [at] ucdavis [dot] edu
+<br><br>
+The application form is now <b>closed</b>.
 
-<center>
-<p style="color:#002285;">Please submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-s_HwULPV76jCqEIC46FXXaLI-bXV4MBdev83gURyuj_LJw/viewform?usp=sf_link"> HERE </a></b> by <b>March 10, 2018</b>. Please keep abstracts to a 300 word maximum.</p>
-</center>
 
-<br><br>	
-<span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
-<br>
-<span>This content is neither created nor endorsed by Google.</span>
