@@ -24,7 +24,6 @@ nav-menu:
 			<ul class="actions">
 				<li><h2>April 16th, 2018</h2></li><br>
 				<li><a href="/register.html" class="button next scrolly">Registration</a></li>
-				<li><a href="/abstracts.html" class="button next scrolly">Abstract Submission</a></li>
 			</ul>
 		</div>
 	</div>
