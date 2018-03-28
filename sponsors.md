@@ -98,6 +98,14 @@ weight: 5
 <td>Sun World</td><td>Supporter</td>
 </tr>
 
+<tr>
+<td>American Takii</td><td>Supporter</td>
+</tr>
+
+<tr>
+<td>International Fruit Genetics</td><td>Supporter</td>
+</tr>
+
 </tbody>
 </table>
 
