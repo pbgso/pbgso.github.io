@@ -71,7 +71,7 @@ weight: 5
 </tr>
 
 <tr>
-<td>Betteravia Wine</td><td>Gold</td>
+<td>Betteravia Winery</td><td>Gold</td>
 </tr>
 
 <tr>
@@ -95,7 +95,7 @@ weight: 5
 </tr>
 
 <tr>
-<td>Sun World</td><td>Supporter</td>
+<td>Sun World International</td><td>Supporter</td>
 </tr>
 
 <tr>
