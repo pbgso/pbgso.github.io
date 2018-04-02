@@ -127,7 +127,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">15:50</td>
-<td> <b style="font-size:120%;">Stacy Harmer</b> | University of California-Davis<br>  <i>"Circadian rhythms are turning heads: clock regulation of sunflower growth and development"</i></td>
+<td> <b style="font-size:120%;">Stacey Harmer</b> | University of California-Davis<br>  <i>"Circadian rhythms are turning heads: clock regulation of sunflower growth and development"</i></td>
 </tr>
 
 <tr>
