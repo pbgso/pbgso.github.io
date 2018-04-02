@@ -51,22 +51,22 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">08:40</td>
-<td> <b style="font-size:120%;">Speaker 1</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Elizabeth Kellogg</b> | Donald Danforth Plant Science Center<br>  <i>"Inflorescence form and function in sorghum and its relatives"</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">09:20</td>
-<td> <b style="font-size:120%;">Spotlight 1</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Barbara Blanco-Ulate </b> | University of California-Davis<br>  <i>"Postharvest biology: Bridging fundamental and applied research"</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">09:35</td>
-<td> <b style="font-size:120%;">Spotlight 2</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Patrick Brown</b> | University of California-Davis<br>  <i>"Accelerating genetic gain in tree crops"</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">09:50</td>
-<td> <b style="font-size:120%;">Speaker 2</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Daniel Chitwood</b> | Michigan State University<br>  <i>"Topological Data Analysis: What is it? What is it good for? How can it be used to study plant morphology?"</i></td>
 </tr>
 
 <tr>
@@ -76,12 +76,12 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">10:50</td>
-<td> <b style="font-size:120%;">Speaker 3</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Noah Whiteman</b> | University of California-Berkeley<br>  <i>"My model organism eats your model organism: The natural history of a Drosophila that attacks Arabidopsis"</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">11:30</td>
-<td> <b style="font-size:120%;">Speaker 4</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Amit Sethi</b> | DuPont Pioneer<br>  <i>"Next-Generation Insect-Resistant Biotech Crops"</i></td>
 </tr>
 
 <tr>
@@ -101,12 +101,12 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">13:30</td>
-<td> <b style="font-size:120%;">Speaker 5</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Patrick Edger</b> | Michigan State University<br>  <i>"Subgenome dominance in interspecific hybrids and allopolyploids"</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">14:10</td>
-<td> <b style="font-size:120%;">Speaker 6</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Lucia Gutierrez</b> | University of Wisconsin-Madison<br>  <i>TBA</i></td>
 </tr>
 
 <tr>
@@ -117,17 +117,17 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">15:20</td>
-<td> <b style="font-size:120%;">Spotlight 3</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Emily Josephs</b> | University of California-Davis<br>  <i>"Linking population genomics and quantitative genetics to understand the maintenance of variation in wild and domesticated plants"</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">15:35</td>
-<td> <b style="font-size:120%;">Spotlight 4</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Maeli Melotto</b> | University of California-Davis<br>  <i>"Human Pathogens on Plants"</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">15:50</td>
-<td> <b style="font-size:120%;">Speaker 7</b> | TBA<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Stacy Harmer</b> | University of California-Davis<br>  <i>"Circadian rhythms are turning heads: clock regulation of sunflower growth and development"</i></td>
 </tr>
 
 <tr>
