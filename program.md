@@ -106,7 +106,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">14:10</td>
-<td> <b style="font-size:120%;">Lucia Gutierrez</b> | University of Wisconsin-Madison<br>  <i>TBA</i></td>
+<td> <b style="font-size:120%;">Lucia Gutierrez</b> | University of Wisconsin-Madison<br>  <i>Breeding Cereals for Sustainable Agriculture: Harnessing Genomic Data to Accelerate Gains in Complex Quantitative Traits</i></td>
 </tr>
 
 <tr>
