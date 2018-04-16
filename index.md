@@ -29,8 +29,14 @@ nav-menu:
         <div class="content">
             <p style="text-transform: uppercase;">{{ site.description }}</p>
             <ul class="actions">
-                    <li><a href="https://www.youtube.com/watch?v=spH-w5LseY0" class="button next scrolly">Watch LIVE</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=spH-w5LseY0" class="button next scrolly">Watch pt.1 LIVE</a></li>
                 </ul>
+        </div>
+        <div class="content">
+        <p style="text-transform: uppercase;">{{ site.description }}</p>
+        <ul class="actions">
+        <li><a href="https://www.youtube.com/watch?v=YH2p9lezKW0" class="button next scrolly">Watch pt.2 LIVE</a></li>
+        </ul>
         </div>
 	</div>
 </section>
