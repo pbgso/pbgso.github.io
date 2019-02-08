@@ -39,7 +39,7 @@ weight: 1
 <section id="two" class="spotlights">
 
 	<section>
-            <img src="assets/images/speakers/hopkins.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/hopkins_400px.jpg" alt="" data-position="center center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
