@@ -53,7 +53,7 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/Jose Photo.jpg" alt="" data-position="top center" />
+			<img src="assets/images/speakers/Jose Photo.jpg" alt="" data-position="top center" width = 350/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
