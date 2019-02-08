@@ -153,14 +153,15 @@ weight: 1
 <section id="four" class="spotlights">
 
 	<section>
-            <img src="assets/images/speakers/blanco.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/Beckles Photo.png" alt="" data-position="center center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Barbara Blanco-Ulate</h3>
-                    <a href="http://blancolab.ucdavis.edu" class="icon fa-home"></a>
+					<h3>Diane M. Beckles</h3>
+                    <a href="https://psfaculty.plantsciences.ucdavis.edu/plantsciences_faculty/beckles/index.html" class="icon fa-home"></a>
 				</header>
-				<p>Dr. Blanco-Ulate, an Assistant Professor in the Department of Plant Sciences, focuses on fruit biology. She obtained a Ph.D. in Plant Biology from UC Davis. Her research interests include the control of fruit ripening, postharvest fruit quality, and fruit-pathogen interactions. Her team integrates systems biology approaches with biochemical and physiological analyses to study fruit development and quality traits, and to establish a novel framework for the early detection and efficient management of fruit diseases.
+				<p>Diane M Beckles is an Associate Professor and Associate Postharvest Biochemist in the Department of Plant Sciences at the University of California, Davis. Dr. Beckles’ research is focused on identifying genes and environmental factors that determine the postharvest quality of horticultural crops and cereals. Her primary interests are in starch biosynthesis and structure, and the postharvest chilling injury of horticultural crops. Her lab aims to understand the molecular basis of quality components in fruit, vegetable and cereals in order to optimize value for the consumer, thereby reducing food waste and lost. Her expertise ranges from molecular physiology to the structural and chemical analysis of biomaterials. She is the author of over 50 research articles, book chapters and technical articles. She has served as an expert reviewer for over 20 different journals that span genomics, genetics, food sciences, plant physiology and biochemistry, and has served on federal grant panels on crop improvement and integrative biology. She also advises research groups and students in China, Nigeria, Thailand and Tanzania. Dr. Beckles received her Bachelor’s degree in Biotechnology from University of Sheffield, (UK), and her PhD. from the University of Cambridge (UK), with postdoctoral research at DuPont Agricultural Biotechnology (USA). She is a member of the American Society of Horticultural Science, and the International Society of Horticultural Science. 
+
 				</p>
 			</div>
 		</div>
