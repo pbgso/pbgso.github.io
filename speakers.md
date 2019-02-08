@@ -67,14 +67,14 @@ weight: 1
 	</section>
 
     <section>
-            <img src="assets/images/speakers/chitwood.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/Beckles Photo.png" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
                     <h3>Daniel Chitwood</h3>
-                    <a href="https://www.morphologylab.org" class="icon fa-home"></a>
+                    <a href="https://psfaculty.plantsciences.ucdavis.edu/plantsciences_faculty/beckles/index.html" class="icon fa-home"></a>
                 </header>
-                <p>Dr. Dan Chitwood's research focuses on developing methods to measure and quantify plant morphology. His interest in plant morphology began with studying leaf development and the contribution of small RNA movement to adaxial-abaxial ("dorsal-ventral") patterning with Dr. Marja Timmermans at Cold Spring Harbor Laboratory. He then studied natural variation in leaf shape among tomato and its wild relatives with Dr. Neelima Sinha at U.C. Davis. It was during this time that Dr. Chitwood realized a need to develop statistics to quantify subtle differences in shape between tomato near-isogenic introgression lines. Currently, Dr. Chitwood is at Michigan State University in the Departments of Horticulture and Computational Mathematics, Science and Engineering. He will be using X-ray Computed Tomography to create 3D and 4D models of plant architecture and working with mathematicians to develop topological models of morphology.
+                <p> Diane M Beckles is an Associate Professor and Associate Postharvest Biochemist in the Department of Plant Sciences at the University of California, Davis. Dr. Beckles’ research is focused on identifying genes and environmental factors that determine the postharvest quality of horticultural crops and cereals. Her primary interests are in starch biosynthesis and structure, and the postharvest chilling injury of horticultural crops. Her lab aims to understand the molecular basis of quality components in fruit, vegetable and cereals in order to optimize value for the consumer, thereby reducing food waste and lost. Her expertise ranges from molecular physiology to the structural and chemical analysis of biomaterials. She is the author of over 50 research articles, book chapters and technical articles. She has served as an expert reviewer for over 20 different journals that span genomics, genetics, food sciences, plant physiology and biochemistry, and has served on federal grant panels on crop improvement and integrative biology. She also advises research groups and students in China, Nigeria, Thailand and Tanzania. Dr. Beckles received her Bachelor’s degree in Biotechnology from University of Sheffield, (UK), and her PhD. from the University of Cambridge (UK), with postdoctoral research at DuPont Agricultural Biotechnology (USA). She is a member of the American Society of Horticultural Science, and the International Society of Horticultural Science. 
                 </p>
             </div>
         </div>
