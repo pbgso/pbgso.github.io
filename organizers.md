@@ -38,10 +38,10 @@ weight: 0
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #C99700;">Anita To</h3> 
+					<h3 style="color: #C99700;">Scott Newell</h3> 
                      sanewell [at] ucdavis [dot] edu
 				</header>
-				<p>Anita To is...
+				<p>Scott Newell is a Masters student in Horticulture and Agronomy studying plant breeding and genetics. His research work in Dr. E. Charles Brummer's lab involves assessing the potential application of genetic fingerprinting to alfalfa varieties, as well as the evaluation of new germplasm for introgression into a developing UC Davis alfalfa breeding program. Scott completed his B.S. in Agronomy with an emphasis on plant breeding at Iowa State University and found an interest in plant breeding and bioinformatics.
                 </p>
 			</div>
 		</div>
