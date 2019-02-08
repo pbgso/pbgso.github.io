@@ -53,14 +53,14 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/kellogg.jpg" alt="" data-position="top center" />
+			<img src="assets/images/speakers/Jose_Dinneny.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Elizabeth "Toby" Kellogg</h3>
-                    <a href="http://kellogglab.weebly.com" class="icon fa-home"></a>
+					<h3>José Dinneny</h3>
+                    <a href="https://dinnenylab.me/" class="icon fa-home"></a>
 				</header>
-				<p>Dr. Elizabeth "Toby" Kellogg is the Robert E. King Distinguished Investigator at the Donald Danforth Plant Science Center in St. Louis. Her lab studies cereal crops and their wild relatives using both natural diversity as well as the genetic tools of the crops. She has discovered genes that affect seed production and has studied grass evolution and genomics. She has published well over 150 papers, two co-authored textbooks, and a book on the evolution and classification of the grass family. She received her Ph.D. degree from Harvard University and an  honorary doctorate from the University of Córdoba in Argentina. She has received a Guggenheim Fellowship and the Chancellor's Award for Research and Creativity at the University of Missouri, where she held an endowed chair for 15 years. She is a Fellow of the American Academy for the Advancement of Science (AAAS), a Fellow of the Academia Nacional de Ciencias, Argentina, and has served as President of the American Society of Plant Taxonomists, the Society for Systematic Biology, and the Botanical Society of America.
+				<p>José Dinneny received his BS from UC Berkeley in Plant Biology and Genetics in the Department of Plant and Microbial Biology and PhD from UC San Diego working with Detlef Weigel at the Salk Institute for Biological Science and Martin Yanofsky in the Division of Biology, UCSD. His work focused on the cloning and characterization of JAGGED and NUBBIN in flower and fruit development. He then went to Duke University to do his post-doctoral studies with Philip Benfey. There he utilized Fluorescence Activated Cell Sorting (FACS) to develop the first tissue-specific map of transcriptional changes occurring during abiotic stress. José established his independent lab at the Temasek Lifesciences Laboratory (TLL) in Singapore with a joint appointment at the National University of Singapore, Department of Biological Sciences. He was an inaugural fellow of the National Research Foundation, Singapore. José moved his lab in 2011 to the Carnegie Institution for Science, Department of Plant Biology. In 2018 José joined the faculty at Stanford University in the Biology Department as an Associate Professor.
 				</p>
 			</div>
 		</div>
