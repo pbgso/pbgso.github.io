@@ -67,14 +67,15 @@ weight: 1
 	</section>
 
     <section>
-            <img src="assets/images/speakers/edit" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/M_Gore.jpg" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>edit</h3>
-                    <a href="edit" class="icon fa-home"></a>
+                    <h3>Michael Gore</h3>
+                    <a href="https://blogs.cornell.edu/gorelab/" class="icon fa-home"></a>
                 </header>
-                <p> edit
+                <p> Michael Gore is an associate professor of molecular breeding and genetics for nutritional quality, Liberty Hyde Bailey professor, and international professor of plant breeding and genetics at Cornell University, where he is a member of the faculty in the Plant Breeding and Genetics Section in the School of Integrative Plant Science. Mike is also a faculty fellow in the Atkinson Center for a Sustainable Future and Cornell Institute for Food Systems. He holds a BS and MS from Virginia Tech, and a PhD from Cornell University. His expertise is in the field of quantitative genetics and genomics, especially the genetic dissection of metabolic seed traits related to nutritional quality. He also develops and applies field-based, high-throughput phenotyping tools for plant breeding and genetics research. His career accomplishments in plant breeding and genetics earned him the National Association of Plant Breeders Early Career Scientist Award in 2012, the American Society of Plant Biologists Early Career Award in 2013, and the Maize Genetics Executive Committee Early Career Excellence in Maize Genetics Award in 2016, and the Virginia Tech Distinguished Alumnus in Crop and Soil Environmental Sciences in 2017.
+
                 </p>
             </div>
         </div>
