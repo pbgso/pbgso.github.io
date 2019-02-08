@@ -34,14 +34,14 @@ weight: 0
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-			<img src="assets/images/students/scott.JPG" alt="" data-position="top center" />
+			<img src="assets/images/students/Kaur_Photo.JPG" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #C99700;">Scott Newell</h3> 
-                     sanewell [at] ucdavis [dot] edu
+					<h3 style="color: #C99700;">Amanjot Kaur</h3> 
+                     akskaur [at] ucdavis [dot] edu
 				</header>
-				<p>Scott Newell is a Masters student in Horticulture and Agronomy studying plant breeding and genetics. His research work in Dr. E. Charles Brummer's lab involves assessing the potential application of genetic fingerprinting to alfalfa varieties, as well as the evaluation of new germplasm for introgression into a developing UC Davis alfalfa breeding program. Scott completed his B.S. in Agronomy with an emphasis on plant breeding at Iowa State University and found an interest in plant breeding and bioinformatics.
+				<p> Amanjot Kaur ("Jot") is a Master's student in Horticulture and Agronomy working on an interdisciplinary project between Plant Breeding and Genetics under Dr. Dina St. Clair and Biological and Agricultural Engineering under Dr. Irwin Donis-Gonzalez. Her graduate work focuses on high-throughput phenotyping of physiochemical traits in vegetables using spectroscopy-based engineering technologies. In addition to her thesis research, she is also working as a crop lead with the SCOPE (Student Collaborative Organic Plant Breeding and Education) project to breed heirloom-type tomato varieties for organic farming systems for fruit quality traits and plant architecture parameters. She received her B.S. degree in Biotechnology with an emphasis in plants from UC Davis in 2016. Amanjot’s hobbies include meditating and eating food!
                 </p>
 			</div>
 		</div>
