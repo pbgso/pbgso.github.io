@@ -34,11 +34,11 @@ weight: 0
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-			<img src="assets/images/students/Kaur_Photo.JPG" alt="" data-position="top center" />
+			<img src="assets/images/students/Kaur_Photo.JPG" alt="" data-position="top center" width = 400/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #C99700;">Amanjot Kaur</h3> 
+					<h3 style="color: #C99700;">Amanjot Kaur</h3>
                      akskaur [at] ucdavis [dot] edu
 				</header>
 				<p> Amanjot Kaur ("Jot") is a Master's student in Horticulture and Agronomy working on an interdisciplinary project between Plant Breeding and Genetics under Dr. Dina St. Clair and Biological and Agricultural Engineering under Dr. Irwin Donis-Gonzalez. Her graduate work focuses on high-throughput phenotyping of physiochemical traits in vegetables using spectroscopy-based engineering technologies. In addition to her thesis research, she is also working as a crop lead with the SCOPE (Student Collaborative Organic Plant Breeding and Education) project to breed heirloom-type tomato varieties for organic farming systems for fruit quality traits and plant architecture parameters. She received her B.S. degree in Biotechnology with an emphasis in plants from UC Davis in 2016. Amanjot’s hobbies include meditating and eating food!
@@ -54,7 +54,7 @@ weight: 0
 			<div class="inner">
 				<header class="major">
                     <h3 style="color: #002855;">Dominique Pincot</h3>
-                     ddpincot [at] ucdavis [dot] edu 
+                     ddpincot [at] ucdavis [dot] edu
 				</header>
 				<p>Dominique Pincot is a first-year PhD student in Horticulture and Agronomy studying plant breeding and genetics. She received a BS in Biology from Tufts University in Medford, Massachusetts, and a MS degree in Horticulture and Agronomy from the University of California, Davis. Her research with Dr. Steven Knapp's lab focuses on characterizing resistance to Fusarium wilt and Verticillium wilt in cultivated strawberry (<i>Fragaria</i> x <i>ananassa.</i>)
 			</p>
@@ -68,7 +68,7 @@ weight: 0
 			<div class="inner">
 				<header class="major">
 					<h3 style="color: #C99700;">Asher I Hudson</h3>
-                     aihudson [at] ucdavis [dot] edu 
+                     aihudson [at] ucdavis [dot] edu
 				</header>
 				<p>Asher Hudson is a Population Biology PhD student in Jeff Ross-Ibarra's lab. He studies local adaptation and stress resistance in maize and its wild ancestor teosinte using experimental and population genetic methods. He previously received a B.A. in Biology at the University of Chicago.
 				</p>
@@ -82,21 +82,21 @@ weight: 0
 			<div class="inner">
 				<header class="major">
 					<h3 style="color: #002855;">Saarah Kuzay</h3>
-                     snkuzay [at] ucdavis [dot] edu 
+                     snkuzay [at] ucdavis [dot] edu
 				</header>
                 <p>Saarah Kuzay is a PhD student under Prof. Jorge Dubcovsky in the Horticulture and Agronomy Graduate Group. Her thesis work is focused on understanding the genetic basis of the number of spikelets per spike (SPS) in wheat, a yield component trait for pasta and bread wheat. She is using positional cloning to dissect the quantitative trait loci for number of spikelets per spike (SPS) located on chromosome arm 7AL (160-165 Mb). Ultimately, Saarah hopes to isolate this gene for SPS and deploy it in the UC Davis and CYMMIT wheat breeding programs. Outside of her thesis research, she is also working with SCOPE (Student Collaborative Organic Plant-Breeding and Education) to breed jalapeño and bell peppers for organic farming systems under Allen Van Deynze and Charles Brummer.
                 </p>
 			</div>
 		</div>
 	</section>
-	
+
 		<section>
 			<img src="assets/images/students/mitch.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3 style="color: #C99700;">Mitchell Feldmann</h3>
-					 mjfeldmann [at] ucdavis [dot] edu 
+					 mjfeldmann [at] ucdavis [dot] edu
 				</header>
 				<p>Mitchell Feldmann is a 3rd year doctoral student of horticulture and agronomy in the Strawberry Breeding and Research program at UC Davis. He completed his BS in Ecology and Evolutionary Biology with a minor in mathematics at the University of Arizona under Dr. Noah Whiteman, where he discovered a passion for biological research. Mitchell's scientific interests include quantitative and evolutionary genetics relating to plant breeding and crop improvement. His current work includes the evaluation of heterosis, theoretical evaluations of QTL heritability estimates, and genomic selection application in the cultivated strawberry.
 				</p>
@@ -117,7 +117,7 @@ weight: 0
 			</div>
 		</div>
 	</section>
-	
+
 		<section>
 			<img src="assets/images/students/zullo.jpg" alt="" data-position="top center" />
 		<div class="content">
@@ -138,7 +138,7 @@ weight: 0
 			<div class="inner">
 				<header class="major">
 					<h3 style="color: #C99700;">Jeffrey Ross-Ibarra</h3>
-					rossibarra [at] ucdavis [dot] edu 
+					rossibarra [at] ucdavis [dot] edu
 				</header>
 				<p>Dr. Jeff Ross-Ibarra is a Professor and Section Chair in the Department of Plant Sciences. He also holds affiliations with The Center for Population Biology and The Genome Center at UC Davis. His lab works on the evolutionary genetics of maize and teosinte. He has served as the faculty advisor to the UC Davis Plant Breeding Symposium since its inception 6 years ago.</p>
 			</div>
