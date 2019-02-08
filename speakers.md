@@ -39,14 +39,14 @@ weight: 1
 <section id="two" class="spotlights">
 
 	<section>
-            <img src="assets/images/speakers/whiteman.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/hopkins.jpg" alt="" data-position="center center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Noah Whiteman</h3>
-                    <a href="http://www.noahwhiteman.org" class="icon fa-home"></a>
+					<h3>Robin Hopkins</h3>
+                    <a href="http://hopkins-lab.org" class="icon fa-home"></a>
 				</header>
-				<p>Dr. Noah Whiteman is an evolutionary biologist and is currently an associate professor at the University of California, Berkeley in the Department of Integrative Biology. He studied for an M.S. degree in systematic entomology at the University of Missouri-Columbia where he was trained as a classical entomologist. Noah stayed on in Missouri for his Ph.D. In 2006 Noah left Missouri for Harvard University where he completed an NIH postdoctoral fellowship on genomics of plant-insect-microbe interactions. He continued in this field of work as an assistant and then associate professor in the Department of Ecology and Evolutionary Biology at the University of Arizona.
+				<p>Dr. Robin Hopkins is an Assistant Professor in the Department of Organismic and Evolutionary Biology at Harvard University. She received her PhD from Duke University where she studied the genetics, ecology, and evolution of speciation in plants.  Prior to starting her lab at the Arnold Arboretum of Harvard University, she was awarded a National Science Foundation Postdoctoral Research Fellowship in Biology to use mathematical models to investigate the role of natural selection in speciation. Her research characterizes and quantifies the forces of selection, gene flow, and mutation during the process of speciation. She integrates genetic, genomic, and field bases research to understand the ecological and evolutionary consequences of hybridization, and how closely related plant lineages have evolved barriers to prevent reproducing.
 				</p>
 			</div>
 		</div>
