@@ -67,7 +67,7 @@ weight: 1
 	</section>
 
     <section>
-            <img src="assets/images/speakers/M_Gore.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/gore_small.jpg" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">

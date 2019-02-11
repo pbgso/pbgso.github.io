@@ -34,7 +34,7 @@ weight: 0
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-			<img src="assets/images/students/Kaur_Photo.JPG" alt="" data-position="top center" width = 400/>
+			<img src="assets/images/students/kaur_small.jpg" alt="" data-position="top center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
