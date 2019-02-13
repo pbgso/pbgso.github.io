@@ -66,7 +66,7 @@ weight: 7
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #C99700;">Asher I Hudson</h3>
+					<h3 style="color: #C99700;">Asher Hudson</h3>
                      aihudson [at] ucdavis [dot] edu
 				</header>
 				<p>Asher Hudson is a Population Biology PhD student in Jeff Ross-Ibarra's lab. He studies local adaptation and stress resistance in maize and its wild ancestor teosinte using experimental and population genetic methods. He previously received a B.A. in Biology at the University of Chicago.
