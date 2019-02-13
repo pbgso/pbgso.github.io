@@ -24,8 +24,8 @@ image: assets/images/backgrounds/program.jpg
 
 <h6>
 <center>
-<!-- <a style="color:#c99700;" href="https://cru.ucdavis.edu/content/339-location-amp-contact.htm">UC Davis Alumni Center</a>
-&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; -->
+<a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=31">Walter A. Buehler Alumni Center</a>
+&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a>
 </center>
 
