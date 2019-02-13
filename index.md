@@ -49,20 +49,20 @@ nav-menu:
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/speakers.jpg" alt="" />
+<img src="assets/images/backgrounds/register.jpg" alt="" />
 </span>
 <header class="major">
-<h3><a href="/speakers.html" class="link">Speakers</a></h3>
+<h3><a href="/register.html" class="link">Register</a></h3>
 <p></p>
 </header>
 </article>
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/organizers.jpg" alt="" />
+<img src="assets/images/backgrounds/speakers.jpg" alt="" />
 </span>
 <header class="major">
-<h3><a href="/organizers.html" class="link">Organizers</a></h3>
+<h3><a href="/speakers.html" class="link">Speakers</a></h3>
 <p></p>
 </header>
 </article>
@@ -79,14 +79,13 @@ nav-menu:
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/register.jpg" alt="" />
+<img src="assets/images/backgrounds/organizers.jpg" alt="" />
 </span>
 <header class="major">
-<h3><a href="/register.html" class="link">Register</a></h3>
+<h3><a href="/organizers.html" class="link">Organizers</a></h3>
 <p></p>
 </header>
 </article>
-
 
 <article>
 <span class="image">
