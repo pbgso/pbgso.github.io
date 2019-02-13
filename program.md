@@ -24,14 +24,14 @@ image: assets/images/backgrounds/program.jpg
 
 <h6>
 <center>
-<a style="color:#c99700;" href="https://cru.ucdavis.edu/content/339-location-amp-contact.htm">UC Davis Alumni Center</a>
-&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<!-- <a style="color:#c99700;" href="https://cru.ucdavis.edu/content/339-location-amp-contact.htm">UC Davis Alumni Center</a>
+&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp; -->
 <a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a>
 </center>
 
 <b style="color:#002285;">
-Schedule coming soon...
- <b>closed</b>.
+Schedule coming soon... 
+</b>.
 
 <!-- <div class="table-wrapper">
 	<table>

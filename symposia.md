@@ -38,39 +38,44 @@ weight: 5
 <tbody>
 
 <tr>
-<td><a href="http://www.ufplants.org">University of Florida</a></td><td>Jan 26</td>
+<td><a href="http://plantbreedingsymposium.com/">Texas A&amp;M University</a></td><td>February 21</td>
 </tr>
 
 <tr>
-<td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeyvCbqVNS11vsOkG7QRqPNGtY06ofpLDrH7bQdmLF1zgN-3w/viewform">Cornell University</a></td><td>January 31</td>
+<td><a href="http://mupioneersymposium.org/">University of Missouri</a></td><td>February 21</td>
 </tr>
 
 <tr>
-<td><a href="http://mupioneersymposium.org/">University of Missouri</a></td><td>February 8</td>
+<td><a href="http://pbsiastate.org/">Iowa State University</a></td><td>March 1</td>
 </tr>
 
 <tr>
-<td><a href="http://plantbreedingsymposium.com/">Texas A&amp;M University</a></td><td>February 22</td>
+<td><a href="https://agronomy.unl.edu/plant-breeding-symposium">University of Nebraska -&nbsp;Lincoln</a></td><td>March 12 </td>
 </tr>
 
 <tr>
-<td><a href="http://www.plantbreeding.iastate.edu/Current_Symposium/Symposium_Main.html">Iowa State University</a></td><td>March 2</td>
+<td><a href="http://plantsciencesymposium.wsu.edu">Washington State University</a></td><td>March 22</td>
 </tr>
 
 <tr>
-<td><a href="http://www.plantbreeding.iastate.edu/Current_Symposium/Symposium_Travel_Grant.html">University of Nebraska -&nbsp;Lincoln</a></td><td>March 1-2 </td>
+<td><a href="http://plantsciencesymposium.umn.edu/">University of Minnesota</a></td><td>March 28</td>
+</tr>
+
+
+<tr>
+<td><a href="http://go.osu.edu/plantscience2019">Ohio State University</a></td><td>March 30</td>
 </tr>
 
 <tr>
-<td><a href="http://plantsciencesymposium.wsu.edu">Washington State University</a></td><td>March 30</td>
+<td>Cornell University</td><td>April 12</td>
 </tr>
 
 <tr>
-<td><a href="http://plantsciencesymposium.umn.edu/">University of Minnesota</a></td><td>March 22-23</td>
+<td>University of Georgia</td><td>May 16</td>
 </tr>
 
 <tr>
-<td>University of California - Berkeley</td><td>May 15</td>
+<td>University of California - Berkeley</td><td>May 24</td>
 </tr>
 
 </tbody>
