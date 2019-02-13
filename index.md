@@ -6,7 +6,7 @@ description:
 weight: 0 
 image: assets/images/banner.jpeg
 author: 
-nav-menu: 
+nav-menu: yes
 ---
 
 <head>
