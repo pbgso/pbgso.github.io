@@ -33,12 +33,12 @@ style="display:none;" onload="if(submitted)
 {window.location='/thanks.html';}">
 </iframe>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScH-AnIe1SNiPrxyM9J3MySUGLyg5OApnWZeFjqpw9U3Ofa4A/formResponse" method="post"		
+<form action="https://docs.google.com/forms/d/1OZCAsOzpcwbW8-6Wuez7CV3g0Zw49Qcrj2Dw-XjElWA/formResponse" method="post"		
 target="hidden_iframe" onsubmit="submitted=true;">		
 
 <div class="row uniform">
 <div class="6u 12u$(xsmall)" style="width:40%;">
-<input type="text" name="entry.939680289" id="entry_939680289" dir="auto" value="" placeholder="Name (First and Last)" aria-required="true" required=""/>
+<input type="text" name="entry.584102734" id="entry_584102734" dir="auto" value="" placeholder="Name (First and Last)" aria-required="true" required=""/>
 <div class="error-message" id="1167362532_errorMessage"></div>
 </div>
 
@@ -47,14 +47,14 @@ target="hidden_iframe" onsubmit="submitted=true;">
 
 <div class="6u 12u$(xsmall)" style="width:30%;">
 <div class="ss-item ss-item-required ss-select">
-<input type="email" name="entry.747084334"  id="entry_747084334"  dir="auto" value="" placeholder="Email" aria-required="true" required=""/>
+<input type="email" name="entry.17861396"  id="entry_17861396"  dir="auto" value="" placeholder="Email" aria-required="true" required=""/>
 </div>
 </div>
 
 
 
 <div class="6u 12u$(xsmall)" style="width:30%;">
-<input type="text" name="entry.1356326921"  id="entry_1356326921"  dir="auto" value="" placeholder="Affiliation" aria-required="true" required=""/>
+<input type="text" name="entry.1345056694"  id="entry_1345056694"  dir="auto" value="" placeholder="Affiliation" aria-required="true" required=""/>
 <div class="error-message" id="1017698193_errorMessage">
 </div>		
 </div>
@@ -63,7 +63,7 @@ target="hidden_iframe" onsubmit="submitted=true;">
 
 <div class="12u$">
 <div class="select-wrapper">
-<select name="entry.802814369" id="entry_802814369">
+<select name="entry.1461921500" id="entry_1461921500">
 <option value="">- Will you be attending in-person or streaming online? -</option>
 <option value="I will be there in-person">I will be there in-person</option>
 <option value="I will stream online">I will stream online</option>
