@@ -47,14 +47,14 @@ target="hidden_iframe" onsubmit="submitted=true;">
 
 <div class="6u 12u$(xsmall)" style="width:30%;">
 <div class="ss-item ss-item-required ss-select">
-<input type="email" name="entry.17861396"  id="entry_17861396"  dir="auto" value="" placeholder="Email" aria-required="true" required=""/>
+<input type="email" name="entry.17861396" dir="auto" value="" placeholder="Email" aria-required="true" required=""/>
 </div>
 </div>
 
 
 
 <div class="6u 12u$(xsmall)" style="width:30%;">
-<input type="text" name="entry.1345056694"  id="entry_1345056694"  dir="auto" value="" placeholder="Affiliation" aria-required="true" required=""/>
+<input type="text" name="entry.1345056694" dir="auto" value="" placeholder="Affiliation" aria-required="true" required=""/>
 <div class="error-message" id="1017698193_errorMessage">
 </div>		
 </div>
@@ -63,7 +63,7 @@ target="hidden_iframe" onsubmit="submitted=true;">
 
 <div class="12u$">
 <div class="select-wrapper">
-<select name="entry.1461921500" id="entry_1461921500">
+<select name="entry.718277390">
 <option value="">- Will you be attending in-person or streaming online? -</option>
 <option value="I will be there in-person">I will be there in-person</option>
 <option value="I will stream online">I will stream online</option>
@@ -71,12 +71,12 @@ target="hidden_iframe" onsubmit="submitted=true;">
 </div>
 </div>
 
-<input type="hidden" name="draftResponse" value="[,,&quot;-8581119601586225311&quot;]" style="color:#000" />
+<input type="hidden" name="draftResponse" value="[,,&quot;252285337187399270&quot;]" style="color:#000" />
 <input type="hidden" name="pageHistory" value="0" />
 
-<input type="hidden" name="fvv" value="0" /> 		
+<input type="hidden" name="fvv" value="1" /> 		
 
-<input type="hidden" name="fbzx" value="-8581119601586225311" /> 			
+<input type="hidden" name="fbzx" value="252285337187399270" /> 			
 </div>
 <br>
 <span>* Lunch and memorabilia provided. </span>
