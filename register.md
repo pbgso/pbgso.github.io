@@ -31,9 +31,9 @@ weight: 3
 <iframe name="hidden_iframe" id="hidden_iframe"		
 style="display:none;" onload="if(submitted)		
 {window.location='/thanks.html';}">
-</iframe>	
+</iframe>
 
-<form action="https://docs.google.com/forms/d/1OZCAsOzpcwbW8-6Wuez7CV3g0Zw49Qcrj2Dw-XjElWA/formResponse" method="post"		
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScH-AnIe1SNiPrxyM9J3MySUGLyg5OApnWZeFjqpw9U3Ofa4A/formResponse" method="post"		
 target="hidden_iframe" onsubmit="submitted=true;">		
 
 <div class="row uniform">
@@ -59,7 +59,7 @@ target="hidden_iframe" onsubmit="submitted=true;">
 </div>		
 </div>
 
-<br>	
+<br>
 
 <div class="12u$">
 <div class="select-wrapper">
@@ -84,14 +84,14 @@ target="hidden_iframe" onsubmit="submitted=true;">
 
 <div class="ss-item ss-navigate">
 <span class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">		
-<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">	
+<input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
 </span>
 
 
-<br><br>	
+<br><br>
 <span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
 <br>
-<span>This content is neither created nor endorsed by Google.</span>	
+<span>This content is neither created nor endorsed by Google.</span>
 
 </div>
 </form>
