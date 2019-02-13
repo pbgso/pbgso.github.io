@@ -53,7 +53,7 @@ weight: 0
 			<div class="inner">
 				<header class="major">
                     <h3 style="color: #002855;">L. Anita To</h3>
-                     ddpincot [at] ucdavis [dot] edu
+                     lato [at] ucdavis [dot] edu
 				</header>
 				<p>Anita To is a Ph.D. Candidate in the Integrative Genetics and Genomics Graduate Group and an affiliate of the Center for Population Biology working with Dr. Charles Langley in the Department of Evolution and Ecology. Her current work focuses on the population genetics and genomics of North American conifer species at the intersection of theory and empiricism. She previously received her B.A. in Biological Sciences and Visual Arts from the University of Chicago.
 			</p>
