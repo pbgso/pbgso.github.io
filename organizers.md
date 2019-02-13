@@ -48,7 +48,7 @@ weight: 0
 	</section>
 
 	<section>
-			<img src="assets/images/students/Anita_square.jpg" alt="" data-position="top center" />
+			<img src="assets/images/students/Anita_square_smaller.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
