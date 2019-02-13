@@ -83,28 +83,28 @@ weight: 1
 
 
     <section>
-            <img src="assets/images/speakers/harmer.jpg" alt="" data-position="top center"/>
+            <img src="" alt="" data-position="top center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Stacey Harmer</h3>
-                    <a href="https://openwetware.org/wiki/Harmer_Lab" class="icon fa-home"></a>
+                    <h3>Sue Rhee</h3>
+                    <a href="https://dpb.carnegiescience.edu/labs/rhee-lab" class="icon fa-home"></a>
                 </header>
-                    <p>Dr. Stacey Harmer is a Professor in the Department of Plant Biology at UC Davis.  She earned a PhD in Biochemistry at UC San Francisco and then moved to a postdoctoral scholar position at the Scripps Research Institute.  Her lab studies plant adaptations to the abiotic environment.  Specifically, her research focuses on the plant circadian clock, addressing both the molecular nature of the oscillator that generates daily rhythms and aspects of plant physiology affected by the circadian system.  She is particularly interested in exploring relationships between clock, light, and growth signaling pathways. Her recognitions have included a Howard Hughes Predoctoral Fellowship, an NIH National Research Service Award, an American Society for Photobiology New Investigator Award, and the UC Davis Chancellor's Fellowship.
+                    <p> Bio to come
                     </p>
             </div>
         </div>
     </section>
 
     <section>
-            <img src="assets/images/speakers/edger.jpg" alt="" data-position="center center" />
+            <img src="" alt="" data-position="center center" />
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Patrick Edger</h3>
-                    <a href="http://tinyurl.com/patedger" class="icon fa-google"></a>
+                    <h3>TBD</h3>
+                    <a href="" class="icon fa-google"></a>
                     </header>
-                    <p>Dr. Patrick Edger is an Assistant Professor in the Department of Horticulture at Michigan State University. Patrick received his PhD degree from the University of Missouri in 2012, and was a NSF National Plant Genome Initiative Postdoctoral Fellow at UC-Berkeley and University of Arizona from 2012-2015. He joined the Michigan State University faculty in Fall 2015. His lab leverages a diverse array of tools and a strong multidisciplinary approach, including comparative genomics, transcriptomics, and systems biology, to investigate gene family dynamics and the evolution of gene-gene interactions following gene and genome duplications. His current research focuses on uncovering the mechanistic basis of subgenome dominance in polyploid crops, largely to guide breeding efforts in blueberry and strawberry.
+                    <p> Bio TK
                     </p>
             </div>
         </div>
@@ -112,32 +112,19 @@ weight: 1
 
 
     <section>
-        <img src="assets/images/speakers/lucia.jpg" alt="" data-position="top center" />
+        <img src="" alt="" data-position="top center" />
             <div class="content">
                 <div class="inner">
                     <header class="major">
-                    <h3>Lucia Gutierrez</h3>
-                    <a href="http://agronomy.wisc.edu/lucia-gutierrez/" class="icon fa-home"></a>
+                    <h3>TBD</h3>
+                    <a href="" class="icon fa-home"></a>
                     </header>
-                    <p>Dr. Lucia Gutierrez focuses on breeding cereals, such as oats, wheat, and barley, for more sustainable agricultural systems through the study of complex quantitative traits and the development, comparison, and deployment of new methodologies for quantitative genetics data analysis for plant breeding. Her program uses genomic data to unveil new genetic diversity to deploy in breeding programs in three areas: 1) population genetics and diversity; 2) quantitative genetics applied to plant breeding; and 3) experimental designs and multi-environment studies for large genetic data.
+                    <p> Bio TK
                     </p>
                 </div>
             </div>
     </section>
 
-    <section>
-        <img src="assets/images/speakers/sethi.jpg" alt="" data-position="center center" />
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                    <h3>Amit Sethi</h3>
-                    <a href="https://www.linkedin.com/in/amit-sethi-097a6323/" class="icon fa-linkedin"></a>
-                    </header>
-                    <p>Dr. Amit Sethi leads the Durability and Resistance Management group at DowDuPont, focusing on delivering Insect Resistance Management knowledge and strategies related to internal and external customers globally that aid in product characterization, development and deployment. His team activities involve developing resistant insect colonies against pre- and post-commercial traits, conducting ecological and genomic studies related to cross-resistance, trait efficacy and compatibility, insect survivorship, refuge deployment, resistance monitoring and characterization, and trait durability modeling. Amit holds a BS degree in Agriculture (Hons. In Plant Protection) and a M.S. degree in Entomology from Punjab Agricultural University, an MBA in Operations Management from the Indira Gandhi National Open University, a PhD in Entomology from the University of Florida, and Post-Doctoral experience from Louisiana State University and Purdue University.
-                    </p>
-                </div>
-            </div>
-    </section>
 </section>
 
 <!-- Three -->
@@ -169,14 +156,14 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/josephs.jpg" alt="" data-position="top center" />
+			<img src="" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Emily Josephs</h3>
-                    <a href="http://emjosephs.github.io" class="icon fa-home"></a>
+					<h3>Mohsen Mesgaran</h3>
+                    <a href="" class="icon fa-home"></a>
 				</header>
-				<p> Dr. Emily Josephs is a evolutionary geneticist who uses population genomics and quantitative genetics to understand how selection shapes genetic variation in wild and domesticated plants. She received her PhD from the University of Toronto in 2016 and is currently an NSF Postdoctoral Fellow at the University of California, Davis. In January 2019, Emily will start a position as an assistant professor in the Plant Biology department at Michigan State University.
+				<p> Bio TK
 				</p>
 			</div>
 		</div>
