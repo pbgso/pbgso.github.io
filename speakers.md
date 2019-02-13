@@ -170,14 +170,14 @@ weight: 1
 	</section>
 
     <section>
-            <img src="assets/images/speakers/melotto.jpg" alt="" data-position="center center"/>
+            <img src="" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Maeli Melotto</h3>
-                    <a href="http://melotto.ucdavis.edu/people.htm" class="icon fa-home"></a>
+                    <h3>Amélie Gaudin</h3>
+                    <a href="https://gaudin.ucdavis.edu/" class="icon fa-home"></a>
                 </header>
-                <p>Dr. Maeli Melotto is an assistant professor in the Department of Plant Sciences at UC Davis. Dr. Melotto completed her Ph.D. in plant breeding and genetics at Michigan State University before joining the UC Davis faculty in 2014. Her research is focused on understanding the close interaction between plants and pathogens at the molecular level. Her work aims to determine the physiological changes that happen in both the plant and the pathogen when they come into contact. Specifically to understand how the plant immune system works to fight against pathogen infection and how pathogens employ virulence strategies to overcome plant defenses. This line of research is critical for the development of environmentally sound methods to minimize the impact of diseases and economic losses in agriculture worldwide, and to reduce food contamination with human pathogens in crops such as leafy vegetables.
+                <p>Bio TK
                 </p>
             </div>
         </div>
@@ -185,14 +185,14 @@ weight: 1
 
 
     <section>
-            <img src="assets/images/speakers/brown.png" alt="" data-position="top center"/>
+            <img src="" alt="" data-position="top center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Patrick Brown</h3>
-                    <a href="https://cropsciences.illinois.edu/people/profile/pjb34" class="icon fa-home"></a>
+                    <h3>Abraham Morales-Cruz</h3>
+                    <a href="https://scholar.google.com/citations?user=sxSMn5cAAAAJ&hl=en" class="icon fa-home"></a>
                 </header>
-                    <p>Dr. Patrick Brown is a plant breeder and geneticist focused on the integration of genomic and high-throughput phenotyping technology into applied plant breeding programs. From 2010-2017 he was a faculty member at the University of Illinois working on genetic improvement and abiotic stress resistance of sorghum, maize, and wheat. In July 2017, Brown moved into a position in tree breeding at UC Davis focused on walnut and pistachio.
+                    <p>Bio TK
                     </p>
             </div>
         </div>
