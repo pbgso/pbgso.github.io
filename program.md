@@ -31,7 +31,7 @@ image: assets/images/backgrounds/program.jpg
 
 <b style="color:#002285;">
 Schedule coming soon... 
-</b>.
+</b>
 
 <!-- <div class="table-wrapper">
 	<table>
