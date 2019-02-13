@@ -33,7 +33,7 @@ style="display:none;" onload="if(submitted)
 {window.location='/thanks.html';}">
 </iframe>
 
-<form action="https://docs.google.com/forms/d/1OZCAsOzpcwbW8-6Wuez7CV3g0Zw49Qcrj2Dw-XjElWA/formResponse" method="post"		
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScH-AnIe1SNiPrxyM9J3MySUGLyg5OApnWZeFjqpw9U3Ofa4A/formResponse" method="post"		
 target="hidden_iframe" onsubmit="submitted=true;">		
 
 <div class="row uniform">
