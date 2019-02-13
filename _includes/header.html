@@ -24,11 +24,11 @@
 		    {% endif %}
 		{% endfor %}
 
-		{% for page in pages %}
+<!-- 		{% for page in pages %}
 		    {% if page.layout == "home" %}
 		        <li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
 	    	{% endif %}
-		{% endfor %}
+		{% endfor %} -->
 
 		{% for page in pages %}
 		    {% if page.title == "Register" %}
