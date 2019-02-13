@@ -4,6 +4,9 @@
 <!-- Header -->
 <header id="header"{% if page.layout == "landing" %} class="alt style2"{% endif %}{% if page.layout == "home" %} class="alt"{% endif %}>
 	<a href="https://twitter.com/search?q=%23UCDPSS19&src=tyah" class="logo"><strong>{{ site.title-bold }}</strong></a>
+
+	<a href="http://plantsciencesymposium.ucdavis.edu" class="logo"><strong>{{ site.title-normal }}</strong></a>
+
 	<nav>
 		<a href="#menu">Menu</a>
 	</nav>
@@ -22,6 +25,12 @@
 		{% endfor %}
 
 		{% for page in pages %}
+		    {% if page.layout == "home" %}
+		        <li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
+	    	{% endif %}
+		{% endfor %}
+
+		{% for page in pages %}
 		    {% if page.title == "Register" %}
 			<ul class="actions vertical">
 			<li><a href="/register.html" class="button special fit">Register</a></li>
@@ -32,12 +41,6 @@
 			<ul class="actions vertical">
 			<li><a href="https://www.facebook.com/UCDavisPlantBreedingSymposium" class="icon fa-facebook"><span class="label">Facebook</span></a></li>
 			</ul>
-
-        {% for page in pages %}
-		    {% if page.layout == "home" %}
-		        <li><a href="{{ page.url | prepend: site.baseurl | remove: "index.html" }}">{{ page.title }}</a></li>
-	    	{% endif %}
-		{% endfor %}
 
 	</ul>
 </nav>
