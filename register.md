@@ -38,7 +38,7 @@ target="hidden_iframe" onsubmit="submitted=true;">
 
 <div class="row uniform">
 <div class="6u 12u$(xsmall)" style="width:40%;">
-<input type="text" name="entry.584102734" id="entry_584102734" dir="auto" value="" placeholder="Name (First and Last)" aria-required="true" required=""/>
+<input type="text" name="entry.584102734" dir="auto" value="" placeholder="Name (First and Last)" aria-required="true" required=""/>
 <div class="error-message" id="1167362532_errorMessage"></div>
 </div>
 
