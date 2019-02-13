@@ -110,7 +110,7 @@ weight: 1
 <section id="four" class="spotlights">
 
 	<section>
-            <img src="assets/images/speakers/beckles_small.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/beckles_small.png" alt="" data-position="center center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
