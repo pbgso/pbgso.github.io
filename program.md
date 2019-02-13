@@ -20,16 +20,20 @@ image: assets/images/backgrounds/program.jpg
 
 <!-- Content -->
 <!-- Table -->
-<center><h6> Monday, April 16th 2018 </h6></center>
+<center><h6> Monday, April 8th 2018 </h6></center>
 
 <h6>
 <center>
-<a style="color:#c99700;" href="https://cru.ucdavis.edu/content/339-location-amp-contact.htm">UC Davis Conference Center</a>
+<a style="color:#c99700;" href="https://cru.ucdavis.edu/content/339-location-amp-contact.htm">UC Davis Alumni Center</a>
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a>
 </center>
 
-<div class="table-wrapper">
+<b style="color:#002285;">
+Schedule coming soon...
+ <b>closed</b>.
+
+<!-- <div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
@@ -145,4 +149,4 @@ image: assets/images/backgrounds/program.jpg
 </h6>
 
 </div>
-</div>
+</div> -->
