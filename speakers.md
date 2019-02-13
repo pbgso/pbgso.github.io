@@ -83,7 +83,7 @@ weight: 1
 
 
     <section>
-            <img src="" alt="" data-position="top center"/>
+            <img src="assets/images/speakers/rhee_small.jpg" alt="" data-position="top center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -94,35 +94,6 @@ weight: 1
                     </p>
             </div>
         </div>
-    </section>
-
-    <section>
-            <img src="" alt="" data-position="center center" />
-        <div class="content">
-            <div class="inner">
-                <header class="major">
-                    <h3>TBD</h3>
-                    <a href="" class="icon fa-google"></a>
-                    </header>
-                    <p> Bio TK
-                    </p>
-            </div>
-        </div>
-    </section>
-
-
-    <section>
-        <img src="" alt="" data-position="top center" />
-            <div class="content">
-                <div class="inner">
-                    <header class="major">
-                    <h3>TBD</h3>
-                    <a href="" class="icon fa-home"></a>
-                    </header>
-                    <p> Bio TK
-                    </p>
-                </div>
-            </div>
     </section>
 
 </section>
@@ -156,12 +127,12 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="" alt="" data-position="top center" />
+			<img src="assets/images/speakers/mesgaran.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Mohsen Mesgaran</h3>
-                    <a href="" class="icon fa-home"></a>
+                    <a href="https://biology.ucdavis.edu/people/mohsen-mesgaran" class="icon fa-home"></a>
 				</header>
 				<p> Bio TK
 				</p>
@@ -170,7 +141,7 @@ weight: 1
 	</section>
 
     <section>
-            <img src="" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/gaudin.jpg" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -185,7 +156,7 @@ weight: 1
 
 
     <section>
-            <img src="" alt="" data-position="top center"/>
+            <img src="assets/images/speakers/morales-cruz.jpg" alt="" data-position="top center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
