@@ -24,6 +24,11 @@ weight: 4
 <br><br>
 We will be offering <b>four $500 travel grants</b>. All abstracts submitted prior to the March 1st, 2018 deadline will be considered for these travel awards and winners will be competitively chosen. Applications received between <b>March 2-24</b> will be accepted first come first served, while space lasts, but will not be considered for travel awards or oral presentation.
 <br><br>
-Please send late abstract submissions to Asher Hudson at aihudson [at] ucdavis [dot] edu
-<br><br>
-The application form is now <b>open</b>. Please submit your abstract <a style="color:#c99700;" href="https://docs.google.com/forms/d/e/1FAIpQLSfoeGxd85CRZvNjv91v9sHgef9QXD9-5jDmpj0nGdd_OI8vYA/viewform?usp=sf_link">here</a>
+<center>
+<p style="color:#002285;">Please submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-s_HwULPV76jCqEIC46FXXaLI-bXV4MBdev83gURyuj_LJw/viewform?usp=sf_link"> HERE </a></b>. Please keep abstracts to a 300 word maximum.</p>
+</center>
+
+<br><br>		
+<span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 			
+<br>
+<span>This content is neither created nor endorsed by Google.</span>
