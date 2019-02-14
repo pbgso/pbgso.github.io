@@ -25,7 +25,7 @@ weight: 4
 We will be offering <b>four $500 travel grants</b>. All abstracts submitted prior to the March 1st, 2018 deadline will be considered for these travel awards and winners will be competitively chosen. Applications received between <b>March 2-24</b> will be accepted first come first served, while space lasts, but will not be considered for travel awards or oral presentation.
 <br><br>
 <center>
-<p style="color:#002285;">Please submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-s_HwULPV76jCqEIC46FXXaLI-bXV4MBdev83gURyuj_LJw/viewform?usp=sf_link"> HERE </a></b>. Please keep abstracts to a 300 word maximum.</p>
+<p style="color:#002285;">Please submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-s_HwULPV76jCqEIC46FXXaLI-bXV4MBdev83gURyuj_LJw/viewform?usp=sf_link" target="_blank"> HERE </a></b>. Please keep abstracts to a 300 word maximum.</p>
 </center>
 
 <br><br>		
