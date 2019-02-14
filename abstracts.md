@@ -22,7 +22,7 @@ weight: 4
 <!-- Content -->
 <b style="color:#002285;">This year's symposium will provide <b>graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in form of <b>posters</b>. Additionally, four presenters will be competitively chosen to present their work in the form of 5 minute <b>oral presentations</b>.
 <br><br>
-We will be offering <b>four $500 travel grants</b>. All abstracts submitted prior to the March 1st, 2018 deadline will be considered for these travel awards and winners will be competitively chosen. Applications received between <b>March 2-24</b> will be accepted first come first served, while space lasts, but will not be considered for travel awards or oral presentation.
+We will be offering <b>four $500 travel grants</b>. All abstracts submitted prior to the <b>March 1st</b> deadline will be considered for these travel awards and winners will be competitively chosen. Applications received between <b>March 2-24</b> will be accepted first come first served, while space lasts, but will not be considered for travel awards or oral presentation.
 <br><br>
 <center>
 <p style="color:#002285;">Please submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSf-s_HwULPV76jCqEIC46FXXaLI-bXV4MBdev83gURyuj_LJw/viewform?usp=sf_link" target="_blank"> HERE </a></b>. Please keep abstracts to a 300 word maximum.</p>
