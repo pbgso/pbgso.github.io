@@ -36,7 +36,7 @@ weight: 6
 <center>
 <p style="color:#002285;"><b>Gold</b> sponsors are those that have donated $1,000 and will receive all supporter perks as well as a booth in the reception area of the conference center to interface with the guests of the symposium.</p>
 </center>
- 
+
  <center>
 <p style="color:#002285;"><b>Diamond</b> sponsors are those that have donated $2,500 and will receive all perks listed above, as well as a guaranteed spot on our advertising material, such as flyers which go out to Universities across the country. Diamond sponsors will also be orally recognized during the opening session as a key supporter.</p>
 </center>
@@ -67,43 +67,7 @@ weight: 6
 </tr>
 
 <tr>
-<td>Enza Zaden</td><td>Gold</td>
-</tr>
-
-<tr>
-<td>Betteravia Winery</td><td>Gold</td>
-</tr>
-
-<tr>
-<td>E.&J. Gallo Winery</td><td>Gold</td>
-</tr>
-
-<tr>
-<td>Department of Plant Sciences</td><td>Gold</td>
-</tr>
-
-<tr>
-<td>Forage Genetics International</td><td>Supporter</td>
-</tr>
-
-<tr>
-<td>Chandon Winery</td><td>Supporter</td>
-</tr>
-
-<tr>
-<td>California Strawberry Commission</td><td>Supporter</td>
-</tr>
-
-<tr>
-<td>Sun World International</td><td>Supporter</td>
-</tr>
-
-<tr>
-<td>American Takii</td><td>Supporter</td>
-</tr>
-
-<tr>
-<td>International Fruit Genetics</td><td>Supporter</td>
+<td>UC Davis College of Agriculture and Environmental Sciences</td><td>Supporting</td>
 </tr>
 
 </tbody>
