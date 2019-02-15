@@ -81,7 +81,7 @@ weight: 1
 
 
     <section>
-            <img src="assets/images/speakers/rhee_small.jpg" alt="" data-position="top center"/>
+            <img src="assets/images/speakers/rhee_profile.jpg" alt="" data-position="top center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
