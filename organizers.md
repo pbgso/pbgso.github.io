@@ -90,14 +90,14 @@ weight: 7
 	</section>
 
 		<section>
-			<img src="assets/images/students/" alt="" data-position="center center" />
+			<img src="assets/images/students/Portrait_pkasemsap.PNG" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3 style="color: #C99700;">Paul Kasemsap</h3>
 					 pkasemsap [at] ucdavis [dot] edu
 				</header>
-				<p>Bio coming soon...
+				<p>A plant enthusiast, Pornpipat “Paul” Kasemsap is a PhD Candidate in Horticulture and Agronomy. In Arnold Bloom’s lab at UC Davis, Paul is collaborating with plant breeders, crop physiologists, and geneticists, on a quest to sustain wheat nutritional qualities under rising carbon dioxide environments anticipated in the near future. Paul completed a BS degree in Agricultural sciences at Kasetsart University, Thailand, and a MS degree in Plant Sciences (Greenhouse Horticulture) at Wageningen University, the Netherlands. Previously volunteering in the past years, Paul is excited to organize this wonderful symposium in 2019, and is looking forward great talks as well as fruitful discussions!
 				</p>
 			</div>
 		</div>
@@ -111,7 +111,7 @@ weight: 7
 					<h3 style="color: #002855;">Sarah Odell</h3>
                     sgodell [at] ucdavis [dot] edu
 				</header>
-				<p>Odell is a 2nd year Plant Biology PhD student in the Runcie and Ross-Ibarra labs. She received a B.S. in Plant Science from Cornell University. She is generally interested in using quantitative and population genetics to answer questions about plasticity and the biology of stress tolerance. 
+				<p>Odell is a 2nd year Plant Biology PhD student in the Runcie and Ross-Ibarra labs. She received a B.S. in Plant Science from Cornell University. She is generally interested in using quantitative and population genetics to answer questions about plasticity and the biology of stress tolerance.
 				</p>
 			</div>
 		</div>
