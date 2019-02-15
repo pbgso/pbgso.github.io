@@ -52,7 +52,7 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/jose-r-dinneny_small.jpg" alt="" data-position="top center"/>
+			<img src="assets/images/speakers/jose-r-dinneny_small.png" alt="" data-position="top center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
