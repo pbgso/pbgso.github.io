@@ -88,7 +88,7 @@ weight: 1
                     <h3>Sue Rhee</h3>
                     <a href="https://dpb.carnegiescience.edu/labs/rhee-lab" class="icon fa-home"></a>
                 </header>
-                    <p> Bio coming soon...
+                    <p> Seung Yon (Sue) Rhee is a Senior Staff Member of Plant Biology Department at Carnegie Institution for Science. Her group strives to uncover the molecular mechanisms underlying adaptive traits in the face of heat, drought, nutrient limitation, latitude and pests. Dr. Rhee’s group studies a variety of plants including models, orphan crops, medicinal and desert plants. More recently their work has involved studying a model nematode C. elegans, fungal pathogens, corals, and piezophilic bacterium. Her group employs computational modeling and targeted laboratory testing to study mechanisms of adaptation, functions of novel genes, organization and function of metabolic networks, and chemical and neuronal code of plant-animal interactions. Her group is also interested in developing translational research programs involving carbon sequestration by plants and biomass maximization under drought in bioenergy crops. Dr. Rhee received her B.A. in biology from Swarthmore College and a Ph.D. in biology from Stanford University. She has been an investigator at the Plant Biology Department of Carnegie Institution for Science since 1999.
                     </p>
             </div>
         </div>
