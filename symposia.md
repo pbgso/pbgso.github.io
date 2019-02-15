@@ -22,7 +22,7 @@ weight: 5
 <!-- Table -->
 
 <center>
-<p style="color:#002285;">Our symposium forms part of a <b><a href="http://www.pioneer.com/home/site/about/template.CONTENT/guid.1E31353B-AE47-AC0D-027C-652DA4E01A32"> series </a></b> of symposia sponsored by <b>DuPont Pioneer</b>. Below are links to some other symposia in the series.</p>
+<p style="color:#002285;">Our symposium forms part of a <b><a href="http://www.pioneer.com/home/site/about/template.CONTENT/guid.1E31353B-AE47-AC0D-027C-652DA4E01A32"> series </a></b> of symposia sponsored by <b>Corteva Agriscience</b>. Below are links to some other symposia in the series.</p>
 </center>
 
 <h6>

@@ -59,7 +59,7 @@ weight: 6
 </tr>
 
 <tr>
-<td>Dow DuPont Pioneer</td><td>Diamond</td>
+<td>Corteva Agriscience</td><td>Diamond</td>
 </tr>
 
 <tr>
