@@ -94,6 +94,20 @@ weight: 1
         </div>
     </section>
 
+		<section>
+            <img src="assets/images/speakers/Radu_December2019Picture.JPG" alt="" data-position="center center"/>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Radu Totir</h3>
+                    <a href="https://www.researchgate.net/profile/Liviu_Totir" class="icon fa-home"></a>
+                </header>
+                    <p> Radu Totir has received his undergraduate degree in Animal Science from Universitatea de Stiinte Agricole si Medicina Veterinara, Cluj-Napoca, Romania followed by a PhD in Animal Breeding and Genetics from Iowa State University (ISU). After two years as a postdoctoral research fellow in the Animal Breeding and Genetics group at ISU, Radu has joined DuPont Pioneer on October 01, 2004. He is currently Biostatistics Lead in Systems and Innovations for Breeding and Seed Products at Corteva™ Agriscience, Agriculture Division of DowDuPont™. In his role, Radu is responsible for global teams focused on high throughput field, whole genome and process improvement analytics as well as methodology and software innovations. His primary scientific interests reside in working with teams that develop and deploy mathematical and software systems that enable the seamless integration of cross-functional applied science into high throughput genetic evaluation processes.
+                    </p>
+            </div>
+        </div>
+    </section>
+
 </section>
 
 <!-- Three -->
@@ -122,14 +136,14 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/mesgaran.jpg" alt="" data-position="top center" />
+			<img src="assets/images/speakers/Mohsen.JPG" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3>Mohsen Mesgaran</h3>
                     <a href="https://biology.ucdavis.edu/people/mohsen-mesgaran" class="icon fa-home"></a>
 				</header>
-				<p> Bio TK
+				<p> My lab uses experimental and modeling approaches to better understand the eco-evolutionary processes underpinning the spread and escalation of weedy and invasive plants both in agricultural and natural systems. Our research has direct outcomes for ecological management of weeds and thus can help reduce the use of chemicals in weed management.
 				</p>
 			</div>
 		</div>
