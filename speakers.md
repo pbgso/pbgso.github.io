@@ -95,7 +95,7 @@ weight: 1
     </section>
 
 		<section>
-            <img src="assets/images/speakers/Radu_December2019Picture.JPG" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/Radu_December2019Picture_small.jpg" alt="" data-position="center center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -136,7 +136,7 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/Mohsen.JPG" alt="" data-position="top center" />
+			<img src="assets/images/speakers/Mohsen_small.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
