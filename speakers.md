@@ -45,7 +45,7 @@ weight: 1
 					<h3>Robin Hopkins</h3>
                     <a href="http://hopkins-lab.org" class="icon fa-home"></a>
 				</header>
-				<p>Dr. Robin Hopkins is an Assistant Professor in the Department of Organismic and Evolutionary Biology at Harvard University. She received her PhD from Duke University where she studied the genetics, ecology, and evolution of speciation in plants.  Prior to starting her lab at the Arnold Arboretum of Harvard University, she was awarded a National Science Foundation Postdoctoral Research Fellowship in Biology to use mathematical models to investigate the role of natural selection in speciation. Her research characterizes and quantifies the forces of selection, gene flow, and mutation during the process of speciation. She integrates genetic, genomic, and field bases research to understand the ecological and evolutionary consequences of hybridization, and how closely related plant lineages have evolved barriers to prevent reproducing.
+				<p>Dr. Robin Hopkins is an Assistant Professor in the Department of Organismic and Evolutionary Biology at Harvard University. She received her PhD from Duke University where she studied the genetics, ecology, and evolution of speciation in plants.  Prior to starting her lab at the Arnold Arboretum of Harvard University, she was awarded a National Science Foundation Postdoctoral Research Fellowship in Biology to use mathematical models to investigate the role of natural selection in speciation. Her research characterizes and quantifies the forces of selection, gene flow, and mutation during the process of speciation. She integrates genetic, genomic, and field based research to understand the ecological and evolutionary consequences of hybridization, and how closely related plant lineages have evolved barriers to prevent reproducing.
 				</p>
 			</div>
 		</div>
@@ -157,7 +157,7 @@ weight: 1
                     <h3>Amélie Gaudin</h3>
                     <a href="https://gaudin.ucdavis.edu/" class="icon fa-home"></a>
                 </header>
-                <p>Bio coming soon...
+                <p>Amélie Gaudin joined the Department of Plant Sciences at the University of California Davis in 2015 as an assistant professor of Agroecology. She obtained a Ph.D. in Plant Agriculture at the University of Guelph and worked as an agronomist and crop physiologist at various CGIAR centers to sustainably intensify staple food crop production in smallholder farming systems. Her current research focus on developing and testing sustainable management practices that have conservation of natural resources, agrobiodiversity and ecosystem services as a basis for improvements. She investigates how cropping system management affects the crop and soil mechanisms involved in maintaining or recovering ecosystem services along stress and fertility gradients. She is interested in better understanding root system and rhizosphere ecology and their potential to harness improvements in soil health, sequester carbon and decrease crop water and nutrients requirements. 
                 </p>
             </div>
         </div>
