@@ -95,7 +95,21 @@ weight: 1
     </section>
 
 		<section>
-            <img src="assets/images/speakers/Radu_December2019Picture_small.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/gaut.jpg" alt="" data-position="center center"/>
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Brandon Gaut</h3>
+                    <a href="https://gautlab.bio.uci.edu/" class="icon fa-home"></a>
+                </header>
+                    <p> Brandon has been a faculty member at UC Irvine since 1998.  His research focuses on the evolutionary genetics of plants and particularly studies the processes that shape genetic diversity in crops.  He has published over 150 papers and book chapters, and he has given more than 130 invited lectures throughout the world. He has been an Alfred P. Sloan Young Investigator, the President of the international Society for Molecular Biology and Evolution, and the Chair of his department.  He is also an AAAS Fellow, but he is most proud of his undergraduate teaching awards.  Whenever possible, he heads outside to hike, surf and bike throughout his native Southern California.
+                    </p>
+            </div>
+        </div>
+    </section>
+
+		<section>
+            <img src="assets/images/speakers/Radu_December2019Picture_small.jpg" alt="" data-position="top center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -157,7 +171,7 @@ weight: 1
                     <h3>Amélie Gaudin</h3>
                     <a href="https://gaudin.ucdavis.edu/" class="icon fa-home"></a>
                 </header>
-                <p>Amélie Gaudin joined the Department of Plant Sciences at the University of California Davis in 2015 as an assistant professor of Agroecology. She obtained a Ph.D. in Plant Agriculture at the University of Guelph and worked as an agronomist and crop physiologist at various CGIAR centers to sustainably intensify staple food crop production in smallholder farming systems. Her current research focus on developing and testing sustainable management practices that have conservation of natural resources, agrobiodiversity and ecosystem services as a basis for improvements. She investigates how cropping system management affects the crop and soil mechanisms involved in maintaining or recovering ecosystem services along stress and fertility gradients. She is interested in better understanding root system and rhizosphere ecology and their potential to harness improvements in soil health, sequester carbon and decrease crop water and nutrients requirements. 
+                <p>Amélie Gaudin joined the Department of Plant Sciences at the University of California Davis in 2015 as an assistant professor of Agroecology. She obtained a Ph.D. in Plant Agriculture at the University of Guelph and worked as an agronomist and crop physiologist at various CGIAR centers to sustainably intensify staple food crop production in smallholder farming systems. Her current research focus on developing and testing sustainable management practices that have conservation of natural resources, agrobiodiversity and ecosystem services as a basis for improvements. She investigates how cropping system management affects the crop and soil mechanisms involved in maintaining or recovering ecosystem services along stress and fertility gradients. She is interested in better understanding root system and rhizosphere ecology and their potential to harness improvements in soil health, sequester carbon and decrease crop water and nutrients requirements.
                 </p>
             </div>
         </div>
