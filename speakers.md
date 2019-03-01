@@ -179,7 +179,7 @@ weight: 1
 
 
     <section>
-            <img src="assets/images/speakers/morales-cruz.jpg" alt="" data-position="top center"/>
+            <img src="assets/images/speakers/Abraham's Photo.jpg" alt="" data-position="top center"/>
         <div class="content">
             <div class="inner">
                 <header class="major">
