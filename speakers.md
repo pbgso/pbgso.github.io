@@ -186,7 +186,7 @@ weight: 1
                     <h3>Abraham Morales-Cruz</h3>
                     <a href="https://scholar.google.com/citations?user=sxSMn5cAAAAJ&hl=en" class="icon fa-home"></a>
                 </header>
-                    <p>Bio coming soon...
+                    <p>Abraham is a Postdoctoral Scholar in the Cantu Lab at the UC Davis Department of Viticulture and Enology, where he uses genomics to study some of the most devastating pathogens of cacao. He got a B.S. from the Instituto Tecnológico de Costa Rica in Biotechnology. He then conducted research on pepper genetics at the Seed Biotechnology Center at UC Davis, and molecular biology and sequencing technologies to study grapevine pathogens in the Cantu Lab. In 2018 he received his Ph.D. for his work on grapevine trunk pathogens genomics, including the first genome and gene annotations for these pathogens, the development of a method to quantify these pathogens in field conditions using metagenomics, and the exploration of the intra-species genomic diversity in the causal agent of Eutypa Dieback. Abraham is now the leading bioinformatician for a project on cacao pathogenomics looking at large-scale genome rearrangements and evolution of the two most important Phytophthora species causing black pod rot in cacao. Abraham is interested in exploring the evolution of the plants and pathogens using genomics.
                     </p>
             </div>
         </div>
