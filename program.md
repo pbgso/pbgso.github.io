@@ -6,10 +6,10 @@ nav-menu: yes
 image: assets/images/backgrounds/program.jpg
 ---
 
-<-- Main -->
+<!-- Main -->
 <div id="main" class="alt">
 
-<-- One -->
+<!-- One -->
 
 	<div class="inner">
 	<center>
@@ -18,8 +18,8 @@ image: assets/images/backgrounds/program.jpg
 
 	</center>
 
-<-- Content -->
-<-- Table -->
+<!-- Content -->
+<!-- Table -->
 <center><h6> Monday, April 8th 2018 </h6></center>
 
 <h6>
@@ -28,10 +28,6 @@ image: assets/images/backgrounds/program.jpg
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a>
 </center>
-
-<b style="color:#002285;">
-Schedule coming soon...
-</b>
 
 <-- <div class="table-wrapper">
 	<table>
@@ -92,7 +88,7 @@ Schedule coming soon...
 
 <tr>
 <td style="font-size:120%;">12:20</td>
-<td>Lunch</v> | Poster Access</td>
+<td>Lunch</b> | Poster Access</b></td>
 </tr>
 
 <tr>
@@ -112,7 +108,7 @@ Schedule coming soon...
 
 <tr>
 <td style="font-size:120%;">14:45</td>
-<td><b style="font-size:120%;">Poster Access</b> | Coffee</td>
+<td><b style="font-size:120%;">Poster Access</b> | Coffee</b></td>
 </tr>
 
 
