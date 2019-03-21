@@ -6,20 +6,20 @@ nav-menu: yes
 image: assets/images/backgrounds/program.jpg
 ---
 
-<!-- Main -->
+<-- Main -->
 <div id="main" class="alt">
 
-<!-- One -->
+<-- One -->
 
 	<div class="inner">
 	<center>
-	
+
 			<h1>Program</h1>
-	
+
 	</center>
 
-<!-- Content -->
-<!-- Table -->
+<-- Content -->
+<-- Table -->
 <center><h6> Monday, April 8th 2018 </h6></center>
 
 <h6>
@@ -30,10 +30,10 @@ image: assets/images/backgrounds/program.jpg
 </center>
 
 <b style="color:#002285;">
-Schedule coming soon... 
+Schedule coming soon...
 </b>
 
-<!-- <div class="table-wrapper">
+<-- <div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
@@ -49,93 +49,85 @@ Schedule coming soon...
 </tr>
 
 <tr>
-<td style="font-size:120%;">08:30</td>
-<td> <b style="font-size:120%;">Tabare Abadie</b> | DuPont Pioneer<br>  <i>Opening Remarks</i></td>
-</tr>
-
-<tr>
 <td style="font-size:120%;">08:40</td>
-<td> <b style="font-size:120%;">Elizabeth Kellogg</b> | Donald Danforth Plant Science Center<br>  <i>"Inflorescence form and function in sorghum and its relatives"</i></td>
+<td> <b style="font-size:120%;">Tabare Abadie</b> | Corteva<br>  <i>Opening Remarks</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">09:20</td>
-<td> <b style="font-size:120%;">Barbara Blanco-Ulate </b> | University of California-Davis<br>  <i>"Postharvest biology: Bridging fundamental and applied research"</i></td>
+<td style="font-size:120%;">09:00</td>
+<td> <b style="font-size:120%;">Michael Gore</b> | Cornell University<br>  <i>TBD</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">09:35</td>
-<td> <b style="font-size:120%;">Patrick Brown</b> | University of California-Davis<br>  <i>"Accelerating genetic gain in tree crops"</i></td>
+<td style="font-size:120%;">09:45</td>
+<td> <b style="font-size:120%;">Amélie Gaudin</b> | University of California-Davis<br>  <i>"The roots of sustainability: from the rhizosphere up"</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">09:50</td>
-<td> <b style="font-size:120%;">Daniel Chitwood</b> | Michigan State University<br>  <i>"Topological Data Analysis: What is it? What is it good for? How can it be used to study plant morphology?"</i></td>
+<td style="font-size:120%;">10:00</td>
+<td> <b style="font-size:120%;">Abraham Morales-Cruz</b> | University of California-Davis<br>  <i>TBD</i></td>
+</tr>
+
+<tr>
+<td style="font-size:120%;">10:15</td>
+<td><b style="font-size:120%;">Coffee</b></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">10:30</td>
-<td><b style="font-size:120%;">Poster Access</b> | Coffee</td>
+<td> <b style="font-size:120%;">Robin Hopkins</b> | Harvard University<br>  
+<i>"The evolution of pollen-pistil mate choice in Phlox"</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">10:50</td>
-<td> <b style="font-size:120%;">Noah Whiteman</b> | University of California-Berkeley<br>  <i>"My model organism eats your model organism: The natural history of a Drosophila that attacks Arabidopsis"</i></td>
+<td style="font-size:120%;">11:15</td>
+<td> <b style="font-size:120%;">Radu Totir</b> | Corteva<br>  
+<i>"The use of applied science in commercial hybrid development"</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">11:30</td>
-<td> <b style="font-size:120%;">Amit Sethi</b> | DuPont Pioneer<br>  <i>"Next-Generation Insect-Resistant Biotech Crops"</i></td>
-</tr>
-
-<tr>
-<td style="font-size:120%;">12:10</td>
+<td style="font-size:120%;">12:00</td>
 <td> <b style="font-size:120%;">Flashtalks</b></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">12:30</td>
-<td>Lunch</td>
-</tr>
-
-<tr>
-<td style="font-size:120%;">13:00</td>
-<td>Poster Access</td>
+<td style="font-size:120%;">12:20</td>
+<td>Lunch</v> | Poster Access</td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">13:30</td>
-<td> <b style="font-size:120%;">Patrick Edger</b> | Michigan State University<br>  <i>"Subgenome dominance in interspecific hybrids and allopolyploids"</i></td>
+<td> <b style="font-size:120%;">José Dinneny</b> | Stanford University<br>  <i>TBD</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">14:10</td>
-<td> <b style="font-size:120%;">Lucia Gutierrez</b> | University of Wisconsin-Madison<br>  <i>"Breeding Cereals for Sustainable Agriculture: Harnessing Genomic Data to Accelerate Gains in Complex Quantitative Traits"</i></td>
+<td style="font-size:120%;">14:15</td>
+<td> <b style="font-size:120%;">Diane Beckles</b> | University of California-Davis<br>  <i>TBD</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">14:50</td>
+<td style="font-size:120%;">14:30</td>
+<td> <b style="font-size:120%;">Mohsen Mesgaran</b> | University of California-Davis<br>  <i>TBD</i></td>
+</tr>
+
+<tr>
+<td style="font-size:120%;">14:45</td>
 <td><b style="font-size:120%;">Poster Access</b> | Coffee</td>
 </tr>
 
 
 <tr>
-<td style="font-size:120%;">15:20</td>
-<td> <b style="font-size:120%;">Emily Josephs</b> | University of California-Davis<br>  <i>"Linking population genomics and quantitative genetics to understand the maintenance of variation in wild and domesticated plants"</i></td>
+<td style="font-size:120%;">15:15</td>
+<td> <b style="font-size:120%;">Sue Rhee</b> | Carnegie Institution for Science<br>  <i>TBD</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">15:35</td>
-<td> <b style="font-size:120%;">Maeli Melotto</b> | University of California-Davis<br>  <i>"Human Pathogens on Plants"</i></td>
+<td style="font-size:120%;">16:00</td>
+<td> <b style="font-size:120%;">Brandon Gaut</b> | University of California-Irvine<br>  <i>"The genomics of selfing: catching purging in the act"</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">15:50</td>
-<td> <b style="font-size:120%;">Stacey Harmer</b> | University of California-Davis<br>  <i>"Circadian rhythms are turning heads: clock regulation of sunflower growth and development"</i></td>
-</tr>
-
-<tr>
-<td style="font-size:120%;">16:30</td>
+<td style="font-size:120%;">16:45</td>
 <td><b style="font-size:120%;">Closing Remarks</b> </td>
 </tr>
 
@@ -145,7 +137,7 @@ Schedule coming soon...
 </div>
 
 
-<p style="text-align: left;"><i> - Lunch and memorabilia provided</i></p>
+<p style="text-align: left;"><i> - Lunch for first 200 attendees and memorabilia provided</i></p>
 </h6>
 
 </div>
