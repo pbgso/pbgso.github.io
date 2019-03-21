@@ -29,7 +29,7 @@ image: assets/images/backgrounds/program.jpg
 <a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a>
 </center>
 
-<-- <div class="table-wrapper">
+<div class="table-wrapper">
 	<table>
 		<thead>
 			<tr>
