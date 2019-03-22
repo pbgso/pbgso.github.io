@@ -67,6 +67,22 @@ weight: 6
 </tr>
 
 <tr>
+<td>E & J Gallo Winery</td><td>Gold</td>
+</tr>
+
+<tr>
+<td>PhytoAB</td><td>Gold</td>
+</tr>
+
+<tr>
+<td>UC Davis Plant Department of Plant Sciences</td><td>Gold</td>
+</tr>
+
+<tr>
+<td>Sun World</td><td>Supporting</td>
+</tr>
+
+<tr>
 <td>UC Davis College of Agriculture and Environmental Sciences</td><td>Supporting</td>
 </tr>
 
