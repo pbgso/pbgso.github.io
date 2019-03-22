@@ -61,7 +61,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">10:00</td>
-<td> <b style="font-size:120%;">Abraham Morales-Cruz</b> | University of California-Davis<br>  <i>TBD</i></td>
+<td> <b style="font-size:120%;">Abraham Morales-Cruz</b> | University of California-Davis<br>  <i>"Genome evolution of two black pod pathogens in cacao"</i></td>
 </tr>
 
 <tr>
@@ -114,7 +114,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">15:15</td>
-<td> <b style="font-size:120%;">Sue Rhee</b> | Carnegie Institution for Science<br>  <i>TBD</i></td>
+<td> <b style="font-size:120%;">Sue Rhee</b> | Carnegie Institution for Science<br>  <i>"Transcriptional Regulatory Landscape of Arabidopsis thaliana Metabolism"</i></td>
 </tr>
 
 <tr>
