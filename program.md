@@ -88,7 +88,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">12:20</td>
-<td>Lunch</b> | Poster Access</b></td>
+<td><b style="font-size:120%;">Lunch</b> | <b style="font-size:120%;">Poster Access</b></td>
 </tr>
 
 <tr>
@@ -108,7 +108,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">14:45</td>
-<td><b style="font-size:120%;">Poster Access</b> | Coffee</b></td>
+<td><b style="font-size:120%;">Poster Access</b> | <b style="font-size:120%;">Coffee</b></td>
 </tr>
 
 
