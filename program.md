@@ -51,7 +51,8 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">09:00</td>
-<td> <b style="font-size:120%;">Michael Gore</b> | Cornell University<br>  <i>TBD</i></td>
+<td> <b style="font-size:120%;">Michael Gore</b> | Cornell University<br>  
+<i>"Insights into the genetic basis of crop nutritional quality and stress resilience"</i></td>
 </tr>
 
 <tr>
@@ -93,12 +94,13 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">13:30</td>
-<td> <b style="font-size:120%;">José Dinneny</b> | Stanford University<br>  <i>TBD</i></td>
+<td> <b style="font-size:120%;">José Dinneny</b> | Stanford University<br>  
+<i>"Tearing down walls and other stories of resistance to stress in plants"</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">14:15</td>
-<td> <b style="font-size:120%;">Diane Beckles</b> | University of California-Davis<br>  <i>TBD</i></td>
+<td> <b style="font-size:120%;">Diane Beckles</b> | University of California-Davis<br>  <i>"Postharvest chilling injury: plant response to human intervention"</i></td>
 </tr>
 
 <tr>
