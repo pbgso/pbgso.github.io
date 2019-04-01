@@ -79,7 +79,7 @@ image: assets/images/backgrounds/program.jpg
 <tr>
 <td style="font-size:120%;">11:15</td>
 <td> <b style="font-size:120%;">Radu Totir</b> | Corteva<br>  
-<i>"The use of applied science in commercial hybrid development"</i></td>
+<i>"The use of applied science in seed product evaluation"</i></td>
 </tr>
 
 <tr>
