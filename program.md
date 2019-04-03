@@ -105,7 +105,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">14:30</td>
-<td> <b style="font-size:120%;">Mohsen Mesgaran</b> | University of California-Davis<br>  <i>TBD</i></td>
+<td> <b style="font-size:120%;">Mohsen Mesgaran</b> | University of California-Davis<br>  <i>"Exploitation of sex for weed management"</i></td>
 </tr>
 
 <tr>
