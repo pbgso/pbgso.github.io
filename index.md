@@ -3,9 +3,9 @@ layout: home
 title: Home
 landing-title: "2019 UC Davis Plant Science Symposium"
 description:
-weight: 0 
+weight: 0
 image: assets/images/banner.jpeg
-author: 
+author:
 nav-menu: yes
 ---
 
@@ -26,18 +26,18 @@ nav-menu: yes
 				<li><a href="/register.html" class="button next scrolly">Registration</a></li>
 			</ul>
 		</div>
-<!--         <div class="content">
+		<div class="content">
             <p style="text-transform: uppercase;">{{ site.description }}</p>
             <ul class="actions">
-                    <li><a href="https://www.youtube.com/watch?v=spH-w5LseY0" class="button next scrolly">Watch pt.1 LIVE</a></li>
+                    <li><a href="https://www.youtube.com/watch?v=IGRNBy2ZT6Y" class="button next scrolly">Watch pt.1 LIVE</a></li>
                 </ul>
         </div>
         <div class="content">
         <p style="text-transform: uppercase;">{{ site.description }}</p>
         <ul class="actions">
-        <li><a href="https://www.youtube.com/watch?v=YH2p9lezKW0" class="button next scrolly">Watch pt.2 LIVE</a></li>
+        <li><a href="https://www.youtube.com/watch?v=tLDrvk4QsG0" class="button next scrolly">Watch pt.2 LIVE</a></li>
         </ul>
-        </div> -->
+        </div>
 	</div>
 </section>
 
@@ -121,4 +121,3 @@ nav-menu: yes
 
 </section>
 </div>
-
