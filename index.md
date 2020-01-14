@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "2019 UC Davis Plant Science Symposium"
+landing-title: "2020 UC Davis Plant Science Symposium"
 description:
 weight: 0
 image: assets/images/banner.jpeg
@@ -10,7 +10,7 @@ nav-menu: yes
 ---
 
 <head>
-	<title>UCDPSS19</title>
+	<title>UCDPSS20</title>
 </head>
 
 <!-- Banner -->
@@ -22,7 +22,7 @@ nav-menu: yes
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><h2>April 8th, 2019</h2></li><br>
+				<li><h2>May 6th, 2020</h2></li><br>
 				<li><a href="/register.html" class="button next scrolly">Registration</a></li>
 			</ul>
 		</div>
