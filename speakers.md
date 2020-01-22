@@ -45,7 +45,7 @@ weight: 1
 					<h3>CJ Schwartz</h3>
                     <a href="https://www.researchgate.net/profile/Cj_Schwartz2" class="icon fa-home"></a>
 				</header>
-				<p>Coming Soon...
+				<p>CJ Schwartz received his BS degree in Genetics from the University of Minnesota, a Ph.D. in Biochemistry at the University of Wisconsin, and a postdoc at the Salk Institute in San Diego with Joanne Chory and Detlef Weigel focusing on natural variation of light responsiveness. After nearly 20 years in academia, CJ founded a company 5 years ago (Sunrise Genetics), which applies modern molecular genetic techniques for gene discovery and MAS breeding in Cannabis. In collaboration with the University of Minnesota and the JCVI, Sunrise Genetics was the first to make public a high-quality Cannabis genome assembly, which is recognized as the Cannabis genomic reference accession by NCBI.
 				</p>
 			</div>
 		</div>
@@ -123,7 +123,7 @@ for the Top Junior Faculty within the Ohio Research and Development Center at Th
 					<h3>Brian Bailey</h3>
                     <a href="https://baileylab.ucdavis.edu/" class="icon fa-home"></a>
 				</header>
-				<p> Coming Soon...
+				<p> Brian Bailey started as an assistant professor in the UC Davis Plant Sciences Department in 2016. His research combines engineering, computer science, atmospheric science, and biology to study plant systems. In particular, Brian's lab is developing high-resolution, 3D models and measurement techniques that can explicitly represent plant-environment interactions at scales ranging from leaves to canopies. Recent work in the Bailey lab has focused on developing models for woody perennial crops such as almond and grapevine. Brian received his MS and PhD degrees in mechanical engineering from the University of Utah.
 				</p>
 			</div>
 		</div>
