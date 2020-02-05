@@ -38,7 +38,7 @@ weight: 1
 
 <section id="two" class="spotlights">
 	<section>
-            <img src="assets/images/speakers/2020_Key_CJ_Schwartz.jpeg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/2020_Key_CJ_Schwartz.jpeg" alt="" data-position="center center" width=100 />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -52,7 +52,7 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/2020_Key_E_van_der_Knapp.jpg" alt="" data-position="top center"/>
+			<img src="assets/images/speakers/2020_Key_E_van_der_Knapp.jpg" alt="" data-position="top center" width=100/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -72,7 +72,7 @@ for the Top Junior Faculty within the Ohio Research and Development Center at Th
 	</section>
 
     <section>
-            <img src="assets/images/speakers/2020_Key_I_Goldman.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/2020_Key_I_Goldman.jpg" alt="" data-position="center center" width=100/>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -88,7 +88,7 @@ for the Top Junior Faculty within the Ohio Research and Development Center at Th
 
 
     <section>
-            <img src="assets/images/speakers/2020_Key_J_Dawson.jpg" alt="" data-position="top center"/>
+            <img src="assets/images/speakers/2020_Key_J_Dawson.jpg" alt="" data-position="top center" width=100/>
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -116,7 +116,7 @@ for the Top Junior Faculty within the Ohio Research and Development Center at Th
 <!-- Four -->
 <section id="four" class="spotlights">
 	<section>
-            <img src="assets/images/speakers/2020_Key_UC_B_Bailey.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/2020_Key_UC_B_Bailey.jpg" alt="" data-position="center center" width=100/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -130,7 +130,7 @@ for the Top Junior Faculty within the Ohio Research and Development Center at Th
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/2020_Key_UC_C_Diepenbrock.jpg" alt="" data-position="top center" />
+			<img src="assets/images/speakers/2020_Key_UC_C_Diepenbrock.jpg" alt="" data-position="top center" width=100 />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -144,7 +144,7 @@ for the Top Junior Faculty within the Ohio Research and Development Center at Th
 	</section>
 
     <section>
-            <img src="assets/images/speakers/2020_Key_UC_T_Magney.jpg" alt="" data-position="center center"/>
+            <img src="assets/images/speakers/2020_Key_UC_T_Magney.jpg" alt="" data-position="center center" width=100/>
         <div class="content">
             <div class="inner">
                 <header class="major">
