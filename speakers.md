@@ -130,7 +130,7 @@ for the Top Junior Faculty within the Ohio Research and Development Center at Th
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/2020_Key_UC_C_Diepenbrock.jpg" alt="" data-position="top center" width="100" />
+			<img src="assets/images/speakers/2020_Key_UC_C_Diepenbrock.jpg" alt="" data-position="top center" width="100"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
