@@ -46,40 +46,40 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">08:40</td>
-<td> <b style="font-size:120%;">Tabare Abadie</b> | Corteva<br>  <i>Opening Remarks</i></td>
+<td> <b style="font-size:120%;">Jason Rauscher</b> | Corteva<br>  <i>Opening Remarks</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">09:00</td>
-<td> <b style="font-size:120%;">Michael Gore</b> | Cornell University<br>  
-<i>"Insights into the genetic basis of crop nutritional quality and stress resilience"</i></td>
+<td> <b style="font-size:120%;">Iwrin Goldman</b> | University of Wisconsin-Madison<br>  
+<i>TBA</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">09:45</td>
-<td> <b style="font-size:120%;">Amélie Gaudin</b> | University of California-Davis<br>  <i>"The roots of sustainability: from the rhizosphere up"</i></td>
+<td> <b style="font-size:120%;">Christine Diepenbrock</b> | University of California-Davis<br>  <i>TBA</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">10:00</td>
-<td> <b style="font-size:120%;">Abraham Morales-Cruz</b> | University of California-Davis<br>  <i>"Genome evolution of two black pod pathogens in cacao"</i></td>
+<td> <b style="font-size:120%;">Brian Bailey</b> | University of California-Davis<br>  <i>TBA</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">10:15</td>
-<td><b style="font-size:120%;">Coffee</b></td>
+<td><b style="font-size:120%;">Coffee</b> | <b style="font-size:120%;">Poster Access</b></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">10:30</td>
-<td> <b style="font-size:120%;">Robin Hopkins</b> | Harvard University<br>  
-<i>"The evolution of pollen-pistil mate choice in Phlox"</i></td>
+<td> <b style="font-size:120%;">Julie Dawson</b> | University of Wisconsin-Madison<br>  
+<i>TBA</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">11:15</td>
-<td> <b style="font-size:120%;">Radu Totir</b> | Corteva<br>  
-<i>"The use of applied science in seed product evaluation"</i></td>
+<td> <b style="font-size:120%;">CJ Schwartz</b> | Sunrise Genetics<br>  
+<i>TBA</i></td>
 </tr>
 
 <tr>
@@ -94,18 +94,18 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">13:30</td>
-<td> <b style="font-size:120%;">José Dinneny</b> | Stanford University<br>  
-<i>"Tearing down walls and other stories of resistance to stress in plants"</i></td>
+<td> <b style="font-size:120%;">TBA</b> | Corteva<br>  
+<i>TBA</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">14:15</td>
-<td> <b style="font-size:120%;">Diane Beckles</b> | University of California-Davis<br>  <i>"Postharvest chilling injury: plant response to human intervention"</i></td>
+<td> <b style="font-size:120%;">Elisabeth Forrestel</b> | University of California-Davis<br>  <i>TBA</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">14:30</td>
-<td> <b style="font-size:120%;">Mohsen Mesgaran</b> | University of California-Davis<br>  <i>"Exploitation of sex for weed management"</i></td>
+<td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  <i>TBA</i></td>
 </tr>
 
 <tr>
@@ -116,12 +116,12 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">15:15</td>
-<td> <b style="font-size:120%;">Sue Rhee</b> | Carnegie Institution for Science<br>  <i>"Transcriptional Regulatory Landscape of Arabidopsis thaliana Metabolism"</i></td>
+<td> <b style="font-size:120%;">Luis Cisneros-Zevallos</b> | Texas A&M University<br>  <i>TBA</i></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">16:00</td>
-<td> <b style="font-size:120%;">Brandon Gaut</b> | University of California-Irvine<br>  <i>"The genomics of selfing: catching purging in the act"</i></td>
+<td> <b style="font-size:120%;">Esther van der Knaap</b> | University of Georgia<br>  <i>TBA</i></td>
 </tr>
 
 <tr>
