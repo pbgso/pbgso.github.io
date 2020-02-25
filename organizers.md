@@ -48,7 +48,7 @@ weight: 7
 	</section>
 
 	<section>
-			<img src="assets/images/students/2020_Amber_Flores.jpeg" alt="" data-position="top center" />
+			<img src="assets/images/students/2020_Amber_Flores.jpeg" alt="" data-position="top center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -62,7 +62,7 @@ weight: 7
 	</section>
 
 	<section>
-			<img src="assets/images/students/2020_Cody_Bekkering.jpg" alt="" data-position="top center" />
+			<img src="assets/images/students/2020_Cody_Bekkering.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -76,7 +76,7 @@ weight: 7
 	</section>
 
 	<section>
-			<img src="assets/images/students/2020_Hongtao Zhang.JPG" alt="" data-position="top center" />
+			<img src="assets/images/students/2020_Hongtao Zhang.JPG" alt="" data-position="top center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -90,7 +90,7 @@ weight: 7
 	</section>
 
 		<section>
-			<img src="assets/images/students/2020_moo.jpg" alt="" data-position="center center" />
+			<img src="assets/images/students/2020_moo.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -118,7 +118,7 @@ weight: 7
 	</section>
 
 		<section>
-			<img src="assets/images/students/jri.png" alt="" data-position="center center" />
+			<img src="assets/images/students/jri.png" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
