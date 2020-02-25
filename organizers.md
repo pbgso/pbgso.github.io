@@ -34,84 +34,84 @@ weight: 7
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-			<img src="assets/images/students/kaur_small.jpg" alt="" data-position="top center"/>
+			<img src="assets/images/students/2020_Alyssa Phillips.jpg" alt="" data-position="top center"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #C99700;">Amanjot Kaur</h3>
-                     akskaur [at] ucdavis [dot] edu
+					<h3 style="color: #C99700;">Alyssa Phillips</h3>
+                     arphillips [at] ucdavis [dot] edu
 				</header>
-				<p> Amanjot Kaur ("Jot") is a Master's student in Horticulture and Agronomy working on an interdisciplinary project between Plant Breeding and Genetics under Dr. Dina St. Clair and Biological and Agricultural Engineering under Dr. Irwin Donis-Gonzalez. Her graduate work focuses on high-throughput phenotyping of physiochemical traits in vegetables using spectroscopy-based engineering technologies. In addition to her thesis research, she is also working as a crop lead with the SCOPE (Student Collaborative Organic Plant Breeding and Education) project to breed heirloom-type tomato varieties for organic farming systems for fruit quality traits and plant architecture parameters. She received her B.S. degree in Biotechnology with an emphasis in plants from UC Davis in 2016. Amanjot’s hobbies include meditating and eating food!
+				<p> Alyssa Phillips is a PhD student in the Plant Biology Graduate Group with Jeffrey Ross-Ibarra in the Department of Evolution and Ecology. Her current research focuses on local adaptation in the polyploid complex Andropogon gerardi (Poaceae) and convergent evolution between Tripsacum and teosinte. She previously received a B.S. in Biology from Appalachian State University.
                 </p>
 			</div>
 		</div>
 	</section>
 
 	<section>
-			<img src="assets/images/students/Anita_square_smaller.jpg" alt="" data-position="top center" />
+			<img src="assets/images/students/2020_Amber_Flores.jpeg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-                    <h3 style="color: #002855;">L. Anita To</h3>
-                     lato [at] ucdavis [dot] edu
+                    <h3 style="color: #002855;">Amber Flores</h3>
+                     amaflores [at] ucdavis [dot] edu
 				</header>
-				<p>Anita To is a Ph.D. Candidate in the Integrative Genetics and Genomics Graduate Group and an affiliate of the Center for Population Biology working with Dr. Charles Langley in the Department of Evolution and Ecology. Her current work focuses on the population genetics and genomics of North American conifer species at the intersection of theory and empiricism. She previously received her B.A. in Biological Sciences and Visual Arts from the University of Chicago.
+				<p>Amber Flores is a 2nd year PhD student in the Plant Biology Graduate Group and a member of Dr. Richard Michelmore’s lab. Her current research project focuses on using gene editing techniques to enhance the nutritional content of lettuce, specifically increasing carotenoid and amino acid content. When not in lab, she enjoys spending quality time with her friends and family, playing softball, and promoting the curiosity of her two young kittens. 
 			</p>
 			</div>
 		</div>
 	</section>
 
 	<section>
-			<img src="assets/images/students/asher.jpg" alt="" data-position="top center" />
+			<img src="assets/images/students/2020_Cody_Bekkering.jpg" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #C99700;">Asher Hudson</h3>
-                     aihudson [at] ucdavis [dot] edu
+					<h3 style="color: #C99700;">Cody Bekkering</h3>
+                     csbekkering [at] ucdavis [dot] edu
 				</header>
-				<p>Asher Hudson is a Population Biology PhD student in Jeff Ross-Ibarra's lab. He studies local adaptation and stress resistance in maize and its wild ancestor teosinte using experimental and population genetic methods. He previously received a B.A. in Biology at the University of Chicago.
+				<p>Cody Bekkering is a second-year Ph.D. student in the Plant Biology Graduate Group (PBGG). Cody's current work focuses on the provitamin A biofortification of tetraploid wheat and the phenotypic repercussions that biofortification. He received a B.S. in plant biology and a B.A. in chemistry from Michigan State University before continuing his studies at UC Davis.
 				</p>
 			</div>
 		</div>
 	</section>
 
 	<section>
-			<img src="assets/images/students/kuzay.jpg" alt="" data-position="top center" />
+			<img src="assets/images/students/2020_Hongtao Zhang.JPG" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #002855;">Saarah Kuzay</h3>
+					<h3 style="color: #002855;">Hongtao Zhang</h3>
                      snkuzay [at] ucdavis [dot] edu
 				</header>
-                <p>Saarah Kuzay is a PhD student under Prof. Jorge Dubcovsky in the Horticulture and Agronomy Graduate Group. Her thesis work is focused on understanding the genetic basis of the number of spikelets per spike (SPS) in wheat, a yield component trait for pasta and bread wheat. She is using positional cloning to dissect the quantitative trait loci for number of spikelets per spike (SPS) located on chromosome arm 7AL (160-165 Mb). Ultimately, Saarah hopes to isolate this gene for SPS and deploy it in the UC Davis and CYMMIT wheat breeding programs. Outside of her thesis research, she is also working with SCOPE (Student Collaborative Organic Plant-Breeding and Education) to breed jalapeño and bell peppers for organic farming systems under Allen Van Deynze and Charles Brummer.
+                <p>Hongtao Zhang is a 2nd year PhD student under Dr. Stacey Harmer in the Plant Biology Graduate Group. He is generally interested in plants’ responses to various environmental factors. Currently he works on the regulation of Arabidopsis circadian clock at transcriptional and post-transcriptional levels using genetic and molecular approaches. Hongtao received his BS degree in Biological Science from Peking University, China.
                 </p>
 			</div>
 		</div>
 	</section>
 
 		<section>
-			<img src="assets/images/students/Portrait_pkasemsap.PNG" alt="" data-position="center center" />
+			<img src="assets/images/students/2020_moo.jpg" alt="" data-position="center center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #C99700;">Paul Kasemsap</h3>
-					 pkasemsap [at] ucdavis [dot] edu
+					<h3 style="color: #C99700;">Kreingkrai Nonkum</h3>
+					 knonkum [at] ucdavis [dot] edu
 				</header>
-				<p>A plant enthusiast, Pornpipat “Paul” Kasemsap is a PhD Candidate in Horticulture and Agronomy. In Arnold Bloom’s lab at UC Davis, Paul is collaborating with plant breeders, crop physiologists, and geneticists, on a quest to sustain wheat nutritional qualities under rising carbon dioxide environments anticipated in the near future. Paul completed a BS degree in Agricultural sciences at Kasetsart University, Thailand, and a MS degree in Plant Sciences (Greenhouse Horticulture) at Wageningen University, the Netherlands. Previously volunteering in the past years, Paul is excited to organize this wonderful symposium in 2019, and is looking forward great talks as well as fruitful discussions!
+				<p>A  Kreingkrai “Moo” Nonkum is a 2nd year PhD student in Horticulture and Agronomy. In Charlie Brummer’s lab at UC Davis, Moo's research focuses on understanding fall dormancy in affalfa to help alfalfa breeder indentify fall dormancy trait more precisely. Moo completed a BS degree in Agricultural sciences and MS degree in Agronomy at Kasetsart University, Thailand.
 				</p>
 			</div>
 		</div>
 	</section>
 
 	<section>
-			<img src="assets/images/students/odell.jpg" alt="" data-position="top center" />
+			<img src="" alt="" data-position="top center" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #002855;">Sarah Odell</h3>
+					<h3 style="color: #002855;"></h3>
                     sgodell [at] ucdavis [dot] edu
 				</header>
-				<p>Odell is a 2nd year Plant Biology PhD student in the Runcie and Ross-Ibarra labs. She received a B.S. in Plant Science from Cornell University. She is generally interested in using quantitative and population genetics to answer questions about plasticity and the biology of stress tolerance.
+				<p>Coming soon....
 				</p>
 			</div>
 		</div>
