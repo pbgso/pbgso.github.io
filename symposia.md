@@ -38,7 +38,7 @@ weight: 5
 <tbody>
 
 <tr>
-<td><a href="https://www.ufplants.org/2020-plant-science-symposium">University of Florida</a></td><td>January 30</td>
+<td><a href="https://www.ufplants.org/2020-plant-science-symposium">University of Florida</a></td><td>January 30-31</td>
 </tr> 
 
 <tr>
@@ -50,7 +50,7 @@ weight: 5
 </tr>
 
 <tr>
-<td><a href="https://phenome2020.org/">Phenome 2020, Tucson, Arizona</a></td><td>February 24</td>
+<td><a href="https://phenome2020.org/">Phenome 2020, Tucson, Arizona</a></td><td>February 24-27</td>
 </tr>
 
 <tr>
@@ -58,7 +58,7 @@ weight: 5
 </tr>
 
 <tr>
-<td><a href="https://www.sapba.co.za/index.php/conference-2020">13th Southern African Plant Breeding Symposium</a></td><td>March 8</td>
+<td><a href="https://www.sapba.co.za/index.php/conference-2020">13th Southern African Plant Breeding Symposium</a></td><td>March 8-11</td>
 </tr>
 
 <tr>
@@ -66,7 +66,7 @@ weight: 5
 </tr>
 
 <tr>
-<td><a href="https://u.osu.edu/plantsciencessymposium/">The Ohio State University</a></td><td>March 27 </td>
+<td><a href="https://u.osu.edu/plantsciencessymposium/">The Ohio State University</a></td><td>March 27-28 </td>
 </tr>
 
 <tr>
@@ -74,7 +74,7 @@ weight: 5
 </tr>
 
 <tr>
-<td>Kansas State University</td><td>April 8</td>
+<td>Kansas State University</td><td>April 8-9</td>
 </tr>
 
 <tr>
@@ -82,7 +82,7 @@ weight: 5
 </tr>
 
 <tr>
-<td><a href="http://plantsciencesymposium.umn.edu/">University of Minnesota</a></td><td>April 23</td>
+<td><a href="http://plantsciencesymposium.umn.edu/">University of Minnesota</a></td><td>April 23-24</td>
 </tr>
 
 <tr>
@@ -95,6 +95,22 @@ weight: 5
 
 <tr>
 <td>University of California - Berkeley</td><td>May 22</td>
+</tr>
+
+<tr>
+<td>Universidade Federal de Goiás, Goiânia, Brazil</td><td>May 20-22</td>
+</tr>
+
+<tr>
+<td>Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil</td><td>June 1-3</td>
+</tr>
+
+<tr>
+<td>Northwest A&F University, Yangling, China</td><td>September 3</td>
+</tr>
+
+<tr>
+<td>China Agricultural University, Beijing, China</td><td>September 7</td>
 </tr>
 
 </tbody>
