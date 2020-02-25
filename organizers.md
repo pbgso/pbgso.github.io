@@ -34,7 +34,7 @@ weight: 7
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-			<img src="assets/images/students/2020_Alyssa Phillips.jpg" alt="" data-position="top center"/>
+			<img src="assets/images/students/2020_Alyssa Phillips.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
