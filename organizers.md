@@ -109,7 +109,21 @@ weight: 7
 			<div class="inner">
 				<header class="major">
 					<h3 style="color: #002855;"></h3>
-                    sgodell [at] ucdavis [dot] edu
+                     [at] ucdavis [dot] edu
+				</header>
+				<p>Coming soon....
+				</p>
+			</div>
+		</div>
+	</section>
+	
+	<section>
+			<img src="" alt="" data-position="top center" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3 style="color: #002855;"></h3>
+                     [at] ucdavis [dot] edu
 				</header>
 				<p>Coming soon....
 				</p>
