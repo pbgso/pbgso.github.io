@@ -24,7 +24,7 @@ image: assets/images/backgrounds/program.jpg
 
 <h6>
 <center>
-<a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=223">UC Davis Student Community Centerr</a>
+<a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=223">UC Davis Student Community Center</a>
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a>
 </center>
