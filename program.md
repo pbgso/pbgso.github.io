@@ -20,11 +20,11 @@ image: assets/images/backgrounds/program.jpg
 
 <!-- Content -->
 <!-- Table -->
-<center><h6> Monday, April 8th 2018 </h6></center>
+<center><h6> Wednesday, May 8=6th 2020 </h6></center>
 
 <h6>
 <center>
-<a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=31">Walter A. Buehler Alumni Center</a>
+<a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=223">UC Davis Student Community Centerr</a>
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a>
 </center>
