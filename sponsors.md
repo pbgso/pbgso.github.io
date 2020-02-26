@@ -30,7 +30,7 @@ weight: 6
 </center>
 
 <center>
-<p style="color:#002285;"><b>Supporting</b> sponsors are those that have donated $500 and will receive recognition on signage at our event, as well as on the website and on the printed program.</p>
+<p style="color:#002285;"><b>Silver</b> sponsors are those that have donated $500 and will receive recognition on signage at our event, as well as on the website and on the printed program. All sponsors will be acknowledged during the opening session as a key supporter.</p>
 </center>
 
 <center>
@@ -38,7 +38,7 @@ weight: 6
 </center>
 
  <center>
-<p style="color:#002285;"><b>Diamond</b> sponsors are those that have donated $2,500 and will receive all perks listed above, as well as a guaranteed spot on our advertising material, such as flyers which go out to Universities across the country. Diamond sponsors will also be orally recognized during the opening session as a key supporter.</p>
+<p style="color:#002285;"><b>Platinum</b> sponsors are those that have donated $2,500 and will receive all perks listed above, as well as a guaranteed spot on our advertising material, such as flyers which go out to Universities across the country. </p>
 </center>
 
 
@@ -59,35 +59,31 @@ weight: 6
 </tr>
 
 <tr>
-<td>Corteva Agriscience</td><td>Diamond</td>
+<td>Corteva Agriscience</td><td>Platinum</td>
 </tr>
 
 <tr>
-<td>National Science Foundation</td><td>Diamond</td>
+<td> <!-- UC Davis Plant Breeding Center</td><td>Diamond --> </td>
 </tr>
 
 <tr>
-<td>UC Davis Plant Breeding Center</td><td>Diamond</td>
+<td> <!-- E & J Gallo Winery</td><td>Gold --> </td>
 </tr>
 
 <tr>
-<td>E & J Gallo Winery</td><td>Gold</td>
+<td><!-- PhytoAB</td><td>Gold --></td>
 </tr>
 
 <tr>
-<td>PhytoAB</td><td>Gold</td>
+<td> <!-- UC Davis Plant Department of Plant Sciences</td><td>Gold --> </td>
 </tr>
 
 <tr>
-<td>UC Davis Plant Department of Plant Sciences</td><td>Gold</td>
+<td> <!-- Sun World</td><td>Supporting --> </td>
 </tr>
 
 <tr>
-<td>Sun World</td><td>Supporting</td>
-</tr>
-
-<tr>
-<td>UC Davis College of Agriculture and Environmental Sciences</td><td>Supporting</td>
+<td> <!-- UC Davis College of Agriculture and Environmental Sciences</td><td>Supporting --></td>
 </tr>
 
 </tbody>
