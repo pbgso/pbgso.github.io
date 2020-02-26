@@ -20,7 +20,7 @@ image: assets/images/backgrounds/program.jpg
 
 <!-- Content -->
 <!-- Table -->
-<center><h6> Wednesday, May 8=6th 2020 </h6></center>
+<center><h6> Wednesday, May 6th 2020 </h6></center>
 
 <h6>
 <center>
