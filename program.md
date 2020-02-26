@@ -116,7 +116,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">15:15</td>
-<td> <b style="font-size:120%;">Luis Cisneros-Zevallos</b> | Texas A&M University<br>  <i>"The impact of pre and post-harvest abiotic stress on lant nutraceuticals and their potential use"</i></td>
+<td> <b style="font-size:120%;">Luis Cisneros-Zevallos</b> | Texas A&M University<br>  <i>"The impact of pre and post-harvest abiotic stress on plant nutraceuticals and their potential use"</i></td>
 </tr>
 
 <tr>
