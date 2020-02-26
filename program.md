@@ -51,7 +51,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">09:00</td>
-<td> <b style="font-size:120%;">Iwrin Goldman</b> | University of Wisconsin-Madison<br>  
+<td> <b style="font-size:120%;">Irwin Goldman</b> | University of Wisconsin-Madison<br>  
 <i>TBA</i></td>
 </tr>
 
