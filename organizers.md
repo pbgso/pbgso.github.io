@@ -62,7 +62,7 @@ weight: 7
 	</section>
 
 	<section>
-			<img src="assets/images/students/Profile_AC (2).jpg" alt="" data-position="top center" />
+			<img src="assets/images/students/Profile_AC (2).jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
