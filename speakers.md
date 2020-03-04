@@ -101,7 +101,7 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
     
     
      <section>
-            <img src="" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
+            <img src="assets/images/speakers/2020_Key_Luis_Cisneros_Zevallos_V.jpeg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -145,8 +145,9 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 		</div>
 	</section>	
 
+
 	<section>
-			<img src="" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
+			<img src="assets/images/speakers/2020_Key_Elisabeth_Forrestel.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
