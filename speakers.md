@@ -98,6 +98,24 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
             </div>
         </div>
     </section>
+    
+    
+     <section>
+            <img src="assets/images/speakers/2020_Key_Luis_Cisneros_Zevallos_V.jpeg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
+        <div class="content">
+            <div class="inner">
+                <header class="major">
+                    <h3>Luis Cisneros-Zevallos</h3>
+                    <a href="https://aggie-horticulture.tamu.edu/faculty/cisneros/index.html" class="icon fa-home"></a>
+                </header>
+                    <p> 
+			Dr. Luis Cisneros is a Food Engineer from the National Agrarian University – La Molina, Peru. He received his M.S. and Ph.D. degree in Food Science from the University of California at Davis. He is currently a Professor at Texas A&M University in the Department of Horticultural Sciences, and is also associated with the Nutrition and Food Science Department and the Molecular and Environmental Plant Science Program. He leads the Plant Bioactives & Bioprocessing Research Lab carrying out: Drug discovery of bioactive compounds from plants and their mode of action, Research activities on pre- and postharvest horticultural crops with emphasis on the biosynthesis of secondary metabolites in plants under various stresses, Research on the interaction between microorganisms and plant surfaces to understand contamination, create innovative disinfection processes, and develop novel nanotechnology techniques.
+                    </p>
+            </div>
+        </div>
+    </section>
+    
+    
 
 </section>
 
@@ -122,6 +140,21 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 				</header>
 				<p> 
 					Brian Bailey started as an assistant professor in the UC Davis Plant Sciences Department in 2016. His research combines engineering, computer science, atmospheric science, and biology to study plant systems. In particular, Brian's lab is developing high-resolution, 3D models and measurement techniques that can explicitly represent plant-environment interactions at scales ranging from leaves to canopies. Recent work in the Bailey lab has focused on developing models for woody perennial crops such as almond and grapevine. Brian received his MS and PhD degrees in mechanical engineering from the University of Utah.
+				</p>
+			</div>
+		</div>
+	</section>
+
+	<section>
+			<img src="assets/images/speakers/2020_Key_Elisabeth_Forrestel.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Beth Forrestel</h3>
+                    <a href="https://wineserver.ucdavis.edu/people/elisabeth-forrestel#/" class="icon fa-home"></a>
+				</header>
+				<p> 
+				Dr. Elisabeth Forrestel started as an Assistant Professor at UC Davis in Viticulture and Enology in fall 2019. She received her bachelor's degree in biology from Cornell University and her PhD in Ecology & Evolutionary biology from Yale University. Dr. Forrestel went on to complete postdoctoral work at the Arnold Arboretum of Harvard University studying the phenological responses of winegrapes to a warming climate. As an NSF Postdoctoral Fellow, she came to UC Davis to study the phylogenetic and functional basis of abiotic stress responses in wild and cultivated grapevine. Her research program at Davis addresses questions about the evolutionary and ecophysiological basis of drought and heat responses in grapevine, and how irrigation practices mitigate stress responses. Dr. Forrestel will apply her research to improve understanding of how we can utilize wild species and cultivar diversity to adapt to warmer and drier climates, and inform viable management practices in vineyards in response to heat stress.
 				</p>
 			</div>
 		</div>
