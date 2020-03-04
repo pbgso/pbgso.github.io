@@ -62,6 +62,20 @@ weight: 7
 	</section>
 
 	<section>
+			<img src="assets/images/students/Profile_AC (2).jpg" alt="" data-position="top center" />
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3 style="color: #002855;">Anna Cowie</h3>
+                    aecowie [at] ucdavis [dot] edu
+				</header>
+				<p>Anna Cowie is a 2nd year PhD student in the Plant Biology Graduate Group (PBGG) and a member of Dr. Philipp Zerbe’s lab. Her current research project focuses on the biosynthesis, regulation, and catalytic mechanisms of diterpenoid-metabolic enzymes in maize. She received a B.S. in Biology at Westminster College, Pennsylvania. When not in lab, she enjoys collecting houseplants, painting, and spending quality time with her dog, who also shares a passion for science.
+				</p>
+			</div>
+		</div>
+	</section>
+
+	<section>
 			<img src="assets/images/students/2020_Cody_Bekkering.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
@@ -108,8 +122,8 @@ weight: 7
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3 style="color: #002855;"></h3>
-                     [at] ucdavis [dot] edu
+					<h3 style="color: #002855;">Yufei Qian</h3>
+                    yfqian [at] ucdavis [dot] edu
 				</header>
 				<p>Coming soon....
 				</p>
@@ -117,19 +131,7 @@ weight: 7
 		</div>
 	</section>
 	
-	<section>
-			<img src="" alt="" data-position="top center" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3 style="color: #002855;"></h3>
-                     [at] ucdavis [dot] edu
-				</header>
-				<p>Coming soon....
-				</p>
-			</div>
-		</div>
-	</section>
+
 
 		<section>
 			<img src="assets/images/students/jri.png" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
