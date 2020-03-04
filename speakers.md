@@ -141,7 +141,9 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 				<p> 
 					Brian Bailey started as an assistant professor in the UC Davis Plant Sciences Department in 2016. His research combines engineering, computer science, atmospheric science, and biology to study plant systems. In particular, Brian's lab is developing high-resolution, 3D models and measurement techniques that can explicitly represent plant-environment interactions at scales ranging from leaves to canopies. Recent work in the Bailey lab has focused on developing models for woody perennial crops such as almond and grapevine. Brian received his MS and PhD degrees in mechanical engineering from the University of Utah.
 				</p>
-			</div
+			</div>
+		</div>
+	</section>
 
 	<section>
 			<img src="assets/images/speakers/2020_Key_Elisabeth_Forrestel.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
