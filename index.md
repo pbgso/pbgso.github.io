@@ -79,7 +79,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/organizers.jpg" alt="" />
+<img src="assets/images/backgrounds/2020_organizers.jpg" alt="" />
 </span>
 <header class="major">
 <h3><a href="/organizers.html" class="link">Organizers</a></h3>
