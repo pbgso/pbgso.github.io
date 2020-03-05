@@ -20,14 +20,14 @@ weight: 4
 		</center>
 
 <!-- Content -->
-<b style="color:#002285;">This year's symposium will provide <b>graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in the form of <b>posters</b>. Additionally, four presenters will be competitively chosen to present their work in the form of 5 minute <b>oral presentations</b>.
+<b style="color:#002285;">This year's symposium will provide <b>undergraduates, graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in the form of <b>posters</b>. Additionally, four presenters will be competitively chosen to present their work in the form of a minute <b>oral presentations</b>.
 <br><br>
-We will be offering <b>travel grants</b>. The deadline for travel awards will be posted soon.
+Applications from outside of UC Davis will be considered for one of three <b> travel grants /<b> of $700. The deadline to be considered for a travel grant is <b>March 30th, 2020 </b>.
 <br><br>
-<!-- All abstracts submitted prior to the <b>March 1st</b> deadline will be considered for these travel awards and winners will be competitively chosen. Applications received between <b>March 2-24</b> will be considered for presentation while space lasts, but will not be considered for travel awards or oral presentation. -->
+All abstracts submitted prior to the <b>March 30</b> deadline will be considered for these travel awards and winners will be competitively chosen. Applications received between <b>March 2-24</b> will be considered for presentation while space lasts, but will not be considered for travel awards or oral presentation.
 <center>
 <p style="color:#002285;">
-<!-- Please submit your abstracts <b><a href="" target="_blank"> HERE</a></b>. Please keep abstracts to a 300 word maximum.-->
+< Please submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSfT9CrcwbzqykrR2NhCkV4a0CEopBl4tMRnqjdX4qKvFf35ew/viewform?usp=sf_link" target="_blank"> HERE</a></b>. Please keep abstracts to a 300 word maximum.
 </p>
 </center>
 
