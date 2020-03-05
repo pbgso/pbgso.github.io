@@ -20,7 +20,7 @@ weight: 4
 		</center>
 
 <!-- Content -->
-<b style="color:#002285;">This year's symposium will provide <b>undergraduates, graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in the form of <b>posters</b>. Additionally, four presenters will be competitively chosen to present their work in the form of a minute <b> 5oral presentations</b>.
+<b style="color:#002285;">This year's symposium will provide <b>undergraduates, graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in the form of <b>posters</b>. Additionally, four presenters will be competitively chosen to present their work in the form of a 5 minute <b> oral presentations</b>.
 <br><br>
 Applications from outside of UC Davis will be considered for one of three <b> travel grants </b> of $700. The deadline to be considered for a travel grant is <b>March 30th, 2020 </b>.
 <br><br>
