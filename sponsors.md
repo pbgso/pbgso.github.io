@@ -62,6 +62,13 @@ weight: 6
 <td>Corteva Agriscience</td><td>Platinum</td>
 </tr>
 
+<tr>
+<td>UC Davis Plant Breeding Center</td><td>Platinum</td>
+</tr>
+
+<tr>
+<td>California Crop Improvement Association</td><td>Silver</td>
+</tr>
 
 </tbody>
 </table>
