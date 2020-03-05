@@ -110,11 +110,11 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
                 </header>
                     <p> 
 			Dr. Luis Cisneros is a Food Engineer from the National Agrarian University – La Molina, Peru. He received his M.S. and Ph.D. degree in Food Science from the University of California at Davis. He is currently a Professor at Texas A&M University in the Department of Horticultural Sciences, and is also associated with the Nutrition and Food Science Department and the Molecular and Environmental Plant Science Program. He leads the Plant Bioactives & Bioprocessing Research Lab carrying out:
-		              	<ul type="disc">
-			                <li>Drug discovery of bioactive compounds from plants and their mode of action, Research activities on pre- and postharvest horticultural crops with emphasis on the biosynthesis of secondary metabolites in plants under various stresses</li>
-			                <li>Research on the interaction between microorganisms and plant surfaces to understand contamination</li>
-			                <li>Create innovative disinfection processes, and develop novel nanotechnology techniques 3</li>
-			              </ul>
+			                </ul>
+			                    <li>Drug discovery of bioactive compounds from plants and their mode of action, Research activities on pre- and postharvest horticultural crops with emphasis on the biosynthesis of secondary metabolites in plants under various stresses</li>
+			                    <li>Research on the interaction between microorganisms and plant surfaces to understand contamination</li>
+			                    <li>Create innovative disinfection processes, and develop novel nanotechnology techniques 3</li>
+			                 </ul>
                     </p>
             </div>
         </div>
