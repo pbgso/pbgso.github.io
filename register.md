@@ -33,28 +33,26 @@ style="display:none;" onload="if(submitted)
 {window.location='/thanks.html';}">
 </iframe>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScH-AnIe1SNiPrxyM9J3MySUGLyg5OApnWZeFjqpw9U3Ofa4A/formResponse" method="post"		
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScM9IvgRsz7i-YQ06BKozrSQVR558BCvlwSx7l82TuSrQbHJw/formResponse" method="post"		
 target="hidden_iframe" onsubmit="submitted=true;">		
 
 <div class="row uniform">
 <div class="6u 12u$(xsmall)" style="width:40%;">
-<input type="text" name="entry.584102734" dir="auto" value="" placeholder="Name (First and Last)" aria-required="true" required=""/>
+<input type="text" name="entry.284899249" dir="auto" value="" placeholder="Name (First and Last)" aria-required="true" required=""/>
 <div class="error-message" id="1167362532_errorMessage"></div>
 </div>
 
 
-
-
 <div class="6u 12u$(xsmall)" style="width:30%;">
 <div class="ss-item ss-item-required ss-select">
-<input type="email" name="entry.17861396" dir="auto" value="" placeholder="Email" aria-required="true" required=""/>
+<input type="email" name="name.119697555" dir="auto" value="" placeholder="Email" aria-required="true" required=""/>
 </div>
 </div>
 
 
 
 <div class="6u 12u$(xsmall)" style="width:30%;">
-<input type="text" name="entry.1345056694" dir="auto" value="" placeholder="Affiliation" aria-required="true" required=""/>
+<input type="text" name="entry.2121832629" dir="auto" value="" placeholder="Affiliation" aria-required="true" required=""/>
 <div class="error-message" id="1017698193_errorMessage">
 </div>		
 </div>
@@ -63,10 +61,23 @@ target="hidden_iframe" onsubmit="submitted=true;">
 
 <div class="12u$">
 <div class="select-wrapper">
-<select name="entry.718277390">
+<select name="entry.260045964">
 <option value="">- Will you be attending in-person or streaming online? -</option>
-<option value="I will be there in-person">I will be there in-person</option>
+<option value="I will be attending in-person">I will be attending in-person</option>
 <option value="I will stream online">I will stream online</option>
+</select>
+</div>
+</div>
+
+<div class="12u$">
+<div class="select-wrapper">
+<select name="entry.1522197517">
+<option value="">- Do you have any dietary restrictions? -</option>
+<option value="None">None</option>
+<option value="Gluten-free">Gluten-free</option>
+<option value="Vegan">"Vegan"</option>
+<option value="Vegetarian">"Vegetarian"</option>
+<option value="Vegan and Gluten-free">"Vegan and Gluten-free"</option>
 </select>
 </div>
 </div>
