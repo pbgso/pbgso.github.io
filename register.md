@@ -39,7 +39,7 @@ target="hidden_iframe" onsubmit="submitted=true;">
 <div class="row uniform">
 <div class="6u 12u$(xsmall)" style="width:40%;">
 <input type="text" name="entry.284899249" dir="auto" value="" placeholder="Name (First and Last)" aria-required="true" required=""/>
-<div class="error-message" id="1167362532_errorMessage"></div>
+#<div class="error-message" id="1167362532_errorMessage"></div>
 </div>
 
 
@@ -53,7 +53,7 @@ target="hidden_iframe" onsubmit="submitted=true;">
 
 <div class="6u 12u$(xsmall)" style="width:30%;">
 <input type="text" name="entry.2121832629" dir="auto" value="" placeholder="Affiliation" aria-required="true" required=""/>
-<div class="error-message" id="1017698193_errorMessage">
+#<div class="error-message" id="1017698193_errorMessage">
 </div>		
 </div>
 
@@ -90,7 +90,7 @@ target="hidden_iframe" onsubmit="submitted=true;">
 <input type="hidden" name="fbzx" value="252285337187399270" /> 			
 </div>
 <br>
-<span>* Lunch and memorabilia provided. </span>
+<span>* Lunch and memorabilia provided for the first 150 attendees. </span>
 <br><br>
 
 <div class="ss-item ss-navigate">
