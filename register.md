@@ -36,9 +36,6 @@ style="display:none;" onload="if(submitted)
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScM9IvgRsz7i-YQ06BKozrSQVR558BCvlwSx7l82TuSrQbHJw/formResponse" method="post" target="_self" onsubmit="submitted=true;">		
 
 
-
-
-
   <div class="row uniform">
   <div class="6u 12u$(xsmall)" style="width:40%;">
   <input name="entry.284899249" type="text" placeholder="Name (First and Last)" dir="auto" value=""  aria-required="true" required=""/>
@@ -48,7 +45,8 @@ style="display:none;" onload="if(submitted)
 
   <div class="6u 12u$(xsmall)" style="width:30%;">
   <div class="ss-item ss-item-required ss-select">
-  <input type="email" name="name.119697555" dir="auto" value="" placeholder="Email" aria-required="true" required=""/>
+  <input type="email" name="entry.119697555" dir="auto" value=""
+    placeholder="Email" aria-required="true" required=""/>
   </div>
   </div>
 
