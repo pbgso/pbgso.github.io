@@ -60,9 +60,9 @@ style="display:none;" onload="if(submitted)
   <div class="12u$">
   <div class="select-wrapper">
   <select name="entry.260045964">
-  <option value="">- Will you be attending in-person or streaming online? -</option>
-  <option value="I will be attending in-person">I will be attending in-person</option>
-  <option value="I will stream online">I will stream online</option>
+    <option value="">- Will you be attending in-person or streaming online? -</option>
+    <option value="I will be attending in-person">I will be attending in-person</option>
+    <option value="I will stream online">I will stream online</option>
   </select>
   </div>
   </div>
@@ -70,12 +70,12 @@ style="display:none;" onload="if(submitted)
   <div class="12u$">
   <div class="select-wrapper">
   <select name="entry.1522197517">
-  <option value="">- Do you have any dietary restrictions? -</option>
-  <option value="None">None</option>
-  <option value="Gluten-free">Gluten-free</option>
-  <option value="Vegan">"Vegan"</option>
-  <option value="Vegetarian">"Vegetarian"</option>
-  <option value="Vegan and Gluten-free">"Vegan and Gluten-free"</option>
+    <option value="">- Do you have any dietary restrictions? -</option>
+    <option value="None">None</option>
+    <option value="Gluten-free">Gluten-free</option>
+    <option value="Vegan">"Vegan"</option>
+    <option value="Vegetarian">"Vegetarian"</option>
+    <option value="Vegan and Gluten-free">"Vegan and Gluten-free"</option>
   </select>
   </div>
   </div>
@@ -96,12 +96,15 @@ style="display:none;" onload="if(submitted)
 <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
 </span>
 
-</form>
 
 <br><br>
 <span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
 <br>
 <span>This content is neither created nor endorsed by Google.</span>
+
+</div>
+</form>
+
 
 
 </div>
