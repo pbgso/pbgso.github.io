@@ -15,7 +15,7 @@ weight: 3
 <center>
 <header class="major">
 
-<h1>Register</h1>
+<h1>Register - Open Soon</h1>
 </header>
 </center>
 
@@ -33,7 +33,7 @@ style="display:none;" onload="if(submitted)
 {window.location='/thanks.html';}">
 </iframe>
 
-<form action="https://docs.google.com/forms/u/0/d/e/1FAIpQLScM9IvgRsz7i-YQ06BKozrSQVR558BCvlwSx7l82TuSrQbHJw/formResponse" method="post"		
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScM9IvgRsz7i-YQ06BKozrSQVR558BCvlwSx7l82TuSrQbHJw/formResponse" method="post"		
 target="hidden_iframe" onsubmit="submitted=true;">		
 
 <div class="row uniform">
