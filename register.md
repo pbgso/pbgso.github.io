@@ -33,7 +33,11 @@ style="display:none;" onload="if(submitted)
 {window.location='/thanks.html';}">
 </iframe>
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScM9IvgRsz7i-YQ06BKozrSQVR558BCvlwSx7l82TuSrQbHJw/formResponse" method="post" target="hidden_iframe" onsubmit="submitted=true;">		
+<form action="https://docs.google.com/forms/d/e/1FAIpQLScM9IvgRsz7i-YQ06BKozrSQVR558BCvlwSx7l82TuSrQbHJw/formResponse" method="post" target="_self" onsubmit="submitted=true;">		
+
+
+
+
 
   <div class="row uniform">
   <div class="6u 12u$(xsmall)" style="width:40%;">
