@@ -29,7 +29,7 @@ weight: 3
 <script type="text/javascript">var submitted=false;</script>		
 
 <iframe name="hidden_iframe" id="hidden_iframe"		
-style="display:none;" onload="if(submitted) {window.location='/thanks.html';}"></iframe>
+style="display:none;" onload="if(submitted) {window.location='http://plantsciencesymposium.ucdavis.edu/thanks.html';}"></iframe>
 
 <form action="https://docs.google.com/forms/d/e/1FAIpQLScM9IvgRsz7i-YQ06BKozrSQVR558BCvlwSx7l82TuSrQbHJw/formResponse" method="post" target="_hidden_iframe" onsubmit="submitted=true;">		
 
