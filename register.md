@@ -25,6 +25,9 @@ weight: 3
 <p></p>
 
 <!-- Form -->
+<p style="color:#002285;">
+Registration is temporarily closed.
+</p>
 
 <script type="text/javascript">var submitted=false;</script>		
 
