@@ -15,7 +15,7 @@ weight: 3
 <center>
 <header class="major">
 
-<h1>Register - Open Soon</h1>
+<h1>Register</h1>
 </header>
 </center>
 
