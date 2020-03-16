@@ -20,7 +20,7 @@ weight: 4
 		</center>
 
 <!-- Content -->
-<b Abstract submission is temporarily closed. </b>
+Abstract submission is temporarily closed.
 
  <!--<bstyle="color:#002285;">This year's symposium will provide <b>undergraduates, graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in the form of <b>posters</b>. Additionally, four presenters will be competitively chosen to present their work in the form of a 5 minute <b> oral presentations </b>.-->
 <!--<br><br>
@@ -33,7 +33,7 @@ Please submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIp
 </p>
 </center>-->
 
-<br><br>		
+<!-- <br><br>	
 <span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 
 <br>
-<span>This content is neither created nor endorsed by Google.</span>
+<span>This content is neither created nor endorsed by Google.</span>-->
