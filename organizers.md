@@ -118,14 +118,14 @@ weight: 7
 	</section>
 
 	<section>
-			<img src="" alt="" data-position="top center" />
+			<img src="assets/images/students/2020_YUfei_Qain.jpeg" alt="" data-position="top center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
 					<h3 style="color: #002855;">Yufei Qian</h3>
                     yfqian [at] ucdavis [dot] edu
 				</header>
-				<p>Coming soon....
+				<p>Yufei Qian is a second year M.S/PhD student in the Horticulture & Agronomy program (GGHA) and a member of Dr. Gail Taylor's lab at UC Davis. Her current research interests are focused on the specialty crop watercress and aiming to increase the metabolomics nutrient contents which provide important health benefits through consumption of this leafy Brassicaceae vegetable. Yufei attained her B.S. from UC Davis in Environmental Horticulture with a specialization in Floriculture.
 				</p>
 			</div>
 		</div>
