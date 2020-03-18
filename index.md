@@ -23,6 +23,7 @@ nav-menu: yes
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
 				<li><h2>May 6th, 2020</h2></li><br>
+				<li><h2>Due to the COVID-19, we will be hosting our symposium online through zoom. The new schedule will be updated soon. We apologize for any inconvenience.</li>
 				<li><a href="/register.html" class="button next scrolly">Registration</a></li>
 			</ul>
 		</div>
