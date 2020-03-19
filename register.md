@@ -58,7 +58,7 @@ style="display:none;" onload="if(submitted) {window.location='http://plantscienc
 
 <br>
 
-  <div class="12u$">
+  <!-- <div class="12u$">
   <div class="select-wrapper">
   <select name="entry.260045964">
     <option value="">- Will you be attending in-person or streaming online? -</option>
@@ -66,9 +66,9 @@ style="display:none;" onload="if(submitted) {window.location='http://plantscienc
     <option value="I will stream online">I will stream online</option>
   </select>
   </div>
-  </div>
+  </div> -->
 
-  <div class="12u$">
+  <!-- <div class="12u$">
   <div class="select-wrapper">
   <select name="entry.1522197517">
     <option value="">- Do you have any dietary restrictions? -</option>
@@ -79,7 +79,7 @@ style="display:none;" onload="if(submitted) {window.location='http://plantscienc
     <option value="Vegan and Gluten-free">"Vegan and Gluten-free"</option>
   </select>
   </div>
-  </div>
+  </div> -->
 
   <input type="hidden" name="draftResponse" value="[,,&quot;252285337187399270&quot;]" style="color:#000" />
   <input type="hidden" name="pageHistory" value="0" />
