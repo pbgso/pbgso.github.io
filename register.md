@@ -26,7 +26,7 @@ weight: 3
 
 <!-- Form -->
 <p style="color:#002285;">
-Registration is temporarily closed.
+Due to COVID-19, we will be hosting our symposium online as a video conference. The committee is actively working to arrange the details for the symposium. Registration is OPEN. 
 </p>
 
 <script type="text/javascript">var submitted=false;</script>		
