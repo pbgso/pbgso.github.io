@@ -89,7 +89,7 @@ style="display:none;" onload="if(submitted) {window.location='http://plantscienc
   <input type="hidden" name="fbzx" value="252285337187399270" /> 			
   </div>
 <br>
-<span>* Lunch and memorabilia provided for the first 150 attendees. </span>
+<!-- <span>* Lunch and memorabilia provided for the first 150 attendees. </span>-->
 <br><br>
 
 <div class="ss-item ss-navigate">
