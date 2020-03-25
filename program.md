@@ -24,9 +24,11 @@ image: assets/images/backgrounds/program.jpg
 
 <h6>
 <center>
-<a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=223"> Multipurpose Room, UC Davis Student Community Center </a>
+<!-- Commented out room location and parking information -->
+<!-- <a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=223"> Multipurpose Room, UC Davis Student Community Center </a> 
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a>
+<a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a> -->
+<a style="color:#c99700;" href=""> View the symposium </a> 
 </center>
 
 <div class="table-wrapper">
@@ -134,8 +136,8 @@ image: assets/images/backgrounds/program.jpg
 	</table>
 </div>
 
-
-<p style="text-align: left;"><i> - Lunch for first 200 attendees and memorabilia provided</i></p>
+<!-- Commented out lunch and memorabilia note -->
+<!--<p style="text-align: left;"><i> - Lunch for first 200 attendees and memorabilia provided</i></p> -->
 </h6>
 
 </div>
