@@ -20,7 +20,7 @@ image: assets/images/backgrounds/program.jpg
 
 <!-- Content -->
 <!-- Table -->
-<center><h6> Wednesday, May 6th 2020 </h6></center>
+<!--<center><h6> Wednesday, May 6th 2020 </h6></center> -->
 
 <h6>
 <center>
@@ -28,6 +28,7 @@ image: assets/images/backgrounds/program.jpg
 <!-- <a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=223"> Multipurpose Room, UC Davis Student Community Center </a> 
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a> -->
+<h6>Wednesday, May 6th 2020 <h6> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a style="color:#c99700;" href=""> View the symposium </a> 
 </center>
 
