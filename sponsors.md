@@ -70,6 +70,10 @@ weight: 6
 <td>California Crop Improvement Association</td><td>Silver</td>
 </tr>
 
+<tr>
+<td>Enza Zaden</td><td>Gold</td>
+</tr>
+
 </tbody>
 </table>
 
