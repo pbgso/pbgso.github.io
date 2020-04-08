@@ -71,6 +71,10 @@ weight: 6
 </tr>
 
 <tr>
+<td>E & J Gallo Winery</td><td>Gold</td>
+</tr>
+
+<tr>
 <td>Enza Zaden</td><td>Gold</td>
 </tr>
 
