@@ -66,9 +66,6 @@ weight: 6
 <td>UC Davis Plant Breeding Center</td><td>Platinum</td>
 </tr>
 
-<tr>
-<td>California Crop Improvement Association</td><td>Silver</td>
-</tr>
 
 <tr>
 <td>E & J Gallo Winery</td><td>Gold</td>
@@ -76,6 +73,10 @@ weight: 6
 
 <tr>
 <td>Enza Zaden</td><td>Gold</td>
+</tr>
+
+<tr>
+<td>California Crop Improvement Association</td><td>Silver</td>
 </tr>
 
 </tbody>
