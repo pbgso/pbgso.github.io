@@ -27,10 +27,10 @@ image: assets/images/backgrounds/program.jpg
 <!-- Commented out room location and parking information -->
 <!-- <a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=223"> Multipurpose Room, UC Davis Student Community Center </a> 
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
-<a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a> -->
+<a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a> 
 <h6>Wednesday, May 6th 2020 <h6> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a style="color:#c99700;" href=""> View the symposium </a> 
-</center>
+</center>-->
 
 <div class="table-wrapper">
 	<table>
@@ -42,10 +42,10 @@ image: assets/images/backgrounds/program.jpg
 		</thead>
 		<tbody>
 
-<tr>
+<!-- <tr>
 <td style="font-size:120%;">08:00</td>
 <td><i>Registration</i></td>
-</tr>
+</tr> -->
 
 <tr>
 <td style="font-size:120%;">08:40</td>
@@ -70,7 +70,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">10:15</td>
-<td><b style="font-size:120%;">Coffee</b> | <b style="font-size:120%;">Poster Access</b></td>
+<td><b style="font-size:120%;"> Break </b> <!--| <b style="font-size:120%;">Poster Access</b>--></td>
 </tr>
 
 <tr>
@@ -87,12 +87,12 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">12:00</td>
-<td> <b style="font-size:120%;">Flashtalks</b></td>
+<td> <b style="font-size:120%;">Flash Talks</b></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">12:20</td>
-<td><b style="font-size:120%;">Lunch</b> | <b style="font-size:120%;">Poster Access</b></td>
+<td><b style="font-size:120%;">Lunch</b> <!--| <b style="font-size:120%;">Poster Access</b>--></td>
 </tr>
 
 <tr>
@@ -113,22 +113,28 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">14:45</td>
-<td><b style="font-size:120%;">Poster Access</b> | <b style="font-size:120%;">Coffee</b></td>
+<td><b style="font-size:120%;">Flash Talks</b> <br> 
+<b style="font-size:120%;">TBA</b> | TBA<br> <i> "TBA" </i></td>
+</tr>
+
+<tr>
+<td style="font-size:120%;">15:05</td>
+<td><b style="font-size:120%;">Break</b> </td>
 </tr>
 
 
 <tr>
-<td style="font-size:120%;">15:15</td>
+<td style="font-size:120%;">15:20</td>
 <td> <b style="font-size:120%;">Luis Cisneros-Zevallos</b> | Texas A&M University<br>  <i>"The impact of pre and post-harvest abiotic stress on plant nutraceuticals and their potential use"</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">16:00</td>
+<td style="font-size:120%;">16:05</td>
 <td> <b style="font-size:120%;">Esther van der Knaap</b> | University of Georgia<br>  <i>"A common genetic mechanism regulating organ morphology in plants"</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">16:45</td>
+<td style="font-size:120%;">16:50</td>
 <td><b style="font-size:120%;">Closing Remarks</b> </td>
 </tr>
 
@@ -141,5 +147,5 @@ image: assets/images/backgrounds/program.jpg
 <!--<p style="text-align: left;"><i> - Lunch for first 200 attendees and memorabilia provided</i></p> -->
 </h6>
 
-</div>
+<!--</div>
 </div> -->
