@@ -88,7 +88,6 @@ image: assets/images/backgrounds/program.jpg
 <tr>
 <td style="font-size:120%;">12:00</td>
 <td> <b style="font-size:120%;">Flash Talks</b>
-<b style="font-size:120%;">TBA</b> | TBA<br> <i> "TBA" </i>
 <b style="font-size:120%;">TBA</b> | TBA<br> <i> "TBA" </i></td>
 </tr>
 
@@ -116,7 +115,6 @@ image: assets/images/backgrounds/program.jpg
 <tr>
 <td style="font-size:120%;">14:45</td>
 <td><b style="font-size:120%;">Flash Talks</b> <br> 
-<b style="font-size:120%;">TBA</b> | TBA<br> <i> "TBA" </i>
 <b style="font-size:120%;">TBA</b> | TBA<br> <i> "TBA" </i></td>
 </tr>
 
@@ -145,7 +143,7 @@ image: assets/images/backgrounds/program.jpg
 		</tbody>
 	</table>
 </div>
-</h6>
+<!--</h6>-->
 <!-- Commented out lunch and memorabilia note -->
 <!--<p style="text-align: left;"><i> - Lunch for first 200 attendees and memorabilia provided</i></p> -->
 
