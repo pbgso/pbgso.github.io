@@ -26,7 +26,7 @@ weight: 3
 
 <!-- Form -->
 <p style="color:#002285;">
-Due to COVID-19, we will be hosting our symposium online as a video conference. The committee is actively working to arrange the details for the symposium. Registration is OPEN. 
+Due to COVID-19, we will be hosting our symposium online as a video conference through Zoom. Registrants will recieve a Zoom invitation and instructions on how to install and use Zoom the week of the conference. Registration is <b style="font-size:120%;">OPEN</b>. 
 </p>
 
 <script type="text/javascript">var submitted=false;</script>		
