@@ -87,7 +87,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">12:00</td>
-<td> <b style="font-size:120%;">Flash Talks</b>
+<td> <b style="font-size:120%;">Flash Talks</b><br>
 <b style="font-size:120%;">Tia Dunbar</b> <br><i> "TBA"</i><br>
 <b style="font-size:120%;">Stefan Petrasch </b> | UC Davis<br><i> "Genomic prediction of fruit quality and shelf-life traits in strawberry" </i></td></td>
 </tr>
