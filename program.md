@@ -99,7 +99,7 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">13:30</td>
-<td> <b style="font-size:120%;">TBA</b> | Corteva<br>  
+<td> <b style="font-size:120%;">David Habier</b> | Corteva<br>  
 <i>TBA</i></td>
 </tr>
 
@@ -116,7 +116,7 @@ image: assets/images/backgrounds/program.jpg
 <tr>
 <td style="font-size:120%;">14:45</td>
 <td><b style="font-size:120%;">Flash Talks</b> <br> 
-<b style="font-size:120%;">Zachary Liechty</b> | UC Davis<br> <i> TBA </i><br>
+<b style="font-size:120%;">Zachary Liechty</b> | UC Davis<br> <i> Microbial dynamics during drought and recovery in rice</i><br>
 <b style="font-size:120%;">Jingwei Yu</b> | UC Davis<br> <i> "Engineering potato starch using a CRISPR/Cas9 transient expression system" </i></td>
 </tr>
 
