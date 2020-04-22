@@ -190,7 +190,44 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
         </div>
     </section>
 
+<!-- Five -->
+<section id="five" style="background-color:#c99700;>
+	<div class="inner">
+		<header class="major">
+        <h1 style="color:#ffffff;"> Flash talk</h1>
+		</header>
+	</div>
+</section>
 
+<!-- Six -->
+<section id="six" class="spotlights">
+	<section>
+        	<img src="assets/images/speakers/2020_flash_Jingwei_Yu_headshot.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Jingwei Yu</h3>
+                    <a href="https://www.researchgate.net/profile/Jingwei_Yu3" class="icon fa-home"></a>
+				</header>
+				<p> Jingwei Yu is a second-year master’s student in Horticulture and Agronomy, working with Dr. Diane Beckles in the Department of Plant Sciences. He is interested in starch biosynthesis in higher plants and improving crops by engineering starch-related traits. He received his BSc in Horticulture from Northwest A&F University in China.
+				</p>
+			</div>
+		</div>
+	</section>
+
+	<section>
+		<img src="assets/images/speakers/2020_flash_Zach_Liechty.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Zachary Liechty</h3>
+                    <a href="https://cbsapps.ucdavis.edu/GradStudents/Student/View/10634" class="icon fa-home"></a>
+				</header>
+				<p> Zach Liechty is a 5th year PhD student on the rice microbiome project in the Sundaresan Lab. He studies a variety of microbiome related topics including the effects of drought stress on microbial composition, the effects of nitrogen fertilizer on nitrogen cycling microbes, as well as rice cultivar variation in relation to methane emissions and methane cycling microbes. He previously a B.S. at Brigham Young University in Plant Genetics.
+				</p>
+			</div>
+		</div>
+	</section>
     
 </section>
 

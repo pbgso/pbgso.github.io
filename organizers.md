@@ -95,7 +95,7 @@ weight: 7
 			<div class="inner">
 				<header class="major">
 					<h3 style="color: #002855;">Hongtao Zhang</h3>
-                     snkuzay [at] ucdavis [dot] edu
+                     htzhang [at] ucdavis [dot] edu
 				</header>
                 <p>Hongtao Zhang is a 2nd year PhD student under Dr. Stacey Harmer in the Plant Biology Graduate Group. He is generally interested in plants’ responses to various environmental factors. Currently he works on the regulation of Arabidopsis circadian clock at transcriptional and post-transcriptional levels using genetic and molecular approaches. Hongtao received his BS degree in Biological Science from Peking University, China.
                 </p>
@@ -141,7 +141,7 @@ weight: 7
 					<h3 style="color: #C99700;">Jeffrey Ross-Ibarra</h3>
 					rossibarra [at] ucdavis [dot] edu
 				</header>
-				<p>Dr. Jeff Ross-Ibarra is a Professor and Section Chair in the Department of Plant Sciences. He also holds affiliations with The Center for Population Biology and The Genome Center at UC Davis. His lab works on the evolutionary genetics of maize and teosinte. He has served as the faculty advisor to the UC Davis Plant Breeding Symposium since its inception 6 years ago.</p>
+				<p>Dr. Jeff Ross-Ibarra is a Professor and Section Chair in the Department of Plant Sciences. He also holds affiliations with The Center for Population Biology and The Genome Center at UC Davis. His lab works on the evolutionary genetics of maize and teosinte. He has served as the faculty advisor to the UC Davis Plant Science Symposium since its inception.</p>
 			</div>
 		</div>
 	</section>
