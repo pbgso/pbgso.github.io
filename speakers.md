@@ -202,7 +202,7 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 <!-- Six -->
 <section id="six" class="spotlights">
 	<section>
-        	<img src="assets/images/speakers/Jingwei_Yu_headshot.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+        	<img src="assets/images/speakers/2020_flash_Jingwei_Yu_headshot.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -216,7 +216,7 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 	</section>
 
 	<section>
-		<img src="assets/images/speakers/Zach_Liechty.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+		<img src="assets/images/speakers/2020_flash_Zach_Liechty.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
