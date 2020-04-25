@@ -51,6 +51,20 @@ weight: 1
 			</div>
 		</div>
 	</section>
+	
+	<section>
+            <img src="assets/images/speakers/2020_key_David_Habier.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>David Habier</h3>
+                    <a href="https://www.researchgate.net/profile/David_Habier" class="icon fa-home"></a>
+				</header>
+				<p>David Habier is a quantitative geneticist who leads the Methodology and Software Innovations team at Corteva Agriscience. His team researches and develops methods, algorithms and software tools for spatial field analyses, genetic evaluation, genomic prediction, QTL mapping, and evaluation of transgenes in multiple genetic backgrounds. These tools are used across crops of Corteva’s seed product development pipelines. David studied agricultural sciences at the Technical University of Munich, where he received a doctoral degree in animal breeding for his work on optimization of a pig breeding program. He then joined professors Rohan Fernando, Jack Dekkers, and Dorian Garrick as a postdoctoral fellow at Iowa State University, and contributed outstanding research in the field of genomic prediction. Before joining the company, he taught quantitative genetics and animal breeding at the University of Kiel in Germany and helped both German Holstein and poultry breeders understand genomic prediction.
+				</p>
+			</div>
+		</div>
+	</section>
 
 	<section>
 			<img src="assets/images/speakers/2020_Key_E_van_der_Knapp.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
@@ -204,7 +218,7 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 <section id="five" style="background-color:#c99700;>
 	<div class="inner">
 		<header class="major">
-        <h1 style="color:#ffffff;"> Flash talk</h1>
+        <h1 style="color:#ffffff;"> Flash talks</h1>
 		</header>
 	</div>
 </section>
@@ -220,6 +234,20 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
                     <a href="https://www.researchgate.net/profile/Jingwei_Yu3" class="icon fa-home"></a>
 				</header>
 				<p> Jingwei Yu is a second-year master’s student in Horticulture and Agronomy, working with Dr. Diane Beckles in the Department of Plant Sciences. He is interested in starch biosynthesis in higher plants and improving crops by engineering starch-related traits. He received his BSc in Horticulture from Northwest A&F University in China.
+				</p>
+			</div>
+		</div>
+	</section>
+	
+	<section>
+        	<img src="assets/images/speakers/2020_flash_Stefan_Petrasch.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Stefan Petrasch</h3>
+                    <a href="https://knapp.plantsciences.ucdavis.edu/index.php/stefan-petrasch-phd/" class="icon fa-home"></a>
+				</header>
+				<p> Stefan Petrasch is a 4th year PhD student and works in the labs of Dr. Steve Knapp and Dr. Barbara Blanco-Ulate. He studies genetics of strawberry fruit quality, shelf life and fruit resistance to Botrytis cinerea via search for large effect loci and assessment of genomic prediction. Stefan previously obtained a BSc in Biology from TU Dresden in Germany and a MSc in Plant Science and Plant Breeding from Wageningen University in the Netherlands.
 				</p>
 			</div>
 		</div>
