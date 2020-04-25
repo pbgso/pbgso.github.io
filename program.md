@@ -100,7 +100,7 @@ image: assets/images/backgrounds/program.jpg
 <tr>
 <td style="font-size:120%;">13:30</td>
 <td> <b style="font-size:120%;">David Habier</b> | Corteva<br>  
-<i>TBA</i></td>
+<i>"On the predictability of genomic prediction in plant breeding"</i></td>
 </tr>
 
 <tr>
