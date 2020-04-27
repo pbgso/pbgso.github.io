@@ -85,43 +85,40 @@ image: assets/images/backgrounds/program.jpg
 <i>"After prohibition, Cannabis is rapidly catching up to other crops using modern science, but hurdles remain"</i></td>
 </tr>
 
-<tr>
-<td style="font-size:120%;">12:00</td>
-<td> <b style="font-size:120%;">Flash Talks</b><br>
-<b style="font-size:120%;">Stefan Petrasch </b> | UC Davis<br><i> "Genomic prediction of fruit quality and shelf-life traits in strawberry"</i>
-</td>
-</tr>
+
 
 <tr>
-<td style="font-size:120%;">12:20</td>
+<td style="font-size:120%;">12:00</td>
 <td><b style="font-size:120%;">Lunch</b> <!--| <b style="font-size:120%;">Poster Access</b>--></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">13:30</td>
+<td style="font-size:120%;">13:10</td>
 <td> <b style="font-size:120%;">David Habier</b> | Corteva<br>  
 <i>TBA</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">14:15</td>
+<td style="font-size:120%;">13:55</td>
 <td> <b style="font-size:120%;">Elisabeth Forrestel</b> | University of California-Davis<br>  <i>"Taming the wild grape: comparative ecophysiology of cultivated grapes and their wild relatives"</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">14:30</td>
+<td style="font-size:120%;">14:10</td>
 <td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  <i>"Beyond greenness: remote sensing of plant dynamics in real time"</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">14:45</td>
+<td style="font-size:120%;">14:25</td>
 <td><b style="font-size:120%;">Flash Talks</b> <br> 
+<b style="font-size:120%;">Stefan Petrasch </b> | UC Davis<br><i> "Genomic prediction of fruit quality and shelf-life traits in strawberry"</i>
 <b style="font-size:120%;">Zachary Liechty</b> | UC Davis<br> <i> Microbial dynamics during drought and recovery in rice</i><br>
 <b style="font-size:120%;">Jingwei Yu</b> | UC Davis<br> <i> "Engineering potato starch using a CRISPR/Cas9 transient expression system" </i></td>
 </tr>
 
+
 <tr>
-<td style="font-size:120%;">15:05</td>
+<td style="font-size:120%;">14:55</td>
 <td><b style="font-size:120%;">Break</b> </td>
 </tr>
 
