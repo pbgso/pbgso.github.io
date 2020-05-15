@@ -88,7 +88,8 @@ style="font-size:120%;">09:00
 <tr>
 <td style="font-size:120%;">11:15</td>
 <td> <b style="font-size:120%;">CJ Schwartz</b> | Sunrise Genetics<br>  
-<i>"After prohibition, Cannabis is rapidly catching up to other crops using modern science, but hurdles remain"</i></td>
+<i>"After prohibition, Cannabis is rapidly catching up to other crops using modern science, but hurdles remain"</i></td> <br>
+<a href = "https://youtu.be/FY5dApL8REw">View recording </a>
 </tr>
 
 
@@ -106,19 +107,25 @@ style="font-size:120%;">09:00
 
 <tr>
 <td style="font-size:120%;">13:55</td>
-<td> <b style="font-size:120%;">Elisabeth Forrestel</b> | University of California-Davis<br>  <i>"Taming the wild grape: comparative ecophysiology of cultivated grapes and their wild relatives"</i></td>
+<td> <b style="font-size:120%;">Elisabeth Forrestel</b> | University of California-Davis<br>  <i>"Taming the wild grape: comparative ecophysiology of cultivated grapes and their wild relatives"</i></td> <br>
+<a href = "https://youtu.be/pVYwK-ucY70">View recording </a>
 </tr>
 
 <tr>
 <td style="font-size:120%;">14:10</td>
-<td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  <i>"Beyond greenness: remote sensing of plant dynamics in real time"</i></td>
+<td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  <i>"Beyond greenness: remote sensing of plant dynamics in real time"</i></td> <br>
+<a href = "https://youtu.be/sJ8HFl3VuAE">View recording </a>
 </tr>
 
 <tr>
 <td style="font-size:120%;">14:25</td>
 <td><b style="font-size:120%;">Flash Talks</b> <br> 
-<b style="font-size:120%;">Stefan Petrasch </b> | UC Davis<br><i> "Genomic prediction of fruit quality and shelf-life traits in strawberry"</i><br> 
+<b style="font-size:120%;">Stefan Petrasch </b> | UC Davis<br><i> "Genomic prediction of fruit quality and shelf-life traits in strawberry"</i><br>
+<a href = "https://youtu.be/KjL3QBg2cRA">View recording </a> <br>
+
 <b style="font-size:120%;">Zachary Liechty</b> | UC Davis<br> <i> "Microbial dynamics during drought and recovery in rice"</i><br>
+<a href = "https://youtu.be/HQxFpAwAKFg">View recording </a> <br>
+
 <b style="font-size:120%;">Jingwei Yu</b> | UC Davis<br> <i> "Engineering potato starch using a CRISPR/Cas9 transient expression system" </i></td>
 </tr>
 
@@ -131,7 +138,8 @@ style="font-size:120%;">09:00
 
 <tr>
 <td style="font-size:120%;">15:20</td>
-<td> <b style="font-size:120%;">Luis Cisneros-Zevallos</b> | Texas A&M University<br>  <i>"The impact of pre and post-harvest abiotic stress on plant nutraceuticals and their potential use"</i></td>
+<td> <b style="font-size:120%;">Luis Cisneros-Zevallos</b> | Texas A&M University<br>  <i>"The impact of pre and post-harvest abiotic stress on plant nutraceuticals and their potential use"</i></td> <br>
+<a href = "https://youtu.be/EAXamrSmNG0">View recording </a>
 </tr>
 
 <tr>
