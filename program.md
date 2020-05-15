@@ -53,15 +53,20 @@ image: assets/images/backgrounds/program.jpg
 </tr>
 
 <tr>
-<td style="font-size:120%;">09:00</td>
-<td>  <a href = "https://youtu.be/tFPp7cqv3dQ" <b style="font-size:120%;"> Irwin Goldman </b></a>  | University of Wisconsin-Madison<br>  
-<i>"The slowest of the performing arts: Breeding biennial vegetables for flavor, color, and nutrition"</i></td>
+<td 
+style="font-size:120%;">09:00
+</td>
+<td> <b style="font-size:120%;"> Irwin Goldman </b> | University of Wisconsin-Madison <br>  
+<i>"The slowest of the performing arts: Breeding biennial vegetables for flavor, color, and nutrition"</i>
+<a href = "https://youtu.be/tFPp7cqv3dQ">View recording </a>
+</td>
 
 </tr>
 
 <tr>
 <td style="font-size:120%;">09:45</td>
-<td> <b style="font-size:120%;">Christine Diepenbrock</b> | University of California-Davis<br>  <i>"Provitamin A and vitamin E levels in maize grain: genomics to market"</i></td>
+<td> <b style="font-size:120%;">Christine Diepenbrock</b> | University of California-Davis<br>  
+<i>"Provitamin A and vitamin E levels in maize grain: genomics to market"</i></td>
 </tr>
 
 <tr>
