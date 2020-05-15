@@ -113,18 +113,18 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
   <td style="font-size:120%;">14:10</td>
-  <td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  <i>"Beyond greenness: remote sensing of plant dynamics in real time"</i></td> <br>
-<!--<a href = "https://youtu.be/sJ8HFl3VuAE" target="_blank">View recording </a> -->
+  <td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  
+  <a href = "https://youtu.be/sJ8HFl3VuAE" target="_blank"><i>"Beyond greenness: remote sensing of plant dynamics in real time"</i></a></td>
 </tr>
 
 <tr>
 <td style="font-size:120%;">14:25</td>
 <td><b style="font-size:120%;">Flash Talks</b> <br> 
-<b style="font-size:120%;">Stefan Petrasch </b> | UC Davis<br><i> "Genomic prediction of fruit quality and shelf-life traits in strawberry"</i><br>
-<!--<a href = "https://youtu.be/KjL3QBg2cRA" target="_blank">View recording </a> <br> -->
+<b style="font-size:120%;">Stefan Petrasch </b> | UC Davis<br>
+<a href = "https://youtu.be/KjL3QBg2cRA" target="_blank"><i> "Genomic prediction of fruit quality and shelf-life traits in strawberry"</i></a> <br>
 
-<b style="font-size:120%;">Zachary Liechty</b> | UC Davis<br> <i> "Microbial dynamics during drought and recovery in rice"</i><br>
-<!--<a href = "https://youtu.be/HQxFpAwAKFg" target="_blank">View recording </a> <br> -->
+<b style="font-size:120%;">Zachary Liechty</b> | UC Davis<br> 
+<a href = "https://youtu.be/HQxFpAwAKFg" target="_blank"><i> "Microbial dynamics during drought and recovery in rice"</i></a> <br>
 
 <b style="font-size:120%;">Jingwei Yu</b> | UC Davis<br> <i> "Engineering potato starch using a CRISPR/Cas9 transient expression system" </i></td>
 </tr>
@@ -153,9 +153,8 @@ image: assets/images/backgrounds/program.jpg
     <td><b style="font-size:120%;">Closing Remarks</b> </td>
 </tr>
 
-
-		</tbody>
-	</table>
+</tbody>
+</table>
 </div>
 <!--</h6>-->
 <!-- Commented out lunch and memorabilia note -->
