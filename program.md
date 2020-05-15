@@ -21,7 +21,7 @@ image: assets/images/backgrounds/program.jpg
 <!-- Content -->
 <!-- Table -->
 <center><h6> Wednesday, May 6th 2020 </h6></center>
-<center><h6> A recording of each talk can be accessed by clicking on the presenter's name. Not all talk were recorded. </h6></center>
+<center><h6> A recording of each talk can be accessed below each presenter's name. Not all talks were recorded. </h6></center>
 <h6>
 <center>
 <!-- Commented out room location and parking information -->
@@ -57,7 +57,7 @@ image: assets/images/backgrounds/program.jpg
 style="font-size:120%;">09:00
 </td>
 <td> <b style="font-size:120%;"> Irwin Goldman </b> | University of Wisconsin-Madison <br>  
-<i>"The slowest of the performing arts: Breeding biennial vegetables for flavor, color, and nutrition"</i>
+<i>"The slowest of the performing arts: Breeding biennial vegetables for flavor, color, and nutrition"</i> <br>
 <a href = "https://youtu.be/tFPp7cqv3dQ">View recording </a>
 </td>
 
