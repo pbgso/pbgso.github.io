@@ -108,12 +108,12 @@ image: assets/images/backgrounds/program.jpg
 <tr>
   <td style="font-size:120%;">13:55</td>
   <td> <b style="font-size:120%;">Elisabeth Forrestel</b> | University of California-Davis<br>  
-  <a href = "https://youtu.be/pVYwK-ucY70" target="_blank"><i>"Taming the wild grape: comparative ecophysiology of cultivated grapes and their wild relatives"</i></td></a>
+  <a href = "https://youtu.be/pVYwK-ucY70" target="_blank"><i>"Taming the wild grape: comparative ecophysiology of cultivated grapes and their wild relatives"</i></a></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">14:10</td>
-<td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  <i>"Beyond greenness: remote sensing of plant dynamics in real time"</i></td> <br>
+  <td style="font-size:120%;">14:10</td>
+  <td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  <i>"Beyond greenness: remote sensing of plant dynamics in real time"</i></td> <br>
 <!--<a href = "https://youtu.be/sJ8HFl3VuAE" target="_blank">View recording </a> -->
 </tr>
 
@@ -131,25 +131,26 @@ image: assets/images/backgrounds/program.jpg
 
 
 <tr>
-<td style="font-size:120%;">14:55</td>
-<td><b style="font-size:120%;">Break</b> </td>
+  <td style="font-size:120%;">14:55</td>
+  <td><b style="font-size:120%;">Break</b> </td>
 </tr>
 
 
 <tr>
-<td style="font-size:120%;">15:20</td>
-<td> <b style="font-size:120%;">Luis Cisneros-Zevallos</b> | Texas A&M University<br>  <i>"The impact of pre and post-harvest abiotic stress on plant nutraceuticals and their potential use"</i></td> <br>
-<a href = "https://youtu.be/EAXamrSmNG0">View recording </a>
+  <td style="font-size:120%;">15:20</td>
+  <td> <b style="font-size:120%;">Luis Cisneros-Zevallos</b> | Texas A&M University<br>  
+  <a href = "https://youtu.be/EAXamrSmNG0"><i>"The impact of pre and post-harvest abiotic stress on plant nutraceuticals and their potential use"</i></td></a>
 </tr>
 
 <tr>
-<td style="font-size:120%;">16:05</td>
-<td> <b style="font-size:120%;">Esther van der Knaap</b> | University of Georgia<br>  <i>"A common genetic mechanism regulating organ morphology in plants"</i></td>
+  <td style="font-size:120%;">16:05</td>
+  <td> <b style="font-size:120%;">Esther van der Knaap</b> | University of Georgia<br> 
+  <i>"A common genetic mechanism regulating organ morphology in plants"</i></td>
 </tr>
 
 <tr>
-<td style="font-size:120%;">16:50</td>
-<td><b style="font-size:120%;">Closing Remarks</b> </td>
+    <td style="font-size:120%;">16:50</td>
+    <td><b style="font-size:120%;">Closing Remarks</b> </td>
 </tr>
 
 
