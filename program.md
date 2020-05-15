@@ -21,7 +21,7 @@ image: assets/images/backgrounds/program.jpg
 <!-- Content -->
 <!-- Table -->
 <center><h6> Wednesday, May 6th 2020 </h6></center>
-<center><h6> A recording of each talk can be accessed below each presenter's name. Not all talks were recorded. </h6></center>
+<center><h6> A recording of each talk can be accessed below the presenter's name. Not all talks were recorded. </h6></center>
 <h6>
 <center>
 <!-- Commented out room location and parking information -->
@@ -121,10 +121,10 @@ style="font-size:120%;">09:00
 <td style="font-size:120%;">14:25</td>
 <td><b style="font-size:120%;">Flash Talks</b> <br> 
 <b style="font-size:120%;">Stefan Petrasch </b> | UC Davis<br><i> "Genomic prediction of fruit quality and shelf-life traits in strawberry"</i><br>
-<a href = "https://youtu.be/KjL3QBg2cRA">View recording </a> <br>
+<!--<a href = "https://youtu.be/KjL3QBg2cRA">View recording </a> <br> -->
 
 <b style="font-size:120%;">Zachary Liechty</b> | UC Davis<br> <i> "Microbial dynamics during drought and recovery in rice"</i><br>
-<a href = "https://youtu.be/HQxFpAwAKFg">View recording </a> <br>
+<!--<a href = "https://youtu.be/HQxFpAwAKFg">View recording </a> <br> -->
 
 <b style="font-size:120%;">Jingwei Yu</b> | UC Davis<br> <i> "Engineering potato starch using a CRISPR/Cas9 transient expression system" </i></td>
 </tr>
