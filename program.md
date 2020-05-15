@@ -108,13 +108,13 @@ style="font-size:120%;">09:00
 <tr>
 <td style="font-size:120%;">13:55</td>
 <td> <b style="font-size:120%;">Elisabeth Forrestel</b> | University of California-Davis<br>  <i>"Taming the wild grape: comparative ecophysiology of cultivated grapes and their wild relatives"</i></td> <br>
-<a href = "https://youtu.be/pVYwK-ucY70">View recording </a>
+<!--<a href = "https://youtu.be/pVYwK-ucY70">View recording </a> -->
 </tr>
 
 <tr>
 <td style="font-size:120%;">14:10</td>
 <td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  <i>"Beyond greenness: remote sensing of plant dynamics in real time"</i></td> <br>
-<a href = "https://youtu.be/sJ8HFl3VuAE">View recording </a>
+<!--<a href = "https://youtu.be/sJ8HFl3VuAE">View recording </a> -->
 </tr>
 
 <tr>
