@@ -47,113 +47,112 @@ image: assets/images/backgrounds/program.jpg
 <td><i>Registration</i></td>
 </tr> -->
 
-<tr>
-  <td style="font-size:120%;">08:40</td>
-  <td> <b style="font-size:120%;">Jason Rauscher</b> | Corteva<br>        
-  <i>Opening Remarks</i></td>
-</tr>
+    <tr>
+      <td style="font-size:120%;">08:40</td>
+      <td> <b style="font-size:120%;">Jason Rauscher</b> | Corteva<br>
+      <i>Opening Remarks</i></td>
+    </tr>
 
-<tr>
-  <td style="font-size:120%;">09:00</td>
-  <td><b style="font-size:120%;"> Irwin Goldman </b> | University of Wisconsin-Madison <br>  
-    <a href = "https://youtu.be/tFPp7cqv3dQ" target="_blank">
-      <i>"The slowest of the performing arts: Breeding biennial vegetables for flavor, color, and nutrition"</i> 
-    </a>
-  </td>
-</tr>
+    <tr>
+      <td style="font-size:120%;">09:00</td>
+      <td><b style="font-size:120%;"> Irwin Goldman </b> | University of Wisconsin-Madison <br>  
+        <a href = "https://youtu.be/tFPp7cqv3dQ" target="_blank">
+          <i>"The slowest of the performing arts: Breeding biennial vegetables for flavor, color, and nutrition"</i> 
+        </a>
+      </td>
+    </tr>
+    
+    <tr>
+      <td style="font-size:120%;">09:45</td>
+      <td> <b style="font-size:120%;">Christine Diepenbrock</b> | University of California-Davis<br>  
+      <i>"Provitamin A and vitamin E levels in maize grain: genomics to market"</i></td>
+    </tr>
 
-<tr>
-  <td style="font-size:120%;">09:45</td>
-  <td> <b style="font-size:120%;">Christine Diepenbrock</b> | University of California-Davis<br>  
-  <i>"Provitamin A and vitamin E levels in maize grain: genomics to market"</i></td>
-</tr>
+    <tr>
+      <td style="font-size:120%;">10:00</td>
+      <td> <b style="font-size:120%;">Brian Bailey</b> | University of California-Davis<br> 
+      <i>"Computer-aided crop systems design and management"</i></td>
+    </tr>
+    
+    <tr>
+      <td style="font-size:120%;">10:15</td>
+      <td><b style="font-size:120%;"> Break </b> <!--| <b style="font-size:120%;">Poster Access</b>--></td>
+    </tr>
+    
+    <tr>
+      <td style="font-size:120%;">10:30</td>
+      <td> <b style="font-size:120%;">Julie Dawson</b> | University of Wisconsin-Madison<br>  
+      <i>"Participatory variety trialling for direct-market vegetable growers: The Seed to Kitchen Collaborative"</i></td>
+    </tr>
 
-<tr>
-  <td style="font-size:120%;">10:00</td>
-  <td> <b style="font-size:120%;">Brian Bailey</b> | University of California-Davis<br> 
-  <i>"Computer-aided crop systems design and management"</i></td>
-</tr>
+    <tr>
+      <td style="font-size:120%;">11:15</td>
+      <td><b style="font-size:120%;">CJ Schwartz</b> | Sunrise Genetics<br>  
+      <a href = "https://youtu.be/FY5dApL8REw" target="_blank"><i>"After prohibition, Cannabis is rapidly catching up to other crops using modern science, but hurdles remain"</i></a>
+      </td>
+    </tr>
+    
+    
+    
+    <tr>
+      <td style="font-size:120%;">12:00</td>
+      <td><b style="font-size:120%;">Lunch</b> <!--| <b style="font-size:120%;">Poster Access</b>--></td>
+    </tr>
 
-<tr>
-  <td style="font-size:120%;">10:15</td>
-  <td><b style="font-size:120%;"> Break </b> <!--| <b style="font-size:120%;">Poster Access</b>--></td>
-</tr>
+    <tr>
+      <td style="font-size:120%;">13:10</td>
+      <td> <b style="font-size:120%;">David Habier</b> | Corteva<br>  
+      <i>"On the predictability of genomic prediction in plant breeding"</i></td>
+    </tr>
+    
+    <tr>
+      <td style="font-size:120%;">13:55</td>
+      <td> <b style="font-size:120%;">Elisabeth Forrestel</b> | University of California-Davis<br>  
+      <a href = "https://youtu.be/pVYwK-ucY70" target="_blank"><i>"Taming the wild grape: comparative ecophysiology of cultivated grapes and their wild relatives"</i></a></td>
+    </tr>
+    
+    <tr>
+      <td style="font-size:120%;">14:10</td>
+      <td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  
+      <a href = "https://youtu.be/sJ8HFl3VuAE" target="_blank"><i>"Beyond greenness: remote sensing of plant dynamics in real time"</i></a></td>
+    </tr>
+    <tr>
+      <td style="font-size:120%;">14:25</td>
+      <td><b style="font-size:120%;">Flash Talks</b> <br> 
+      <b style="font-size:120%;">Stefan Petrasch </b> | UC Davis<br>
+      <a href = "https://youtu.be/KjL3QBg2cRA" target="_blank"><i> "Genomic prediction of fruit quality and shelf-life traits in strawberry"</i></a><br>
 
-<tr>
-  <td style="font-size:120%;">10:30</td>
-  <td> <b style="font-size:120%;">Julie Dawson</b> | University of Wisconsin-Madison<br>  
-  <i>"Participatory variety trialling for direct-market vegetable growers: The Seed to Kitchen Collaborative"</i></td>
-</tr>
+      <b style="font-size:120%;">Zachary Liechty</b> | UC Davis<br> 
+      <a href = "https://youtu.be/HQxFpAwAKFg" target="_blank"><i> "Microbial dynamics during drought and recovery in rice"</i></a> <br>
 
-<tr>
-  <td style="font-size:120%;">11:15</td>
-  <td><b style="font-size:120%;">CJ Schwartz</b> | Sunrise Genetics<br>  
-  <a href = "https://youtu.be/FY5dApL8REw" target="_blank"><i>"After prohibition, Cannabis is rapidly catching up to other crops using modern science, but hurdles remain"</i></a>
-  </td>
-</tr>
-
-
-
-<tr>
-  <td style="font-size:120%;">12:00</td>
-  <td><b style="font-size:120%;">Lunch</b> <!--| <b style="font-size:120%;">Poster Access</b>--></td>
-</tr>
-
-<tr>
-  <td style="font-size:120%;">13:10</td>
-  <td> <b style="font-size:120%;">David Habier</b> | Corteva<br>  
-  <i>"On the predictability of genomic prediction in plant breeding"</i></td>
-</tr>
-
-<tr>
-  <td style="font-size:120%;">13:55</td>
-  <td> <b style="font-size:120%;">Elisabeth Forrestel</b> | University of California-Davis<br>  
-  <a href = "https://youtu.be/pVYwK-ucY70" target="_blank"><i>"Taming the wild grape: comparative ecophysiology of cultivated grapes and their wild relatives"</i></a></td>
-</tr>
-
-<tr>
-  <td style="font-size:120%;">14:10</td>
-  <td> <b style="font-size:120%;">Troy Magney</b> | University of California-Davis<br>  
-  <a href = "https://youtu.be/sJ8HFl3VuAE" target="_blank"><i>"Beyond greenness: remote sensing of plant dynamics in real time"</i></a></td>
-</tr>
-
-<tr>
-<td style="font-size:120%;">14:25</td>
-<td><b style="font-size:120%;">Flash Talks</b> <br> 
-<b style="font-size:120%;">Stefan Petrasch </b> | UC Davis<br>
-<a href = "https://youtu.be/KjL3QBg2cRA" target="_blank"><i> "Genomic prediction of fruit quality and shelf-life traits in strawberry"</i></a> <br>
-
-<b style="font-size:120%;">Zachary Liechty</b> | UC Davis<br> 
-<a href = "https://youtu.be/HQxFpAwAKFg" target="_blank"><i> "Microbial dynamics during drought and recovery in rice"</i></a> <br>
-
-<b style="font-size:120%;">Jingwei Yu</b> | UC Davis<br> <i> "Engineering potato starch using a CRISPR/Cas9 transient expression system" </i></td>
-</tr>
-
-
-<tr>
-  <td style="font-size:120%;">14:55</td>
-  <td><b style="font-size:120%;">Break</b> </td>
-</tr>
+      <b style="font-size:120%;">Jingwei Yu</b> | UC Davis<br> <i> "Engineering potato starch using a CRISPR/Cas9 transient expression system"</i></td>
+    </tr>
 
 
-<tr>
-  <td style="font-size:120%;">15:20</td>
-  <td> <b style="font-size:120%;">Luis Cisneros-Zevallos</b> | Texas A&M University<br>  
-  <a href = "https://youtu.be/EAXamrSmNG0"><i>"The impact of pre and post-harvest abiotic stress on plant nutraceuticals and their potential use"</i></td></a>
-</tr>
+    <tr>
+      <td style="font-size:120%;">14:55</td>
+      <td><b style="font-size:120%;">Break</b> </td>
+    </tr>
 
-<tr>
-  <td style="font-size:120%;">16:05</td>
-  <td> <b style="font-size:120%;">Esther van der Knaap</b> | University of Georgia<br> 
-  <i>"A common genetic mechanism regulating organ morphology in plants"</i></td>
-</tr>
 
-<tr>
-    <td style="font-size:120%;">16:50</td>
-    <td><b style="font-size:120%;">Closing Remarks</b> </td>
-</tr>
+    <tr>
+      <td style="font-size:120%;">15:20</td>
+      <td> <b style="font-size:120%;">Luis Cisneros-Zevallos</b> | Texas A&M University<br>  
+      <a href = "https://youtu.be/EAXamrSmNG0"><i>"The impact of pre and post-harvest abiotic stress on plant nutraceuticals and their potential use"</i></a></td>
+    </tr>
 
-</tbody>
+    <tr>
+      <td style="font-size:120%;">16:05</td>
+      <td> <b style="font-size:120%;">Esther van der Knaap</b> | University of Georgia<br> 
+      <i>"A common genetic mechanism regulating organ morphology in plants"</i></td>
+    </tr>
+    
+    <tr>
+        <td style="font-size:120%;">16:50</td>
+        <td><b style="font-size:120%;">Closing Remarks</b> </td>
+    </tr>
+
+  </tbody>
 </table>
 </div>
 <!--</h6>-->
