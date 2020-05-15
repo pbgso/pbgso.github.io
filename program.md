@@ -57,8 +57,9 @@ image: assets/images/backgrounds/program.jpg
 style="font-size:120%;">09:00
 </td>
 <td> <b style="font-size:120%;"> Irwin Goldman </b> | University of Wisconsin-Madison <br>  
-<i>"The slowest of the performing arts: Breeding biennial vegetables for flavor, color, and nutrition"</i> <br>
-<a href = "https://youtu.be/tFPp7cqv3dQ" target="_blank">View recording </a>
+<a href = "https://youtu.be/tFPp7cqv3dQ" target="_blank">
+  <i>"The slowest of the performing arts: Breeding biennial vegetables for flavor, color, and nutrition"</i> 
+</a>
 </td>
 
 </tr>
