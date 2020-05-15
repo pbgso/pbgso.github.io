@@ -54,8 +54,10 @@ image: assets/images/backgrounds/program.jpg
 
 <tr>
 <td style="font-size:120%;">09:00</td>
-<td> <b style="font-size:120%;">Irwin Goldman</b> | University of Wisconsin-Madison<br>  
+<td> <b style="font-size:120%;"> <a href = "https://youtu.be/tFPp7cqv3dQ" Irwin Goldman </a> </b> | University of Wisconsin-Madison<br>  
+<a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=223"> Multipurpose Room, UC Davis Student Community Center </a> 
 <i>"The slowest of the performing arts: Breeding biennial vegetables for flavor, color, and nutrition"</i></td>
+
 </tr>
 
 <tr>
