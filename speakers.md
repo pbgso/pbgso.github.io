@@ -42,11 +42,11 @@ weight: 1
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>CJ Schwartz</h3>
-                    <a href="https://www.researchgate.net/profile/Cj_Schwartz2" class="icon fa-home"></a>
+					<h3>Maria Jos&eacute; Aranzana</h3>
+                    <a href="https://www.cragenomica.es/staff/maria-jose-aranzana" class="icon fa-home"></a>
 				</header>
 				<p> 
-				CJ Schwartz received his BS degree in Genetics from the University of Minnesota, a Ph.D. in Biochemistry at the University of Wisconsin, and a postdoc at the Salk Institute in San Diego with Joanne Chory and Detlef Weigel focusing on natural variation of light responsiveness. After nearly 20 years in academia, CJ founded a company 5 years ago (Sunrise Genetics), which applies modern molecular genetic techniques for gene discovery and marker assisted selection (MAS) breeding in Cannabis. In collaboration with the University of Minnesota and the J. Craig Venter Institute, Sunrise Genetics was the first to make public a high-quality Cannabis genome assembly, which is recognized as the Cannabis genomic reference accession by NCBI.
+				Maria Jos&eacute; Aranzana is a researcher at the Research Institute of Agriculture, Food Research and Technology (IRTA) in Spain. After graduating in agronomy, she conducted a doctoral training in peach genetics and genomics at IRTA, and postdoctoral trainings at the University of Southern California (USA) and at the Centre of Research for Agricultural Genomics (CRAG) in Spain. Her area of research is in the field of Rosaceae genetics and genomics, including peach, Japanese plum, apple and pear. Her team is interested in different aspects of Rosaceae genome organization, variability and evolution that help to elucidate the genetics of important agricultural traits. Their aim is to apply this information to develop tools, as high quality markers for markers assisted selection (MAS) and genetic materials (including collections of introgression lines), to improve plant breeding efficiency.
 				</p>
 			</div>
 		</div>
@@ -57,8 +57,8 @@ weight: 1
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>David Habier</h3>
-                    <a href="https://www.researchgate.net/profile/David_Habier" class="icon fa-home"></a>
+					<h3>Ben Blackman</h3>
+                    <a href="https://nature.berkeley.edu/blackmanlab/Blackman_Lab/Welcome.html" class="icon fa-home"></a>
 				</header>
 				<p>David Habier is a quantitative geneticist who leads the Methodology and Software Innovations team at Corteva Agriscience. His team researches and develops methods, algorithms and software tools for spatial field analyses, genetic evaluation, genomic prediction, QTL mapping, and evaluation of transgenes in multiple genetic backgrounds. These tools are used across crops of Corteva’s seed product development pipelines. David studied agricultural sciences at the Technical University of Munich, where he received a doctoral degree in animal breeding for his work on optimization of a pig breeding program. He then joined professors Rohan Fernando, Jack Dekkers, and Dorian Garrick as a postdoctoral fellow at Iowa State University, and contributed outstanding research in the field of genomic prediction. Before joining the company, he taught quantitative genetics and animal breeding at the University of Kiel in Germany and helped both German Holstein and poultry breeders understand genomic prediction.
 				</p>
@@ -71,8 +71,8 @@ weight: 1
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Esther van der Knaap</h3>
-                    <a href="https://vanderknaaplab.uga.edu/index.html" class="icon fa-home"></a>
+					<h3>Caixia Gao</h3>
+                    <a href="http://enpcce.genetics.cas.cn/PN/CXG/ACXG/" class="icon fa-home"></a>
 				</header>
 				<p> 
 				Esther van der Knaap received her BS/MS in Plant Pathology from Wageningen University in
@@ -87,8 +87,8 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Irwin Goldman</h3>
-                    <a href="https://goldman.horticulture.wisc.edu/" class="icon fa-home"></a>
+                    <h3>Malia Gehan</h3>
+                    <a href="https://www.danforthcenter.org/our-work/principal-investigators/malia-gehan/" class="icon fa-home"></a>
                 </header>
                 <p> 
 			Irwin Goldman has been a professor at University of Wisconsin-Madison since 1992. Dr. Goldman’s graduate work was done at North Carolina State University and at the University of Wisconsin-Madison. He then moved on to the University of Illinois to do his postdoctoral work. Current work in Dr. Goldman’s research group focuses on breeding in carrot, onion, and table beet. Dr. Goldman’s breeding expertise extends into his teaching, where he teaches courses such as World Vegetable Crops, Plant Breeding, Plants and Human Wellbeing, Evolutionary Biology, and Food and Seed Sovereignty.
@@ -103,11 +103,11 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Julie Dawson</h3>
-                    <a href="https://dawson.horticulture.wisc.edu/" class="icon fa-home"></a>
+                    <h3>Kaitlin Gold</h3>
+                    <a href="https://cals.cornell.edu/kaitlin-gold" class="icon fa-home"></a>
                 </header>
                     <p> 
-			Julie Dawson is an Associate Professor in the Department of Horticulture at the University of Wisconsin-Madison. Her background is in organic plant breeding and participatory research. Research topics include season extension methods, organic and participatory variety trials and variety selection for small-acreage farms and gardens as well as extension resources for urban growers. She leads a project called the Seed to Kitchen Collaborative with other plant breeders to test varieties with local farmers and chefs, focused on flavor for local food systems.
+			Dr. Kaitlin (Katie) Gold is an Assistant Professor of Grape Pathology at Cornell University where she holds the primary research and extension responsibilities for grape disease management for New York state. Katie’s research combines plant pathology, machine learning, and remote sensing to study the fundamental and applied science of plant disease sensing to improve early disease detection and sustainable integrated management. Katie leads the Grape Sensing, Pathology, and Extension laboratory at Cornell AgriTech (GrapeSPEC). Katie completed her PhD in Plant Pathology and MS in Applied Statistics concurrently at the University of Wisconsin–Madison in 2019, where her dissertation research pioneered the use of hyperspectral imaging for pre-symptomatic disease and diagnosis. Prior to starting her tenure-track position at Cornell, she held a visiting faculty fellowship at the NASA Jet Propulsion Laboratory in Pasadena, CA with the Carbon and Ecosystem Cycling and Imaging Spectroscopy Groups to use AVIRIS-NG hyperspectral imagery for asymptomatic grape disease detection and mapping.
                     </p>
             </div>
         </div>
@@ -119,8 +119,8 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
         <div class="content">
             <div class="inner">
                 <header class="major">
-                    <h3>Luis Cisneros-Zevallos</h3>
-                    <a href="https://aggie-horticulture.tamu.edu/faculty/cisneros/index.html" class="icon fa-home"></a>
+                    <h3>Beth Sattely</h3>
+                    <a href="https://web.stanford.edu/group/sattelygroup/cgi-bin/wordpress/" class="icon fa-home"></a>
                 </header>
                     <p> 
 			Dr. Luis Cisneros is a Food Engineer from the National Agrarian University – La Molina, Peru. He received his M.S. and Ph.D. degree in Food Science from the University of California at Davis. He is currently a Professor at Texas A&M University in the Department of Horticultural Sciences, and is also associated with the Nutrition and Food Science Department and the Molecular and Environmental Plant Science Program. He leads the Plant Bioactives & Bioprocessing Research Lab carrying out: Drug discovery of bioactive compounds from plants and their mode of action, Research activities on pre- and postharvest horticultural crops with emphasis on the biosynthesis of secondary metabolites in plants under various stresses, Research on the interaction between microorganisms and plant surfaces to understand contamination, create innovative disinfection processes, and develop novel nanotechnology techniques.
@@ -159,8 +159,8 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Brian Bailey</h3>
-                    <a href="https://baileylab.ucdavis.edu/" class="icon fa-home"></a>
+					<h3>Grey Monroe</h3>
+                    <!--a href="https://baileylab.ucdavis.edu/" class="icon fa-home"></a>
 				</header>
 				<p> 
 					Brian Bailey started as an assistant professor in the UC Davis Plant Sciences Department in 2016. His research combines engineering, computer science, atmospheric science, and biology to study plant systems. In particular, Brian's lab is developing high-resolution, 3D models and measurement techniques that can explicitly represent plant-environment interactions at scales ranging from leaves to canopies. Recent work in the Bailey lab has focused on developing models for woody perennial crops such as almond and grapevine. Brian received his MS and PhD degrees in mechanical engineering from the University of Utah.
@@ -174,45 +174,15 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Beth Forrestel</h3>
-                    <a href="https://wineserver.ucdavis.edu/people/elisabeth-forrestel#/" class="icon fa-home"></a>
+					<h3>Cameron Pittelkow</h3>
+                    <a href="https://pittelkow.ucdavis.edu/people/cameron-pittelkow" class="icon fa-home"></a>
 				</header>
 				<p> 
-				Dr. Elisabeth Forrestel started as an Assistant Professor at UC Davis in Viticulture and Enology in fall 2019. She received her bachelor's degree in biology from Cornell University and her PhD in Ecology & Evolutionary biology from Yale University. Dr. Forrestel went on to complete postdoctoral work at the Arnold Arboretum of Harvard University studying the phenological responses of winegrapes to a warming climate. As an NSF Postdoctoral Fellow, she came to UC Davis to study the phylogenetic and functional basis of abiotic stress responses in wild and cultivated grapevine. Her research program at Davis addresses questions about the evolutionary and ecophysiological basis of drought and heat responses in grapevine, and how irrigation practices mitigate stress responses. Dr. Forrestel will apply her research to improve understanding of how we can utilize wild species and cultivar diversity to adapt to warmer and drier climates, and inform viable management practices in vineyards in response to heat stress.
+				Cameron joined the Department of Plant Sciences at UC Davis in 2019. He is an agronomist who places equal emphasis on food security and environmental sustainability. His research is focused on developing cropping systems and management strategies to enhance productivity while minimizing nitrogen, carbon, water, and energy footprints in agriculture. He received his BA in Environmental Biology from Colgate University, and his MS and PhD degrees from UC Davis in International Agricultural Development and Agronomy, respectively.
 				</p>
 			</div>
 		</div>
 	</section>
-
-	<section>
-			<img src="assets/images/speakers/2020_Key_UC_C_Diepenbrock.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Christine Diepenbrock</h3>
-                    <a href="https://diepenbrocklab.ucdavis.edu/" class="icon fa-home"></a>
-				</header>
-				<p> 
-				Christine Diepenbrock is an assistant professor in Plant Sciences at UC Davis, focused on understanding and improving crop nutritional quality and abiotic stress tolerance in staple and specialty crops. So far, she and her group have focused on dissecting the genetic basis of nutritional quality traits and integrating crop physiology and genomics. Christine obtained a Ph.D. in Plant Breeding and Genetics at Cornell University and a Bachelor’s degree in Biology: Molecular Biology and Biochemistry from Washington University in St. Louis.
-				</p>
-			</div>
-		</div>
-	</section>
-
-    <section>
-            <img src="assets/images/speakers/2020_Key_UC_T_Magney.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
-        <div class="content">
-            <div class="inner">
-                <header class="major">
-                    <h3>Troy Magney</h3>
-                    <a href="https://magneylab.ucdavis.edu/" class="icon fa-home"></a>
-                </header>
-                <p>
-		Troy is an Assistant Professor this year in the Department of Plant Sciences. He was most recently a research scientist in the Carbon Cycle and Ecosystems group at the NASA Jet Propulsion Laboratory in Pasadena, CA. His research tries to ‘see’ the things that feed our families, clean our air, and nourish our ecosystems a little differently. His lab group distills images of fields and forests into a kaleidoscope of colors to inform our understanding of plant health, productivity, and stress.
-                </p>
-            </div>
-        </div>
-    </section>
     
      <section>
             
