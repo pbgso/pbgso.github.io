@@ -38,7 +38,7 @@ weight: 1
 
 <section id="two" class="spotlights">
 	<section>
-            <img src="assets/images/speakers/2020_Key_CJ_Schwartz.jpeg" alt="" data-position="center center" style="max-width: 350px; height: 350px;" />
+            <img src="assets/images/speakers/2021_Aranzana_keynote.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -53,7 +53,7 @@ weight: 1
 	</section>
 	
 	<section>
-            <img src="assets/images/speakers/2020_key_David_Habier.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+            <img src="assets/images/speakers/2021_Blackman_keynote.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -68,7 +68,7 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/2020_Key_E_van_der_Knapp.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
+			<img src="assets/images/speakers/2021_Gao_keynote.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -83,7 +83,7 @@ weight: 1
 	</section>
 
     <section>
-            <img src="assets/images/speakers/2020_Key_I_Goldman.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;" />
+            <img src="assets/images/speakers/2021_Gehan_keynote.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;" />
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -99,7 +99,7 @@ weight: 1
 
 
     <section>
-            <img src="assets/images/speakers/2020_Key_J_Dawson.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
+            <img src="assets/images/speakers/2021_Gold_keynote.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -115,7 +115,7 @@ weight: 1
     
     
      <section>
-            <img src="assets/images/speakers/2020_Key_Luis_Cisneros_Zevallos_V.jpeg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
+            <img src="assets/images/speakers/2021_Sattely_keynote.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
         <div class="content">
             <div class="inner">
                 <header class="major">
@@ -155,7 +155,7 @@ weight: 1
 <!-- Four -->
 <section id="four" class="spotlights">
 	<section>
-            <img src="assets/images/speakers/2020_Key_UC_B_Bailey.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;" />
+            <img src="assets/images/speakers/2021_Monroe_spotlight.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
@@ -170,7 +170,7 @@ weight: 1
 	</section>
 
 	<section>
-			<img src="assets/images/speakers/2020_Key_Elisabeth_Forrestel.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
+			<img src="assets/images/speakers/2021_Pittelkow_spotlight.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
 		<div class="content">
 			<div class="inner">
 				<header class="major">
