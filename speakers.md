@@ -60,7 +60,8 @@ weight: 1
 					<h3>Ben Blackman</h3>
                     <a href="https://nature.berkeley.edu/blackmanlab/Blackman_Lab/Welcome.html" class="icon fa-home"></a>
 				</header>
-				<p>David Habier is a quantitative geneticist who leads the Methodology and Software Innovations team at Corteva Agriscience. His team researches and develops methods, algorithms and software tools for spatial field analyses, genetic evaluation, genomic prediction, QTL mapping, and evaluation of transgenes in multiple genetic backgrounds. These tools are used across crops of Corteva’s seed product development pipelines. David studied agricultural sciences at the Technical University of Munich, where he received a doctoral degree in animal breeding for his work on optimization of a pig breeding program. He then joined professors Rohan Fernando, Jack Dekkers, and Dorian Garrick as a postdoctoral fellow at Iowa State University, and contributed outstanding research in the field of genomic prediction. Before joining the company, he taught quantitative genetics and animal breeding at the University of Kiel in Germany and helped both German Holstein and poultry breeders understand genomic prediction.
+				<p>
+				Benjamin Blackman is an Associate Professor in the Department of Plant and Microbial Biology at the University of California at Berkeley. He received his B.S. in Biological Sciences from Stanford University in 2001 and then went on to complete his Ph.D. in Evolutionary Biology and Ecology at Indiana University, Bloomington in 2009. After several years as postdoctoral fellow at Duke University and a faculty appointment at the University of Virginia, he joined the Berkeley faculty in 2016. In 2017, he was honored with the Botanical Society of America’s Emerging Leader Award. Current research in the Blackman Lab explores the natural diversity of sunflowers and monkeyflowers to understand how plants respond to predictable seasonal and daily fluctuations in the environment and how these responses evolve during adaptation and domestication. 
 				</p>
 			</div>
 		</div>
@@ -75,8 +76,7 @@ weight: 1
                     <a href="http://enpcce.genetics.cas.cn/PN/CXG/ACXG/" class="icon fa-home"></a>
 				</header>
 				<p> 
-				Esther van der Knaap received her BS/MS in Plant Pathology from Wageningen University in
-the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at Michigan State University. Her post-doctoral training in Plant Breeding at Cornell University. She is now a  professor at the University of Georgia, Athens, in the department of Horticulture as well as in the Institute of Plant Breeding, Genetics and Genomics. She is an adjunct professor in Genetics and Plant Biology at UGA. The research in her lab focuses on the genetic, molecular and cellular bases of tomato fruit morphology including the characterization and quantification of fruit shapes and sizes.
+				Caixia Gao is Principal Investigator of the Institute of Genetics and Developmental Biology (IGDB), Chinese Academy of Sciences. Prior to joining IGDB in 2009, she served as Research Scientist of DLF’s biotechnology group in Denmark, where she worked in plant genetic transformation and molecular biology. Her current research area mainly focuses on developing a highly efficient and robust CRISPR platform in plant cells to enable targeted genome editing and the application of the resultant methods in improving plants traits for high-quality, disease resistance and stress tolerance in crop species.
 				</p>
 			</div>
 		</div>
@@ -91,7 +91,7 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
                     <a href="https://www.danforthcenter.org/our-work/principal-investigators/malia-gehan/" class="icon fa-home"></a>
                 </header>
                 <p> 
-			Irwin Goldman has been a professor at University of Wisconsin-Madison since 1992. Dr. Goldman’s graduate work was done at North Carolina State University and at the University of Wisconsin-Madison. He then moved on to the University of Illinois to do his postdoctoral work. Current work in Dr. Goldman’s research group focuses on breeding in carrot, onion, and table beet. Dr. Goldman’s breeding expertise extends into his teaching, where he teaches courses such as World Vegetable Crops, Plant Breeding, Plants and Human Wellbeing, Evolutionary Biology, and Food and Seed Sovereignty.
+			Malia Gehan, Ph.D. is an Assistant Member and Principal Investigator at the Donald Danforth Plant Science Center, who focuses on improving resistance to temperature stress. Most recently, she was a Research Scientist in the Mockler Lab (Danforth Center) and a NSF-PGRP Postdoctoral Fellow. During her Postdoctoral research she focused on developing tools for high-throughput phenotyping. Through work on phenotyping, she and colleagues started a Maker Group at the Danforth Center that focuses on developing low-cost phenotyping tools, and fun outreach events (Raspberry Jams!). Malia earned her Ph.D. in Plant Biology at Michigan State University Plant Research labs with Dr. Mike Thomashow examining natural variation in freezing tolerance and the integration of the circadian clock with cold signaling. As an undergraduate researcher in Biology at Willamette University she studied thermoinhibition of growth and development of guard cell protoplasts with Dr. J. Gary Tallman. Malia grew up in Kaneohe, Hawaii where there is very little change in temperature, which is probably why she is so interested in temperature signaling. In her free time she enjoys spending time with her husband (Jackson), daughter (Aiko) and sassy cat, Meowming.
                 </p>
             </div>
         </div>
@@ -123,7 +123,7 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
                     <a href="https://web.stanford.edu/group/sattelygroup/cgi-bin/wordpress/" class="icon fa-home"></a>
                 </header>
                     <p> 
-			Dr. Luis Cisneros is a Food Engineer from the National Agrarian University – La Molina, Peru. He received his M.S. and Ph.D. degree in Food Science from the University of California at Davis. He is currently a Professor at Texas A&M University in the Department of Horticultural Sciences, and is also associated with the Nutrition and Food Science Department and the Molecular and Environmental Plant Science Program. He leads the Plant Bioactives & Bioprocessing Research Lab carrying out: Drug discovery of bioactive compounds from plants and their mode of action, Research activities on pre- and postharvest horticultural crops with emphasis on the biosynthesis of secondary metabolites in plants under various stresses, Research on the interaction between microorganisms and plant surfaces to understand contamination, create innovative disinfection processes, and develop novel nanotechnology techniques.
+			Elizabeth S. Sattely is an American scientist and biotechnology engineer. Dr. Sattely is an Associate Professor of Chemical Engineering in the Department of Chemical Engineering, an HHMI investigator,and a ChEM-H Faculty Fellow at Stanford University. Inspired by human reliance on plants and plant-derived molecules for food and medicine, the Sattely laboratory is focused on the discovery and engineering of plant metabolic pathways to make molecules that can enhance human health. Dr. Sattely completed her graduate training at Boston College in organic chemistry with Amir Hoveyda and her postdoctoral studies in biochemistry at Harvard Medical School with Christopher T. Walsh, where she worked on natural product biosynthesis in bacteria
                     </p>
             </div>
         </div>
@@ -160,10 +160,10 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 			<div class="inner">
 				<header class="major">
 					<h3>Grey Monroe</h3>
-                    <!--a href="https://baileylab.ucdavis.edu/" class="icon fa-home"></a>
+                    <a href="https://www.monroelab.org/" class="icon fa-home"></a>
 				</header>
 				<p> 
-					Brian Bailey started as an assistant professor in the UC Davis Plant Sciences Department in 2016. His research combines engineering, computer science, atmospheric science, and biology to study plant systems. In particular, Brian's lab is developing high-resolution, 3D models and measurement techniques that can explicitly represent plant-environment interactions at scales ranging from leaves to canopies. Recent work in the Bailey lab has focused on developing models for woody perennial crops such as almond and grapevine. Brian received his MS and PhD degrees in mechanical engineering from the University of Utah.
+					Grey is an evolutionary plant geneticist and Assistant Professor in the Department of Plant Sciences at UC Davis. He completed a Ph.D. of Ecology in 2019 at Colorado State University studying climate adaptation in both wild and domesticated plant species. He was then a post-doc at the Max Planck Institute for Developmental Biology where he investigated functional genome evolution and how mutation bias gives rise to beneficial genetic variation in plants. In 2020, he started The Genomics of Climate Adaptation lab at UC Davis. He loves being able to work with creative scientists everyday to develop a deeper understanding of evolutionary processes and address practical challenges confronting agriculture in the context of climate adaptation.
 				</p>
 			</div>
 		</div>
@@ -204,7 +204,7 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 </section>
 
 <!-- Six -->
-<section id="six" class="spotlights">
+<!-- section id="six" class="spotlights">
 	<section>
         	<img src="assets/images/speakers/2020_flash_Jingwei_Yu_headshot.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
@@ -217,7 +217,7 @@ the Netherlands and her Ph.D. in Genetics from the Plant Research Laboratory at 
 				</p>
 			</div>
 		</div>
-	</section>
+	</section -->
 	
 	<section>
         	<img src="assets/images/speakers/2020_flash_Stefan_Petrasch.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
