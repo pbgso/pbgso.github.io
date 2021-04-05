@@ -41,7 +41,7 @@ weight: 7
 					<h3 style="color: #C99700;">Amanda Agosto Ramos</h3>
                      aagostoramos [at] ucdavis [dot] edu
 				</header>
-				<p> Amanda is a PhD student in the Plant Biology Graduate Group with Daniel Kliebenstein in the Department of Plant Sciences. 
+				<p> Amanda is a second year PhD student in the Plant biology Graduate Group. She is a member of Dr. Dan Kliebenstein’s lab working on glucosinolates metabolism. The aim of her research is to gain a better understanding of why certain plants produce specific glucosinolates. Outside of the lab she likes to read, cook and day dream about the beach. 
                 </p>
 			</div>
 		</div>
