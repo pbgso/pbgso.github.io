@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizers
-image: assets/images/backgrounds/2020_organizers_crop.jpg
+image: assets/images/backgrounds/2021_organizers.jpg
 nav-menu: yes
 weight: 7
 ---
@@ -34,7 +34,7 @@ weight: 7
 <!-- Two -->
 <section id="two" class="spotlights">
 	<section>
-			<img src="assets/images/students/2021_Amanda_Agosto_Ramos.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;"/>
+			<!--img src="assets/images/students/2021_Amanda_Agosto_Ramos.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;"/-->
 		<div class="content">
 			<div class="inner">
 				<header class="major">
