@@ -26,36 +26,38 @@ weight: 3
 
 <!-- Form -->
 <p style="color:#002285;">
-<!--Due to COVID-19, we will be hosting our symposium online as a video conference through Zoom. Registrants will recieve a Zoom invitation and instructions on how to install and use Zoom the week of the conference.-->
-Registration is <b style="font-size:120%;">CLOSED</b>. 
+<Due to COVID-19, we will again be hosting our symposium online as a video conference through Zoom.>
+Use the following link to <b style="font-size:120%;">register</b>: 
+  <br>
+  <a href =  "https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw"> https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw </a> 
 </p>
 
-<script type="text/javascript">var submitted=false;</script>		
+<!--<script type="text/javascript">var submitted=false;</script> -->		
 
-<iframe name="hidden_iframe" id="hidden_iframe"		
-style="display:none;" onload="if(submitted) {window.location='http://plantsciencesymposium.ucdavis.edu/thanks.html';}"></iframe>
+<!--<iframe name="hidden_iframe" id="hidden_iframe"		
+style="display:none;" onload="if(submitted) {window.location='http://plantsciencesymposium.ucdavis.edu/thanks.html';}"></iframe> -->
 
-<form action="https://docs.google.com/forms/d/e/1FAIpQLScM9IvgRsz7i-YQ06BKozrSQVR558BCvlwSx7l82TuSrQbHJw/formResponse" method="post" target="_hidden_iframe" onsubmit="submitted=true;">		
+<!--<form action="https://docs.google.com/forms/d/e/1FAIpQLScM9IvgRsz7i-YQ06BKozrSQVR558BCvlwSx7l82TuSrQbHJw/formResponse" method="post" target="_hidden_iframe" onsubmit="submitted=true;"> --?
 
-  <div class="row uniform">
+  <!-- <div class="row uniform">
   <div class="6u 12u$(xsmall)" style="width:40%;">
   <input name="entry.284899249" type="text" placeholder="Name (First and Last)" dir="auto" value=""  aria-required="true" required=""/>
   <div class="error-message" id="1167362532_errorMessage"></div>
-  </div>
+  </div> -->
 
 
-  <div class="6u 12u$(xsmall)" style="width:30%;">
+  <!-- <div class="6u 12u$(xsmall)" style="width:30%;">
   <div class="ss-item ss-item-required ss-select">
   <input type="email" name="entry.119697555" dir="auto" value="" placeholder="Email" aria-required="true" required=""/>
   </div>
-  </div>
+  </div> -->
 
 
-  <div class="6u 12u$(xsmall)" style="width:30%;">
+  <!-- <div class="6u 12u$(xsmall)" style="width:30%;">
   <input type="text" name="entry.2121832629" dir="auto" value="" placeholder="Affiliation" aria-required="true" required=""/>
   <div class="error-message" id="1017698193_errorMessage">
   </div>		
-  </div>
+  </div> -->
 
 <br>
 
@@ -100,9 +102,9 @@ style="display:none;" onload="if(submitted) {window.location='http://plantscienc
 
 
 <br><br>
-<span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
+<!-- <span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
 <br>
-<span>This content is neither created nor endorsed by Google.</span>
+<span>This content is neither created nor endorsed by Google.</span> -->
 
 </div>
 
