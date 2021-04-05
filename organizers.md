@@ -55,7 +55,7 @@ weight: 7
                     <h3 style="color: #002855;">Amber Flores</h3>
                      amaflores [at] ucdavis [dot] edu
 				</header>
-				<p>Amber Flores is a 2nd year PhD student in the Plant Biology Graduate Group and a member of Dr. Richard Michelmore’s lab. Her current research project focuses on using gene editing techniques to enhance the nutritional content of lettuce, specifically increasing carotenoid and amino acid content. When not in lab, she enjoys spending quality time with her friends and family, playing softball, and promoting the curiosity of her two young kittens. 
+				<p>Amber Flores is a 3rd year PhD student in the Plant Biology Graduate Group and a member of Dr. Richard Michelmore’s lab. Her current research projects focus on functionally annotating carotenoid biosynthesis and amino acid permease genes in lettuce with the overall goal of using gene editing to improve nutritional and agronomic traits. When not in lab, she enjoys spending quality time with her friends, family, and two cats. 
 			</p>
 			</div>
 		</div>
