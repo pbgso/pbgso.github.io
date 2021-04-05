@@ -28,7 +28,7 @@ weight: 3
 <p style="color:#002285;">
   Due to COVID-19, we will again be hosting our symposium online as a video conference through Zoom. 
   <br> <br>
-Use the following link to <b style="font-size:120%;">register</b>: 
+Please use the following link to <b style="font-size:120%;">register</b>: 
   <br>
   <a href =  "https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw"> https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw </a> 
 </p>
