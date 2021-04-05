@@ -22,7 +22,7 @@ weight: 5
 <!-- Table -->
 
 <center>
-<p style="color:#002285;">Our symposium forms part of a <b><a href="http://www.pioneer.com/home/site/about/template.CONTENT/guid.1E31353B-AE47-AC0D-027C-652DA4E01A32"> series </a></b> of symposia sponsored by <b>Corteva Agriscience</b>. Below are links to some other symposia in the series.</p>
+<p style="color:#002285;">Our symposium forms part of a series of symposia sponsored by <b>Corteva Agriscience</b>. Below are links to some other symposia in the series.</p>
 </center>
 
 <h6>
@@ -38,79 +38,51 @@ weight: 5
 <tbody>
 
 <tr>
-<td><a href="https://www.ufplants.org/2020-plant-science-symposium">University of Florida</a></td><td>January 30-31</td>
+<td><a href="https://www.ufplants.org/2021-plant-science-symposium">University of Florida</a></td><td>January 29</td>
 </tr> 
 
 <tr>
-<td><a href="http://plantbreedingsymposium.com/">Texas A&amp;M University</a></td><td>February 20</td>
+<td><a href="http://plantbreedingsymposium.com/">Texas A&amp;M University</a></td><td>February 18</td>
 </tr>
 
 <tr>
-<td><a href="http://mupioneersymposium.org/">University of Missouri</a></td><td>February 20</td>
+<td><a href="https://www.nappn2021.org">NAPPN Annual Conference</a></td><td>February 18</td>
 </tr>
 
 <tr>
-<td><a href="https://phenome2020.org/">Phenome 2020, Tucson, Arizona</a></td><td>February 24-27</td>
+<td><a href="http://mupioneersymposium.org/">University of Missouri</a></td><td>March 4-5</td>
 </tr>
 
 <tr>
-<td><a href="http://pbsiastate.org/">Iowa State University</a></td><td>March 6</td>
+<td><a href="https://cms.ctahr.hawaii.edu/pss/">University of Hawaii at Manoa</a></td><td>March 15-17</td>
 </tr>
 
 <tr>
-<td><a href="https://www.sapba.co.za/index.php/conference-2020">13th Southern African Plant Breeding Symposium</a></td><td>March 8-11</td>
+<td><a href="https://u.osu.edu/plantsciencessymposium/">The Ohio State University</a></td><td>March 26 </td>
 </tr>
 
 <tr>
-<td><a href="https://agronomy.unl.edu/plant-breeding-symposium">University of Nebraska -&nbsp;Lincoln</a></td><td>March 17 </td>
+<td> Brazilian Association of Seed Technology Conference </td><td>March 29 </td>
 </tr>
 
 <tr>
-<td><a href="https://u.osu.edu/plantsciencessymposium/">The Ohio State University</a></td><td>March 27-28 </td>
+<td><a href="http://pbsiastate.org/">Iowa State University</a></td><td>April 2</td>
 </tr>
 
 <tr>
-<td><a href="http://plantsciencesymposium.wsu.edu">Washington State University</a></td><td>April 4</td>
+<td>Cornell University</td><td>April 23</td>
 </tr>
 
 <tr>
-<td>Kansas State University</td><td>April 8-9</td>
+<td><a href="http://plantsciencesymposium.umn.edu/">University of Minnesota</a></td><td>April 23</td>
 </tr>
 
 <tr>
-<td>Cornell University</td><td>April 17</td>
+<td>University of California, Davis</td><td>May 4</td>
 </tr>
 
 <tr>
-<td><a href="http://plantsciencesymposium.umn.edu/">University of Minnesota</a></td><td>April 23-24</td>
-</tr>
-
-<tr>
-<td>University of California, Davis</td><td>May 6</td>
-</tr>
-
-<tr>
-<td>University of Georgia</td><td>May 14</td>
-</tr>
-
-<tr>
-<td>University of California - Berkeley</td><td>May 22</td>
-</tr>
-
-<tr>
-<td>Universidade Federal de Goiás, Goiânia, Brazil</td><td>May 20-22</td>
-</tr>
-
-<tr>
-<td>Universidade Federal do Rio Grande do Sul, Porto Alegre, Brazil</td><td>June 1-3</td>
-</tr>
-
-<tr>
-<td>Northwest A&F University, Yangling, China</td><td>September 3</td>
-</tr>
-
-<tr>
-<td>China Agricultural University, Beijing, China</td><td>September 7</td>
+<td><a href="http://plantsciencesymposium.wsu.edu">Washington State University</a></td><td>May 20-21</td>
 </tr>
 
 </tbody>
