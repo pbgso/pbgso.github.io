@@ -150,9 +150,9 @@ image: assets/images/backgrounds/program.jpg
         <td><b style="font-size:120%;">Closing Remarks</b> </td>
     </tr>
 
-  </tbody>
+  <!-- </tbody>
 </table>
-</div>
+</div> -->
 <!--</h6>-->
 <!-- Commented out lunch and memorabilia note -->
 <!--<p style="text-align: left;"><i> - Lunch for first 200 attendees and memorabilia provided</i></p> -->
