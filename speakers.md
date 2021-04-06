@@ -219,7 +219,7 @@ weight: 1
 		</div>
 	</section -->
 	
-	<section>
+	<!-- <section>
         	<img src="assets/images/speakers/2020_flash_Stefan_Petrasch.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
@@ -231,9 +231,9 @@ weight: 1
 				</p>
 			</div>
 		</div>
-	</section>
+	</section> -->
 
-	<section>
+	<!-- <section>
 		<img src="assets/images/speakers/2020_flash_Zach_Liechty.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
@@ -245,7 +245,7 @@ weight: 1
 				</p>
 			</div>
 		</div>
-	</section>
+	</section> -->
     
 </section>
 
