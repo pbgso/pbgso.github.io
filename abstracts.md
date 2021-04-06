@@ -22,7 +22,7 @@ weight: 4
 <!-- Content -->
 <b style="color:#002285;">This year's symposium will provide <b>undergraduates, graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in the form of <b>lightning talks</b>. Four presenters will be competitvely chosen to present their work in the form of a 5 minute oral presentation. 
 <br><br>
-All abstracts submitted prior to <b>April 13, 2020</b> will be considered for a lightning talk. 
+All abstracts submitted prior to <b>April 5, 2021</b> will be considered for a lightning talk. 
 <br><br>
 
 <!--<bstyle="color:#002285;">This year's symposium will provide <b>undergraduates, graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in the form of <b>posters</b>. Additionally, four presenters will be competitively chosen to present their work in the form of a 5 minute <b> oral presentations </b>.-->
