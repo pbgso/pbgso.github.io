@@ -58,7 +58,6 @@ image: assets/images/backgrounds/program.jpg
       <td style="font-size:120%;">09:20</td>
       <td><b style="font-size:120%;"> Maria Jos&eacute; Aranzana </b> | Research Institute of Agriculture, Food Research and Technology <br>  
           <i>"Novel genetics and genomics tools in Rosaceae breeding"</i> 
-        </a>
       </td>
     </tr>
     
@@ -83,7 +82,7 @@ image: assets/images/backgrounds/program.jpg
       <a href = "https://youtu.be/HQxFpAwAKFg" target="_blank"><i> "Microbial dynamics during drought and recovery in rice"</i></a> <br> -->
 
       <!-- <b style="font-size:120%;">Jingwei Yu</b> | UC Davis<br> <i> "Engineering potato starch using a CRISPR/Cas9 transient expression system"</i></td> -->
-    </tr>
+    <!-- </tr> -->
     
     
     <tr>
@@ -101,7 +100,7 @@ image: assets/images/backgrounds/program.jpg
     <tr>
       <td style="font-size:120%;">12:05</td>
       <td><b style="font-size:120%;">Malia Gehan</b> | Danforth Center<br>  
-      <i>"TBD"</i>
+      <i>TBD</i>
       </td>
     </tr>
     
@@ -114,7 +113,7 @@ image: assets/images/backgrounds/program.jpg
     <tr>
       <td style="font-size:120%;">13:30</td>
       <td> <b style="font-size:120%;">Rob Cicchillo</b> | Corteva<br>  
-      <i>"TBD"</i>
+      <i>TBD</i>
       </td>
     </tr>
     
@@ -134,14 +133,14 @@ image: assets/images/backgrounds/program.jpg
     <tr>
       <td style="font-size:120%;">15:15</td>
       <td> <b style="font-size:120%;">Beth Sattely</b> | Stanford University<br>  
-      <i>"TBD"</i>
+      <i>TBD</i>
       </td>
     </tr>
 
     <tr>
       <td style="font-size:120%;">16:00</td>
       <td> <b style="font-size:120%;">Caixia Gao</b> | Institute of Genetics and Developmental Biology (IGDB), Chinese Academy of Sciences<br> 
-      <i>"TBD"</i>
+      <i>TBD</i>
       </td>
     </tr>
     
