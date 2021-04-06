@@ -23,7 +23,7 @@ image: assets/images/backgrounds/program.jpg
 <center><h6> Wednesday, May 4th 2021 </h6></center>
 <!-- <center><h6> A recording of each talk can be accessed by clicking on the talk title. Not all talks were recorded. </h6></center>
 <h6> -->
-<center>
+<!-- <center> -->
 <!-- Commented out room location and parking information -->
 <!-- <a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=223"> Multipurpose Room, UC Davis Student Community Center </a> 
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
@@ -50,7 +50,7 @@ image: assets/images/backgrounds/program.jpg
     <tr>
       <td style="font-size:120%;">09:00</td>
       <td> <b style="font-size:120%;">Jason Rauscher</b> | Corteva<br>
-      <td> <b style="font-size:120%;">Paul Bilinski</b> | West Shore Community College<br>
+      <b style="font-size:120%;">Paul Bilinski</b> | West Shore Community College<br>
       <i>Opening Remarks</i></td>
     </tr>
 
