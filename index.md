@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "2020 UC Davis Plant Science Symposium"
+landing-title: "2021 UC Davis Plant Science Symposium"
 description:
 weight: 0
 image: assets/images/banner.jpeg
@@ -10,7 +10,7 @@ nav-menu: yes
 ---
 
 <head>
-	<title>UCDPSS20</title>
+	<title>UCDPSS21</title>
 </head>
 
 <!-- Banner -->
@@ -22,8 +22,8 @@ nav-menu: yes
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><h2>May 6th, 2020 </h2></li><br>
-				<li><h2>The 2020 symposium will be held online via Zoom </h2></li><br>
+				<li><h2>May 4th, 2021 </h2></li><br>
+				<li><h2>The 2021 symposium will be held online via Zoom </h2></li><br>
 				<li><a href="/register.html" class="button next scrolly">Registration</a></li>
 			</ul>
 		</div>
@@ -80,7 +80,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/2020_organizers.jpg" alt="" />
+<img src="assets/images/backgrounds/2021_organizers.jpg" alt="" />
 </span>
 <header class="major">
 <h3><a href="/organizers.html" class="link">Organizers</a></h3>
@@ -88,7 +88,7 @@ nav-menu: yes
 </header>
 </article>
 
-<article>
+<!-- <article>
 <span class="image">
 <img src="assets/images/backgrounds/abstracts.jpg" alt="" />
 </span>
@@ -96,7 +96,7 @@ nav-menu: yes
 <h3><a href="/abstracts.html" class="link">Call for abstracts</a></h3>
 <p></p>
 </header>
-</article>
+</article> -->
 
 <article>
 <span class="image">
@@ -108,7 +108,7 @@ nav-menu: yes
 </header>
 </article>
 
-<article>
+<!-- <article>
 <span class="image">
 <img src="assets/images/backgrounds/program.jpg" alt="" />
 </span>
@@ -116,7 +116,7 @@ nav-menu: yes
 <h3><a href="/sponsors.html" class="link">Sponsors & Opportunities</a></h3>
 <p></p>
 </header>
-</article>
+</article> -->
 
 
 
