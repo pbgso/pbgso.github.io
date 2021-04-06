@@ -56,7 +56,7 @@ image: assets/images/backgrounds/program.jpg
 
     <tr>
       <td style="font-size:120%;">09:20</td>
-      <td><b style="font-size:120%;"> Maria Jose Aranzana </b> | Research Institute of Agriculture, Food Research and Technology <br>  
+      <td><b style="font-size:120%;"> Maria Jos&eacute; Aranzana </b> | Research Institute of Agriculture, Food Research and Technology <br>  
           <i>"Novel genetics and genomics tools in Rosaceae breeding"</i> 
         </a>
       </td>
@@ -133,7 +133,7 @@ image: assets/images/backgrounds/program.jpg
 
     <tr>
       <td style="font-size:120%;">15:15</td>
-      <td> <b style="font-size:120%;">Beth Satteyl</b> | Stanford University<br>  
+      <td> <b style="font-size:120%;">Beth Sattely</b> | Stanford University<br>  
       <i>"TBD"</i>
       </td>
     </tr>
