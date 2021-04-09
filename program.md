@@ -28,7 +28,9 @@ image: assets/images/backgrounds/program.jpg
 <!-- <a style="color:#c99700;" href="http://campusmap.ucdavis.edu/?b=223"> Multipurpose Room, UC Davis Student Community Center </a> 
 &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
 <a style="color:#c99700;" href="http://taps.ucdavis.edu/parking/information/maps">UC Davis parking information</a> 
-<h6>Wednesday, May 6th 2020 <h6> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<h6>Tuesday, May 6th 2020 <h6> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+<h6>All times in PDT <h6> &nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;
+
 <a style="color:#c99700;" href=""> View the symposium </a> 
 </center>-->
 
@@ -133,7 +135,7 @@ image: assets/images/backgrounds/program.jpg
     <tr>
       <td style="font-size:120%;">15:15</td>
       <td> <b style="font-size:120%;">Beth Sattely</b> | Stanford University<br>  
-      <i>TBD</i>
+      <i>"Discovery and Engineering of Plant Chemistry for Plant and Human Health"</i>
       </td>
     </tr>
 
