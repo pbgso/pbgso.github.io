@@ -66,6 +66,21 @@ weight: 1
 			</div>
 		</div>
 	</section>
+	
+	<section>
+            <img src="assets/images/speakers/2021_Cicchillo_keynote.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Rob Cicchillo</h3>
+                    <a href="https://www.aiche.org/sbe/community/bio/robert-cicchillo" class="icon fa-home"></a>
+				</header>
+				<p>
+				During his career at Corteva Agriscience, Rob has spent significant time on both the Crop Protection and Seeds/Traits platforms.  Currently, Rob leads an interdisciplinary herbicide discovery team within crop protection focused on identifying and developing novel technologies for farmers to combat current and emerging weed resistance.  Additionally, Rob has recently taken on co-leadership of Corteva’s Natural products platform where the team is applying novel approaches to regularize Natural products discovery and optimization.  Rob obtained a Ph.D. from Penn State University in Biochemistry and Molecular Biology where he worked on elucidating novel enzymatic transformations catalyzed by Radical SAM proteins (Prof Squire J. Booker).  He subsequently held a postdoctoral appointment in the laboratory of Professor Wilfred A. van der Donk (University of Illinois at Urbana-Champaign) where he helped determine biosynthetic pathways of phosphonate natural products. 
+				</p>
+			</div>
+		</div>
+	</section>
 
 	<section>
 			<img src="assets/images/speakers/2021_Gao_keynote.jpg" alt="" data-position="top center" style="max-width: 350px; height: 350px;" />
