@@ -76,7 +76,7 @@ weight: 1
                     <a href="https://www.aiche.org/sbe/community/bio/robert-cicchillo" class="icon fa-home"></a>
 				</header>
 				<p>
-				During his career at Corteva Agriscience, Rob has spent significant time on both the Crop Protection and Seeds/Traits platforms.  Currently, Rob leads an interdisciplinary herbicide discovery team within crop protection focused on identifying and developing novel technologies for farmers to combat current and emerging weed resistance.  Additionally, Rob has recently taken on co-leadership of Corteva’s Natural products platform where the team is applying novel approaches to regularize Natural products discovery and optimization.  Rob obtained a Ph.D. from Penn State University in Biochemistry and Molecular Biology where he worked on elucidating novel enzymatic transformations catalyzed by Radical SAM proteins (Prof Squire J. Booker).  He subsequently held a postdoctoral appointment in the laboratory of Professor Wilfred A. van der Donk (University of Illinois at Urbana-Champaign) where he helped determine biosynthetic pathways of phosphonate natural products. 
+				During his career at Corteva Agriscience, Rob has spent significant time on both the Crop Protection and Seeds/Traits platforms. Rob is the External Collaborations Leader within Corteva Agriscience’s crop protection R&D organization. He partners with the crop protection leadership team and technology/acquisition and licensing to drive business value through strategic external collaboration investment in critical capabilities. Additionally, Rob co-leads Corteva’s Natural Products platform where the team is applying advanced integrated  ‘omics approaches to regularize Natural products discovery and optimization. Rob obtained a Ph.D. from Penn State University in Biochemistry and Molecular Biology where he worked on elucidating novel enzymatic transformations catalyzed by Radical SAM proteins (Professor Squire J. Booker).   He subsequentlyheld a postdoctoral appointment in the laboratory of Professor Wilfred A. van der Donk (University of Illinois at Urbana-Champaign) where he helped determine biosynthetic pathways of phosphonate natural products.
 				</p>
 			</div>
 		</div>
@@ -219,20 +219,20 @@ weight: 1
 </section>
 
 <!-- Six -->
-<!-- section id="six" class="spotlights">
+<section id="six" class="spotlights">
 	<section>
-        	<img src="assets/images/speakers/2020_flash_Jingwei_Yu_headshot.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+        	<img src="assets/images/speakers/2021_Jhu_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Jingwei Yu</h3>
-                    <a href="https://www.researchgate.net/profile/Jingwei_Yu3" class="icon fa-home"></a>
+					<h3>Min-Yao Jhu</h3>
+                    <a href="https://www.linkedin.com/in/min-yao-jhu/" class="icon fa-home"></a>
 				</header>
-				<p> Jingwei Yu is a second-year master’s student in Horticulture and Agronomy, working with Dr. Diane Beckles in the Department of Plant Sciences. He is interested in starch biosynthesis in higher plants and improving crops by engineering starch-related traits. He received his BSc in Horticulture from Northwest A&F University in China.
+				<p> Min-Yao Jhu is a sixth-year Ph.D. candidate in the Plant Biology Graduate Program at the University of California, Davis. She received her B.S. in Life Sciences at National Cheng Kung University in Taiwan, and her M.S. in Plant Biology at National Taiwan University. In 2018, she was the recipient of the Elsie Taylor Stocking Memorial Fellowship. In 2020, she was honored with Loomis Robert S. and Lois Ann Graduate Award in Agronomy. Min-Yao is currently working with Professor Neelima Sinha and is focusing on stem parasitic plant research. Her research combines bioinformatics, genetics, molecular biology, and histology methods to study haustorium development and the interaction between parasitic plants and host plants. Besides her academic works, she enjoys ballroom dancing, drawing, and painting.
 				</p>
 			</div>
 		</div>
-	</section -->
+	</section>
 	
 	<!-- <section>
         	<img src="assets/images/speakers/2020_flash_Stefan_Petrasch.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
