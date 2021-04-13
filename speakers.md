@@ -221,6 +221,20 @@ weight: 1
 <!-- Six -->
 <section id="six" class="spotlights">
 	<section>
+        	<img src="assets/images/speakers/2021_Caseys_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Celine Caseys</h3>
+                    <a href="https://celinecaseys.ch/" class="icon fa-home"></a>
+				</header>
+				<p> Celine Caseys is an assistant project scientist at the UC Davis Department of Plant Sciences. She grew in the suburban area of Geneva (Switzerland) on a farm, making plants an essential part of her universe for as long as she can remember. She completed both her Bachelor's and Master's degrees at the University of Geneva with an early focus on phytochemistry and plant interactions. She earned her Ph.D. at the University of Fribourg (Switzerland), studying phytochemical defenses in hybridizing poplar trees. She was then awarded a postdoctoral fellowship to study the consequences of hybridization in Sunflower with Loren Rieseberg at the University of British Columbia, in Canada. Since 2016, she is a student of the Botrytis interactions in the lab of Dan Kliebenstein.
+				</p>
+			</div>
+		</div>
+	</section>
+	
+	<section>
         	<img src="assets/images/speakers/2021_Jhu_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
@@ -229,6 +243,19 @@ weight: 1
                     <a href="https://www.linkedin.com/in/min-yao-jhu/" class="icon fa-home"></a>
 				</header>
 				<p> Min-Yao Jhu is a sixth-year Ph.D. candidate in the Plant Biology Graduate Program at the University of California, Davis. She received her B.S. in Life Sciences at National Cheng Kung University in Taiwan, and her M.S. in Plant Biology at National Taiwan University. In 2018, she was the recipient of the Elsie Taylor Stocking Memorial Fellowship. In 2020, she was honored with Loomis Robert S. and Lois Ann Graduate Award in Agronomy. Min-Yao is currently working with Professor Neelima Sinha and is focusing on stem parasitic plant research. Her research combines bioinformatics, genetics, molecular biology, and histology methods to study haustorium development and the interaction between parasitic plants and host plants. Besides her academic works, she enjoys ballroom dancing, drawing, and painting.
+				</p>
+			</div>
+		</div>
+	</section>
+	
+	<section>
+        	<img src="assets/images/speakers/2021_Neto_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Jaime Corbiniano dos Santos Neto</h3>
+				</header>
+				<p> Jaime Corbiniano dos Santos Neto lives in Cabo de Santo Agostinho, Pernambuco and is an undergraduate in the Agronomy course at the Federal Rural University of Pernambuco. Jaime is a member of a research group that focuses on nematodes and their impact on several important agricultural crops.
 				</p>
 			</div>
 		</div>
