@@ -81,11 +81,17 @@ image: assets/images/backgrounds/program.jpg
       <td><b style="font-size:120%;">Flash Talks</b> <br> 
       <b style="font-size:120%;">TBD</b> <br>
 
-      <!-- <b style="font-size:120%;">Zachary Liechty</b> | UC Davis<br> 
-      <a href = "https://youtu.be/HQxFpAwAKFg" target="_blank"><i> "Microbial dynamics during drought and recovery in rice"</i></a> <br> -->
+      <b style="font-size:120%;">Celine Caseys</b> | UC Davis<br> 
+      <i> "Quantitative plant-pathogen interactions in the Botrytis pathosystem."</i><br>
+      
+      <b style="font-size:120%;">Min-Yao Jhu</b> | UC Davis<br> 
+      <i> "Developing parasite-resistant systems in tomatoes to control infestations of Cuscuta campestris."</i><br>
+      
+      <b style="font-size:120%;">Jaime Corbiniano dos Santos Neto</b> | Federal Rural University of Pernambuco<br> 
+      <i> TBD </i><br>
 
-      <!-- <b style="font-size:120%;">Jingwei Yu</b> | UC Davis<br> <i> "Engineering potato starch using a CRISPR/Cas9 transient expression system"</i></td> -->
-    <!-- </tr> -->
+      </td>
+    </tr>
     
     
     <tr>
