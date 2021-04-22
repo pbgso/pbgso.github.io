@@ -79,16 +79,21 @@ image: assets/images/backgrounds/program.jpg
     <tr>
       <td style="font-size:120%;">10:35</td>
       <td><b style="font-size:120%;">Flash Talks</b> <br> 
-      <b style="font-size:120%;">Order TBD</b> <br>
-
-      <b style="font-size:120%;">Celine Caseys</b> | UC Davis<br> 
-      <i> "Quantitative plant-pathogen interactions in the Botrytis pathosystem."</i><br>
       
       <b style="font-size:120%;">Min-Yao Jhu</b> | UC Davis<br> 
       <i> "Developing parasite-resistant systems in tomatoes to control infestations of Cuscuta campestris."</i><br>
       
+      <b style="font-size:120%;">Jaclyn Adaskaveg</b> | UC Davis<br> 
+      <i> "Single and double tomato ripening mutants have distinct effects on fruit development and quality traits."</i><br>
+      
       <b style="font-size:120%;">Jaime Corbiniano dos Santos Neto</b> | Federal Rural University of Pernambuco<br> 
       <i> TBD </i><br>
+      
+      <b style="font-size:120%;">Zohar Meir</b> | Weizmann Institute of Science<br> 
+      <i> "Floral transition trajectories dissected by single meristem transcriptomes at high temporal resolution."</i><br>
+
+      <b style="font-size:120%;">Celine Caseys</b> | UC Davis<br> 
+      <i> "Quantitative plant-pathogen interactions in the Botrytis pathosystem."</i><br>
 
       </td>
     </tr>
