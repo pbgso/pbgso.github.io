@@ -261,6 +261,32 @@ weight: 1
 		</div>
 	</section>
 	
+	<section>
+        	<!-- <img src="assets/images/speakers/2021_Adaskaveg_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/> -->
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Jaclyn Adaskaveg</h3>
+				</header>
+				<p> Jaclyn Adaskaveg is a graduate student at UC Davis.
+				</p>
+			</div>
+		</div>
+	</section>
+	
+	<section>
+        	<!-- <img src="assets/images/speakers/2021_Meir_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/> -->
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Zohar Meir</h3>
+				</header>
+				<p> Zohar Meir is a graduate student at the Weizmann Institute of Science.
+				</p>
+			</div>
+		</div>
+	</section>
+	
 	<!-- <section>
         	<img src="assets/images/speakers/2020_flash_Stefan_Petrasch.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
