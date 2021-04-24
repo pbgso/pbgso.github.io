@@ -221,6 +221,20 @@ weight: 1
 <!-- Six -->
 <section id="six" class="spotlights">
 	<section>
+        	<img src="assets/images/speakers/2021_Adaskaveg_flash.jpeg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Jaclyn Adaskaveg</h3>
+			<a href="www.linkedin.com/in/jaclyn-adaskaveg-8baab9143" class="icon fa-home"></a>
+				</header>
+				<p> Jaclyn Adaskaveg is a fourth year PhD candidate in the Plant Biology Graduate Group at UC Davis and is a member of Dr. Barbara Blanco-Ulate's Lab. She received her B.S in Genetics and Genomics from UC Davis in 2017. Her research integrates molecular biology, bioinformatics, and fruit physiology to better understand the relationship between the genetic regulation of fruit ripening and fruit quality. Her focus has been on tomato ripening and is now exploring pistachio development and hull ripening.
+				</p>
+			</div>
+		</div>
+	</section>
+	
+	<section>
         	<img src="assets/images/speakers/2021_Caseys_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
@@ -249,6 +263,20 @@ weight: 1
 	</section>
 	
 	<section>
+        	<img src="assets/images/speakers/2021_Meir_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
+		<div class="content">
+			<div class="inner">
+				<header class="major">
+					<h3>Zohar Meir</h3>
+		   <a href="https://www.researchgate.net/scientific-contributions/Zohar-Meir-2148169985" class="icon fa-home"></a>
+				</header>
+				<p> Zohar Meir did his MSc. under the supervision of Amos Tanay, Faculty in the department of Math & Computer Sciences at the Weizmann Institute of Sciences - where he studied epigenetic memory in cancer cells by analyzing single-cell DNA-methylation and single-cell RNA profiles. During his Ph.D he switched to work on mechanisms of plasticity and commitment in his favorite organisms – plants, together with the group of Yuval Eshed from the department of Plants in Weizmann.
+				</p>
+			</div>
+		</div>
+	</section>
+	
+	<section>
         	<img src="assets/images/speakers/2021_Neto_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
 		<div class="content">
 			<div class="inner">
@@ -260,60 +288,6 @@ weight: 1
 			</div>
 		</div>
 	</section>
-	
-	<section>
-        	<!-- <img src="assets/images/speakers/2021_Adaskaveg_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/> -->
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Jaclyn Adaskaveg</h3>
-				</header>
-				<p> Jaclyn Adaskaveg is a graduate student at UC Davis.
-				</p>
-			</div>
-		</div>
-	</section>
-	
-	<section>
-        	<!-- <img src="assets/images/speakers/2021_Meir_flash.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/> -->
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Zohar Meir</h3>
-				</header>
-				<p> Zohar Meir is a graduate student at the Weizmann Institute of Science.
-				</p>
-			</div>
-		</div>
-	</section>
-	
-	<!-- <section>
-        	<img src="assets/images/speakers/2020_flash_Stefan_Petrasch.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Stefan Petrasch</h3>
-                    <a href="https://knapp.plantsciences.ucdavis.edu/index.php/stefan-petrasch-phd/" class="icon fa-home"></a>
-				</header>
-				<p> Stefan Petrasch is a 4th year PhD student and works in the labs of Dr. Steve Knapp and Dr. Barbara Blanco-Ulate. He studies genetics of strawberry fruit quality, shelf life and fruit resistance to Botrytis cinerea via search for large effect loci and assessment of genomic prediction. Stefan previously obtained a BSc in Biology from TU Dresden in Germany and a MSc in Plant Science and Plant Breeding from Wageningen University in the Netherlands.
-				</p>
-			</div>
-		</div>
-	</section> -->
-
-	<!-- <section>
-		<img src="assets/images/speakers/2020_flash_Zach_Liechty.jpg" alt="" data-position="center center" style="max-width: 350px; height: 350px;"/>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Zachary Liechty</h3>
-                    <a href="https://cbsapps.ucdavis.edu/GradStudents/Student/View/10634" class="icon fa-home"></a>
-				</header>
-				<p> Zach Liechty is a 5th year PhD student on the rice microbiome project in the Sundaresan Lab. He studies a variety of microbiome related topics including the effects of drought stress on microbial composition, the effects of nitrogen fertilizer on nitrogen cycling microbes, as well as rice cultivar variation in relation to methane emissions and methane cycling microbes. He previously a B.S. at Brigham Young University in Plant Genetics.
-				</p>
-			</div>
-		</div>
-	</section> -->
     
 </section>
 
