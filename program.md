@@ -61,7 +61,7 @@ image: assets/images/backgrounds/program.jpg
       <td style="font-size:120%;">09:20</td>
       <td><b style="font-size:120%;"> Maria Jos&eacute; Aranzana </b> | Research Institute of Agriculture, Food Research and Technology <br>  
 	      <i>"Novel genetics and genomics tools in Rosaceae breeding"</i> 
-	      <a href="https://youtu.be/OCL_nOSNX88">Recorded talk</a>
+	      <a href="https://youtu.be/OCL_nOSNX88"> Recorded talk</a>
       </td>
     </tr>
     
@@ -74,12 +74,14 @@ image: assets/images/backgrounds/program.jpg
     <tr>
       <td style="font-size:120%;">10:20</td>
       <td> <b style="font-size:120%;">Grey Monroe</b> | University of California-Davis<br> 
-      <i>"How understanding genome evolution inspires genetically engineered crops"</i></td>
+              <i>"How understanding genome evolution inspires genetically engineered crops"</i>
+	      <a href="https://youtu.be/SW3N8zjr_XE"> Recorded talk</a>
+      </td>
     </tr>
     
     <tr>
       <td style="font-size:120%;">10:35</td>
-      <td><b style="font-size:120%;">Flash Talks</b> <br> 
+      <td><b style="font-size:120%;">Flash Talks</b> | <a href="https://youtu.be/OFf-sUDoxNI"> Recorded talks</a> <br> 
       
       <b style="font-size:120%;">Min-Yao Jhu</b> | UC Davis<br> 
       <i> "Developing parasite-resistant systems in tomatoes to control infestations of Cuscuta campestris."</i><br>
@@ -108,14 +110,16 @@ image: assets/images/backgrounds/program.jpg
     <tr>
       <td style="font-size:120%;">11:20</td>
       <td> <b style="font-size:120%;">Kaitlin Gold</b> | Cornell University<br>  
-      <i>"Plant disease sensing: studying plant-microbe interactions at scale"</i>
+              <i>"Plant disease sensing: studying plant-microbe interactions at scale"</i>
+	      <a href="https://youtu.be/zTf_cfb_rJg"> Recorded talk</a>
       </td>
     </tr>
 
     <tr>
       <td style="font-size:120%;">12:05</td>
       <td><b style="font-size:120%;">Malia Gehan</b> | Danforth Center<br>  
-      <i>TBD</i>
+              <i>TBD</i>
+              <a href="https://youtu.be/zTf_cfb_rJg"> Recorded talk</a>
       </td>
     </tr>
     
@@ -135,7 +139,8 @@ image: assets/images/backgrounds/program.jpg
     <tr>
       <td style="font-size:120%;">14:15</td>
       <td> <b style="font-size:120%;">Ben Blackman</b> | University of California-Berkeley<br>  
-      <i>"Sunflower Domestication in Space and Time"</i>
+              <i>"Sunflower Domestication in Space and Time"</i>
+	      <a href="https://youtu.be/AxcHAaK-yBU"> Recorded talk</a>
       </td>
     </tr>
 
