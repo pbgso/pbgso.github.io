@@ -60,7 +60,8 @@ image: assets/images/backgrounds/program.jpg
     <tr>
       <td style="font-size:120%;">09:20</td>
       <td><b style="font-size:120%;"> Maria Jos&eacute; Aranzana </b> | Research Institute of Agriculture, Food Research and Technology <br>  
-          <i>"Novel genetics and genomics tools in Rosaceae breeding"</i> 
+	      <i>"Novel genetics and genomics tools in Rosaceae breeding"</i></td>
+      <td><a href="https://youtu.be/OCL_nOSNX88">Recorded talk</a>
       </td>
     </tr>
     
