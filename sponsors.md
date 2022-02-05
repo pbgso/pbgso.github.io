@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sponsors
-image: assets/images/backgrounds/symposia.jpg
+image: assets/images/backgrounds/leaf.jpg
 nav-menu: yes
 weight: 6
 ---

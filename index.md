@@ -40,17 +40,42 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/carob-blossoms.jpeg" alt="bright red emerging carob blossoms" />
+<img src="assets/images/backgrounds/carob.jpg" alt="bright red emerging carob blossoms" />
 </span>
 <header class="major">
-<h3><a href="/register.html" class="link">Register</a></h3>
+<h3><a href="/register.html" class="link">Register to Attend</a></h3>
 <p></p>
 </header>
 </article>
 
+
+
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/andy-holmes-bee.jpg" alt="lovely bee pollinating almond blossom" />
+<img src="assets/images/backgrounds/bee.jpg" alt="lovely bee pollinating almond blossom" />
+</span>
+<header class="major">
+<h3><a href="/abstracts.html" class="link">Call for abstracts</a></h3>
+<p></p>
+</header>
+</article>
+
+
+
+<article>
+<span class="image">
+<img src="assets/images/backgrounds/leaf.jpg" alt="leaf veins up close and personal" />
+</span>
+<header class="major">
+<h3><a href="/sponsors.html" class="link">Sponsors & Opportunities</a></h3>
+<p></p>
+</header>
+</article>
+
+
+<article>
+<span class="image">
+<img src="assets/images/backgrounds/pom.jpg" alt="heavily hanging pomegranate fruit" />
 </span>
 <header class="major">
 <h3><a href="/speakers.html" class="link">Speakers</a></h3>
@@ -60,17 +85,17 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/dusan-veverkolog-pinecone.jpg" alt="wintery pine cones on a pine tree" />
+<img src="assets/images/backgrounds/pine.jpg" alt="wintery pine cones on a pine tree" />
 </span>
 <header class="major">
-<h3><a href="/program.html" class="link">Program</a></h3>
+<h3><a href="/program.html" class="link">Schedule</a></h3>
 <p></p>
 </header>
 </article>
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/mohamed-nohassi-budding-peach.jpg" alt="maroon-veined emerging peach branch" />
+<img src="assets/images/backgrounds/bud.jpg" alt="maroon-veined emerging peach branch" />
 </span>
 <header class="major">
 <h3><a href="/organizers.html" class="link">Organizers</a></h3>
@@ -78,35 +103,7 @@ nav-menu: yes
 </header>
 </article>
 
-<article>
-<span class="image">
-<img src="assets/images/backgrounds/zeynep-aciktepe-pom.jpg" alt="heavily hanging pomegranate fruit" />
-</span>
-<header class="major">
-<h3><a href="/abstracts.html" class="link">Call for abstracts</a></h3>
-<p></p>
-</header>
-</article>
 
-<article>
-<span class="image">
-<img src="assets/images/backgrounds/symposia.jpg" alt="2016 UC Davis Plant Biology Symposia series hosted by Du Pont plaque" />
-</span>
-<header class="major">
-<h3><a href="/symposia.html" class="link">Symposia Series</a></h3>
-<p></p>
-</header>
-</article>
-
-<article>
-<span class="image">
-<img src="assets/images/backgrounds/clay-banks-leaf-veins.jpg" alt="leaf veins up close and personal" />
-</span>
-<header class="major">
-<h3><a href="/sponsors.html" class="link">Sponsors & Opportunities</a></h3>
-<p></p>
-</header>
-</article>
 
 
 

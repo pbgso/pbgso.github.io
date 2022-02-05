@@ -8,7 +8,7 @@
 
 	#banner {
 		@include vendor('align-items', 'center');
-		@include vendor('background-image', 'url("../../images/banner.jpg")');
+		@include vendor('background-image', 'url("../../images/backgrounds/olive-unsplash.jpg")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
 		background-attachment: fixed;
@@ -28,7 +28,7 @@
 			@include vendor('transition', 'opacity #{_duration(banner)} ease');
 			@include vendor('transition-delay', '0.75s');
 			@include vendor('pointer-events', 'none');
-			background-color: #C99700;
+			background-color: #00c964;
 			content: '';
 			display: block;
 			height: 100%;

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Speakers
-image: assets/images/backgrounds/speakers.jpg
+image: assets/images/backgrounds/pom.jpg
 nav-menu: yes
 weight: 1
 ---

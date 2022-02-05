@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Register
-image: assets/images/backgrounds/register.jpg
+image: assets/images/backgrounds/carob.jpg
 nav-menu: yes
 weight: 3
 ---
@@ -96,6 +96,7 @@ style="display:none;" onload="if(submitted) {window.location='http://plantscienc
 <!-- <span>* Lunch and memorabilia provided for the first 150 attendees. </span>-->
 <br><br>
 
+<center>
 <div class="ss-item ss-navigate">
 <span class="ss-form-entry goog-inline-block" id="navigation-buttons" dir="ltr">		
 <input type="submit" name="submit" value="Submit" id="ss-submit" class="jfk-button jfk-button-action ">
@@ -106,7 +107,7 @@ style="display:none;" onload="if(submitted) {window.location='http://plantscienc
 <!-- <span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
 <br>
 <span>This content is neither created nor endorsed by Google.</span> -->
-
+</center>
 
 </div>
 </section>

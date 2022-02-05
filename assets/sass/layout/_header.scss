@@ -138,7 +138,7 @@
 			position: absolute;
 
 			&.style1 { .logo { strong { color: _palette(accent1); } } }
-			&.style2 { .logo { strong { color: #C99700; } } }
+			&.style2 { .logo { strong { color: _pallete(accent2); } } }
 			&.style3 { .logo { strong { color: _palette(accent3); } } }
 			&.style4 { .logo { strong { color: _palette(accent4); } } }
 			&.style5 { .logo { strong { color: _palette(accent5); } } }

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Organizers
-image: assets/images/backgrounds/2021_organizers.jpg
+image: assets/images/backgrounds/bud.jpg
 nav-menu: yes
 weight: 7
 ---

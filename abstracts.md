@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Call for abstracts
-image: assets/images/backgrounds/abstracts.jpg
+title: Call for Abstracts
+image: assets/images/backgrounds/bee.jpg
 nav-menu: yes
 weight: 4
 ---
@@ -14,30 +14,29 @@ weight: 4
 	<div class="inner">
 		<center>
 		<header class="major">
-
 			<h1>Call for abstracts</h1>
 		</header>
 		</center>
-
 <!-- Content -->
-<b style="color:#002285;">This year's symposium will provide <b>undergraduates, graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in the form of <b>lightning talks</b>. Four presenters will be competitvely chosen to present their work in the form of a 5 minute oral presentation. 
+<b style="color:#00855b;">We are excited to be hosting an open-to-all symposium centered around the plant sciences.
 <br><br>
-All abstracts submitted prior to <b>April 5, 2021</b> will be considered for a lightning talk. 
+There will be 3 different options you may sign up for: In-Person 20 Minute Presentation, In-Person Poster Session, and Pre-Recorded 5 Minute Video Flash Talk
+<br><br>
+You may sign up for each, and we will get back to you about which spots we have available and what options might work best for you given your research and experience.
+<br><br>
+A team of judges will be awarding cash prizes to a total of 7 participants!
+3 awards for best In-Person 20 Minute Presentation
+3 awards for best In-Person Poster
+1 award for best Pre-Recorded 5 Minute Video Flash Talk
+<br><br>
+All abstracts submitted prior to April 5, 2021 will be considered for a lightning talk. 
 <br><br>
 
-<!--<bstyle="color:#002285;">This year's symposium will provide <b>undergraduates, graduate students and post-docs in plant science related fields</b> an opportunity to showcase their work in the form of <b>posters</b>. Additionally, four presenters will be competitively chosen to present their work in the form of a 5 minute <b> oral presentations </b>.-->
-<!--<br><br>
-Applications from outside of UC Davis will be considered for one of three <b> travel grants </b> of $700. The deadline to be considered for a travel grant is <b>March 30th, 2020 </b>. 
-<br><br>-->
-<!-- All abstracts submitted prior to the <b>March 30</b> deadline will be considered for these travel awards and winners will be competitively chosen. Applications received between <b>March 31-April 6</b> will be considered for presentation while space lasts, but will not be considered for travel awards or oral presentation.-->
+
 <center> 
-<p style="color:#002285;">
-Abstract submission is closed. 
-<!-- Please submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSfT9CrcwbzqykrR2NhCkV4a0CEopBl4tMRnqjdX4qKvFf35ew/viewform?usp=sf_link" target="_blank"> HERE</a></b>. Please keep abstracts to a 300 word maximum. -->
+<p style="color:#00855b;">
+Please sign up and submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeIUCNNhIwDGP4ijmRzvzdkN97ucRHhekrUGzzbUM1YFXNqNQ/viewform?usp=sf_link" target="_blank"> HERE </a></b>
 </p>
 </center>
 
-<!-- <br><br>	
-<span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 
-<br>
-<span>This content is neither created nor endorsed by Google.</span>-->
+
