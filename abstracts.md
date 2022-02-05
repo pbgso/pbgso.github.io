@@ -18,6 +18,7 @@ weight: 4
 		</header>
 		</center>
 <!-- Content -->
+<center>
 <b style="color:#1b1c1b;">We are excited to be hosting an open-to-all symposium centered around the plant sciences.
 <br><br>
 There will be 3 different options you may sign up for: 
@@ -26,7 +27,6 @@ There will be 3 different options you may sign up for:
   <li>In-Person Poster Session</li>
   <li>Pre-Recorded 5 Minute Video Flash Talk</li>
 </ul>
-
 <br><br>
 You may sign up for each, and we will get back to you about which spots we have available and what options might work best for you given your research and experience.
 <br><br>
@@ -39,7 +39,7 @@ A team of judges will be awarding cash prizes to a total of 7 participants!
 <br><br>
 All abstracts submitted prior to April 5, 2021 will be considered for a lightning talk. 
 <br><br>
-
+</center>
 
 <center> 
 <p style="color:#1b1c1b;">
