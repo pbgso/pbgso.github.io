@@ -12,11 +12,11 @@ weight: 4
 <!-- One -->
 <section id="one">
 	<div class="inner">
+		<center>
 		<header class="major">
-			<center>
-			<h1 style="text-align:center">Call for abstracts</h1>
-			</center>
+			<h1>Call for abstracts</h1>
 		</header>
+		</center>
 <!-- Content -->
 
 <p style="text-align:center">We are excited to be hosting an open-to-all symposium centered around the plant sciences.</p>
