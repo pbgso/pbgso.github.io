@@ -10,7 +10,7 @@ nav-menu: yes
 ---
 
 <head>
-	<title>UCDPSS21</title>
+	<title>UCDPSS22</title>
 </head>
 
 <!-- Banner -->
@@ -22,8 +22,8 @@ nav-menu: yes
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><h2>May 4th, 2021 </h2></li><br>
-				<li><h2>The 2021 symposium will be held online via Zoom </h2></li><br>
+				<li><h2>May 27th, 2022 </h2></li><br>
+				<li><h2>The 2022 symposium will be held at the UC Davis Alumni Center </h2></li><br>
 				<li><a href="/register.html" class="button next scrolly">Registration</a></li>
 			</ul>
 		</div>
