@@ -19,16 +19,15 @@ weight: 3
 </center>
 
 <!-- Content -->
-
-
-<p></p>
-
-<!-- Form -->
-<p style="color:#1b1c1b;">
-  We will holding this event at the UC Davis ALumni Center on May 27th. 
-  <br> <br>
-  Please use the following link to <b style="font-size:120%;">register</b>: 
-  <br>
-  <a href =  "https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw"> https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw </a> 
+<center>
+<p>
+We will holding this event at the UC Davis Alumni Center on May 27th. 
+<br> <br>
+Please use the following link to <b style="font-size:120%;">register</b>: 
+<br>
+<a href =  "https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw"> https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw </a> 
 </p>
+</center>
+
+
 
