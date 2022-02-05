@@ -28,7 +28,7 @@ weight: 3
 <p style="color:#002285;">
   Due to COVID-19, we will again be hosting our symposium online as a video conference through Zoom. 
   <br> <br>
-Please use the following link to <b style="font-size:120%;">register</b>: 
+  Please use the following link to <b style="font-size:120%;">register</b>: 
   <br>
   <a href =  "https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw"> https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw </a> 
 </p>
@@ -106,10 +106,6 @@ style="display:none;" onload="if(submitted) {window.location='http://plantscienc
 <!-- <span>Powered by <a href="https://www.google.com/forms/about/?utm_source=product&amp;utm_medium=forms_logo&amp;utm_campaign=forms"> Google Forms</a>.</span> 		
 <br>
 <span>This content is neither created nor endorsed by Google.</span> -->
-
-</div>
-
-</form>
 
 
 </div>

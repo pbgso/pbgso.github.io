@@ -29,7 +29,7 @@ gems:
 
 # Homepage tiles
 tiles-source: pages # accepts "posts" or "pages" 
-tiles-count: 5
+tiles-count: 7
 
 # Social settings
 500px_url: 
