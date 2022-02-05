@@ -12,22 +12,20 @@ weight: 3
 <!-- One -->
 <section id="one">
 <div class="inner">
-<center>
 <header class="major">
-<h1>Register</h1>
+<h1 style="text-align:center">Register</h1>
 </header>
-</center>
 
 <!-- Content -->
-<center>
-<p>
+
+<p style="text-align:center">
 We will holding this event at the UC Davis Alumni Center on May 27th. 
 <br> <br>
 Please use the following link to <b style="font-size:120%;">register</b>: 
 <br>
 <a href =  "https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw"> https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw </a> 
 </p>
-</center>
+
 
 
 
