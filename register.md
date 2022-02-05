@@ -12,10 +12,12 @@ weight: 3
 <!-- One -->
 <section id="one">
 <div class="inner">
-<center>
 <header class="major">
+<center>
 <h1 style="text-align:center">Register to Attend</h1>
+</center>
 </header>
+
 
 <!-- Content -->
 

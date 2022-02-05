@@ -13,13 +13,15 @@ weight: 4
 <section id="one">
 	<div class="inner">
 		<header class="major">
+			<center>
 			<h1 style="text-align:center">Call for abstracts</h1>
+			</center>
 		</header>
 <!-- Content -->
 
 <p style="text-align:center">We are excited to be hosting an open-to-all symposium centered around the plant sciences.</p>
 <br><br>
-There will be 3 different options you may sign up for: 
+<p style="text-align:center">There will be 3 different options you may sign up for:</p>
 <ul style="text-align:center">
   <li>In-Person 20 Minute Presentation</li>
   <li>In-Person Poster Session</li>
