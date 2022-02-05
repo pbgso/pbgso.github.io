@@ -17,29 +17,29 @@ weight: 4
 		</header>
 <!-- Content -->
 
-<p style="text-align:center">We are excited to be hosting an open-to-all symposium centered around the plant sciences.
+<p style="text-align:center">We are excited to be hosting an open-to-all symposium centered around the plant sciences.</p>
 <br><br>
 There will be 3 different options you may sign up for: 
-<ul>
+<ul style="text-align:center">
   <li>In-Person 20 Minute Presentation</li>
   <li>In-Person Poster Session</li>
   <li>Pre-Recorded 5 Minute Video Flash Talk</li>
 </ul>
 <br><br>
-You may sign up for each, and we will get back to you about which spots we have available and what options might work best for you given your research and experience.
+<p style="text-align:center">You may sign up for each, and we will get back to you about which spots we have available and what options might work best for you given your research and experience.</p>
 <br><br>
-A team of judges will be awarding cash prizes to a total of 7 participants!
-<ul>
+<p style="text-align:center">A team of judges will be awarding cash prizes to a total of 7 participants!</p>
+<ul style="text-align:center">
 	<li>3 awards for best In-Person 20 Minute Presentation</li>
 	<li>3 awards for best In-Person Poster</li>
 	<li>1 award for best Pre-Recorded 5 Minute Video Flash Talk</li>
 </ul>
 <br><br>
+<p style="text-align:center">
 All abstracts submitted prior to April 5, 2021 will be considered for a lightning talk. 
-<br><br>
 </p>
 
-
+<br><br>
 
 <p style="text-align:center">
 Please sign up and submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeIUCNNhIwDGP4ijmRzvzdkN97ucRHhekrUGzzbUM1YFXNqNQ/viewform?usp=sf_link" target="_blank"> HERE </a></b>
