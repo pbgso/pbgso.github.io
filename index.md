@@ -1,10 +1,10 @@
 ---
 layout: home
 title: Home
-landing-title: "2021 UC Davis Plant Science Symposium"
+landing-title: "2022 UC Davis Plant Science Symposium"
 description:
 weight: 0
-image: assets/images/banner.jpeg
+image: assets/images/backgrounds/olive-unsplash.jpg
 author:
 nav-menu: yes
 ---
@@ -27,18 +27,6 @@ nav-menu: yes
 				<li><a href="/register.html" class="button next scrolly">Registration</a></li>
 			</ul>
 		</div>
-		<!-- <div class="content">
-            <p style="text-transform: uppercase;">{{ site.description }}</p>
-            <ul class="actions">
-                    <li><a href="https://www.youtube.com/watch?v=IGRNBy2ZT6Y" class="button next scrolly">Watch pt.1 LIVE</a></li>
-                </ul>
-    </div> -->
-    <!--<div class="content">
-        <p style="text-transform: uppercase;">{{ site.description }}</p>
-        <ul class="actions">
-        <li><a href="https://www.youtube.com/watch?v=tLDrvk4QsG0" class="button next scrolly">Watch pt.2 LIVE</a></li>
-        </ul>
-    </div> -->
 	</div>
 </section>
 
@@ -50,7 +38,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/register.jpg" alt="" />
+<img src="assets/images/backgrounds/carob-blossoms.jpg" alt="" />
 </span>
 <header class="major">
 <h3><a href="/register.html" class="link">Register</a></h3>
@@ -60,7 +48,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/speakers.jpg" alt="" />
+<img src="assets/images/backgrounds/andy-holmes.bee.jpg" alt="" />
 </span>
 <header class="major">
 <h3><a href="/speakers.html" class="link">Speakers</a></h3>
@@ -70,7 +58,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/program.jpg" alt="" />
+<img src="assets/images/backgrounds/mohammed-nohassi-budding-peach.jpg" alt="" />
 </span>
 <header class="major">
 <h3><a href="/program.html" class="link">Program</a></h3>
@@ -80,7 +68,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/2021_organizers.jpg" alt="" />
+<img src="assets/images/backgrounds/dusan-veverkolog-pinecone.jpg" alt="" />
 </span>
 <header class="major">
 <h3><a href="/organizers.html" class="link">Organizers</a></h3>
@@ -88,15 +76,15 @@ nav-menu: yes
 </header>
 </article>
 
-<!-- <article>
+<article>
 <span class="image">
-<img src="assets/images/backgrounds/abstracts.jpg" alt="" />
+<img src="assets/images/backgrounds/zeynep-aciktepe-pom.jpg" alt="" />
 </span>
 <header class="major">
 <h3><a href="/abstracts.html" class="link">Call for abstracts</a></h3>
 <p></p>
 </header>
-</article> -->
+</article>
 
 <article>
 <span class="image">
@@ -108,15 +96,15 @@ nav-menu: yes
 </header>
 </article>
 
-<!-- <article>
+<article>
 <span class="image">
-<img src="assets/images/backgrounds/program.jpg" alt="" />
+<img src="assets/images/backgrounds/clay-banks-leaf-veins.jpg" alt="" />
 </span>
 <header class="major">
 <h3><a href="/sponsors.html" class="link">Sponsors & Opportunities</a></h3>
 <p></p>
 </header>
-</article> -->
+</article>
 
 
 
