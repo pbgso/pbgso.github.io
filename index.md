@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "2022 UC Davis Plant Science Symposium"
+landing-title: "2022 UC Davis Plant Sciences Symposium"
 description:
 weight: 0
 image: assets/images/backgrounds/olive-unsplash.jpg
@@ -23,8 +23,10 @@ nav-menu: yes
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
 				<li><h2>May 27th, 2022 </h2></li><br>
-				<li><h2>The 2022 symposium will be held at the UC Davis Alumni Center </h2></li><br>
-				<li><a href="/register.html" class="button next scrolly">Registration</a></li>
+				<li><h2>UC Davis Alumni Center </h2></li><br>
+				<li><a href="/register.html" class="button next scrolly">Register to Attend</a></li>
+				<li><a href="/abstracts.html" class="button next scrolly">Call For Abstracts</a></li>
+				<li><a href="/sponsors.html" class="button next scrolly">Apply to Sponsor</a></li>
 			</ul>
 		</div>
 	</div>
@@ -58,7 +60,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/mohamed-nohassi-budding-peach.jpg" alt="maroon-veined emerging peach branch" />
+<img src="assets/images/backgrounds/dusan-veverkolog-pinecone.jpg" alt="wintery pine cones on a pine tree" />
 </span>
 <header class="major">
 <h3><a href="/program.html" class="link">Program</a></h3>
@@ -68,7 +70,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/dusan-veverkolog-pinecone.jpg" alt="wintery pine cones on a pine tree" />
+<img src="assets/images/backgrounds/mohamed-nohassi-budding-peach.jpg" alt="maroon-veined emerging peach branch" />
 </span>
 <header class="major">
 <h3><a href="/organizers.html" class="link">Organizers</a></h3>
