@@ -44,6 +44,7 @@
 		&:active {
 			background: whitesmoke;
 			background-color: transparentize(_palette(dark), 0.9);
+			color: _palette(dark2);
 			box-shadow: inset 0 0 0 2px _palette(dark);
 		}
 

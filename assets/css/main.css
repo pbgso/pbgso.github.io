@@ -2187,6 +2187,7 @@ button:active,
 .button:active {
   background: whitesmoke;
   background-color: rgba(32, 43, 33, 0.1);
+  color: #2d3d2f;
   -webkit-box-shadow: inset 0 0 0 2px #202b21;
           box-shadow: inset 0 0 0 2px #202b21;
 }
