@@ -16,7 +16,7 @@
 		@include vendor('display', 'flex');
 		@include vendor('justify-content', 'center');
 		@include vendor('pointer-events', 'none');
-		background: rgb(255, 255, 255);
+		background: _palette(bg);
 		box-shadow: none;
 		height: 100%;
 		left: 0;
