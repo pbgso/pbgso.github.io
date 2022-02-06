@@ -22,7 +22,7 @@ weight: 6
 <!-- Table -->
 
 <center>
-<p style="color:#202520">Our symposium is funded by our generous sponsors listed below.</p>
+<b style="color:#202520">Our symposium is funded by our generous sponsors listed below.</b>
 </center>
 
 <center>
@@ -36,11 +36,12 @@ weight: 6
 </center>
 
 <center>
-<p style="color:#202520">If you are interested in providing further sponsorship please contact the <b style="color:#202520"><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html"> organizing committee</a></b>.</p>
+<b style="color:#202520">If you are interested in providing further sponsorship please contact the <b style="color:#202520"><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html"> organizing committee</a></b>.</p>
 </center>
 
 <center>
-<p style="color:#202520"> Previous sponsors include: <br> 
+<b style="color:#202520"> Previous sponsors include: </b><br> 
+ <p style="color:#202520">
  Corteva Agriscience <br>
  UC Davis Plant Breeding Center <br>
  E & J Gallo Winery <br>

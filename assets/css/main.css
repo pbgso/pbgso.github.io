@@ -2718,11 +2718,11 @@ button:disabled,
 }
 
 #header .logo:hover strong {
-  background-color: #b5e7b3;
+  background-color: #202520;
 }
 
 #header .logo:active strong {
-  background-color: #80d07d;
+  background-color: black;
 }
 
 #header nav {
