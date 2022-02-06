@@ -1390,11 +1390,11 @@ a {
 
 a:hover {
   border-bottom-color: transparent;
-  color: #b5e7b3 !important;
+  color: #2d3d2f !important;
 }
 
 a:active {
-  color: #80d07d !important;
+  color: #0d100e !important;
 }
 
 strong, b {
@@ -2180,17 +2180,6 @@ button:active,
   background: whitesmoke;
 }
 
-input[type="submit"]:active,
-input[type="reset"]:active,
-input[type="button"]:active,
-button:active,
-.button:active {
-  background: whitesmoke;
-  color: #2d3d2f;
-  -webkit-box-shadow: inset 0 0 0 2px #202b21;
-          box-shadow: inset 0 0 0 2px #202b21;
-}
-
 input[type="submit"].icon:before,
 input[type="reset"].icon:before,
 input[type="button"].icon:before,
@@ -2300,7 +2289,6 @@ button.special:active,
 .button.special:hover,
 .button.special:active {
   background-color: #202b21;
-  color: !important;
 }
 
 input[type="submit"].special:active,
