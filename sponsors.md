@@ -24,7 +24,7 @@ weight: 6
 </center>
 
 <center>
-<b style="color:#202520">If you are interested in providing further sponsorship please contact us <b style="color:#202520; text-decoration: none"><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html" target="_blank" style = "text-decoration: none"><button button style = "background:#8eaa8f"> Here </button></a></b>
+<b style="color:#202520">If you are interested in providing further sponsorship please contact us <b style="color:#202520; text-decoration: none"><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html" target="_blank" style = "text-decoration: none"><button button target="_blank" rel="noopener noreferrer" style = "background:#8eaa8f"> Here </button></a></b>
 
 <center>
 <b style="color:#202520"> Previous sponsors include: </b>  

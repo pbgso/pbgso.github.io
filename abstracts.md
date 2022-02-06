@@ -25,9 +25,7 @@ weight: 4
 All abstracts submitted prior to March 30, 2022 will be considered. 
 </b>
 
-<br><br>
-
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSeIUCNNhIwDGP4ijmRzvzdkN97ucRHhekrUGzzbUM1YFXNqNQ/viewform?usp=sf_link" target="_blank" style = "text-decoration: none"><button button style = "background:#202520"> Submit Abstract Here </button></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeIUCNNhIwDGP4ijmRzvzdkN97ucRHhekrUGzzbUM1YFXNqNQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer" style = "text-decoration: none"><button button style = "background:#8eaa8f"> Submit Abstract Here </button></a>
 
 
 
