@@ -2928,7 +2928,7 @@ body.is-loading #header.alt {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url("../../images/backgrounds/olive-unsplash.jpg");
+  background-image: url("../../images/banner.png");
   display: -moz-flex;
   display: -ms-flex;
   display: -webkit-box;
