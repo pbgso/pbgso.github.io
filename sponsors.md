@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Sponsors
-image: assets/images/backgrounds/leaf.jpg
+image: assets/images/backgrounds/leaf-banner.jpg
 nav-menu: yes
 weight: 6
 ---

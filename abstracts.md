@@ -1,7 +1,6 @@
 ---
 layout: post
-title: Call for Abstracts
-image: assets/images/backgrounds/bee.jpg
+image: assets/images/backgrounds/bee-banner.jpg
 nav-menu: yes
 weight: 4
 ---
