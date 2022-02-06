@@ -14,7 +14,7 @@ weight: 6
 <div class="inner">
 <center>
 
-<h1>Sponsors</h1>
+<h1 style="color:#202520">Sponsors</h1>
 
 </center>
 
@@ -22,15 +22,25 @@ weight: 6
 <!-- Table -->
 
 <center>
-<p style="color:#002285;">When in-person, our symposium is funded by our generous sponsors.</p>
+<p style="color:#202520">Our symposium is funded by our generous sponsors listed below.</p>
 </center>
 
 <center>
-<p style="color:#002285;">If you are interested in providing further sponsorship please contact the <b><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html"> organizing committee</a></b>.</p>
+<p style="color:#202520"> 
+ Corteva Agriscience <br>
+ UC Davis Plant Breeding Center <br>
+ UC Davis Department of Plant Sciences<br>
+ <br>
+
+ </p>
 </center>
 
 <center>
-<p style="color:#002285;"> Previous sponsors include: <br> 
+<p style="color:#202520">If you are interested in providing further sponsorship please contact the <b><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html"> organizing committee</a></b>.</p>
+</center>
+
+<center>
+<p style="color:#202520"> Previous sponsors include: <br> 
  Corteva Agriscience <br>
  UC Davis Plant Breeding Center <br>
  E & J Gallo Winery <br>

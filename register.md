@@ -14,7 +14,7 @@ weight: 3
 <div class="inner">
 <center>
 		<header class="major">
-			<h1>Register to Attend</h1>
+			<h1 style="color:#202520">Register to Attend</h1>
 		</header>
 </center>
 
@@ -22,12 +22,12 @@ weight: 3
 
 <!-- Content -->
 
-<p style="text-align:center;color:#002285">
-We will holding this event at the UC Davis Alumni Center on May 27th. 
+<p style="text-align:center; color:#202520">
+We will holding this event at the UC Davis Alumni Center on May 27th. It is free to attend, and we welcome all guests to come and join us for a day of research presentations.
 <br> <br>
-Please use the following link to <b style="font-size:120%;">register</b>: 
+Please use the following link to register: 
 <br>
-<a href =  "https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw"> https://ucdavis.zoom.us/webinar/register/WN_mPqD_PkgTpa6FvNQCWgBiw </a> 
+<a href =  "https://docs.google.com/forms/d/e/1FAIpQLSdC3wVb3H4llKbW5TBYwQaVygEPPpfPUQSzkBD1-fW_iFkTZg/viewform?usp=sf_link"><button> Register Here </button></a> 
 </p>
 
 

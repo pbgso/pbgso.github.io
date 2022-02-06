@@ -100,12 +100,13 @@
 			color: _palette(white);
 
 			&:hover, &:active {
-				background-color: _palette(dark2);
+				background-color: _palette(highlight);
 				color: rgb(230, 241, 223);
 			}
 
 			&:active {
-				background-color: desaturate(darken(_palette(dark2), 15), 5);
+				background-color: desaturate(darken(_palette(highlight), 15), 5);
+				color: rgb(230, 241, 223);
 			}
 		}
 
