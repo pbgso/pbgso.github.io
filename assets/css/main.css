@@ -2770,6 +2770,7 @@ button:disabled,
 }
 
 #header nav a[href="#menu"] {
+  color: white;
   padding-right: 3.325em !important;
 }
 
@@ -2928,13 +2929,14 @@ body.is-loading #header.alt {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
-  background-image: url("../../images/backgrounds/olive-unsplash.jpg");
+  background-image: url("../../images/banner.png");
   display: -moz-flex;
   display: -ms-flex;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
   padding: 6em 0 2em 0 ;
+  background-image: "../../images/banner.png";
   background-attachment: fixed;
   background-position: center;
   background-repeat: no-repeat;
@@ -3229,7 +3231,7 @@ body.is-loading #banner > .inner {
 
 /* Footer */
 #footer {
-  color: #ffffff;
+  background: #ffffff;
 }
 
 #footer .copyright {
@@ -3320,7 +3322,7 @@ body.is-loading #banner > .inner {
   -webkit-pointer-events: none;
   -ms-pointer-events: none;
   pointer-events: none;
-  background: white;
+  background: #478833ad;
   -webkit-box-shadow: none;
           box-shadow: none;
   height: 100%;
