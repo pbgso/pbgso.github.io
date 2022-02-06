@@ -17,7 +17,7 @@
 			'box-shadow #{_duration(transition)} ease-in-out',
 			'color #{_duration(transition)} ease-in-out'
 		));
-		background-color: transparent;
+		background-color: white;
 		border: 0;
 		border-radius: 0;
 		box-shadow: inset 0 0 0 2px _palette(fg-bold);
@@ -38,11 +38,11 @@
 		&:hover, &:active {
 			box-shadow: inset 0 0 0 2px _palette(dark);
 			color: _palette(dark);
-			background: white;
+			background: whitesmoke;
 		}
 
 		&:active {
-			background: white;
+			background: whitesmoke;
 			background-color: transparentize(_palette(dark), 0.9);
 			box-shadow: inset 0 0 0 2px desaturate(darken(_palette(dark), 15), 5);
 		}

@@ -2145,7 +2145,7 @@ button,
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, box-shadow 0.2s ease-in-out, color 0.2s ease-in-out, -webkit-box-shadow 0.2s ease-in-out;
-  background-color: transparent;
+  background-color: white;
   border: 0;
   border-radius: 0;
   -webkit-box-shadow: inset 0 0 0 2px #ffffff;
@@ -2177,7 +2177,7 @@ button:active,
   -webkit-box-shadow: inset 0 0 0 2px #255027;
           box-shadow: inset 0 0 0 2px #255027;
   color: #255027;
-  background: white;
+  background: whitesmoke;
 }
 
 input[type="submit"]:active,
@@ -2185,7 +2185,7 @@ input[type="reset"]:active,
 input[type="button"]:active,
 button:active,
 .button:active {
-  background: white;
+  background: whitesmoke;
   background-color: rgba(37, 80, 39, 0.1);
   -webkit-box-shadow: inset 0 0 0 2px #0e1b0e;
           box-shadow: inset 0 0 0 2px #0e1b0e;
@@ -3245,7 +3245,7 @@ body.is-loading #banner > .inner {
 
 #footer .copyright li {
   border-left: solid 1px #4b866e;
-  color: #fdfdfd;
+  color: #000000;
   display: inline-block;
   line-height: 1;
   margin-left: 1em;
