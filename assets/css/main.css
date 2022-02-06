@@ -1851,7 +1851,7 @@ input[type="radio"] + label:before {
 .icon.alt:before {
   background-color: #ffffff;
   border-radius: 100%;
-  color: #478833ad;
+  color: #ffffff;
   display: inline-block;
   height: 2em;
   line-height: 2em;
@@ -2253,7 +2253,6 @@ button.next:after,
   display: block;
   height: 100%;
   position: absolute;
-  right: 1.5em;
   top: 0;
   width: 36px;
 }
@@ -2419,7 +2418,7 @@ button:disabled,
 }
 
 .tiles article:after {
-  background-color: rgba(94, 156, 65, 0.25);
+  background-color: rgba(148, 230, 152, 0.25);
   content: '';
   display: block;
   height: 100%;
@@ -2546,7 +2545,7 @@ button:disabled,
   -webkit-box-orient: horizontal;
   -webkit-box-direction: normal;
           flex-direction: row;
-  background-color: #63a245;
+  background-color: #9de7a1;
 }
 
 .spotlights > section > .image {
@@ -2565,7 +2564,7 @@ button:disabled,
 }
 
 .spotlights > section > .image:before {
-  background: rgba(94, 156, 65, 0.9);
+  background: rgba(148, 230, 152, 0.9);
   content: '';
   display: block;
   height: 100%;
@@ -3123,7 +3122,7 @@ body.is-loading #banner > .inner {
 
 /* Main */
 #main {
-  background-color: #5e9c41;
+  background-color: #94e698;
 }
 
 #main > * {
@@ -3446,7 +3445,7 @@ body.is-loading #banner > .inner {
 }
 
 body.is-ie #menu {
-  background: rgba(94, 156, 65, 0.975);
+  background: rgba(148, 230, 152, 0.975);
 }
 
 body.is-menu-visible #wrapper {
