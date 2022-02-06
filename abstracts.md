@@ -6,18 +6,7 @@ nav-menu: yes
 weight: 4
 ---
 
-<!-- Main -->
-<div id="main" class="alt">
-
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<center>
-		<header class="major">
-			<h1 style="color:#202520">Call for Abstracts</h1>
-		</header>
-		</center>
-<!-- Content -->
+<h1 style="color:#202520">Call for Abstracts</h1>
 
 <b style="color:#202520">We are excited to be hosting an open-to-all symposium centered around the plant sciences.</b>
 <b style="color:#202520">There will be 3 different options you may sign up for:</b>
@@ -40,7 +29,7 @@ All abstracts submitted prior to March 30, 2022 will be considered.
 <br><br>
 
 <b style="color:#202520">
-Please sign up and submit your abstracts <b><a href="https://docs.google.com/forms/d/e/1FAIpQLSeIUCNNhIwDGP4ijmRzvzdkN97ucRHhekrUGzzbUM1YFXNqNQ/viewform?usp=sf_link" target="_blank"><button button style = "background:#376629ad "> HERE </button></a></b>
+Please sign up and submit your abstracts <b  ><a href="https://docs.google.com/forms/d/e/1FAIpQLSeIUCNNhIwDGP4ijmRzvzdkN97ucRHhekrUGzzbUM1YFXNqNQ/viewform?usp=sf_link" target="_blank" style = "text-decoration: none"><button button style = "background:#376629"> Here </button></a></b>
 </b>
 
 
