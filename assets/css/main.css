@@ -2177,7 +2177,7 @@ button:active,
   -webkit-box-shadow: inset 0 0 0 2px #202b21;
           box-shadow: inset 0 0 0 2px #202b21;
   color: #202b21;
-  background: whitesmoke;
+  background: #e6f1df;
 }
 
 input[type="submit"].icon:before,
@@ -2288,7 +2288,8 @@ button.special:hover,
 button.special:active,
 .button.special:hover,
 .button.special:active {
-  background-color: #202b21;
+  background-color: #2d3d2f;
+  color: #e6f1df;
 }
 
 input[type="submit"].special:active,
@@ -2296,7 +2297,7 @@ input[type="reset"].special:active,
 input[type="button"].special:active,
 button.special:active,
 .button.special:active {
-  background-color: black;
+  background-color: #0d100e;
 }
 
 input[type="submit"].disabled, input[type="submit"]:disabled,
