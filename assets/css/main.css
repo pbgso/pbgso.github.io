@@ -1771,7 +1771,7 @@ input[type="radio"]:checked + label:before {
   background: #ffffff;
   border-color: #b5e7b3;
   content: '\f00c';
-  color: #478833ad;
+  color: #376629ad;
 }
 
 input[type="checkbox"]:focus + label:before,
@@ -2290,7 +2290,7 @@ button.special,
   background-color: #ffffff;
   -webkit-box-shadow: none;
           box-shadow: none;
-  color: #478833ad;
+  color: #376629ad;
 }
 
 input[type="submit"].special:hover, input[type="submit"].special:active,
@@ -2303,7 +2303,7 @@ button.special:active,
 .button.special:hover,
 .button.special:active {
   background-color: #b5e7b3;
-  color: #478833ad !important;
+  color: #376629ad !important;
 }
 
 input[type="submit"].special:active,
@@ -2723,7 +2723,7 @@ button:disabled,
   -webkit-transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
   transition: background-color 0.2s ease-in-out, color 0.2s ease-in-out;
   background-color: #ffffff;
-  color: #478833ad;
+  color: #376629ad;
   display: inline-block;
   line-height: 1.65em;
   margin-right: 0.325em;
@@ -3326,7 +3326,7 @@ body.is-loading #banner > .inner {
   -webkit-pointer-events: none;
   -ms-pointer-events: none;
   pointer-events: none;
-  background: #478833ad;
+  background: #376629ad;
   -webkit-box-shadow: none;
           box-shadow: none;
   height: 100%;
@@ -3372,6 +3372,7 @@ body.is-loading #banner > .inner {
 }
 
 #menu ul.links {
+  color: white;
   list-style: none;
   padding: 0;
 }
