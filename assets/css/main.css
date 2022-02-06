@@ -1342,7 +1342,7 @@ body {
 }
 
 body {
-  background: #478833ad;
+  background: #ffffff;
 }
 
 body.is-loading *, body.is-loading *:before, body.is-loading *:after {
@@ -2231,7 +2231,6 @@ input[type="reset"].next,
 input[type="button"].next,
 button.next,
 .button.next {
-  padding-right: 4.5em;
   position: relative;
 }
 
