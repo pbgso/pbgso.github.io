@@ -1,6 +1,5 @@
 ---
 layout: post
-title: Register
 image: assets/images/backgrounds/carob-banner.jpg
 nav-menu: yes
 weight: 3
