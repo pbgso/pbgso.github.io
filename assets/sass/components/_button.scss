@@ -43,7 +43,7 @@
 
 		&:active {
 			background: whitesmoke;
-			background-color: transparentize(_palette(dark), 0.9);
+			//background-color: transparentize(_palette(dark), 0.9);
 			color: _palette(dark2);
 			box-shadow: inset 0 0 0 2px _palette(dark);
 		}
@@ -102,17 +102,17 @@
 		}
 
 		&.special {
-			background-color: _palette(fg-bold);
+			background-color: _palette(white);
 			box-shadow: none;
-			color: _palette(bg);
+			color: _palette(white);
 
 			&:hover, &:active {
-				background-color: _palette(highlight);
-				color: _palette(bg) !important;
+				background-color: _palette(dark);
+				color: _palette(whitesmoke) !important;
 			}
 
 			&:active {
-				background-color: desaturate(darken(_palette(highlight), 15), 5);
+				background-color: desaturate(darken(_palette(dark), 15), 5);
 			}
 		}
 
