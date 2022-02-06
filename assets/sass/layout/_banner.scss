@@ -11,6 +11,7 @@
 		@include vendor('background-image', 'url("../../images/banner.png")');
 		@include vendor('display', 'flex');
 		@include padding(4em, 0, (2em, 0, 0, 0));
+		background: rgba(95, 197, 149, 0.616);
 		background-image: "../../images/banner.png";
 		background-attachment: fixed;
 		background-position: center;

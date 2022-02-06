@@ -2936,6 +2936,7 @@ body.is-loading #header.alt {
   display: -ms-flexbox;
   display: flex;
   padding: 6em 0 2em 0 ;
+  background: rgba(95, 197, 149, 0.616);
   background-image: "../../images/banner.png";
   background-attachment: fixed;
   background-position: center;
