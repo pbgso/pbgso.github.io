@@ -36,7 +36,7 @@ weight: 6
 </center>
 
 <center>
-<p style="color:#202520">If you are interested in providing further sponsorship please contact the <b><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html"> organizing committee</a></b>.</p>
+<p style="color:#202520">If you are interested in providing further sponsorship please contact the <b style="color:#202520"><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html"> organizing committee</a></b>.</p>
 </center>
 
 <center>

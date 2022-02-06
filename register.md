@@ -25,9 +25,8 @@ weight: 3
 <p style="text-align:center; color:#202520">
 We will holding this event at the UC Davis Alumni Center on May 27th. It is free to attend, and we welcome all guests to come and join us for a day of research presentations.
 <br> <br>
-Please use the following link to register: 
 <br>
-<a href =  "https://docs.google.com/forms/d/e/1FAIpQLSdC3wVb3H4llKbW5TBYwQaVygEPPpfPUQSzkBD1-fW_iFkTZg/viewform?usp=sf_link"><button> Register Here </button></a> 
+<a href =  "https://docs.google.com/forms/d/e/1FAIpQLSdC3wVb3H4llKbW5TBYwQaVygEPPpfPUQSzkBD1-fW_iFkTZg/viewform?usp=sf_link"><button style = "background:#376629ad"> Register Here </button></a> 
 </p>
 
 
