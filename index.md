@@ -14,7 +14,7 @@ nav-menu: yes
 </head>
 
 <!-- Banner -->
-<section id="banner" class="major" style = "background-image: url('assets/images/backgrounds/olive-unsplash.jpg')">
+<section id="banner" class="major" style = "background-image: url('assets/images/banner.png')">
 	<div class="inner">
 		<header class="major">
 			<h1>{{ page.landing-title }}</h1>
