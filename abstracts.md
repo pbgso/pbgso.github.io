@@ -28,9 +28,7 @@ All abstracts submitted prior to March 30, 2022 will be considered.
 
 <br><br>
 
-<b style="color:#202520">
-Please sign up and submit your abstracts <b  ><a href="https://docs.google.com/forms/d/e/1FAIpQLSeIUCNNhIwDGP4ijmRzvzdkN97ucRHhekrUGzzbUM1YFXNqNQ/viewform?usp=sf_link" target="_blank" style = "text-decoration: none"><button button style = "background:#376629"> Here </button></a></b>
-</b>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeIUCNNhIwDGP4ijmRzvzdkN97ucRHhekrUGzzbUM1YFXNqNQ/viewform?usp=sf_link" target="_blank" style = "text-decoration: none"><button button style = "background:#202520"> Submit Abstract Here </button></a>
 
 
 
