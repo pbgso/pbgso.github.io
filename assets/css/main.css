@@ -2150,7 +2150,7 @@ button,
   border-radius: 0;
   -webkit-box-shadow: inset 0 0 0 2px #ffffff;
           box-shadow: inset 0 0 0 2px #ffffff;
-  color: #ffffff;
+  color: #202b21;
   cursor: pointer;
   display: inline-block;
   font-size: 0.8em;
@@ -2174,9 +2174,9 @@ button:hover,
 button:active,
 .button:hover,
 .button:active {
-  -webkit-box-shadow: inset 0 0 0 2px #255027;
-          box-shadow: inset 0 0 0 2px #255027;
-  color: #255027;
+  -webkit-box-shadow: inset 0 0 0 2px #202b21;
+          box-shadow: inset 0 0 0 2px #202b21;
+  color: #202b21;
   background: whitesmoke;
 }
 
@@ -2186,9 +2186,9 @@ input[type="button"]:active,
 button:active,
 .button:active {
   background: whitesmoke;
-  background-color: rgba(37, 80, 39, 0.1);
-  -webkit-box-shadow: inset 0 0 0 2px #0e1b0e;
-          box-shadow: inset 0 0 0 2px #0e1b0e;
+  background-color: rgba(32, 43, 33, 0.1);
+  -webkit-box-shadow: inset 0 0 0 2px #202b21;
+          box-shadow: inset 0 0 0 2px #202b21;
 }
 
 input[type="submit"].icon:before,
