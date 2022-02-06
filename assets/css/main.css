@@ -2259,24 +2259,6 @@ button.next:after,
   width: 36px;
 }
 
-input[type="submit"].next:before,
-input[type="reset"].next:before,
-input[type="button"].next:before,
-button.next:before,
-.button.next:before {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='36px' height='24px' viewBox='0 0 36 24' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %23ffffff%3B stroke-width: 2px%3B %7D%3C/style%3E%3Cline x1='0' y1='12' x2='34' y2='12' /%3E%3Cline x1='25' y1='4' x2='34' y2='12.5' /%3E%3Cline x1='25' y1='20' x2='34' y2='11.5' /%3E%3C/svg%3E");
-}
-
-input[type="submit"].next:after,
-input[type="reset"].next:after,
-input[type="button"].next:after,
-button.next:after,
-.button.next:after {
-  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' width='36px' height='24px' viewBox='0 0 36 24' zoomAndPan='disable'%3E%3Cstyle%3Eline %7B stroke: %2381dd7e%3B stroke-width: 2px%3B %7D%3C/style%3E%3Cline x1='0' y1='12' x2='34' y2='12' /%3E%3Cline x1='25' y1='4' x2='34' y2='12.5' /%3E%3Cline x1='25' y1='20' x2='34' y2='11.5' /%3E%3C/svg%3E");
-  opacity: 0;
-  z-index: 1;
-}
-
 input[type="submit"].next:hover:after, input[type="submit"].next:active:after,
 input[type="reset"].next:hover:after,
 input[type="reset"].next:active:after,
@@ -2710,7 +2692,7 @@ button:disabled,
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
-  background-color: #5e9c41;
+  background-color: #ffffff;
   -webkit-box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
           box-shadow: 0 0 0.25em 0 rgba(0, 0, 0, 0.15);
   cursor: default;
@@ -2979,7 +2961,7 @@ body.is-loading #header.alt {
   -webkit-pointer-events: none;
   -ms-pointer-events: none;
   pointer-events: none;
-  background-color: #00c964;
+  background-color: #00c96481;
   content: '';
   display: block;
   height: 100%;
@@ -3251,7 +3233,7 @@ body.is-loading #banner > .inner {
 
 /* Footer */
 #footer {
-  color: #C99700;
+  color: #ffffff;
 }
 
 #footer .copyright {
@@ -3262,7 +3244,7 @@ body.is-loading #banner > .inner {
 
 #footer .copyright li {
   border-left: solid 1px rgba(212, 255, 237, 0.1);
-  color: #C99700;
+  color: #fdfdfd;
   display: inline-block;
   line-height: 1;
   margin-left: 1em;
@@ -3342,7 +3324,7 @@ body.is-loading #banner > .inner {
   -webkit-pointer-events: none;
   -ms-pointer-events: none;
   pointer-events: none;
-  background: rgba(71, 136, 51, 0.9);
+  background: white;
   -webkit-box-shadow: none;
           box-shadow: none;
   height: 100%;

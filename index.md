@@ -17,7 +17,7 @@ nav-menu: yes
 <section id="banner" class="major">
 	<div class="inner">
 		<header class="major">
-			<h8>{{ page.landing-title }}</h8>
+			<h1>{{ page.landing-title }}</h1>
 		</header>
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
