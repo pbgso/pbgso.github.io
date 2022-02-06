@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Sponsors
 image: assets/images/backgrounds/leaf.jpg
 nav-menu: yes
@@ -25,12 +25,12 @@ weight: 6
 </center>
 
 <center>
-<b style="color:#202520">If you are interested in providing further sponsorship please contact us <b style="color:#202520; text-decoration: none"><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html" target="_blank" style = "text-decoration: none"><button button style = "background:#376629"> Here </button></a></b>
-</center>
+<b style="color:#202520">If you are interested in providing further sponsorship please contact us <b style="color:#202520; text-decoration: none"><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html" target="_blank" style = "text-decoration: none"><button button style = "background:#8eaa8f"> Here </button></a></b>
 
 <center>
 <b style="color:#202520"> Previous sponsors include: </b>  
 </center>
+<br>
 
 <center>
 <p style="color:#202520">

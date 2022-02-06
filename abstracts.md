@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: post
 title: Call for Abstracts
 image: assets/images/backgrounds/bee.jpg
 nav-menu: yes
