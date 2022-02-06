@@ -22,7 +22,7 @@ weight: 3
 
 <!-- Content -->
 
-<p style="text-align:center">
+<p style="text-align:center;color:#002285">
 We will holding this event at the UC Davis Alumni Center on May 27th. 
 <br> <br>
 Please use the following link to <b style="font-size:120%;">register</b>: 
