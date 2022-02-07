@@ -19,25 +19,24 @@ weight: 6
  UC Davis Plant Breeding Center <br>
  UC Davis Department of Plant Sciences<br>
  <br>
-
 </p>
 </center>
 
 <center>
-<b style="color:#202520">If you are interested in providing further sponsorship please contact us <b style="color:#202520; text-decoration: none"><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html" target="_blank" style = "text-decoration: none"><button button target="_blank" rel="noopener noreferrer" style = "background:#8eaa8f"> Here </button></a></b>
+<p><b style="color:#202520">If you are interested in providing further sponsorship please contact us <b style="color:#202520; text-decoration: none"><a href="http://plantsciencesymposium.ucdavis.edu/organizers.html" target="_blank" style = "text-decoration: none"><button button target="_blank" rel="noopener noreferrer" style = "background:#8eaa8f"> Here </button></a></b></p><br>
 
 <center>
 <b style="color:#202520"> Previous sponsors include: </b>  
 </center>
-<br>
 
 <center>
-<p style="color:#202520">
-Corteva Agriscience <br>
-UC Davis Plant Breeding Center <br>
-E & J Gallo Winery <br>
-Enza Zaden <br>
-California Crop Improvement Association
+<p style="color:#202520"> 
+    Corteva Agriscience <br>
+    UC Davis Plant Breeding Center <br>
+    E & J Gallo Winery <br>
+    Enza Zaden <br>
+    California Crop Improvement Association
+    <br>
 </p>
 </center>
 
