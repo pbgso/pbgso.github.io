@@ -23,7 +23,8 @@ weight: 6
 </center>
 
 <center>
-<p><b style="color:#202520">If you are interested in providing further sponsorship please contact us <b style="color:#202520; text-decoration: none"><a href="https://forms.gle/LPxkFZaXV7sFcLir7" target="_blank" style = "text-decoration: none"><button button target="_blank" rel="noopener noreferrer" style = "background:#8eaa8f"> Here </button></a></b></p><br>
+<a href="https://forms.gle/LPxkFZaXV7sFcLir7" target="_blank" style = "text-decoration: none"><button style="background:#8eaa8f"> Become a Sponsor </button></a>
+<br>
 
 <center>
 <b style="color:#202520"> Previous sponsors include: </b>  
