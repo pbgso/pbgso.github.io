@@ -12,7 +12,7 @@ email:
 description: ""
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://plantsciencesymposium.ucdavis.edu" # the base hostname & protocol for your site
-author: Gitanshu Munjal
+author: Kyle Rizzo
 street_address: UC Davis Alumni Center
 city: Davis
 state: CA
