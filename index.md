@@ -78,7 +78,7 @@ nav-menu: yes
 <img src="assets/images/backgrounds/pom.jpg" alt="heavily hanging pomegranate fruit" />
 </span>
 <header class="major">
-<h3><a href="/speakers.md" class="link">Speakers</a></h3>
+<h3><a href="/speakers.html" class="link">Speakers</a></h3>
 <p></p>
 </header>
 </article>
