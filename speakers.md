@@ -8,27 +8,32 @@ weight: 1
 
 <h1 style="color:#202520; margin:1.5em">  Highlighted Speakers Include: </h1>
 
-<b style="color:#202520; margin:1.5em">Pam Ronald</b>
+<b style="color:#202520; margin:6em">Pam Ronald</b>
 <br>
 
+{:refdef: style="margin:1.5em"}
 ![Pam Ronald](https://user-images.githubusercontent.com/17015641/154168568-f3a503e8-322e-4bcb-85f7-193c4d7db324.png)
+{: refdef}
 
-<p style="color:#202520; margin:1.5em">Dr. Pamela Ronald is recognized for research in infectious disease biology and environmental stress tolerance. Her isolation of the rice Xa21 immune receptor in 1995 and of a novel microbial immunogen in 2015 revealed a new mechanism with which plants and animals detect and respond to infection. She is also known for her leading role in isolation of the rice Submergence Tolerance 1 gene. Her research facilitated the development of high yielding Sub1 rice varieties grown by more than six million subsistence farmers in India and Bangladesh.</p> [Read more](https://cropgeneticsinnovation.ucdavis.edu/)
+<p style="color:#202520; margin:6em">Dr. Pamela Ronald is recognized for research in infectious disease biology and environmental stress tolerance. Her isolation of the rice Xa21 immune receptor in 1995 and of a novel microbial immunogen in 2015 revealed a new mechanism with which plants and animals detect and respond to infection. She is also known for her leading role in isolation of the rice Submergence Tolerance 1 gene. Her research facilitated the development of high yielding Sub1 rice varieties grown by more than six million subsistence farmers in India and Bangladesh.</p> [Read more](https://cropgeneticsinnovation.ucdavis.edu/)
 
-<b style="color:#202520; margin:1.5em">Awais Khan</b>
+<b style="color:#202520; margin:6em">Awais Khan</b>
 <br>
 
+{:refdef: style="margin:1.5em"}
 ![Awais Khan](https://user-images.githubusercontent.com/17015641/154168639-6de2b180-8e05-4d5c-b7be-1c0919f4af32.png)
+{: refdef}
 
+<p style="color:#202520; margin:6em">Dr. Awais Khan joined Cornell University, Plant Pathology and Plant-Microbe Biology Section, as an Associate Professor in October 2016. Prior to taking this position, he was leading a global research program on genetics of adaptation and abiotic stress tolerance, at the International Potato Center (CIP), Lima, Peru. He earned a PhD from the Swiss Federal Institute of Technology (ETH), Zurich, Switzerland on fire blight of apples, and an MSc from Georg-August University, Gottingen, Germany, with further research experience at the University of York, UK and University of Illinois, Urbana-Champaign, USA.</p> [Read more](https://cals.cornell.edu/awais-khan)
 
-<p style="color:#202520; margin:1.5em">Dr. Awais Khan joined Cornell University, Plant Pathology and Plant-Microbe Biology Section, as an Associate Professor in October 2016. Prior to taking this position, he was leading a global research program on genetics of adaptation and abiotic stress tolerance, at the International Potato Center (CIP), Lima, Peru. He earned a PhD from the Swiss Federal Institute of Technology (ETH), Zurich, Switzerland on fire blight of apples, and an MSc from Georg-August University, Gottingen, Germany, with further research experience at the University of York, UK and University of Illinois, Urbana-Champaign, USA.</p> [Read more](https://cals.cornell.edu/awais-khan)
-
-<b style="color:#202520; margin:1.5em">Gerald Tuskan</b> 
+<b style="color:#202520; margin:6em">Gerald Tuskan</b> 
 <br>
 
+{:refdef: style="margin:1.5em"}
 ![Gerald Tuskan](https://user-images.githubusercontent.com/17015641/154168685-6cee573d-e490-424d-816d-e6705970cf73.png)
+{: refdef}
 
+<p style="color:#202520; margin:6em">Gerald Tuskan is currently director of the Center for Bioenergy Innovation, an institute designed to accelerate domestication of non-model plants and microbes to enable innovation across the bioenergy supply chain. He led the effort to sequence the first woody plant genome, Populus trichocarpa.</p> [Read more](https://www.esd.ornl.gov/PGG/tuskan_bio.htm)
 
-<p style="color:#202520; margin:1.5em">Gerald Tuskan is currently director of the Center for Bioenergy Innovation, an institute designed to accelerate domestication of non-model plants and microbes to enable innovation across the bioenergy supply chain. He led the effort to sequence the first woody plant genome, Populus trichocarpa.</p> [Read more](https://www.esd.ornl.gov/PGG/tuskan_bio.htm)
+<h5 style="color:#202520; margin:5.5em">  You could be a speaker too! Submit your abstract by March 30th, 2022. This page is under construction. Check back later for updates.</h5>
 
-<h5 style="color:#202520; margin:5.5em">  You could be a speaker too! Submit your abstract by March 30th, 2022. This page is under construction. Check back later for updates.</h6>
