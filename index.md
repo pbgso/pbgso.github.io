@@ -98,7 +98,7 @@ nav-menu: yes
 <img src="assets/images/backgrounds/bud.jpg" alt="maroon-veined emerging peach branch" />
 </span>
 <header class="major">
-<h3><a href="/construction.html" class="link">Organizers</a></h3>
+<h3><a href="/organizers.html" class="link">Organizers</a></h3>
 <p></p>
 </header>
 </article>
