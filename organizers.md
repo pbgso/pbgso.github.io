@@ -53,7 +53,7 @@ html {
     <div class="card">
       <img src="assets/images/students/marie_klein.png" alt="Marie Klein" style="width:100%">
       <div class="container">
-        <h3 style="color:#202520">Marie Klein</h2>
+        <h3 style="color:#202520">Marie Klein</h3>
         <p class="title">Horticulture and Agronomy</p>
         <p>Gail Taylor Lab</p>
       </div>
@@ -64,7 +64,7 @@ html {
     <div class="card">
       <img src="assets/images/students/sadikshya_sharma.png" alt="Sadikshya Sharma" style="width:100%%">
       <div class="container">
-        <h3 style="color:#202520">Sadikshya Sharma</h2>
+        <h3 style="color:#202520">Sadikshya Sharma</h3>
         <p class="title">Horticulture and Agronomy</p>
         <p>Strawberry Breeding Lab</p>
       </div>
@@ -75,7 +75,7 @@ html {
     <div class="card">
       <img src="assets/images/students/dante_leventini.png" alt="Dante Leventini" style="width:100%">
       <div class="container">
-        <h3 style="color:#202520">Dante Leventini</h2>
+        <h3 style="color:#202520">Dante Leventini</h3>
         <p class="title">Horticulture and Agronomy</p>
         <p>Patrick H. Brown Lab</p>
       </div>
@@ -86,7 +86,7 @@ html {
     <div class="card">
       <img src="assets/images/students/mary-francis_laporte.png" alt="Mary-Francis LaPorte" style="width:100%%">
       <div class="container">
-        <h3 style="color:#202520">Mary-Francis LaPorte</h2>
+        <h3 style="color:#202520">Mary-Francis LaPorte</h3>
         <p class="title">Plant Biology</p>
         <p>Christine Diepenbrock Lab</p>
       </div>
@@ -97,7 +97,7 @@ html {
     <div class="card">
       <img src="assets/images/students/katie_simpson-johnson.png" alt="Katie Simpson-Johnson" style="width:100%%">
       <div class="container">
-        <h3 style="color:#202520">Katie Simpson-Johnson</h2>
+        <h3 style="color:#202520">Katie Simpson-Johnson</h3>
         <p class="title">Soils and Biogeochemistry</p>
         <p>Amelie Gaudin Lab</p>
       </div>
@@ -108,7 +108,7 @@ html {
     <div class="card">
       <img src="assets/images/students/matthew_davis.png" alt="Matthew Davis" style="width:100%%">
       <div class="container">
-        <h3 style="color:#202520">Matthew Davis</h2>
+        <h3 style="color:#202520">Matthew Davis</h3>
         <p class="title">Plant Biology</p>
         <p>Rotating</p>
       </div>
@@ -119,7 +119,7 @@ html {
     <div class="card">
       <img src="assets/images/students/kyle_rizzo.png" alt="Kyle Rizzo" style="width:100%%">
       <div class="container">
-        <h3 style="color:#202520">Kyle Rizzo</h2>
+        <h3 style="color:#202520">Kyle Rizzo</h3>
         <p class="title">Horticulture and Agronomy</p>
         <p>Brian Bailey Lab</p>
       </div>
@@ -130,7 +130,7 @@ html {
     <div class="card">
       <img src="assets/images/students/grey_monroe.png" alt="Grey Monroe" style="width:100%%">
       <div class="container">
-        <h3 style="color:#202520">Grey Monroe</h2>
+        <h3 style="color:#202520">Grey Monroe</h3>
         <p class="title">Assistant Professor</p>
         <p>Dept. of Plant Sciences</p>
       </div>
