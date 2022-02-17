@@ -35,7 +35,7 @@ weight: 1
 
 <p style="color:#202520; margin-left:150px; margin-right: 150px">Gerald Tuskan is currently director of the Center for Bioenergy Innovation, an institute designed to accelerate domestication of non-model plants and microbes to enable innovation across the bioenergy supply chain. He led the effort to sequence the first woody plant genome, Populus trichocarpa.<a href =  "https://www.esd.ornl.gov/PGG/tuskan_bio.htm" target="_blank" rel="noopener noreferrer" style = "text-decoration: none">[Read more]</a></p>
 
-<h5 style="color:#202520; margin-left:150px; margin-right: 150px">  You could be a speaker too! Submit your abstract by March 30th, 2022. 
+<h5 style="color:#202520; margin-left:150px; margin-right: 150px">  You could be a speaker too! Submit your abstract by March 30th, 2022. </h5>
 
 <p style="color: #D3D3D3"> This page is under construction. Check back later for updates. </p>
 
