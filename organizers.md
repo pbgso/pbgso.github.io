@@ -133,8 +133,8 @@ html {
       <img src="assets/images/students/grey_monroe.png" alt="Grey Monroe" style="width:100%%">
       <div class="container">
         <h3 style="color:#202520">Grey Monroe</h3>
-        <p class="title">Assistant Professor</p>
-        <p>Dept. of Plant Sciences</p>
+        <p class="title">Dept. of Plant Sciences</p>
+        <p>Assistant Professor</p>
       </div>
     </div>
   </div>
