@@ -37,5 +37,5 @@ weight: 1
 
 <h5 style="color:#202520; margin-left:150px; margin-right: 150px">  You could be a speaker too! Submit your abstract by March 30th, 2022. </h5>
 
-<p style="color: #D3D3D3"> This page is under construction. Check back later for updates. </p>
+<p style="color: #D3D3D3; margin-left:150px; margin-right: 150px"> This page is under construction. Check back later for updates. </p>
 
