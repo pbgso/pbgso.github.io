@@ -23,11 +23,10 @@ html {
   .column {
     width: 100%;
     display: block;
-    margin-left: 100px;
   }
 }
 
-.column{
+.column {
     margin: 2em;
 }
 
