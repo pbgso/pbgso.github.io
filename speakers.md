@@ -6,7 +6,7 @@ nav-menu: yes
 weight: 1
 ---
 
-<h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Highlighted Speakers Include: </h1>
+<h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Keynote Speakers Include: </h1>
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Pam Ronald</b>
 <br>
