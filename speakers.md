@@ -8,14 +8,6 @@ weight: 1
 
 <h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Keynote Speakers Include: </h1>
 
-<b style="color:#202520; margin-left:150px; margin-right: 150px">Pam Ronald</b>
-<br>
-
-{:refdef: style="margin-left:150px; margin-right: 150px"}
-![Pam Ronald](https://user-images.githubusercontent.com/17015641/154168568-f3a503e8-322e-4bcb-85f7-193c4d7db324.png)
-{: refdef}
-
-<p style="color:#202520; margin-left:150px; margin-right: 150px">Dr. Pamela Ronald is recognized for research in infectious disease biology and environmental stress tolerance. Her isolation of the rice Xa21 immune receptor in 1995 and of a novel microbial immunogen in 2015 revealed a new mechanism with which plants and animals detect and respond to infection. She is also known for her leading role in isolation of the rice Submergence Tolerance 1 gene. Her research facilitated the development of high yielding Sub1 rice varieties grown by more than six million subsistence farmers in India and Bangladesh.<a href =  "https://cropgeneticsinnovation.ucdavis.edu/" target="_blank" rel="noopener noreferrer" style = "text-decoration: none">[Read more]</a></p> 
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Awais Khan</b>
 <br>
