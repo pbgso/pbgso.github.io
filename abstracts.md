@@ -22,7 +22,7 @@ weight: 4
 	<li>1 award for best Pre-Recorded 5 Minute Video Flash Talk</li>
 </ul>
 <b style="color:#202520">
-All abstracts submitted prior to March 30, 2022 will be considered. 
+All abstracts submitted prior to March 31st, 2022 will be considered. 
 </b>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIUCNNhIwDGP4ijmRzvzdkN97ucRHhekrUGzzbUM1YFXNqNQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer" style = "text-decoration: none"><button button style = "background:#8eaa8f"> Submit Abstract Here </button></a>
