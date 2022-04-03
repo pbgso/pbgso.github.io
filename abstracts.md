@@ -7,7 +7,7 @@ weight: 4
 
 <h1 style="color:#202520">Call for Abstracts</h1>
 
-<b style="color:#202520">The deadline has passed for in-person 20 minute presentation abstract submissions. We are still accepting poster session and video flash talk submissions, please apply at using the button below.</b>
+<b style="color:#202520">The deadline has passed for in-person 20 minute presentation abstract submissions. We are still accepting poster session and video flash talk submissions, please apply using the button below.</b>
 
 
 <b style="color:#202520">----------------------------------------------------------------------------------------</b>
