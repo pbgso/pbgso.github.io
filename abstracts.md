@@ -7,6 +7,11 @@ weight: 4
 
 <h1 style="color:#202520">Call for Abstracts</h1>
 
+<b style="color:#202520">The deadline has passed for in-person 20 minute presentation abstract submissions. We are still accepting poster session and video flash talk submissions, please apply at using the button below.</b>
+
+
+<b style="color:#202520">----------------------------------------------------------------------------------------</b>
+
 <b style="color:#202520">We are excited to be hosting an open-to-all symposium centered around the plant sciences.</b>
 <b style="color:#202520">There will be 3 different options you may sign up for:</b>
 <ul style="color:#202520">
@@ -22,7 +27,7 @@ weight: 4
 	<li>1 award for best Pre-Recorded 5 Minute Video Flash Talk</li>
 </ul>
 <b style="color:#202520">
-All abstracts submitted prior to March 31st, 2022 will be considered. 
+All abstracts for in-person 20 minute presentations submitted prior to March 31st, 2022 will be considered. 
 </b>
 
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeIUCNNhIwDGP4ijmRzvzdkN97ucRHhekrUGzzbUM1YFXNqNQ/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer" style = "text-decoration: none"><button button style = "background:#8eaa8f"> Submit Abstract Here </button></a>
