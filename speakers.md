@@ -6,7 +6,7 @@ nav-menu: yes
 weight: 1
 ---
 
-<h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Keynote Speakers Include: </h1>
+<h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Plenary Speakers: </h1>
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Neelima Sinha</b>
 <br>
@@ -36,7 +36,17 @@ weight: 1
 
 <p style="color:#202520; margin-left:150px; margin-right: 150px">Gerald Tuskan is currently director of the Center for Bioenergy Innovation, an institute designed to accelerate domestication of non-model plants and microbes to enable innovation across the bioenergy supply chain. He led the effort to sequence the first woody plant genome, Populus trichocarpa. <a href =  "https://www.esd.ornl.gov/PGG/tuskan_bio.htm" target="_blank" rel="noopener noreferrer" style = "text-decoration: none">[Read more]</a></p>
 
-<h5 style="color:#202520; margin-left:150px; margin-right: 150px">  You could be a speaker too! Submit your abstract by March 31st, 2022. </h5>
+<h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Corteva Speaker: </h1>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Kyle Cheung</b>
+<br>
+
+{:refdef: style="margin-left:150px"}
+![Kyle Cheung](https://user-images.githubusercontent.com/95317969/163311367-6f89f4df-d7a9-40fa-9534-8ce8588c94b7.png)
+{: refdef}
+
+
+<p style="color:#202520; margin-left:150px; margin-right: 150px">As a senior imaging data analyst at Corteva Agriscience since June 2020, Kyle collaborates with field scientists, project leaders, and data scientists to create and evaluate imaging phenotyping assays for crop protection evaluations. The main challenges in his position comes with scale: throughput, cost, and people. He leverages tools such as the NVIDIA ecosystem, Boston Dynamics Spot robot in Woodland, and cameras at different spatial scales. Kyle is a proud Aggie, graduating with his B.S. (2018) and M.S. (2020) in Biological Systems Engineering here at UC Davis. He worked in the Digital Agriculture Lab with Dr. Alireza Pourreza evaluating drought stress in turfgrass and predicting almond yield using sUAS platforms. <a href =  "https://kylehcheung.com/" target="_blank" rel="noopener noreferrer" style = "text-decoration: none">[Read more]</a></p> 
 
 <p style="color: #D3D3D3; margin-left:150px; margin-right: 150px"> This page is under construction. Check back later for updates. </p>
 
