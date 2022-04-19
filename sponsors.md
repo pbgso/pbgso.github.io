@@ -18,6 +18,9 @@ weight: 6
  Corteva Agriscience <br>
  UC Davis Plant Breeding Center <br>
  UC Davis Department of Plant Sciences<br>
+ Enza Zaden<br>
+ American Takii<br>
+
  <br>
 </p>
 </center>
@@ -26,22 +29,6 @@ weight: 6
 <a href="https://forms.gle/LPxkFZaXV7sFcLir7" target="_blank" style = "text-decoration: none"><button style="background:#8eaa8f"> Become a Sponsor </button></a>
 <br>
 <br>
-
-<br>
-<center>
-<b style="color:#202520"> Previous sponsors include: </b>  
-</center>
-
-<center>
-<p style="color:#202520"> 
-    Corteva Agriscience <br>
-    UC Davis Plant Breeding Center <br>
-    E & J Gallo Winery <br>
-    Enza Zaden <br>
-    California Crop Improvement Association
-    <br>
-</p>
-</center>
 
 <!-- <center>
 <p style="color:#002285;"><b>Silver</b> sponsors are those that have donated $500 and will receive recognition on signage at our event, as well as on the website and on the printed program. All sponsors will be acknowledged during the opening session as a key supporter.</p>
