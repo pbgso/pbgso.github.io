@@ -20,6 +20,7 @@ weight: 6
  UC Davis Department of Plant Sciences<br>
  Enza Zaden<br>
  American Takii<br>
+ UC Davis Global Affairs<br>
 
  <br>
 </p>
