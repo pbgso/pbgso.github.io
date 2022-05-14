@@ -5,7 +5,7 @@ weight: 2
 nav-menu: yes
 image: assets/images/backgrounds/pine.jpg
 ---
-<h2 style="color:#202520"> 
+<span style="color:#202520"> 
 |     Time                                                             |     Event                                                              |
 |----------------------------------------------------------------------|------------------------------------------------------------------------|
 |     8:30 – 8:45                                                      |     Coffee and Networking                                              |
@@ -46,4 +46,4 @@ image: assets/images/backgrounds/pine.jpg
 |          Poster Session and Networking (In Person and Virtual)       |                                                                        |
 |     5:00 – 7:00                                                      |     Poster Session and Networking   Opportunity                        |
 
-</h2>
+</span>
