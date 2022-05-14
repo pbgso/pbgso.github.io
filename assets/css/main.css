@@ -1354,7 +1354,7 @@ body.is-loading *, body.is-loading *:before, body.is-loading *:after {
 
 /* Type */
 body, input, select, textarea {
-  color: #79c9598a;
+  color: #0000008a;
   font-family: "Source Sans Pro", Helvetica, sans-serif;
   font-size: 17pt;
   font-weight: 300;
@@ -1732,7 +1732,7 @@ input[type="radio"] {
 input[type="checkbox"] + label,
 input[type="radio"] + label {
   text-decoration: none;
-  color: #79c9598a;
+  color: #0000008a;
   cursor: pointer;
   display: inline-block;
   font-weight: 300;
