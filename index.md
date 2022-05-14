@@ -88,7 +88,7 @@ nav-menu: yes
 <img src="assets/images/backgrounds/pine.jpg" alt="wintery pine cones on a pine tree" />
 </span>
 <header class="major">
-<h3><a href="/construction.html" class="link">Schedule</a></h3>
+<h3><a href="/program.html" class="link">Schedule</a></h3>
 <p></p>
 </header>
 </article>
