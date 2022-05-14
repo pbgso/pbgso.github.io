@@ -5,7 +5,7 @@ weight: 2
 nav-menu: yes
 image: assets/images/backgrounds/pine.jpg
 ---
-<span style="color:#202520"> 
+
 |     Time                                                             |     Event                                                              |
 |----------------------------------------------------------------------|------------------------------------------------------------------------|
 |     8:30 – 8:45                                                      |     Coffee and Networking                                              |
@@ -45,5 +45,3 @@ image: assets/images/backgrounds/pine.jpg
 |     4:15 – 5:00                                                      |     Neelima Sinha, UC Davis                                            |
 |          Poster Session and Networking (In Person and Virtual)       |                                                                        |
 |     5:00 – 7:00                                                      |     Poster Session and Networking   Opportunity                        |
-
-</span>
