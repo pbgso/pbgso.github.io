@@ -45,3 +45,9 @@ image: assets/images/backgrounds/pine.jpg
 |     4:15 – 5:00                                                      |     Neelima Sinha, UC Davis                                            |
 |          Poster Session and Networking (In Person and Virtual)       |                                                                        |
 |     5:00 – 7:00                                                      |     Poster Session and Networking   Opportunity                        |
+
+[Symposium schedule.pdf](https://github.com/pbgso/pbgso.github.io/files/8696778/Symposium.schedule.pdf)
+
+![Symposium schedule-1](https://user-images.githubusercontent.com/95317969/168510457-5365d08d-4c72-4934-9137-79ac05d18338.png)
+
+
