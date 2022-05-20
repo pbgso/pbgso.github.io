@@ -12,7 +12,7 @@ The schedule for the event can be found at the following link: <a href="http://p
 <br>
 
 <br>
-We will do a <strong>symptom survey check</strong> at the event. If your symptom survey returns “Yellow” (overdue testing) or "Red" you will not be able to attend! We recommend getting COVID tested through UC Davis or Healthy Davis Together on Wednesday or Thursday, May 25th or May 26th. For more information about the symptom survey, see this link: <a href="https://campusready.ucdavis.edu/symptom-survey">Symptom Survey</a> 
+We will do a <strong style="color:#202520">symptom survey check</strong> at the event. If your symptom survey returns “Yellow” (overdue testing) or "Red" you will not be able to attend! We recommend getting COVID tested through UC Davis or Healthy Davis Together on Wednesday or Thursday, May 25th or May 26th. For more information about the symptom survey, see this link: <a href="https://campusready.ucdavis.edu/symptom-survey">Symptom Survey</a> 
 <br>
 
 <br>
@@ -57,7 +57,7 @@ We thank you for joining our event virtually. This conference truly would not be
 <br>
 
 <br>
-Thank you - we look forward to seeing you at the virtual networking club.</b>
+Thank you - we look forward to seeing you at the virtual networking club.
 
 
 
