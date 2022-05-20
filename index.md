@@ -25,7 +25,7 @@ nav-menu: yes
 				<li><h2>May 27th, 2022 </h2></li><br>
 				<li><h2>UC Davis Alumni Center </h2></li><br>
 				<li><a href="/register.html" class="button next scrolly">Register to Attend</a></li>
-				<li><a href="/abstracts.html" class="button next scrolly">Call For Abstracts</a></li>
+				<li><a href="/attendance.html" class="button next scrolly">Attendance Info</a></li>
 				<li><a href="/sponsors.html" class="button next scrolly">Become a Sponsor</a></li>
 			</ul>
 		</div>
