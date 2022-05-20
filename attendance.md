@@ -52,6 +52,9 @@ The <strong style="color:#202520">zoom link</strong> for the event will be sent 
 Join the <strong style="color:#202520">Plant Sciences Symposium Virtual Networking Club (VNC)</strong>. We have put months of work into brainstorming and implementing the Virtual Networking Club, and we hope it will be more effective than other virtual conferences. You can opt into being paired with another person for a <strong style="color:#202520">virtual “colleague connection”</strong>, attend a <strong style="color:#202520">“Virtual Happy Hour” from 5-7pm the day of the event</strong> (which will include thoughtfully moderated networking), and share your email address with other attendees. To <strong style="color:#202520">learn more</strong>, read the attached document below. Please sign up using the following link: <a href="https://forms.gle/asw3YnShjw3yh6T38">Sign Up for Virtual Networking Club</a>
 <br>
 
+[Plant Sciences Virtual Network Social Club.pdf](https://github.com/pbgso/pbgso.github.io/files/8735872/Plant.Sciences.Virtual.Network.Social.Club.pdf)
+
+  
 <br>
 We thank you for joining our event virtually. This conference truly would not be the same without the virtual participation of both speakers and attendees. 
 <br>
