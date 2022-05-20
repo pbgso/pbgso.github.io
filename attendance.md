@@ -60,7 +60,7 @@ We thank you for joining our event virtually. This conference truly would not be
 <br>
 
 <br>
-Thank you - we look forward to seeing you at the virtual networking club.
+We look forward to seeing you at the virtual networking club.
 
 
 
