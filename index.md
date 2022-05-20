@@ -55,7 +55,7 @@ nav-menu: yes
 <img src="assets/images/backgrounds/bee.jpg" alt="lovely bee pollinating almond blossom" />
 </span>
 <header class="major">
-<h3><a href="/abstracts.html" class="link">Call for Abstracts</a></h3>
+<h3><a href="/attendance.html" class="link">Attendance Info</a></h3>
 <p></p>
 </header>
 </article>
