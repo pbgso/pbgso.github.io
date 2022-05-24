@@ -75,14 +75,14 @@ Join the <strong style="color:#202520">Plant Sciences Symposium Virtual Networki
 
   
 <br>
-We thank you for joining our event virtually. This conference truly would not be the same without the virtual participation of both speakers and attendees. 
+<strong style="color:#202520">We thank you for joining our event virtually</strong>. This conference truly would not be the same without the virtual participation of both speakers and attendees. 
 <br>
 
 <br>
 We look forward to seeing you at the virtual networking club.
 
 
-
+<strong style="color:#202520">Learn more</strong> about the event at the following link to a Dept. of Plant Sciences blog post <a href="https://www.plantsciences.ucdavis.edu/news/uc-davis-plant-sciences-symposium-set-may-27">Symposium Blog Post</a>
 
 
 
