@@ -32,6 +32,28 @@ If you signed up to attend the event in person, but have <strong style="color:#2
 Join the <strong style="color:#202520">Plant Sciences Symposium Virtual Networking Club (VNC)</strong> if you can not attend in person or wish to connect to virtual attendees. We hope it will be effective for virtual networking. You can opt into being paired with another person for a virtual <strong style="color:#202520">“colleague connection”</strong>, attend a <strong style="color:#202520">“Virtual Happy Hour” from 5-7pm</strong> the day of the event (which will include thoughtfully moderated networking), and share your email address with other attendees. To learn more, read the attached document. To opt-in to this program, use this link: <a href="https://forms.gle/asw3YnShjw3yh6T38">Sign Up for Virtual Networking Club</a>
 <br>
 
+<h1 style="color:#202520">Parking</h1>
+
+<br>
+<strong style="color:#202520">Bicycle parking</strong> is available near the Alumni Center and across the street near the Mondavi Center. 
+<br>
+
+<br> 
+<strong style="color:#202520">Car parking</strong> is available (with purchase of a visitor pass) in the "Gateway Structure Parking Lot" and the open air lots behind the Manetti Shrem Museum. See the map below. 
+<br>
+
+<br>
+For visitor pass parking instructions, check the following link. <a href = "https://taps.ucdavis.edu/visitor"> Visitor Parking Instructions.</a>
+<br>
+
+<br> 
+<strong style="color:#202520">Accessible parking</strong> and services offered by UC Davis can be learned about at the following link. <a href="https://taps.ucdavis.edu/parking/guide/disabled">Accessible Parking.</a>  
+<br>
+
+<br>
+<img src="http://maps.googleapis.com/maps/api/staticmap?center=38.533257,-121.748928&zoom=17&size=300x300&markers=size:tiny|color:0x09305B|38.533257,-121.748928&style=feature:landscape.man_made|element:geometry|color:0xBA9D79&style=feature:poi.park|element:all|color:0x82A372&style=feature:poi.school|element:geometry.fill|color:0xC2CCA4">
+<br>
+
 <h1 style="color:#202520">Virtual Attendance Information</h1>
 
 <b style="color:#202520">We are very excited you will be attending virtually!<br>
