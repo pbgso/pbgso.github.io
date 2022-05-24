@@ -39,7 +39,7 @@ Join the <strong style="color:#202520">Plant Sciences Symposium Virtual Networki
 <br>
 
 <br> 
-<strong style="color:#202520">Car parking</strong> is available (with purchase of a visitor pass) in the "Gateway Structure Parking Lot" and the open air lots behind the Manetti Shrem Museum. See the map below. 
+<strong style="color:#202520">Car parking</strong> is available (with purchase of a visitor pass) in the "Gateway Structure Parking Lot" and the open air lots behind the Manetti Shrem Museum. < a href = "https://goo.gl/maps/1iPmhnrLAqTvpaH56">See the map here</a>. 
 <br>
 
 <br>
@@ -50,9 +50,6 @@ For visitor pass parking instructions, check the following link. <a href = "http
 <strong style="color:#202520">Accessible parking</strong> and services offered by UC Davis can be learned about at the following link. <a href="https://taps.ucdavis.edu/parking/guide/disabled">Accessible Parking.</a>  
 <br>
 
-<br>
-<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d643.2179671924447!2d-121.75003048717309!3d38.53314739906483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8cad9b94622b8415!2zMzjCsDMxJzU5LjgiTiAxMjHCsDQ0JzU2LjciVw!5e0!3m2!1sen!2sus!4v1653361668116!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
-<br>
 
 <h1 style="color:#202520">Virtual Attendance Information</h1>
 
