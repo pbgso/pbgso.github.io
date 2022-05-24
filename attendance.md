@@ -51,7 +51,7 @@ For visitor pass parking instructions, check the following link. <a href = "http
 <br>
 
 <br>
-<img src="http://maps.googleapis.com/maps/api/staticmap?center=38.533257,-121.748928&zoom=17&size=300x300&markers=size:tiny|color:0x09305B|38.533257,-121.748928&style=feature:landscape.man_made|element:geometry|color:0xBA9D79&style=feature:poi.park|element:all|color:0x82A372&style=feature:poi.school|element:geometry.fill|color:0xC2CCA4">
+<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d643.2179671924447!2d-121.75003048717309!3d38.53314739906483!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x8cad9b94622b8415!2zMzjCsDMxJzU5LjgiTiAxMjHCsDQ0JzU2LjciVw!5e0!3m2!1sen!2sus!4v1653361668116!5m2!1sen!2sus" width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
 <br>
 
 <h1 style="color:#202520">Virtual Attendance Information</h1>
