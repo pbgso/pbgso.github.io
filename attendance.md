@@ -39,7 +39,7 @@ Join the <strong style="color:#202520">Plant Sciences Symposium Virtual Networki
 <br>
 
 <br> 
-<strong style="color:#202520">Car parking</strong> is available (with purchase of a visitor pass) in the "Gateway Structure Parking Lot" and the open air lots behind the Manetti Shrem Museum. < a href = "https://goo.gl/maps/1iPmhnrLAqTvpaH56">See the map here</a>. 
+<strong style="color:#202520">Car parking</strong> is available (with purchase of a visitor pass) in the "Gateway Structure Parking Lot" and the open air lots behind the Manetti Shrem Museum. <a href="https://goo.gl/maps/1iPmhnrLAqTvpaH56">See the map here</a>. 
 <br>
 
 <br>
