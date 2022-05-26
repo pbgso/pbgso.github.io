@@ -6,6 +6,9 @@ weight: 4
 ---
 
 <strong style="color:#202520">ZOOM LINK FOR VIRTUAL ATTENDANCE: <a href="https://ucdavis.zoom.us/webinar/97812668260">CLICK HERE</a></strong>
+<br>
+
+<strong style="color:#202520">ZOOM LINK FOR VIRTUAL HAPPY HOUR NETWORKING: <a href="https://ucdavis.zoom.us/j/97981192672">CLICK HERE</a></strong>
 
 <h1 style="color:#202520">In-Person Attendance Information</h1>
 <strong style="color:#202520">
