@@ -6,13 +6,13 @@ weight: 4
 ---
 
 <h1 style="color:#202520">In-Person Attendance Information</h1>
-
+<strong style="color:#202520">
 <br>
 The <strong style="color:#202520">schedule</strong> for the event can be found at the following link: <a href="http://plantsciencesymposium.ucdavis.edu/program.html">Schedule</a> 
 <br>
 
 <br>
-We will do a <strong style="color:#202520">symptom survey check</strong> at the event. If your symptom survey returns “Yellow” (overdue testing) or "Red" you will not be able to attend! We recommend getting COVID tested through UC Davis or Healthy Davis Together on Wednesday or Thursday, May 25th or May 26th. For more information about the symptom survey, see this link: <a href="https://campusready.ucdavis.edu/symptom-survey">Symptom Survey</a> 
+We will do a symptom survey check</strong> at the event. If your symptom survey returns “Yellow” (overdue testing) or "Red" you will not be able to attend! We recommend getting COVID tested through UC Davis or Healthy Davis Together on Wednesday or Thursday, May 25th or May 26th. For more information about the symptom survey, see this link: <a href="https://campusready.ucdavis.edu/symptom-survey">Symptom Survey</a> 
 <br>
 
 <br>
@@ -85,5 +85,5 @@ We look forward to seeing you at the virtual networking club.
 <br>
 <strong style="color:#202520">Learn more</strong> about the event at the following link to a Dept. of Plant Sciences blog post <a href="https://www.plantsciences.ucdavis.edu/news/uc-davis-plant-sciences-symposium-set-may-27">Symposium Blog Post</a>
 <br>
-
+</strong>
 
