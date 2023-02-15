@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "2022 UC Davis Plant Sciences Symposium"
+landing-title: "2023 UC Davis Plant Sciences Symposium"
 description:
 weight: 0
 image: assets/images/backgrounds/olive-unsplash.jpg
