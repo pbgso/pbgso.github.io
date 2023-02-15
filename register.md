@@ -15,7 +15,7 @@ It is free to attend, and we welcome all guests to come and join us for a day of
 </h5>
 
 <br>
-<a href =  "https://docs.google.com/forms/d/e/1FAIpQLSdC3wVb3H4llKbW5TBYwQaVygEPPpfPUQSzkBD1-fW_iFkTZg/viewform?usp=sf_link" target="_blank" rel="noopener noreferrer"><button style = "background:#8eaa8f">Register Here</button></a> 
+<a href =  "https://docs.google.com/forms/d/e/1FAIpQLSdEiRDiDtKHoL8bYS5LFVgO5s93YznvnXSdPqElX2Lyz7UxhA/viewform" target="_blank" rel="noopener noreferrer"><button style = "background:#8eaa8f">Register Here</button></a> 
 
 
 
