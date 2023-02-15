@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: "2022 UC Davis Plant Sciences Symposium"
+landing-title: "2023 UC Davis Plant Sciences Symposium"
 description:
 weight: 0
 image: assets/images/backgrounds/olive-unsplash.jpg
@@ -22,7 +22,7 @@ nav-menu: yes
 		<div class="content">
 			<p style="text-transform: uppercase;">{{ site.description }}</p>
 			<ul class="actions">
-				<li><h2>May 27th, 2022 </h2></li><br>
+				<li><h2>May 12th, 2023 </h2></li><br>
 				<li><h2>UC Davis Alumni Center </h2></li><br>
 				<li><a href="/register.html" class="button next scrolly">Register to Attend</a></li>
 				<li><a href="/attendance.html" class="button next scrolly">Attendance Info</a></li>
