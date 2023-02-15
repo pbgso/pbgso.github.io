@@ -59,7 +59,7 @@ html {
       <img src="assets/images/students/marie_klein.png" alt="Marie Klein" style="width:100%">
       <div class="container">
         <h3 style="color:#202520">Marie Klein</h3>
-        <p class="title">Horticulture and Agronomy</p>
+        <p class="title">Horticulture and Agronomy, PhD Candidate</p>
         <p>Gail Taylor Lab</p>
       </div>
     </div>
@@ -70,41 +70,8 @@ html {
       <img src="assets/images/students/sadikshya_sharma.png" alt="Sadikshya Sharma" style="width:100%%">
       <div class="container">
         <h3 style="color:#202520">Sadikshya Sharma</h3>
-        <p class="title">Horticulture and Agronomy</p>
-        <p>Strawberry Breeding Lab</p>
-      </div>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <img src="assets/images/students/dante_leventini.png" alt="Dante Leventini" style="width:100%">
-      <div class="container">
-        <h3 style="color:#202520">Dante Leventini</h3>
-        <p class="title">Horticulture and Agronomy</p>
-        <p>Patrick H. Brown Lab</p>
-      </div>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <img src="assets/images/students/mary-francis_laporte.png" alt="Mary-Francis LaPorte" style="width:100%%">
-      <div class="container">
-        <h3 style="color:#202520">Mary-Francis LaPorte</h3>
-        <p class="title">Plant Biology</p>
-        <p>Christine Diepenbrock Lab</p>
-      </div>
-    </div>
-  </div>
-  
-  <div class="column">
-    <div class="card">
-      <img src="assets/images/students/katie_simpson-johnson.png" alt="Katie Simpson-Johnson" style="width:100%%">
-      <div class="container">
-        <h3 style="color:#202520">Katie Simpson-Johnson</h3>
-        <p class="title">Soils and Biogeochemistry</p>
-        <p>Amelie Gaudin Lab</p>
+        <p class="title">Horticulture and Agronomy, PhD Candidate</p>
+        <p>Grape Breeding (Luis Diaz Garcia) Lab</p>
       </div>
     </div>
   </div>
@@ -114,19 +81,41 @@ html {
       <img src="assets/images/students/matthew_davis.png" alt="Matthew Davis" style="width:100%%">
       <div class="container">
         <h3 style="color:#202520">Matthew Davis</h3>
-        <p class="title">Plant Biology</p>
-        <p>Rotating</p>
+        <p class="title">Plant Biology, PhD Student</p>
+        <p>Grey Monroe & Pat J Brown Labs</p>
       </div>
     </div>
   </div>
 
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/kyle_rizzo.png" alt="Kyle Rizzo" style="width:100%%">
+      <img src="assets/images/students/Alice_Pierce.png" alt="Alice Pierce" style="width:100%%">
       <div class="container">
-        <h3 style="color:#202520">Kyle Rizzo</h3>
-        <p class="title">Horticulture and Agronomy</p>
-        <p>Brian Bailey Lab</p>
+        <h3 style="color:#202520">Alice Pierce</h3>
+        <p class="title">Plant Biology, PhD Student</p>
+        <p>Grey Monroe Lab</p>
+      </div>
+    </div>
+  </div>
+  
+   <div class="column">
+    <div class="card">
+      <img src="assets/images/students/colleen.jpg" alt="Colleen Mills" style="width:100%%">
+      <div class="container">
+        <h3 style="color:#202520">Colleen Mills</h3>
+        <p class="title">Ecology, PhD Student</p>
+        <p>Tom Buckley Lab</p>
+      </div>
+    </div>
+  </div>
+  
+   <div class="column">
+    <div class="card">
+      <img src="assets/images/students/jadran.jpg" alt="Jadran Garcia" style="width:100%%">
+      <div class="container">
+        <h3 style="color:#202520">Jadran Garcia</h3>
+        <p class="title">PhD Candidate</p>
+        <p>Dario Cantu Lab</p>
       </div>
     </div>
   </div>
