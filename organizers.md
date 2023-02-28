@@ -123,7 +123,7 @@ html {
   <div class="row">
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/isabel.png" alt="Isabel Ortega-Salazar" style="width:100%">
+      <img src="assets/images/students/isabel.jpg" alt="Isabel Ortega-Salazar" style="width:100%">
       <div class="container">
         <h3 style="color:#202520">Isabel Ortega-Salazar</h3>
         <p class="title">Horticulture and Agronomy, PhD Candidate</p>
@@ -135,7 +135,7 @@ html {
  <div class="row">
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/jack.png" alt="Jack Bailey-Bale" style="width:100%">
+      <img src="assets/images/students/jack.jpg" alt="Jack Bailey-Bale" style="width:100%">
       <div class="container">
         <h3 style="color:#202520">Jack Bailey-Bale</h3>
         <p class="title">Assistant Specialist</p>
