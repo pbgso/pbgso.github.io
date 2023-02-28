@@ -10,7 +10,7 @@ nav-menu: yes
 ---
 
 <head>
-	<title>UCDPSS22</title>
+	<title>UCDPSS23</title>
 </head>
 
 <!-- Banner -->
