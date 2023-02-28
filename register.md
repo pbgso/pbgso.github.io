@@ -8,7 +8,7 @@ weight: 3
 <h1 style="color:#202520">Register to Attend</h1>
 
 <h5 style="color:#202520">
-We will holding this event at the <a href =  "https://goo.gl/maps/rKTvjyYBxNgJrKF18" target="_blank" rel="noopener noreferrer" style = "text-decoration: underline"> UC Davis Alumni Center </a> on May 27th, 2022.
+We will holding this event at the <a href =  "https://goo.gl/maps/rKTvjyYBxNgJrKF18" target="_blank" rel="noopener noreferrer" style = "text-decoration: underline"> UC Davis Alumni Center </a> on May 12th, 2023.
 <br><br>
 It is free to attend, and we welcome all guests to come and join us for a day of research presentations.
 <br>
