@@ -67,7 +67,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/sadikshya_sharma.png" alt="Sadikshya Sharma" style="width:100%%">
+      <img src="assets/images/students/sadikshya_sharma.png" alt="Sadikshya Sharma" style="width:100%">
       <div class="container">
         <h3 style="color:#202520">Sadikshya Sharma</h3>
         <p class="title">Horticulture and Agronomy, PhD Candidate</p>
@@ -78,7 +78,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/matthew_davis.png" alt="Matthew Davis" style="width:100%%">
+      <img src="assets/images/students/matthew_davis.png" alt="Matthew Davis" style="width:100%">
       <div class="container">
         <h3 style="color:#202520">Matthew Davis</h3>
         <p class="title">Plant Biology, PhD Student</p>
@@ -89,7 +89,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/Alice_Pierce.png" alt="Alice Pierce" style="width:100%%">
+      <img src="assets/images/students/Alice_Pierce.png" alt="Alice Pierce" style="width:100%">
       <div class="container">
         <h3 style="color:#202520">Alice Pierce</h3>
         <p class="title">Plant Biology, PhD Student</p>
@@ -100,7 +100,7 @@ html {
   
    <div class="column">
     <div class="card">
-      <img src="assets/images/students/colleen.jpg" alt="Colleen Mills" style="width:100%%">
+      <img src="assets/images/students/colleen.jpg" alt="Colleen Mills" style="width:100%">
       <div class="container">
         <h3 style="color:#202520">Colleen Mills</h3>
         <p class="title">Ecology, PhD Student</p>
@@ -111,7 +111,7 @@ html {
   
    <div class="column">
     <div class="card">
-      <img src="assets/images/students/jadran.jpg" alt="Jadran Garcia" style="width:100%%">
+      <img src="assets/images/students/jadran.jpg" alt="Jadran Garcia" style="width:100%">
       <div class="container">
         <h3 style="color:#202520">Jadran Garcia</h3>
         <p class="title">PhD Candidate</p>
@@ -120,9 +120,33 @@ html {
     </div>
   </div>
   
+  <div class="row">
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/grey_monroe.png" alt="Grey Monroe" style="width:100%%">
+      <img src="assets/images/students/isabel.jpg" alt="Isabel Ortega-Salazar" style="width:100%">
+      <div class="container">
+        <h3 style="color:#202520">Isabel Ortega-Salazar</h3>
+        <p class="title">Horticulture and Agronomy, PhD Candidate</p>
+        <p>Barbara Blanco Lab</p>
+      </div>
+    </div>
+  </div>
+    
+ <div class="row">
+  <div class="column">
+    <div class="card">
+      <img src="assets/images/students/jack.jpg" alt="Jack Bailey-Bale" style="width:100%">
+      <div class="container">
+        <h3 style="color:#202520">Jack Bailey-Bale</h3>
+        <p class="title">Assistant Specialist</p>
+        <p>Gail Taylor Lab</p>
+      </div>
+    </div>
+  </div>
+  
+  <div class="column">
+    <div class="card">
+      <img src="assets/images/students/grey_monroe.png" alt="Grey Monroe" style="width:100%">
       <div class="container">
         <h3 style="color:#202520">Grey Monroe</h3>
         <p class="title">Dept. of Plant Sciences</p>

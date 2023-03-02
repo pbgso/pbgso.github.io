@@ -10,7 +10,7 @@ nav-menu: yes
 ---
 
 <head>
-	<title>UCDPSS22</title>
+	<title>UCDPSS23</title>
 </head>
 
 <!-- Banner -->
@@ -27,6 +27,7 @@ nav-menu: yes
 				<li><a href="/register.html" class="button next scrolly">Register to Attend</a></li>
 				<li><a href="/attendance.html" class="button next scrolly">Attendance Info</a></li>
 				<li><a href="/sponsors.html" class="button next scrolly">Become a Sponsor</a></li>
+				<li><a href="/abstracts.html" class="button next scrolly">Submit an Abstract</a></li>
 			</ul>
 		</div>
 	</div>
