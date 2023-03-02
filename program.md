@@ -5,7 +5,7 @@ weight: 2
 nav-menu: yes
 image: assets/images/backgrounds/pine.jpg
 ---
-
+<!---
 ![Symposium schedule](https://user-images.githubusercontent.com/95317969/168961645-e1f71f54-9560-4e88-a091-cbd2a2110bc6.png)
 
 
@@ -54,4 +54,4 @@ image: assets/images/backgrounds/pine.jpg
 
 
 
-
+-->
