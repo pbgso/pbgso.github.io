@@ -12,7 +12,7 @@ weight: 6
 <center>
 <b style="color:#202520">Our symposium is funded by our generous sponsors listed below.</b>
 </center>
-
+<!---
 <center>
 <p style="color:#202520"> 
  Corteva Agriscience <br>
@@ -25,7 +25,7 @@ weight: 6
  <br>
 </p>
 </center>
-
+-->
 <center>
 <a href="https://forms.gle/LPxkFZaXV7sFcLir7" target="_blank" style = "text-decoration: none"><button style="background:#8eaa8f"> Become a Sponsor </button></a>
 <br>
