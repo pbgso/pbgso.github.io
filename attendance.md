@@ -4,7 +4,7 @@ image: assets/images/backgrounds/bee-banner.jpg
 nav-menu: yes
 weight: 4
 ---
-
+<!---
 <strong style="color:#202520">ZOOM LINK FOR VIRTUAL ATTENDANCE: <a href="https://ucdavis.zoom.us/j/97812668260">CLICK HERE</a></strong>
 <br>
 
@@ -116,5 +116,5 @@ We look forward to seeing you at the virtual networking club.
 Learn more about the event at the following link to a Dept. of Plant Sciences blog post <a href="https://www.plantsciences.ucdavis.edu/news/uc-davis-plant-sciences-symposium-set-may-27">Symposium Blog Post</a>
 </strong>
 <br>
-
+-->
 
