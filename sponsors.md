@@ -27,7 +27,7 @@ weight: 6
 </center>
 -->
 <center>
-<a href="https://forms.gle/LPxkFZaXV7sFcLir7" target="_blank" style = "text-decoration: none"><button style="background:#8eaa8f"> Become a Sponsor </button></a>
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSeqHDFtzhTZ5hc46zL5YFyPB3ftfFHF7ZMFg0BnQ40cPKet5A/viewform" target="_blank" style = "text-decoration: none"><button style="background:#8eaa8f"> Become a Sponsor </button></a>
 <br>
 <br>
 
