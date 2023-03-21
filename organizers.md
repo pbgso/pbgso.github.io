@@ -120,7 +120,6 @@ html {
     </div>
   </div>
   
-  <div class="row">
   <div class="column">
     <div class="card">
       <img src="assets/images/students/Isabel-cropped.jpg" alt="Isabel Ortega-Salazar" width="500" height="500" >
@@ -132,7 +131,6 @@ html {
     </div>
   </div>
     
- <div class="row">
   <div class="column">
     <div class="card">
       <img src="assets/images/students/jack.jpg" alt="Jack Bailey-Bale" width="500" height="500" >
