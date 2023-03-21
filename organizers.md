@@ -56,7 +56,7 @@ html {
 <div class="row">
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/marie_klein.png" alt="Marie Klein" width="300" height="300" />
+      <img src="assets/images/students/marie_klein.png" alt="Marie Klein" width="500" height="500" >
       <div class="container">
         <h3 style="color:#202520">Marie Klein</h3>
         <p class="title">Horticulture and Agronomy, PhD Candidate</p>
@@ -67,7 +67,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/sadikshya_sharma.png" alt="Sadikshya Sharma" width="300" height="300" />
+      <img src="assets/images/students/sadikshya_sharma.png" alt="Sadikshya Sharma" width="500" height="500" >
       <div class="container">
         <h3 style="color:#202520">Sadikshya Sharma</h3>
         <p class="title">Horticulture and Agronomy, PhD Candidate</p>
@@ -78,7 +78,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/matthew_davis.png" alt="Matthew Davis" width="300" height="300" />
+      <img src="assets/images/students/matthew_davis.png" alt="Matthew Davis" width="500" height="500" >
       <div class="container">
         <h3 style="color:#202520">Matthew Davis</h3>
         <p class="title">Plant Biology, PhD Student</p>
@@ -89,7 +89,7 @@ html {
 
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/Alice_Pierce.png" alt="Alice Pierce" width="300" height="300" />
+      <img src="assets/images/students/Alice_Pierce.png" alt="Alice Pierce" width="500" height="500" >
       <div class="container">
         <h3 style="color:#202520">Alice Pierce</h3>
         <p class="title">Plant Biology, PhD Student</p>
@@ -100,7 +100,7 @@ html {
   
    <div class="column">
     <div class="card">
-      <img src="assets/images/students/colleen.jpg" alt="Colleen Mills" width="300" height="300" />
+      <img src="assets/images/students/colleen.jpg" alt="Colleen Mills" width="500" height="500" >
       <div class="container">
         <h3 style="color:#202520">Colleen Mills</h3>
         <p class="title">Ecology, PhD Student</p>
@@ -111,7 +111,7 @@ html {
   
    <div class="column">
     <div class="card">
-      <img src="assets/images/students/jadran.jpg" alt="Jadran Garcia" width="300" height="300" />
+      <img src="assets/images/students/jadran-cropped.jpg" alt="Jadran Garcia" width="500" height="500" >
       <div class="container">
         <h3 style="color:#202520">Jadran Garcia</h3>
         <p class="title">PhD Candidate</p>
@@ -123,7 +123,7 @@ html {
   <div class="row">
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/isabel.jpg" alt="Isabel Ortega-Salazar" width="300" height="300" />
+      <img src="assets/images/students/Isabel-cropped.jpg" alt="Isabel Ortega-Salazar" width="500" height="500" >
       <div class="container">
         <h3 style="color:#202520">Isabel Ortega-Salazar</h3>
         <p class="title">Horticulture and Agronomy, PhD Candidate</p>
@@ -135,7 +135,7 @@ html {
  <div class="row">
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/jack.jpg" alt="Jack Bailey-Bale" width="300" height="300" />
+      <img src="assets/images/students/jack.jpg" alt="Jack Bailey-Bale" width="500" height="500" >
       <div class="container">
         <h3 style="color:#202520">Jack Bailey-Bale</h3>
         <p class="title">Assistant Specialist</p>
@@ -146,7 +146,7 @@ html {
   
   <div class="column">
     <div class="card">
-      <img src="assets/images/students/grey_monroe.png" alt="Grey Monroe" width="300" height="300" />
+      <img src="assets/images/students/grey_monroe.png" alt="Grey Monroe" width="500" height="500" >
       <div class="container">
         <h3 style="color:#202520">Grey Monroe</h3>
         <p class="title">Dept. of Plant Sciences</p>
