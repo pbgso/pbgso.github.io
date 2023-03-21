@@ -5,6 +5,34 @@ image: assets/images/backgrounds/pom.jpg
 nav-menu: yes
 weight: 1
 ---
+<h1 style="color:#202520; margin-left:150px; margin-right: 150px">  External Speakers: </h1>
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Sabeeha Merchant</b>
+<br>
+
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/sabeeha-merchant.jpg" alt="Sabeeha Merchant" width="300" height="300" />
+{: refdef}
+
+<p style="color:#202520; margin-left:150px; margin-right: 150px">Dr. Merchant is a professor in the department of Plant & Microbial Biology at UC Berkeley. </p> 
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Sheng Luan</b>
+<br>
+
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/ShengLuan.png" alt="Sheng Luan" width="300" height="300" />
+{: refdef}
+
+<p style="color:#202520; margin-left:150px; margin-right: 150px">Dr. Luan is a professor in the department of Plant & Microbial Biology at UC Berkeley. </p> 
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Lawren Sack</b>
+<br>
+
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/lawren-sack.jpg" alt="Lawren Sack" width="300" height="300" />
+{: refdef}
+
+<p style="color:#202520; margin-left:150px; margin-right: 150px">Dr. Sack is a professor in the department of Ecology and Evolutionary Biology at UCLA. </p> 
+
 <!---
 <h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Plenary Speakers: </h1>
 
