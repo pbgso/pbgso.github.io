@@ -10,28 +10,39 @@ weight: 1
 <br>
 
 {:refdef: style="margin-left:150px"}
-<img src="assets/images/speakers/sabeeha-merchant.jpg" alt="Sabeeha Merchant" width="300" height="300" />
+<img src="assets/images/speakers/sabeeha-merchant.jpg" alt="Sabeeha Merchant" width="500" height="500" />
 {: refdef}
 
-<p style="color:#202520; margin-left:150px; margin-right: 150px">Dr. Merchant is a professor in the department of Plant & Microbial Biology at UC Berkeley. </p> 
+<p style="color:#202520; margin-left:150px; margin-right: 150px">Professor Sabeeha Merchant is a Distinguished Professor of Biochemistry, Biophysics, and Structural Biology, as well as, Plant Biology. Researching the single-cell alga, Chlamydomonas reinhardtii, she graduated with her PhD from the University of Wisconsin-Madison. 
+Professor Merchant is currently a Professor of Plant and Microbial Biology at the University of California, Berkeley. Her group's research focuses on understanding the dynamics of essential trace-metal metabolism and homeostasis in green alga, Chlamydomonas reinhardtii, using it as a reference system in the context of chloroplast biology and photosynthesis. Their discoveries have been extended throughout the green algal lineage by the utilisation of comparative genomics. 
+As we reduce our dependency on carbon-rich fossil fuels, the search for liquid fuel alternatives has intensified. Using systems biology approaches such as metabolomics, proteomics, and transcriptomics, the Merchant lab has deduced the metabolic pathways and regulatory factors that promote the synthesis of triglycerides in Chlamydomonas. Their research in this area is resulting in the emergence of Chromochloris zofingiensis as a reference organism due to its outstanding capacity accumulating the biodiesel precursors, triacylglycerols. 
+Professor Sabeeha Merchant has been elected into the U.S. National Academy of Sciences, the American Academy of Arts and Sciences, the German Academy of Sciences Leopoldina and most recently recognised as a Pioneer Member of the American Society of Plant Biologists.
+ </p> 
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Sheng Luan</b>
 <br>
 
 {:refdef: style="margin-left:150px"}
-<img src="assets/images/speakers/ShengLuan.png" alt="Sheng Luan" width="300" height="300" />
+<img src="assets/images/speakers/ShengLuan.png" alt="Sheng Luan" width="500" height="500" />
 {: refdef}
 
-<p style="color:#202520; margin-left:150px; margin-right: 150px">Dr. Luan is a professor in the department of Plant & Microbial Biology at UC Berkeley. </p> 
+<p style="color:#202520; margin-left:150px; margin-right: 150px">Professor Sheng Luan is a professor in the department of Plant & Microbial Biology at UC Berkeley. In 2022 Professor Luan was awarded a Chancellor’s Professorship having demonstrated exceptional academic merit. He gained his PhD in Cellular and Developmental Biology from Harvard University and currently holds the position of Chancellor’s Professor and Chair of the Department of Plant and Microbial Biology at the University of California, Berkeley.
+Professor Luan’s laboratory delves into how plants detect and react to environmental signals. Their research effort is focused on studying the calcium signaling mechanisms that encompass the encoding of calcium signatures through calcium channels and their decoding by the CBL-CIPK network. Downstream of these initial signaling processes, plants respond to changes in their environment by modifying biochemical processes, such as those occurring in the plasma membrane, vacuolar membrane, and chloroplasts.
+With the primary goals of Professor Luan’s group focusing on elucidating the molecular mechanisms and biochemical pathways underlying plant response and adaption to its environment, their findings are extremely valuable for understanding the impact of climate change on plants.
+Professor Sheng Luan has received the ASPB Fellow Award from the American Society of Plant Biologists, and has been highlighted by Web of Science, Clarivate as a Highly Cited Researcher for the past 8 years.
+ </p> 
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Lawren Sack</b>
 <br>
 
 {:refdef: style="margin-left:150px"}
-<img src="assets/images/speakers/lawren-sack.jpg" alt="Lawren Sack" width="300" height="300" />
+<img src="assets/images/speakers/lawren-sack.jpg" alt="Lawren Sack" width="500" height="500" />
 {: refdef}
 
-<p style="color:#202520; margin-left:150px; margin-right: 150px">Dr. Sack is a professor in the department of Ecology and Evolutionary Biology at UCLA. </p> 
+<p style="color:#202520; margin-left:150px; margin-right: 150px">Professor Lawren Sack is a professor in the department of Ecology and Evolutionary Biology at UCLA. Professor Sack was named among the most highly cited researchers by UCLA in 2022, placing him among the world’s most influential researchers. Obtaining his PhD titled  “Plant Responses to Deep Shade Plus Drought” from the University of Cambridge, he now leads a lab at the University of California, Los Angeles as a Professor of Plant Ecology in the Department of Ecology and Evolutionary Biology. 
+Lab members in Professor Sack’s group are engaged across a broad spectrum of projects with the common focus of understanding plant function, the evolution of structural and physiological diversity, and the implications for ecosystems under global change. The research undertaken by the group studies the mechanisms for function and co-existence of plant species, examining their responses to resources, ability to withstand environmental stresses, and competition. Furthermore, his laboratory investigates the evolutionary and functional implications of plant trait diversity, examining processes from the molecular and ecosystem level. In particular, focus is applied to leaf and plant hydraulics traits, drought tolerance, trait diversity within lineages, and the impacts of climate change on species and ecosystems as a whole. The insights gleaned from their research are being applied to advance forest and plant species conversation efforts under the challenges of climate change.
+Professor Lawren Sack has already published a number of significant research papers this year, including the following titled “The ecosystem wilting point defines drought response and recovery of a Quercus-Carya forest.” - uncovering the threshold that initiates drought response in forests.
+ </p> 
 
 <!---
 <h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Plenary Speakers: </h1>
