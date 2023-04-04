@@ -12,20 +12,19 @@ weight: 6
 <center>
 <b style="color:#202520">Our symposium is funded by our generous sponsors listed below.</b>
 </center>
-<!---
+
 <center>
 <p style="color:#202520"> 
  Corteva Agriscience <br>
  UC Davis Plant Breeding Center <br>
  UC Davis Department of Plant Sciences<br>
- Enza Zaden<br>
- American Takii<br>
- UC Davis Global Affairs<br>
+ Li-Cor<br>
+ Limagrain<br>
 
  <br>
 </p>
 </center>
--->
+
 <center>
 <a href="https://docs.google.com/forms/d/e/1FAIpQLSeqHDFtzhTZ5hc46zL5YFyPB3ftfFHF7ZMFg0BnQ40cPKet5A/viewform" target="_blank" style = "text-decoration: none"><button style="background:#8eaa8f"> Become a Sponsor </button></a>
 <br>
