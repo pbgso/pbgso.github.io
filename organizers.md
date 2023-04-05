@@ -142,6 +142,17 @@ html {
     </div>
   </div>
   
+   <div class="column">
+    <div class="card">
+      <img src="assets/images/students/Deniz.JPG" alt="Deniz Inci" width="500" height="500" >
+      <div class="container">
+        <h3 style="color:#202520">Deniz Inci</h3>
+        <p class="title">Horticulture and Agronomy, PhD Candidate</p>
+        <p>Kassim Al-Khatib Lab</p>
+      </div>
+    </div>
+  </div>
+  
   <div class="column">
     <div class="card">
       <img src="assets/images/students/grey_monroe.png" alt="Grey Monroe" width="500" height="500" >
