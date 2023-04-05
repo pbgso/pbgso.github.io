@@ -4,7 +4,7 @@ title: Home
 landing-title: "2023 UC Davis Plant Sciences Symposium"
 description:
 weight: 0
-image: assets/images/backgrounds/olive-unsplash.jpg
+image: assets/images/backgrounds/climatecrisis6.jpeg
 author:
 nav-menu: yes
 ---
@@ -41,7 +41,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/carob.jpg" alt="bright red emerging carob blossoms" />
+<img src="assets/images/backgrounds/leaf.jpg" alt="bright red emerging carob blossoms" />
 </span>
 <header class="major">
 <h3><a href="/register.html" class="link">Register to Attend</a></h3>
@@ -53,7 +53,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/bee.jpg" alt="lovely bee pollinating almond blossom" />
+<img src="assets/images/backgrounds/climatecrisis1.jpeg" alt="lovely bee pollinating almond blossom" />
 </span>
 <header class="major">
 <h3><a href="/attendance.html" class="link">Attendance Info</a></h3>
@@ -65,7 +65,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/leaf.jpg" alt="leaf veins up close and personal" />
+<img src="assets/images/backgrounds/climatecrisis2.jpeg" alt="leaf veins up close and personal" />
 </span>
 <header class="major">
 <h3><a href="/sponsors.html" class="link">Sponsors & Opportunities</a></h3>
@@ -76,7 +76,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/pom.jpg" alt="heavily hanging pomegranate fruit" />
+<img src="assets/images/backgrounds/climatecrisis3.jpeg" alt="heavily hanging pomegranate fruit" />
 </span>
 <header class="major">
 <h3><a href="/speakers.html" class="link">Speakers</a></h3>
@@ -86,7 +86,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/pine.jpg" alt="wintery pine cones on a pine tree" />
+<img src="assets/images/backgrounds/climatecrisis4.jpeg" alt="wintery pine cones on a pine tree" />
 </span>
 <header class="major">
 <h3><a href="/program.html" class="link">Schedule</a></h3>
@@ -96,7 +96,7 @@ nav-menu: yes
 
 <article>
 <span class="image">
-<img src="assets/images/backgrounds/bud.jpg" alt="maroon-veined emerging peach branch" />
+<img src="assets/images/backgrounds/climatecrisis5.jpeg" alt="maroon-veined emerging peach branch" />
 </span>
 <header class="major">
 <h3><a href="/organizers.html" class="link">Organizers</a></h3>
