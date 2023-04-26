@@ -5,13 +5,15 @@ image: assets/images/backgrounds/pom.jpg
 nav-menu: yes
 weight: 1
 ---
-<h1 style="color:#202520; margin-left:150px; margin-right: 150px">  External Speakers: </h1>
+<h1 style="color:#202520; margin-left:150px; margin-right: 150px">Speakers: </h1>
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Sabeeha Merchant</b>
 <br>
 
 {:refdef: style="margin-left:150px"}
 <img src="assets/images/speakers/sabeeha-merchant.jpg" alt="Sabeeha Merchant" width="500" height="500" />
 {: refdef}
+
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> Not too bright, not too dark, just right: adjusting to light</p>
 
 <p style="color:#202520; margin-left:150px; margin-right: 150px">Professor Sabeeha Merchant is a Distinguished Professor of Biochemistry, Biophysics, and Structural Biology, as well as, Plant Biology. Researching the single-cell alga, Chlamydomonas reinhardtii, she graduated with her PhD from the University of Wisconsin-Madison. 
 Professor Merchant is currently a Professor of Plant and Microbial Biology at the University of California, Berkeley. Her group's research focuses on understanding the dynamics of essential trace-metal metabolism and homeostasis in green alga, Chlamydomonas reinhardtii, using it as a reference system in the context of chloroplast biology and photosynthesis. Their discoveries have been extended throughout the green algal lineage by the utilisation of comparative genomics. 
@@ -26,6 +28,8 @@ Professor Sabeeha Merchant has been elected into the U.S. National Academy of Sc
 <img src="assets/images/speakers/ShengLuan.png" alt="Sheng Luan" width="500" height="500" />
 {: refdef}
 
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> Calcium signaling and nutrient use efficiency in plants</p>
+
 <p style="color:#202520; margin-left:150px; margin-right: 150px">Professor Sheng Luan is a professor in the department of Plant & Microbial Biology at UC Berkeley. In 2022 Professor Luan was awarded a Chancellor’s Professorship having demonstrated exceptional academic merit. He gained his PhD in Cellular and Developmental Biology from Harvard University and currently holds the position of Chancellor’s Professor and Chair of the Department of Plant and Microbial Biology at the University of California, Berkeley.
 Professor Luan’s laboratory delves into how plants detect and react to environmental signals. Their research effort is focused on studying the calcium signaling mechanisms that encompass the encoding of calcium signatures through calcium channels and their decoding by the CBL-CIPK network. Downstream of these initial signaling processes, plants respond to changes in their environment by modifying biochemical processes, such as those occurring in the plasma membrane, vacuolar membrane, and chloroplasts.
 With the primary goals of Professor Luan’s group focusing on elucidating the molecular mechanisms and biochemical pathways underlying plant response and adaption to its environment, their findings are extremely valuable for understanding the impact of climate change on plants.
@@ -39,10 +43,43 @@ Professor Sheng Luan has received the ASPB Fellow Award from the American Societ
 <img src="assets/images/speakers/lawren-sack.jpg" alt="Lawren Sack" width="500" height="500" />
 {: refdef}
 
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b>Plant drought sensitivity, from cells to ecosystems to continent</p>
+
 <p style="color:#202520; margin-left:150px; margin-right: 150px">Professor Lawren Sack is a professor in the department of Ecology and Evolutionary Biology at UCLA. Professor Sack was named among the most highly cited researchers by UCLA in 2022, placing him among the world’s most influential researchers. Obtaining his PhD titled  “Plant Responses to Deep Shade Plus Drought” from the University of Cambridge, he now leads a lab at the University of California, Los Angeles as a Professor of Plant Ecology in the Department of Ecology and Evolutionary Biology. 
 Lab members in Professor Sack’s group are engaged across a broad spectrum of projects with the common focus of understanding plant function, the evolution of structural and physiological diversity, and the implications for ecosystems under global change. The research undertaken by the group studies the mechanisms for function and co-existence of plant species, examining their responses to resources, ability to withstand environmental stresses, and competition. Furthermore, his laboratory investigates the evolutionary and functional implications of plant trait diversity, examining processes from the molecular and ecosystem level. In particular, focus is applied to leaf and plant hydraulics traits, drought tolerance, trait diversity within lineages, and the impacts of climate change on species and ecosystems as a whole. The insights gleaned from their research are being applied to advance forest and plant species conversation efforts under the challenges of climate change.
 Professor Lawren Sack has already published a number of significant research papers this year, including the following titled “The ecosystem wilting point defines drought response and recovery of a Quercus-Carya forest.” - uncovering the threshold that initiates drought response in forests.
  </p> 
+ 
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Sara Lira</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> Partnerships for climate smart agriculture</p>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Andrew Latimer</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> How strong and persistent are negative wildfire feedbacks?</p>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Siobhan Brady</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> Cell Type Differentiation in a Changing Environment</p>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Forrest Li</b>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Lidor Shaar-Moshe</b>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Giulia Marino</b>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Derek Young</b>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Tom Buckley</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> A paean for beans: tooty fruit or climate savior?</p>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Louise Ferguson</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> Salinity Irrigation Management for California Pistachio</p>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Jeff Ross-Ibarra</b>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Troy Magney</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> TSWIFT: Tower Spectrometer on Wheels for Investigating Frequent Timeseries of plant physiology</p>
+
+<b style="color:#202520; margin-left:150px; margin-right: 150px">Gail Taylor</b>
+ 
 
 <!---
 <h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Plenary Speakers: </h1>
@@ -86,6 +123,6 @@ Professor Lawren Sack has already published a number of significant research pap
 
 
 <p style="color:#202520; margin-left:150px; margin-right: 150px">As a senior imaging data analyst at Corteva Agriscience since June 2020, Kyle collaborates with field scientists, project leaders, and data scientists to create and evaluate imaging phenotyping assays for crop protection evaluations. The main challenges in his position comes with scale: throughput, cost, and people. He leverages tools such as the NVIDIA ecosystem, Boston Dynamics Spot robot in Woodland, and cameras at different spatial scales. Kyle is a proud Aggie, graduating with his B.S. (2018) and M.S. (2020) in Biological Systems Engineering here at UC Davis. He worked in the Digital Agriculture Lab with Dr. Alireza Pourreza evaluating drought stress in turfgrass and predicting almond yield using sUAS platforms. <a href =  "https://kylehcheung.com/" target="_blank" rel="noopener noreferrer" style = "text-decoration: none">[Read more]</a></p> 
--->
-<p style="color: #D3D3D3; margin-left:150px; margin-right: 150px"> This page is under construction. Check back later for updates. </p>
 
+<p style="color: #D3D3D3; margin-left:150px; margin-right: 150px"> This page is under construction. Check back later for updates. </p>
+--->
