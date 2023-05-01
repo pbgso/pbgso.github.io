@@ -8,12 +8,10 @@ weight: 1
 <h1 style="color:#202520; margin-left:150px; margin-right: 150px">Speakers: </h1>
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Sabeeha Merchant</b>
 <br>
-
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Not too bright, not too dark, just right: adjusting to light</p>
 {:refdef: style="margin-left:150px"}
 <img src="assets/images/speakers/sabeeha-merchant.jpg" alt="Sabeeha Merchant" width="500" height="500" />
 {: refdef}
-
-<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> Not too bright, not too dark, just right: adjusting to light</p>
 
 <p style="color:#202520; margin-left:150px; margin-right: 150px">Professor Sabeeha Merchant is a Distinguished Professor of Biochemistry, Biophysics, and Structural Biology, as well as, Plant Biology. Researching the single-cell alga, Chlamydomonas reinhardtii, she graduated with her PhD from the University of Wisconsin-Madison. 
 Professor Merchant is currently a Professor of Plant and Microbial Biology at the University of California, Berkeley. Her group's research focuses on understanding the dynamics of essential trace-metal metabolism and homeostasis in green alga, Chlamydomonas reinhardtii, using it as a reference system in the context of chloroplast biology and photosynthesis. Their discoveries have been extended throughout the green algal lineage by the utilisation of comparative genomics. 
@@ -24,11 +22,12 @@ Professor Sabeeha Merchant has been elected into the U.S. National Academy of Sc
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Sheng Luan</b>
 <br>
 
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Calcium signaling and nutrient use efficiency in plants</p>
+
 {:refdef: style="margin-left:150px"}
 <img src="assets/images/speakers/ShengLuan.png" alt="Sheng Luan" width="500" height="500" />
 {: refdef}
 
-<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> Calcium signaling and nutrient use efficiency in plants</p>
 
 <p style="color:#202520; margin-left:150px; margin-right: 150px">Professor Sheng Luan is a professor in the department of Plant & Microbial Biology at UC Berkeley. In 2022 Professor Luan was awarded a Chancellor’s Professorship having demonstrated exceptional academic merit. He gained his PhD in Cellular and Developmental Biology from Harvard University and currently holds the position of Chancellor’s Professor and Chair of the Department of Plant and Microbial Biology at the University of California, Berkeley.
 Professor Luan’s laboratory delves into how plants detect and react to environmental signals. Their research effort is focused on studying the calcium signaling mechanisms that encompass the encoding of calcium signatures through calcium channels and their decoding by the CBL-CIPK network. Downstream of these initial signaling processes, plants respond to changes in their environment by modifying biochemical processes, such as those occurring in the plasma membrane, vacuolar membrane, and chloroplasts.
@@ -39,11 +38,12 @@ Professor Sheng Luan has received the ASPB Fellow Award from the American Societ
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Lawren Sack</b>
 <br>
 
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b>Plant drought sensitivity, from cells to ecosystems to continent</p>
+
 {:refdef: style="margin-left:150px"}
 <img src="assets/images/speakers/lawren-sack.jpg" alt="Lawren Sack" width="500" height="500" />
 {: refdef}
 
-<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b>Plant drought sensitivity, from cells to ecosystems to continent</p>
 
 <p style="color:#202520; margin-left:150px; margin-right: 150px">Professor Lawren Sack is a professor in the department of Ecology and Evolutionary Biology at UCLA. Professor Sack was named among the most highly cited researchers by UCLA in 2022, placing him among the world’s most influential researchers. Obtaining his PhD titled  “Plant Responses to Deep Shade Plus Drought” from the University of Cambridge, he now leads a lab at the University of California, Los Angeles as a Professor of Plant Ecology in the Department of Ecology and Evolutionary Biology. 
 Lab members in Professor Sack’s group are engaged across a broad spectrum of projects with the common focus of understanding plant function, the evolution of structural and physiological diversity, and the implications for ecosystems under global change. The research undertaken by the group studies the mechanisms for function and co-existence of plant species, examining their responses to resources, ability to withstand environmental stresses, and competition. Furthermore, his laboratory investigates the evolutionary and functional implications of plant trait diversity, examining processes from the molecular and ecosystem level. In particular, focus is applied to leaf and plant hydraulics traits, drought tolerance, trait diversity within lineages, and the impacts of climate change on species and ecosystems as a whole. The insights gleaned from their research are being applied to advance forest and plant species conversation efforts under the challenges of climate change.
@@ -51,32 +51,58 @@ Professor Lawren Sack has already published a number of significant research pap
  </p> 
  
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Sara Lira</b>
-<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> Partnerships for climate smart agriculture</p>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Partnerships for climate smart agriculture</p>
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Andrew Latimer</b>
-<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> How strong and persistent are negative wildfire feedbacks?</p>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> How strong and persistent are negative wildfire feedbacks?</p>
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/latimer.jpeg" alt="Andrew Latimer" width="500" height="500" />
+{: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Siobhan Brady</b>
-<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> Cell Type Differentiation in a Changing Environment</p>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Cell Type Differentiation in a Changing Environment</p>
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/Brady_headshot.jpg" alt="Siobhan Brady" width="500" height="500" />
+{: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Forrest Li</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> The contribution of environmentally associated alleles to local adaptation in maize</p>
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/forrest.JPG" alt="Forrest Li" width="500" height="500" />
+{: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Lidor Shaar-Moshe</b>
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/lidor_headshot.jpeg" alt="Lidor Shaar-Moshe" width="500" height="500" />
+{: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Giulia Marino</b>
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Derek Young</b>
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/derek_headshot.jpg" alt="Derek Young" width="500" height="500" />
+{: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Tom Buckley</b>
-<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> A paean for beans: tooty fruit or climate savior?</p>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> A paean for beans: tooty fruit or climate savior?</p>
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/tom4.jpg" alt="Tom Buckley" width="500" height="500" />
+{: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Louise Ferguson</b>
-<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> Salinity Irrigation Management for California Pistachio</p>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Salinity Irrigation Management for California Pistachio</p>
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/Ferguson_L_082620_IMG_5737_R_45.jpg" alt="Louise Ferguson" width="500" height="500" />
+{: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Jeff Ross-Ibarra</b>
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Troy Magney</b>
-<p style="color:#202520; margin-left:150px; margin-right: 150px"><b>Presentation Title:</b> TSWIFT: Tower Spectrometer on Wheels for Investigating Frequent Timeseries of plant physiology</p>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> TSWIFT: Tower Spectrometer on Wheels for Investigating Frequent Timeseries of plant physiology</p>
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/troy.png" alt="Troy Magney" width="500" height="500" />
+{: refdef}
+
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Gail Taylor</b>
  
