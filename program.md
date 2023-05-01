@@ -5,10 +5,10 @@ weight: 2
 nav-menu: yes
 image: assets/images/backgrounds/pine.jpg
 ---
+<img src="2022/symposium_schedule_2023_final2.png" alt="Schedule" width="800" >
+![Symposium schedule](https://github.com/pbgso/pbgso.github.io/blob/master/2022/symposium_schedule_2023_final2.pdf)
+
 <!---
-![Symposium schedule](https://user-images.githubusercontent.com/95317969/168961645-e1f71f54-9560-4e88-a091-cbd2a2110bc6.png)
-
-
 [Symposium schedule4.pdf](https://github.com/pbgso/pbgso.github.io/files/8713394/Symposium.schedule4.pdf)
 
 
