@@ -19,31 +19,17 @@ The schedule for the event can be found at the following link: <a href="http://p
 
 <br>
 <strong style="color:#202520">
-We are thrilled to see you on May 12 at the UC Davis Alumni center! 
+We are very excited to welcome you this Friday to the 12th annual UC Davis Plant Sciences Symposium: "Plants in the climate crisis". The symposium will be hosted on May 12th 2023, 8:30 am – 7 pm, at the <a href="https://alumni.ucdavis.edu/about/alumni-center">Walter A. Buehler Alumni Center</a> (530 Alumni Ln, Davis, CA 95616).
+The doors will open at 8 am, and the event will conclude at 7 pm.
+Upon arrival, please proceed to the lobby to check in and receive your name badge.
 </strong>
 <br>
 
 <br>
-<strong style="color:#202520">
-Doors open at 8 am and the event ends at 7 pm
-</strong>
-<br>
-
-<br>
-<strong style="color:#202520">
-Please enter the lobby to sign in, and receive your name badge. 
-</strong>
-<br>
-
-<br>
-<strong style="color:#202520">
-The main conference room hosting the day’s scheduled talks will seat 180 people, and we will have additional space to watch the talks outside, as well as, in a designated quiet room. The outdoor space will host the poster session, so if you are presenting, please mount your poster out there upon arrival.
-</strong>
-<br>
-
-<br>
-<strong style="color:#202520">
-Lunch and dinner will be served on-site, as well as, the option to drink alcohol in the evening. For this reason, we will check proof of age when you check-in.
+<strong style="color:#202520">  
+The main conference room can seat up to 200 people, and we will have additional viewing areas outside and in a designated quiet room.
+If you are presenting, please mount your poster in the outdoor space allocated for the poster session.
+Lunch and light refreshments will be served on-site, and alcoholic beverages will be available during the evening portion of the event. Please be prepared to show proof of age when checking in if you would like to consume an alcoholic beverage. We can't wait to see you there!
 </strong>
 <br>
 
@@ -52,13 +38,13 @@ Lunch and dinner will be served on-site, as well as, the option to drink alcohol
 We greatly look forward to seeing you for an insightful day of talks and discussion.
 </strong>
 <br>
-<!---
+
 <br>
 <strong style="color:#202520">
 The schedule for the event can be found at the following link: <a href="http://plantsciencesymposium.ucdavis.edu/program.html">Schedule</a> 
 </strong>
 <br>
---->
+
 
 <h1 style="color:#202520">Virtual Attendance Information</h1>
 <strong style="color:#202520">
@@ -73,13 +59,13 @@ The zoom link for the event will be posted soon.
 </strong>
 <br>
 
-<!---
+
 <br>
 <strong style="color:#202520">
 The schedule for the event can be found at the following link: <a href="http://plantsciencesymposium.ucdavis.edu/program.html">Schedule</a> 
 </strong>
 <br>
---->
+
   
 <br>
 <strong style="color:#202520">
