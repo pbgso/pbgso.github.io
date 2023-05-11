@@ -52,6 +52,9 @@ Professor Lawren Sack has already published a number of significant research pap
  
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Sara Lira</b>
 <p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Partnerships for climate smart agriculture</p>
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/sara-lira.jpeg" alt="Sara Lira" width="500" height="500" />
+{: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Andrew Latimer</b>
 <p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> How strong and persistent are negative wildfire feedbacks?</p>
@@ -72,6 +75,7 @@ Professor Lawren Sack has already published a number of significant research pap
 {: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Lidor Shaar-Moshe</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Unraveling the cellular basis of salt tolerance in tomato</p>
 {:refdef: style="margin-left:150px"}
 <img src="assets/images/speakers/lidor_headshot.jpeg" alt="Lidor Shaar-Moshe" width="500" height="500" />
 {: refdef}
@@ -79,6 +83,7 @@ Professor Lawren Sack has already published a number of significant research pap
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Giulia Marino</b>
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Derek Young</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Improving predictions of post-fire forest regeneration by mapping individual surviving trees</p>
 {:refdef: style="margin-left:150px"}
 <img src="assets/images/speakers/derek_headshot.jpg" alt="Derek Young" width="500" height="500" />
 {: refdef}
@@ -96,6 +101,9 @@ Professor Lawren Sack has already published a number of significant research pap
 {: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Jeff Ross-Ibarra</b>
+{:refdef: style="margin-left:150px"}
+<img src="assets/images/speakers/jeff.png" alt="Jeff Ross-Ibarra" width="500" height="500" />
+{: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Troy Magney</b>
 <p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> TSWIFT: Tower Spectrometer on Wheels for Investigating Frequent Timeseries of plant physiology</p>
