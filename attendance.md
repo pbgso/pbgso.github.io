@@ -61,7 +61,7 @@ We are very excited you will be attending virtually!
 
 <br>
 <strong style="color:#202520">
-  Link to the virtual <a href="https://ucdavis.zoom.us/j/99013239262">poster presetations</a> 
+  Link to the virtual <a href="https://ucdavis.app.box.com/s/na7zgbfbmcaksnajt3j44wmxse705vq8">poster presetations</a> 
 </strong>
 <br>
 
