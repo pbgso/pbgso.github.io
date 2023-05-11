@@ -81,6 +81,7 @@ Professor Lawren Sack has already published a number of significant research pap
 {: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Giulia Marino</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Investigating tree physiology and its application to improve fruit orchard systems management in a changing global scenario</p>
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Derek Young</b>
 <p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Improving predictions of post-fire forest regeneration by mapping individual surviving trees</p>
@@ -101,6 +102,7 @@ Professor Lawren Sack has already published a number of significant research pap
 {: refdef}
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Jeff Ross-Ibarra</b>
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Ancient Admixture and the Rewilding of Maize</p>
 {:refdef: style="margin-left:150px"}
 <img src="assets/images/speakers/jeff.png" alt="Jeff Ross-Ibarra" width="500" height="500" />
 {: refdef}
@@ -113,7 +115,7 @@ Professor Lawren Sack has already published a number of significant research pap
 
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Gail Taylor</b>
- 
+<p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Plants in a carbon crisis?</p>
 
 <!---
 <h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Plenary Speakers: </h1>
