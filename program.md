@@ -5,8 +5,8 @@ weight: 2
 nav-menu: yes
 image: assets/images/backgrounds/pine.jpg
 ---
-<img src="assets/images/PSS_schdeule_updated_talk_titles.pdf" alt="Schedule" width="800" >
-![Symposium schedule](https://github.com/pbgso/pbgso.github.io/blob/master/assets/images/PSS_schdeule_updated_talk_titles.pdf)
+<img src="assets/images/PSS_schdeule_updated_talk_titles%20copy.png" alt="Schedule" width="800" >
+![Symposium schedule](https://github.com/pbgso/pbgso.github.io/blob/master/assets/images/PSS_schdeule_updated_talk_titles%20copy.png)
 
 <!---
 [Symposium schedule4.pdf](https://github.com/pbgso/pbgso.github.io/files/8713394/Symposium.schedule4.pdf)
