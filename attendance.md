@@ -55,7 +55,13 @@ We are very excited you will be attending virtually!
 
 <br>
 <strong style="color:#202520">
-The zoom link for the event will be posted soon. 
+  Link to the <a href="https://ucdavis.zoom.us/j/99013239262">zoom webinar</a> 
+</strong>
+<br>
+
+<br>
+<strong style="color:#202520">
+  Link to the virtual <a href="https://ucdavis.zoom.us/j/99013239262">poster presetations</a> 
 </strong>
 <br>
 
