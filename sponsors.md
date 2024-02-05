@@ -16,6 +16,8 @@ weight: 6
 <center>
 <p style="color:#202520"> 
  Corteva Agriscience <br>
+
+<!--
  UC Davis Plant Breeding Center <br>
  UC Davis Department of Plant Sciences<br>
  Li-Cor<br>
@@ -23,7 +25,7 @@ weight: 6
  Mars Wrigley<br>
  E&J Gallo<br>
  Sakata<br>
-
+-->
  <br>
 </p>
 </center>
