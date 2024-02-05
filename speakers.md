@@ -6,6 +6,8 @@ nav-menu: yes
 weight: 1
 ---
 <h1 style="color:#202520; margin-left:150px; margin-right: 150px">Speakers: </h1>
+
+<!---
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Sabeeha Merchant</b>
 <br>
 <p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Not too bright, not too dark, just right: adjusting to light</p>
@@ -116,7 +118,7 @@ Professor Lawren Sack has already published a number of significant research pap
 
 <b style="color:#202520; margin-left:150px; margin-right: 150px">Gail Taylor</b>
 <p style="color:#202520; margin-left:150px; margin-right: 150px"><b style="color:#202520">Presentation Title:</b> Plants in a carbon crisis?</p>
-
+--->
 <!---
 <h1 style="color:#202520; margin-left:150px; margin-right: 150px">  Plenary Speakers: </h1>
 
